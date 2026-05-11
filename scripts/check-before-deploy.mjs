@@ -96,7 +96,7 @@ const seo = fs.existsSync(seoPath)
   ? fs.readFileSync(seoPath, 'utf-8')
   : '';
 
-if (seo.includes('https://example.com')) {
+if (seo.includes('https://remote-ai-jobs.pages.dev')) {
   console.warn('Warning: frontend/src/lib/seo.ts still contains example.com');
 }
 
@@ -105,7 +105,7 @@ const utils = fs.existsSync(utilsPath)
   ? fs.readFileSync(utilsPath, 'utf-8')
   : '';
 
-if (utils.includes('https://example.com')) {
+if (utils.includes('https://remote-ai-jobs.pages.dev')) {
   console.warn('Warning: pipeline-python/utils.py still contains example.com');
 }
 

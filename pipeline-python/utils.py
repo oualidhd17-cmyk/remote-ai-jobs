@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parents[1]
 RAW_JOBS_PATH = ROOT / "scraper-go" / "output" / "raw_jobs.json"
 OUTPUT_DIR = ROOT / "pipeline-python" / "output"
 
-SITE_URL = "https://example.com"
+SITE_URL = "https://remote-ai-jobs.pages.dev"
 
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 SPACE_RE = re.compile(r"\s+")

@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 
 const siteName = 'Remote AI Hires';
-const siteUrl = 'https://example.com';
+const siteUrl = 'https://remote-ai-jobs.pages.dev';
 
 type SeoInput = {
   title: string;

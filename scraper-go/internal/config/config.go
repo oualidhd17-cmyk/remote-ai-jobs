@@ -15,7 +15,7 @@ type Config struct {
 func DefaultConfig() Config {
 	return Config{
 		RequestTimeout: 30 * time.Second,
-		UserAgent:      "RemoteAIJobsBot/1.0 (+https://example.com)",
+		UserAgent:      "RemoteAIJobsBot/1.0 (+https://remote-ai-jobs.pages.dev)",
 		OutputPath:     "output/raw_jobs.json",
 		MaxJobsPerFeed: 80,
 
