@@ -16,7 +16,7 @@ type RootLayoutProps = {
   children: React.ReactNode;
 };
 
-const GA_MEASUREMENT_ID = 'G-ZV6KGP652M';
+const GA_MEASUREMENT_ID = 'G-LE59SCEGVJ';
 
 export default function RootLayout({ children }: RootLayoutProps) {
   return (
