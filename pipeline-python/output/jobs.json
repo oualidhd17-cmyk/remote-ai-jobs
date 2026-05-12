@@ -1,5 +1,59 @@
 [
   {
+    "id": "amazon-gtm-partnership-startups-anthropic-worldwide-greenhouse-anthropic-5215052008",
+    "slug": "amazon-gtm-partnership-startups-anthropic-worldwide-greenhouse-anthropic-5215052008",
+    "title": "Amazon GTM Partnership, Startups",
+    "seo_title": "Remote Amazon GTM Partnership, Startups Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Amazon GTM Partnership, Startups job at anthropic in Worldwide. Explore RAG, AWS, Sales, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5215052008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5215052008",
+    "published_at": "2026-05-11",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Amazon GTM Partnership, Startups",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-11",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215052008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "account-executive-southeast-apollo-information-systems-worldwide-remoteok-1131533",
     "slug": "account-executive-southeast-apollo-information-systems-worldwide-remoteok-1131533",
     "title": "Account Executive Southeast",
@@ -2445,11 +2499,11 @@
     "ai_relevant": true
   },
   {
-    "id": "growth-marketing-manager-contract-freshly-commerce-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-freshly-commerce-growth-marketing-manager-contr",
-    "slug": "growth-marketing-manager-contract-freshly-commerce-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-freshly-commerce-growth-marketing-manager-contr",
-    "title": "Growth Marketing Manager - Contract",
-    "seo_title": "Remote Growth Marketing Manager - Contract Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Growth Marketing Manager - Contract job at Freshly Commerce in Worldwide. Explore LLM, RAG, Sales and Marketing, Remote and remote AI...",
+    "id": "growth-marketing-manager-freshly-commerce-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-freshly-commerce-growth-marketing-manager",
+    "slug": "growth-marketing-manager-freshly-commerce-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-freshly-commerce-growth-marketing-manager",
+    "title": "Growth Marketing Manager",
+    "seo_title": "Remote Growth Marketing Manager Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Growth Marketing Manager job at Freshly Commerce in Worldwide. Explore LLM, RAG, Sales and Marketing, Remote and remote AI jobs.",
     "company": {
       "name": "Freshly Commerce",
       "slug": "freshly-commerce",
@@ -2475,9 +2529,9 @@
     ],
     "category": "Data Science",
     "description_summary": "Headquarters: Waterloo, Canada URL: https://www.simplebundles.com/careers/ At Freshly Commerce we’re on a mission to become the logistics brain for commerce. Today our 3 Shopify apps simplify inventory, product bundling, and order fulfillment for brands like...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/freshly-commerce-growth-marketing-manager-contract",
+    "apply_url": "https://weworkremotely.com/remote-jobs/freshly-commerce-growth-marketing-manager",
     "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/freshly-commerce-growth-marketing-manager-contract",
+    "source_url": "https://weworkremotely.com/remote-jobs/freshly-commerce-growth-marketing-manager",
     "published_at": "2026-05-06",
     "expires_at": null,
     "quality_score": 85,
@@ -2485,7 +2539,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Growth Marketing Manager - Contract",
+      "title": "Growth Marketing Manager",
       "description": "Headquarters: Waterloo, Canada URL: https://www.simplebundles.com/careers/ At Freshly Commerce we’re on a mission to become the logistics brain for commerce. Today our 3 Shopify apps simplify inventory, product bundling, and order fulfillment for brands like...",
       "datePosted": "2026-05-06",
       "employmentType": "FULL_TIME",
@@ -2494,7 +2548,7 @@
         "name": "Freshly Commerce"
       },
       "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-growth-marketing-manager-contract",
+      "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-growth-marketing-manager",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3243,61 +3297,6 @@
     "ai_relevant": true
   },
   {
-    "id": "content-moderation-specialist-anthropic-worldwide-greenhouse-anthropic-5208205008",
-    "slug": "content-moderation-specialist-anthropic-worldwide-greenhouse-anthropic-5208205008",
-    "title": "Content Moderation Specialist",
-    "seo_title": "Remote Content Moderation Specialist Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Content Moderation Specialist job at anthropic in Worldwide. Explore RAG, AWS, Generative AI, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Washington, DC",
-    "location_label": "San Francisco, CA | New York City, NY | Washington, DC",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Generative AI",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008",
-    "published_at": "2026-05-05",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Content Moderation Specialist",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-05",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "content-moderation-specialist-anthropic-ireland-greenhouse-anthropic-5210253008",
     "slug": "content-moderation-specialist-anthropic-ireland-greenhouse-anthropic-5210253008",
     "title": "Content Moderation Specialist",
@@ -3349,6 +3348,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5210253008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "content-moderation-specialist-anthropic-worldwide-greenhouse-anthropic-5208205008",
+    "slug": "content-moderation-specialist-anthropic-worldwide-greenhouse-anthropic-5208205008",
+    "title": "Content Moderation Specialist",
+    "seo_title": "Remote Content Moderation Specialist Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Content Moderation Specialist job at anthropic in Worldwide. Explore RAG, AWS, Generative AI, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "location_label": "San Francisco, CA | New York City, NY | Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Generative AI",
+      "Legal",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008",
+    "published_at": "2026-05-05",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Content Moderation Specialist",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-05",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5208205008"
     },
     "ai_relevant": true
   },
@@ -4125,60 +4179,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/webpt-principal-product-manager",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "product-counsel-tremendous-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-tremendous-product-counsel",
-    "slug": "product-counsel-tremendous-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-tremendous-product-counsel",
-    "title": "Product Counsel",
-    "seo_title": "Remote Product Counsel Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Product Counsel job at Tremendous in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Tremendous",
-      "slug": "tremendous",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: United States Tremendous is the fast, free, flexible way to send bulk payouts to people in over 230 countries and regions. 20,000+ companies ranging from mom-and-pops to Google, MIT, and United Way have sent over $1 billion, saving 15 hours a...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/tremendous-product-counsel",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/tremendous-product-counsel",
-    "published_at": "2026-04-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Counsel",
-      "description": "Headquarters: United States Tremendous is the fast, free, flexible way to send bulk payouts to people in over 230 countries and regions. 20,000+ companies ranging from mom-and-pops to Google, MIT, and United Way have sent over $1 billion, saving 15 hours a...",
-      "datePosted": "2026-04-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Tremendous"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/tremendous-product-counsel",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5282,7 +5282,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
     "published_at": "2026-04-27",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5298,114 +5298,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "accounts-receivable-specialist-anthropic-worldwide-greenhouse-anthropic-5193428008",
-    "slug": "accounts-receivable-specialist-anthropic-worldwide-greenhouse-anthropic-5193428008",
-    "title": "Accounts Receivable Specialist",
-    "seo_title": "Remote Accounts Receivable Specialist Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Accounts Receivable Specialist job at anthropic in Worldwide. Explore RAG, AWS, Finance, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Finance",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5193428008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5193428008",
-    "published_at": "2026-04-27",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Accounts Receivable Specialist",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-04-27",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5193428008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anz-communications-lead-anthropic-australia-greenhouse-anthropic-5199978008",
-    "slug": "anz-communications-lead-anthropic-australia-greenhouse-anthropic-5199978008",
-    "title": "ANZ Communications Lead",
-    "seo_title": "Remote ANZ Communications Lead Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote ANZ Communications Lead job at anthropic in Australia. Explore RAG, AWS, Communications, Sydney, Australia and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Communications",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5199978008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5199978008",
-    "published_at": "2026-04-27",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "ANZ Communications Lead",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-04-27",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5199978008"
     },
     "ai_relevant": true
   },
@@ -6369,66 +6261,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-ireland-greenhouse-anthropic-5165651008",
-    "slug": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-ireland-greenhouse-anthropic-5165651008",
-    "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
-    "seo_title": "Remote Account Executive, Beneficial Deployments (Portuguese Speaking) Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Account Executive, Beneficial Deployments (Portuguese Speaking) job at anthropic in Ireland. Explore RAG, AWS, Sales, Dublin, IE and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Remote - Ireland",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "Dublin, IE",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5165651008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5165651008",
-    "published_at": "2026-04-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-04-01",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5165651008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Ireland"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-uk-greenhouse-anthropic-5161988008",
     "slug": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-uk-greenhouse-anthropic-5161988008",
     "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
@@ -6484,6 +6316,66 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "UK"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-ireland-greenhouse-anthropic-5165651008",
+    "slug": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-ireland-greenhouse-anthropic-5165651008",
+    "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
+    "seo_title": "Remote Account Executive, Beneficial Deployments (Portuguese Speaking) Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Account Executive, Beneficial Deployments (Portuguese Speaking) job at anthropic in Ireland. Explore RAG, AWS, Sales, Dublin, IE and...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Remote - Ireland",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Dublin, IE",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5165651008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5165651008",
+    "published_at": "2026-04-01",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-04-01",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5165651008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Ireland"
       }
     },
     "ai_relevant": true
