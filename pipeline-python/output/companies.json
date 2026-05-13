@@ -49,18 +49,53 @@
     "jobs_count": 2
   },
   {
-    "name": "PostHog",
-    "slug": "posthog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Affirm",
     "slug": "affirm",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Jersey Watch",
+    "slug": "jersey-watch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "uConnect",
+    "slug": "uconnect",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Smartbug Media/Point Sucess/Globalia",
+    "slug": "smartbug-media-point-sucess-globalia",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "GiddyUp",
+    "slug": "giddyup",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Natera",
+    "slug": "natera",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ORCID",
+    "slug": "orcid",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "bunny.net",
@@ -238,13 +273,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Your Resource Group LLC",
-    "slug": "your-resource-group-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Crisp",
     "slug": "crisp",
     "logo_url": null,
@@ -252,22 +280,8 @@
     "jobs_count": 1
   },
   {
-    "name": "HighLevel",
-    "slug": "highlevel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "saas.group",
-    "slug": "saas-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Airship",
-    "slug": "airship",
+    "name": "PostHog",
+    "slug": "posthog",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -303,13 +317,6 @@
   {
     "name": "Alphasense",
     "slug": "alphasense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Clerky",
-    "slug": "clerky",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -478,6 +485,13 @@
   {
     "name": "Creative Force",
     "slug": "creative-force",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Reveleer",
+    "slug": "reveleer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
