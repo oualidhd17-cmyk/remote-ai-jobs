@@ -14,13 +14,6 @@
     "jobs_count": 3
   },
   {
-    "name": "EverAI",
-    "slug": "everai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "WALTER",
     "slug": "walter",
     "logo_url": null,
@@ -56,11 +49,39 @@
     "jobs_count": 2
   },
   {
+    "name": "EverAI",
+    "slug": "everai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Affirm",
     "slug": "affirm",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Sticker Mule",
+    "slug": "sticker-mule",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Firework",
+    "slug": "firework",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Phaidra",
+    "slug": "phaidra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Catamaran Research",
@@ -72,6 +93,13 @@
   {
     "name": "Jersey Watch",
     "slug": "jersey-watch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wealthsimple Technologies",
+    "slug": "wealthsimple-technologies",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -238,13 +266,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Subbly",
-    "slug": "subbly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Extend",
     "slug": "extend",
     "logo_url": null,
@@ -254,13 +275,6 @@
   {
     "name": "Quanata",
     "slug": "quanata",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Contact Government Services, LLC",
-    "slug": "contact-government-services-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -324,20 +338,6 @@
   {
     "name": "Webpt",
     "slug": "webpt",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Avahi",
-    "slug": "avahi",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Siteground",
-    "slug": "siteground",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -485,13 +485,6 @@
   {
     "name": "Creative Force",
     "slug": "creative-force",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Reveleer",
-    "slug": "reveleer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

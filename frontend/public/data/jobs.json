@@ -1,5 +1,185 @@
 [
   {
+    "id": "software-engineer-sticker-mule-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sticker-mule-software-engineer-3",
+    "slug": "software-engineer-sticker-mule-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sticker-mule-software-engineer-3",
+    "title": "Software engineer",
+    "seo_title": "Remote Software engineer Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Software engineer job at Sticker Mule in Worldwide. Explore GCP, Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Sticker Mule",
+      "slug": "sticker-mule",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "GCP",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+    "published_at": "2026-05-14",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Software engineer",
+      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the Internet's most lucrative commerce platform by combining software, manufacturing, and AI into one fully integrated stack. No print company, or pure software company for...",
+      "datePosted": "2026-05-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Sticker Mule"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-enterprise-sales-firework-usa-remoteok-1131574",
+    "slug": "director-enterprise-sales-firework-usa-remoteok-1131574",
+    "title": "Director Enterprise Sales",
+    "seo_title": "Remote Director Enterprise Sales Job in USA | MLOps Jobs",
+    "seo_description": "Apply for a remote Director Enterprise Sales job at Firework in USA. Explore RAG, AWS, director, saas and remote AI jobs.",
+    "company": {
+      "name": "Firework",
+      "slug": "firework",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "director",
+      "saas",
+      "technical",
+      "support",
+      "software",
+      "video",
+      "strategy",
+      "lead",
+      "senior",
+      "sales"
+    ],
+    "category": "MLOps",
+    "description_summary": "About Firework Join Firework â Where Innovation Meets Impact Firework is redefining the future of commerce as an AI and video commerce company â combining cutting-edge technology, an exclusive network of enterprise brands and retailers, and a first-mover...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-director-enterprise-sales-firework-1131574",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1131574",
+    "published_at": "2026-05-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director Enterprise Sales",
+      "description": "About Firework Join Firework â Where Innovation Meets Impact Firework is redefining the future of commerce as an AI and video commerce company â combining cutting-edge technology, an exclusive network of enterprise brands and retailers, and a first-mover...",
+      "datePosted": "2026-05-13",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Firework"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1131574",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-software-engineer-phaidra-usa-remoteok-1131567",
+    "slug": "senior-software-engineer-phaidra-usa-remoteok-1131567",
+    "title": "Senior Software Engineer",
+    "seo_title": "Remote Senior Software Engineer Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer job at Phaidra in USA. Explore software, senior, operational, engineer and remote AI jobs.",
+    "company": {
+      "name": "Phaidra",
+      "slug": "phaidra",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Remote - United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "software",
+      "senior",
+      "operational",
+      "engineer"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades â because the controls...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-phaidra-1131567",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1131567",
+    "published_at": "2026-05-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Engineer",
+      "description": "About Phaidra Phaidra is building the future of industrial automation. The world today is filled with static, monolithic infrastructure. Factories, power plants, buildings, etc. operate the same they've operated for decades â because the controls...",
+      "datePosted": "2026-05-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Phaidra"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1131567",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "platform-engineer-catamaran-research-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-catamaran-research-platform-engineer",
     "slug": "platform-engineer-catamaran-research-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-catamaran-research-platform-engineer",
     "title": "Platform Engineer",
@@ -107,6 +287,134 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/jersey-watch-sales-customer-growth-lead",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-ai-system-software-developer-wealthsimple-technologies-worldwide-remoteok-1131572",
+    "slug": "senior-ai-system-software-developer-wealthsimple-technologies-worldwide-remoteok-1131572",
+    "title": "Senior AI System Software Developer",
+    "seo_title": "Remote Senior AI System Software Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior AI System Software Developer job at Wealthsimple Technologies in Worldwide. Explore SQL, LLM, OpenAI, RAG and remote AI jobs.",
+    "company": {
+      "name": "Wealthsimple Technologies",
+      "slug": "wealthsimple-technologies",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Worldwide",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 151200,
+    "salary_max": 189000,
+    "salary_currency": "USD",
+    "skills": [
+      "SQL",
+      "LLM",
+      "OpenAI",
+      "RAG",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Prompt Engineering",
+      "system",
+      "developer",
+      "software",
+      "react"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Build something people love Wealthsimple's mission is to help everyone achieve financial freedom â by making financial services simple, transparent, and low-cost. We're Canada's largest fintech, trusted by over 3 million clients with more than $100 billion...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-ai-system-software-developer-wealthsimple-technologies-1131572",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1131572",
+    "published_at": "2026-05-13",
+    "expires_at": null,
+    "quality_score": 80,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior AI System Software Developer",
+      "description": "Build something people love Wealthsimple's mission is to help everyone achieve financial freedom â by making financial services simple, transparent, and low-cost. We're Canada's largest fintech, trusted by over 3 million clients with more than $100 billion...",
+      "datePosted": "2026-05-13",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Wealthsimple Technologies"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1131572",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 151200,
+          "maxValue": 189000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-claude-evangelist-startups-anthropic-worldwide-greenhouse-anthropic-5116927008",
+    "slug": "applied-ai-claude-evangelist-startups-anthropic-worldwide-greenhouse-anthropic-5116927008",
+    "title": "Applied AI Claude Evangelist, Startups",
+    "seo_title": "Remote Applied AI Claude Evangelist, Startups Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Claude Evangelist, Startups job at anthropic in Worldwide. Explore LLM, RAG, AWS, Applied AI and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5116927008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5116927008",
+    "published_at": "2026-05-13",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Claude Evangelist, Startups",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-13",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116927008"
     },
     "ai_relevant": true
   },
@@ -2329,141 +2637,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-success-representative-subbly-worldwide-remoteok-1131487",
-    "slug": "customer-success-representative-subbly-worldwide-remoteok-1131487",
-    "title": "Customer Success Representative",
-    "seo_title": "Remote Customer Success Representative Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Success Representative job at Subbly in Worldwide. Explore OpenAI, customer support, ai and remote AI jobs.",
-    "company": {
-      "name": "Subbly",
-      "slug": "subbly",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": 10000,
-    "salary_max": 30000,
-    "salary_currency": "USD",
-    "skills": [
-      "OpenAI",
-      "customer support",
-      "ai"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Mid senior Full time, 40 hours per week Flexible availability across US time zones (EST, CST, PST) including weekends Reports to: Head of Merchant Success Job description Weâre looking for a Customer Success Representative with strong technical skills and...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-success-representative-subbly-1131487",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131487",
-    "published_at": "2026-05-06",
-    "expires_at": null,
-    "quality_score": 100,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Success Representative",
-      "description": "Mid senior Full time, 40 hours per week Flexible availability across US time zones (EST, CST, PST) including weekends Reports to: Head of Merchant Success Job description Weâre looking for a Customer Success Representative with strong technical skills and...",
-      "datePosted": "2026-05-06",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Subbly"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131487",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 10000,
-          "maxValue": 30000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remoteok-1131485",
-    "slug": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remoteok-1131485",
-    "title": "Mid Senior AI Cinematic Video Editor",
-    "seo_title": "Remote Mid Senior AI Cinematic Video Editor Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Mid Senior AI Cinematic Video Editor job at EverAI in Worldwide. Explore LLM, AWS, ai, Video Editor and remote AI jobs.",
-    "company": {
-      "name": "EverAI",
-      "slug": "everai",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 60000,
-    "salary_max": 100000,
-    "salary_currency": "USD",
-    "skills": [
-      "LLM",
-      "AWS",
-      "ai",
-      "Video Editor",
-      "Long-form Video Content",
-      "Motion graphic design",
-      "Colour correction",
-      "ComfyUI",
-      "Stable Diffusion",
-      "AI Video Production"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Our Vision & Products ð EverAI â Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years â Help Us Reach 100M first, 500M next AtÂ EverAI , weâre shaping what it means...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1131485",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131485",
-    "published_at": "2026-05-06",
-    "expires_at": null,
-    "quality_score": 100,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Mid Senior AI Cinematic Video Editor",
-      "description": "Our Vision & Products ð EverAI â Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years â Help Us Reach 100M first, 500M next AtÂ EverAI , weâre shaping what it means...",
-      "datePosted": "2026-05-06",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EverAI"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131485",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 60000,
-          "maxValue": 100000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
     "slug": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
     "title": "Anthropic Fellows Program",
@@ -2965,69 +3138,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1131488",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-worldwide-remoteok-1131484",
-    "slug": "senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-worldwide-remoteok-1131484",
-    "title": "Senior Veritas eDiscovery Platform Engineer",
-    "seo_title": "Remote Senior Veritas eDiscovery Platform Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Veritas eDiscovery Platform Engineer job at Contact Government Services, LLC in Worldwide. Explore RAG, system, technical,...",
-    "company": {
-      "name": "Contact Government Services, LLC",
-      "slug": "contact-government-services-llc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "system",
-      "technical",
-      "support",
-      "growth",
-      "manager",
-      "financial",
-      "cloud",
-      "senior",
-      "legal",
-      "engineer",
-      "engineering"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Senior Veritas eDiscovery Platform (eDP) Engineer Employment Type: Full-Time, Executive-Level Department: Legal CGS is seeking a dedicated Senior Veritas eDiscovery Platform (eDP) Engineer to join a fast-paced and hard-working team to assist with any legal...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-veritas-ediscovery-platform-engineer-contact-government-services-llc-1131484",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131484",
-    "published_at": "2026-05-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Veritas eDiscovery Platform Engineer",
-      "description": "Senior Veritas eDiscovery Platform (eDP) Engineer Employment Type: Full-Time, Executive-Level Department: Legal CGS is seeking a dedicated Senior Veritas eDiscovery Platform (eDP) Engineer to join a fast-paced and hard-working team to assist with any legal...",
-      "datePosted": "2026-05-06",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Contact Government Services, LLC"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131484",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -4369,118 +4479,6 @@
     "ai_relevant": true
   },
   {
-    "id": "devops-engineer-avahi-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-avahi-devops-engineer",
-    "slug": "devops-engineer-avahi-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-avahi-devops-engineer",
-    "title": "DevOps Engineer",
-    "seo_title": "Remote DevOps Engineer Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote DevOps Engineer job at Avahi in Worldwide. Explore Machine Learning, RAG, Docker, Kubernetes and remote AI jobs.",
-    "company": {
-      "name": "Avahi",
-      "slug": "avahi",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "DevOps and Sysadmin",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Pune, Maharashtra, India Company Overview At Avahi, we’re redefining what it means to be a premier cloud-first consulting company, recognized for our people, culture, and innovative solutions. With expertise in Managed Services, Staffing, and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/avahi-devops-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/avahi-devops-engineer",
-    "published_at": "2026-04-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "DevOps Engineer",
-      "description": "Headquarters: Pune, Maharashtra, India Company Overview At Avahi, we’re redefining what it means to be a premier cloud-first consulting company, recognized for our people, culture, and innovative solutions. With expertise in Managed Services, Staffing, and...",
-      "datePosted": "2026-04-30",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Avahi"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/avahi-devops-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "product-designer-siteground-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-siteground-product-designer",
-    "slug": "product-designer-siteground-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-siteground-product-designer",
-    "title": "Product Designer",
-    "seo_title": "Remote Product Designer Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Product Designer job at Siteground in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "Siteground",
-      "slug": "siteground",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Varna YOUR ROLE: We are seeking a Product Designer to join our team at SiteGround, focusing on our products. This role blends UX and UI design, allowing you to contribute to intuitive, engaging, and visually appealing user experiences. You will...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/siteground-product-designer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/siteground-product-designer",
-    "published_at": "2026-04-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Designer",
-      "description": "Headquarters: Varna YOUR ROLE: We are seeking a Product Designer to join our team at SiteGround, focusing on our products. This role blends UX and UI design, allowing you to contribute to intuitive, engaging, and visually appealing user experiences. You will...",
-      "datePosted": "2026-04-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Siteground"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/siteground-product-designer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-product-manager-wave-hq-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-wave-hq-senior-product-manager",
     "slug": "senior-product-manager-wave-hq-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-wave-hq-senior-product-manager",
     "title": "Senior Product Manager",
@@ -5030,7 +5028,7 @@
     "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5066977008",
     "published_at": "2026-04-29",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5083,7 +5081,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product",
     "published_at": "2026-04-29",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5099,62 +5097,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-startups-anthropic-ireland-greenhouse-anthropic-5193973008",
-    "slug": "applied-ai-architect-startups-anthropic-ireland-greenhouse-anthropic-5193973008",
-    "title": "Applied AI Architect, Startups",
-    "seo_title": "Remote Applied AI Architect, Startups Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Startups job at anthropic in Ireland. Explore Python, LLM, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5193973008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5193973008",
-    "published_at": "2026-04-29",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Startups",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-04-29",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5193973008"
     },
     "ai_relevant": true
   },
@@ -6155,63 +6097,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/creative-force-saas-product-specialist-german-speaking-emea-2",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "full-stack-ai-engineer-reveleer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reveleer-full-stack-ai-engineer",
-    "slug": "full-stack-ai-engineer-reveleer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reveleer-full-stack-ai-engineer",
-    "title": "Full Stack AI Engineer",
-    "seo_title": "Remote Full Stack AI Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Full Stack AI Engineer job at Reveleer in Worldwide. Explore RAG, AWS, GCP, Generative AI and remote AI jobs.",
-    "company": {
-      "name": "Reveleer",
-      "slug": "reveleer",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "GCP",
-      "Generative AI",
-      "Back-End Programming",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: United States URL: https://www.reveleer.com/ Full Stack AI Engineer Remote Opportunity As the industry’s pioneering value-based care (VBC) technology platform, Reveleer is purpose-built to solve the most pressing real-world challenges faced by...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
-    "published_at": "2026-04-02",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Full Stack AI Engineer",
-      "description": "Headquarters: United States URL: https://www.reveleer.com/ Full Stack AI Engineer Remote Opportunity As the industry’s pioneering value-based care (VBC) technology platform, Reveleer is purpose-built to solve the most pressing real-world challenges faced by...",
-      "datePosted": "2026-04-02",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Reveleer"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
