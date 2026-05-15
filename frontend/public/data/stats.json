@@ -4,7 +4,7 @@
   "published_count": 112,
   "ai_relevant_count": 175,
   "remote_count": 90,
-  "visa_count": 31,
+  "visa_count": 32,
   "salary_count": 9,
   "status_counts": {
     "pending": 63,
@@ -18,12 +18,12 @@
     "greenhouse": 80
   },
   "category_counts": {
-    "Robotics": 16,
+    "AI Engineering": 57,
+    "Data Science": 17,
+    "Robotics": 15,
     "NLP": 3,
     "Machine Learning": 2,
-    "AI Engineering": 55,
-    "MLOps": 17,
-    "Data Science": 16,
+    "MLOps": 15,
     "Data Analytics": 2,
     "AI Product": 1
   },

@@ -7,18 +7,18 @@
     "jobs_count": 29
   },
   {
+    "name": "Assured",
+    "slug": "assured",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "WALTER",
-    "slug": "walter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
     "name": "SuperPlane",
@@ -75,6 +75,41 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Nextiva",
+    "slug": "nextiva",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Instacart",
+    "slug": "instacart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cresta",
+    "slug": "cresta",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Upstart",
+    "slug": "upstart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Affinity.co",
+    "slug": "affinity-co",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "SiteCare",
@@ -322,8 +357,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Praia Health",
-    "slug": "praia-health",
+    "name": "Praia Health Inc.",
+    "slug": "praia-health-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -366,20 +401,6 @@
   {
     "name": "Webpt",
     "slug": "webpt",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Wave Hq",
-    "slug": "wave-hq",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Secureframe",
-    "slug": "secureframe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -492,13 +513,6 @@
   {
     "name": "A.Team",
     "slug": "a-team",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Creative Force",
-    "slug": "creative-force",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
