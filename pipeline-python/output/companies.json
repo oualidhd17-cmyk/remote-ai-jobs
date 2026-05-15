@@ -11,7 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 4
   },
   {
     "name": "WALTER",
@@ -19,6 +19,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Sticker Mule",
+    "slug": "sticker-mule",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Avalere Health",
+    "slug": "avalere-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Careers In Travel | Destination Planners",
@@ -56,22 +70,36 @@
     "jobs_count": 2
   },
   {
-    "name": "Affirm",
-    "slug": "affirm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "SuperPlane",
-    "slug": "superplane",
+    "name": "Cosuno",
+    "slug": "cosuno",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Sticker Mule",
-    "slug": "sticker-mule",
+    "name": "HighLevel",
+    "slug": "highlevel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Altarum",
+    "slug": "altarum",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stealth AI Startup",
+    "slug": "stealth-ai-startup",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "SuperPlane",
+    "slug": "superplane",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -280,20 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Hopelab",
-    "slug": "hopelab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Geotab",
-    "slug": "geotab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "silverorange",
     "slug": "silverorange",
     "logo_url": null,
@@ -329,20 +343,6 @@
     "jobs_count": 1
   },
   {
-    "name": "ClinicSense",
-    "slug": "clinicsense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Xsolla",
-    "slug": "xsolla",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Clover Health",
     "slug": "clover-health",
     "logo_url": null,
@@ -350,8 +350,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Alphasense",
-    "slug": "alphasense",
+    "name": "Affirm",
+    "slug": "affirm",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -392,13 +392,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Zayzoon",
-    "slug": "zayzoon",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Woliba",
     "slug": "woliba",
     "logo_url": null,
@@ -422,6 +415,13 @@
   {
     "name": "Sanctuary Computer",
     "slug": "sanctuary-computer",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vexxhost",
+    "slug": "vexxhost",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -497,8 +497,8 @@
     "jobs_count": 1
   },
   {
-    "name": "C4Media Inc.",
-    "slug": "c4media-inc",
+    "name": "Creative Force",
+    "slug": "creative-force",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

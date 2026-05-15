@@ -7,12 +7,17 @@
   {
     "name": "USA",
     "slug": "usa",
-    "jobs_count": 16
+    "jobs_count": 17
   },
   {
     "name": "Ireland",
     "slug": "ireland",
     "jobs_count": 3
+  },
+  {
+    "name": "Germany",
+    "slug": "germany",
+    "jobs_count": 1
   },
   {
     "name": "Canada",
