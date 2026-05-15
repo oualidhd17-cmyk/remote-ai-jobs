@@ -4,14 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 28
+    "jobs_count": 29
   },
   {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "WALTER",
@@ -19,6 +19,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "SuperPlane",
+    "slug": "superplane",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Sticker Mule",
@@ -70,6 +77,34 @@
     "jobs_count": 2
   },
   {
+    "name": "SiteCare",
+    "slug": "sitecare",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Arias Organization",
+    "slug": "arias-organization",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "TELUS Digital",
+    "slug": "telus-digital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Obsidian Security",
+    "slug": "obsidian-security",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Cosuno",
     "slug": "cosuno",
     "logo_url": null,
@@ -93,13 +128,6 @@
   {
     "name": "Stealth AI Startup",
     "slug": "stealth-ai-startup",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "SuperPlane",
-    "slug": "superplane",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -280,29 +308,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Zensurance",
-    "slug": "zensurance",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mr. Glazier",
-    "slug": "mr-glazier",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Marketers in Demand",
     "slug": "marketers-in-demand",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cast AI",
-    "slug": "cast-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -485,13 +492,6 @@
   {
     "name": "A.Team",
     "slug": "a-team",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mitre Media",
-    "slug": "mitre-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
