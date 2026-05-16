@@ -1,14 +1,14 @@
 {
   "raw_count": 259,
   "processed_count": 259,
-  "published_count": 113,
-  "ai_relevant_count": 176,
-  "remote_count": 93,
-  "visa_count": 30,
+  "published_count": 116,
+  "ai_relevant_count": 179,
+  "remote_count": 96,
+  "visa_count": 29,
   "salary_count": 9,
   "status_counts": {
-    "rejected": 83,
-    "published": 113,
+    "rejected": 80,
+    "published": 116,
     "pending": 63
   },
   "source_counts": {
@@ -18,17 +18,17 @@
     "greenhouse": 80
   },
   "category_counts": {
-    "AI Engineering": 57,
+    "MLOps": 18,
+    "Data Science": 18,
+    "Robotics": 15,
+    "AI Engineering": 54,
+    "AI Product": 2,
     "Data Analytics": 3,
     "NLP": 4,
-    "Data Science": 16,
-    "Robotics": 14,
-    "Machine Learning": 2,
-    "MLOps": 16,
-    "AI Product": 1
+    "Machine Learning": 2
   },
   "country_counts": {
-    "Worldwide": 88,
+    "Worldwide": 91,
     "USA": 17,
     "Ireland": 4,
     "Germany": 1,
