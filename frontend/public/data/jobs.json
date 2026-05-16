@@ -1,5 +1,60 @@
 [
   {
+    "id": "anthropic-stem-fellow-anthropic-worldwide-greenhouse-anthropic-5189848008",
+    "slug": "anthropic-stem-fellow-anthropic-worldwide-greenhouse-anthropic-5189848008",
+    "title": "Anthropic STEM Fellow",
+    "seo_title": "Remote Anthropic STEM Fellow Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic STEM Fellow job at anthropic in Worldwide. Explore Machine Learning, RAG, AWS, AI Research & Engineering and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "AI Research & Engineering",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5189848008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5189848008",
+    "published_at": "2026-05-16",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic STEM Fellow",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-16",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5189848008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "application-security-engineer-anthropic-worldwide-greenhouse-anthropic-4502508008",
     "slug": "application-security-engineer-anthropic-worldwide-greenhouse-anthropic-4502508008",
     "title": "Application Security Engineer",
@@ -54,6 +109,178 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "sales-development-representative-inbound-yuno-worldwide-remoteok-1131605",
+    "slug": "sales-development-representative-inbound-yuno-worldwide-remoteok-1131605",
+    "title": "Sales Development Representative Inbound",
+    "seo_title": "Remote Sales Development Representative Inbound Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Sales Development Representative Inbound job at Yuno in Worldwide. Explore RAG, salesforce, assistant, strategy and remote AI jobs.",
+    "company": {
+      "name": "Yuno",
+      "slug": "yuno",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "entry",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "salesforce",
+      "assistant",
+      "strategy",
+      "operations",
+      "excel",
+      "sales"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "Remote, BogotÃ¡, Full Time, Individual Contributor, Entry Level Who We Are At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-inbound-yuno-1131605",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1131605",
+    "published_at": "2026-05-15",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Sales Development Representative Inbound",
+      "description": "Remote, BogotÃ¡, Full Time, Individual Contributor, Entry Level Who We Are At Yuno, we are building the payment infrastructure that allows all companies to participate in the global market. Founded by seasoned experts from the payments and tech industries,...",
+      "datePosted": "2026-05-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Yuno"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1131605",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "work-from-home-break-free-of-the-9-5-global-elite-empire-consultants-worldwide-remoteok-1131602",
+    "slug": "work-from-home-break-free-of-the-9-5-global-elite-empire-consultants-worldwide-remoteok-1131602",
+    "title": "Work From Home Break Free of the 9 5",
+    "seo_title": "Remote Work From Home Break Free of the 9 5 Job | NLP Jobs",
+    "seo_description": "Apply for a remote Work From Home Break Free of the 9 5 job at Global Elite Empire Consultants in Worldwide. Explore LLM, system, training, financial and...",
+    "company": {
+      "name": "Global Elite Empire Consultants",
+      "slug": "global-elite-empire-consultants",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Kaneohe, Hawaii",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "system",
+      "training",
+      "financial",
+      "video"
+    ],
+    "category": "NLP",
+    "description_summary": "Looking for motivated individuals who want more out of their income and career. This is a remote opportunity where youâll work directly with individuals who have requested help understanding their financial protection options. No cold outreach. If youâre...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-work-from-home-break-free-of-the-9-5-global-elite-empire-consultants-1131602",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1131602",
+    "published_at": "2026-05-15",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Work From Home Break Free of the 9 5",
+      "description": "Looking for motivated individuals who want more out of their income and career. This is a remote opportunity where youâll work directly with individuals who have requested help understanding their financial protection options. No cold outreach. If youâre...",
+      "datePosted": "2026-05-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Global Elite Empire Consultants"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1131602",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "pre-licensed-child-adolescent-therapist-instride-health-worldwide-remoteok-1131598",
+    "slug": "pre-licensed-child-adolescent-therapist-instride-health-worldwide-remoteok-1131598",
+    "title": "Pre Licensed Child & Adolescent Therapist",
+    "seo_title": "Remote Pre Licensed Child & Adolescent Therapist Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Pre Licensed Child & Adolescent Therapist job at InStride Health in Worldwide. Explore RAG, system, growth, voice and remote AI jobs.",
+    "company": {
+      "name": "InStride Health",
+      "slug": "instride-health",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "system",
+      "growth",
+      "voice",
+      "lead",
+      "medical",
+      "health"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Us InStride Healthâs mission is to deliver specialty anxiety and OCD care that works for every kid, teen, young adult, and family who needs it. Through this mission, we are expanding access to insurance-based care, increasing engagement in treatment,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-pre-licensed-child-adolescent-therapist-instride-health-1131598",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1131598",
+    "published_at": "2026-05-15",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Pre Licensed Child & Adolescent Therapist",
+      "description": "About Us InStride Healthâs mission is to deliver specialty anxiety and OCD care that works for every kid, teen, young adult, and family who needs it. Through this mission, we are expanding access to insurance-based care, increasing engagement in treatment,...",
+      "datePosted": "2026-05-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "InStride Health"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1131598",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3201,69 +3428,6 @@
     "ai_relevant": true
   },
   {
-    "id": "analytics-engineer-civitech-worldwide-remoteok-1131512",
-    "slug": "analytics-engineer-civitech-worldwide-remoteok-1131512",
-    "title": "Analytics Engineer",
-    "seo_title": "Remote Analytics Engineer Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Analytics Engineer job at Civitech in Worldwide. Explore Python, SQL, Pandas, RAG and remote AI jobs.",
-    "company": {
-      "name": "Civitech",
-      "slug": "civitech",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Austin, TX or Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Pandas",
-      "RAG",
-      "AWS",
-      "Airflow",
-      "support",
-      "code",
-      "cloud",
-      "analytics",
-      "engineer",
-      "engineering"
-    ],
-    "category": "Data Science",
-    "description_summary": "Civitech is a public benefit corporation dedicated to creating a fairer and more equitable democracy by building the tools and infrastructure needed to increase civic participation, empower Democratic candidates to win, and support the success of progressive...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-analytics-engineer-civitech-1131512",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131512",
-    "published_at": "2026-05-08",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Analytics Engineer",
-      "description": "Civitech is a public benefit corporation dedicated to creating a fairer and more equitable democracy by building the tools and infrastructure needed to increase civic participation, empower Democratic candidates to win, and support the success of progressive...",
-      "datePosted": "2026-05-08",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Civitech"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131512",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
     "slug": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
     "title": "Inside Sales Contractor",
@@ -3373,69 +3537,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/caul-group-director-of-revenue-systems-and-ai-automation",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "web-development-specialist-marketers-in-demand-worldwide-remoteok-1131516",
-    "slug": "web-development-specialist-marketers-in-demand-worldwide-remoteok-1131516",
-    "title": "Web Development Specialist",
-    "seo_title": "Remote Web Development Specialist Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Web Development Specialist job at Marketers in Demand in Worldwide. Explore RAG, web dev, dev and remote AI jobs.",
-    "company": {
-      "name": "Marketers in Demand",
-      "slug": "marketers-in-demand",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Worldwide",
-    "remote_type": "unknown",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": 30000,
-    "salary_max": 40000,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "web dev",
-      "dev"
-    ],
-    "category": "Robotics",
-    "description_summary": "Overview We're looking for a Web Development Specialist to build and maintain marketing websites and landing pages for our agency's B2B technology clients. This is a hands-on production role across the three platforms our clients live on most: WordPress,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-web-development-specialist-marketers-in-demand-1131516",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131516",
-    "published_at": "2026-05-08",
-    "expires_at": null,
-    "quality_score": 80,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Web Development Specialist",
-      "description": "Overview We're looking for a Web Development Specialist to build and maintain marketing websites and landing pages for our agency's B2B technology clients. This is a hands-on production role across the three platforms our clients live on most: WordPress,...",
-      "datePosted": "2026-05-08",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Marketers in Demand"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131516",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 30000,
-          "maxValue": 40000,
-          "unitText": "YEAR"
-        }
-      }
     },
     "ai_relevant": true
   },
@@ -5077,7 +5178,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/clover-health-staff-product-manager-member-experience",
     "published_at": "2026-05-01",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5131,7 +5232,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/affirm-staff-product-designer",
     "published_at": "2026-05-01",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5147,60 +5248,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/affirm-staff-product-designer",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "commercial-counsel-networking-datacenter-operations-anthropic-worldwide-greenhouse-anthropic-5205884008",
-    "slug": "commercial-counsel-networking-datacenter-operations-anthropic-worldwide-greenhouse-anthropic-5205884008",
-    "title": "Commercial Counsel, Networking & Datacenter Operations",
-    "seo_title": "Remote Commercial Counsel, Networking & Datacenter Operations Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, Networking & Datacenter Operations job at anthropic in Worldwide. Explore RAG, AWS, Legal, San Francisco, CA and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY; San Francisco, CA; Seattle, WA; Washington, DC",
-    "location_label": "New York City, NY; San Francisco, CA; Seattle, WA; Washington, DC",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205884008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205884008",
-    "published_at": "2026-05-01",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, Networking & Datacenter Operations",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-01",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205884008"
     },
     "ai_relevant": true
   },
@@ -6480,66 +6527,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-uk-greenhouse-anthropic-5161988008",
-    "slug": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-uk-greenhouse-anthropic-5161988008",
-    "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
-    "seo_title": "Remote Account Executive, Beneficial Deployments (Portuguese Speaking) Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Account Executive, Beneficial Deployments (Portuguese Speaking) job at anthropic in UK. Explore RAG, AWS, Sales, Dublin, IE and remote...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "Dublin, IE",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008",
-    "published_at": "2026-04-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-04-01",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-ireland-greenhouse-anthropic-5165651008",
     "slug": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-ireland-greenhouse-anthropic-5165651008",
     "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
@@ -6595,6 +6582,66 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Ireland"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-uk-greenhouse-anthropic-5161988008",
+    "slug": "account-executive-beneficial-deployments-portuguese-speaking-anthropic-uk-greenhouse-anthropic-5161988008",
+    "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
+    "seo_title": "Remote Account Executive, Beneficial Deployments (Portuguese Speaking) Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Account Executive, Beneficial Deployments (Portuguese Speaking) job at anthropic in UK. Explore RAG, AWS, Sales, Dublin, IE and remote...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Dublin, IE",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008",
+    "published_at": "2026-04-01",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive, Beneficial Deployments (Portuguese Speaking)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-04-01",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161988008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
       }
     },
     "ai_relevant": true
