@@ -4,18 +4,25 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
+    "jobs_count": 28
   },
   {
-    "name": "Assured",
-    "slug": "assured",
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Expion Health",
+    "slug": "expion-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Assured",
+    "slug": "assured",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -98,13 +105,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Nextiva",
-    "slug": "nextiva",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Instacart",
     "slug": "instacart",
     "logo_url": null,
@@ -112,22 +112,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Cresta",
-    "slug": "cresta",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Upstart",
     "slug": "upstart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Affinity.co",
-    "slug": "affinity-co",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -149,6 +135,13 @@
   {
     "name": "TELUS Digital",
     "slug": "telus-digital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mitre Media",
+    "slug": "mitre-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -184,13 +177,6 @@
   {
     "name": "Stealth AI Startup",
     "slug": "stealth-ai-startup",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Expion Health",
-    "slug": "expion-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -457,6 +443,13 @@
   {
     "name": "Vexxhost",
     "slug": "vexxhost",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Interop Labs",
+    "slug": "interop-labs",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
