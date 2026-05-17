@@ -4,11 +4,25 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 28
+    "jobs_count": 25
   },
   {
-    "name": "Vanta",
-    "slug": "vanta",
+    "name": "Avalere Health",
+    "slug": "avalere-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Affirm",
+    "slug": "affirm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -30,13 +44,6 @@
   {
     "name": "SuperPlane",
     "slug": "superplane",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Avalere Health",
-    "slug": "avalere-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -70,11 +77,60 @@
     "jobs_count": 2
   },
   {
-    "name": "EverAI",
-    "slug": "everai",
+    "name": "Cohere",
+    "slug": "cohere",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "Pearl",
+    "slug": "pearl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Paired",
+    "slug": "paired",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bigid",
+    "slug": "bigid",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Constant Contact",
+    "slug": "constant-contact",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Softswiss",
+    "slug": "softswiss",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Custom Simple Solutions",
+    "slug": "custom-simple-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Flosum",
+    "slug": "flosum",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Binance",
@@ -105,36 +161,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Peak Design",
-    "slug": "peak-design",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Olive June",
     "slug": "olive-june",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "S-PRO",
-    "slug": "s-pro",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Activate Talent",
-    "slug": "activate-talent",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hospitable",
-    "slug": "hospitable",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -378,20 +406,6 @@
     "jobs_count": 1
   },
   {
-    "name": "CipherHealth",
-    "slug": "cipherhealth",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Forge Global",
-    "slug": "forge-global",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "LiveKit",
     "slug": "livekit",
     "logo_url": null,
@@ -413,13 +427,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Crisp",
-    "slug": "crisp",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Parkosecure GmbH",
     "slug": "parkosecure-gmbh",
     "logo_url": null,
@@ -427,22 +434,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Clover Health",
-    "slug": "clover-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Affirm",
-    "slug": "affirm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Webpt",
+    "slug": "webpt",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -532,6 +525,13 @@
     "jobs_count": 1
   },
   {
+    "name": "EverAI",
+    "slug": "everai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Urban Legend",
     "slug": "urban-legend",
     "logo_url": null,
@@ -546,8 +546,8 @@
     "jobs_count": 1
   },
   {
-    "name": "A.Team",
-    "slug": "a-team",
+    "name": "WALTER",
+    "slug": "walter",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -12,7 +12,12 @@
   {
     "name": "Ireland",
     "slug": "ireland",
-    "jobs_count": 4
+    "jobs_count": 2
+  },
+  {
+    "name": "UK",
+    "slug": "uk",
+    "jobs_count": 1
   },
   {
     "name": "Germany",
@@ -27,11 +32,6 @@
   {
     "name": "Switzerland",
     "slug": "switzerland",
-    "jobs_count": 1
-  },
-  {
-    "name": "UK",
-    "slug": "uk",
     "jobs_count": 1
   }
 ]
