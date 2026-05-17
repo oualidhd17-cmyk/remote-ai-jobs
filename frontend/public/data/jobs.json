@@ -2710,7 +2710,7 @@
     "location": "Remote",
     "location_label": "Remote - Worldwide",
     "remote_type": "remote",
-    "employment_type": "full-time",
+    "employment_type": "internship",
     "experience_level": "intern",
     "visa_sponsorship": false,
     "salary_min": null,
@@ -2739,7 +2739,7 @@
       "title": "Platform Engineer",
       "description": "Headquarters: URL: https://catamaran-research.ai/ About Us We are building the cloud compute layer for the agent age: think AWS or GCP, but designed around AI agents as first-class cloud users. Existing cloud primitives were designed for humans clicking...",
       "datePosted": "2026-05-13",
-      "employmentType": "FULL_TIME",
+      "employmentType": "INTERN",
       "hiringOrganization": {
         "@type": "Organization",
         "name": "Catamaran Research"
