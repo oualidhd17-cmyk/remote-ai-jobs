@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 25
+    "jobs_count": 26
   },
   {
     "name": "Avalere Health",
@@ -75,6 +75,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Chief Rebel",
+    "slug": "chief-rebel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Oowlish Technology",
@@ -175,6 +182,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Sprypoint",
+    "slug": "sprypoint",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Olive June",
     "slug": "olive-june",
     "logo_url": null,
@@ -184,6 +198,13 @@
   {
     "name": "Biggerpockets",
     "slug": "biggerpockets",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "A.Team",
+    "slug": "a-team",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -448,15 +469,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Mutt Data",
-    "slug": "mutt-data",
+    "name": "Webpt",
+    "slug": "webpt",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Qventus",
-    "slug": "qventus",
+    "name": "Mutt Data",
+    "slug": "mutt-data",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -499,6 +520,13 @@
   {
     "name": "Interop Labs",
     "slug": "interop-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Careers - Think Digitally",
+    "slug": "careers-think-digitally",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -548,13 +576,6 @@
   {
     "name": "Dry Ground AI",
     "slug": "dry-ground-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "WALTER",
-    "slug": "walter",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
