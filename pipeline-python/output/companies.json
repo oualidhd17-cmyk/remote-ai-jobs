@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 26
+    "jobs_count": 28
   },
   {
     "name": "Avalere Health",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Figure 53",
+    "slug": "figure-53",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Affirm",
@@ -63,18 +70,46 @@
     "jobs_count": 2
   },
   {
-    "name": "Credit Wellness, LLC",
-    "slug": "credit-wellness-llc",
+    "name": "Wealth.com",
+    "slug": "wealth-com",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
   },
   {
-    "name": "SketchDeck",
-    "slug": "sketchdeck",
+    "name": "Bazaarvoice",
+    "slug": "bazaarvoice",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "Farfetch",
+    "slug": "farfetch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mitek Systems",
+    "slug": "mitek-systems",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PerformYard",
+    "slug": "performyard",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Arbostar",
+    "slug": "arbostar",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Chief Rebel",
@@ -154,36 +189,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Flosum",
-    "slug": "flosum",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Binance",
-    "slug": "binance",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Wealthsimple",
     "slug": "wealthsimple",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sprypoint",
-    "slug": "sprypoint",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -343,13 +350,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Jersey Watch",
-    "slug": "jersey-watch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Wealthsimple Technologies",
     "slug": "wealthsimple-technologies",
     "logo_url": null,
@@ -443,6 +443,20 @@
   {
     "name": "LiveKit",
     "slug": "livekit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Credit Wellness, LLC",
+    "slug": "credit-wellness-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "SketchDeck",
+    "slug": "sketchdeck",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
