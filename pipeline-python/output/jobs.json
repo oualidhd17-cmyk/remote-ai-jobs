@@ -1,5 +1,60 @@
 [
   {
+    "id": "senior-software-engineer-ii-nomad-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-nomad-senior-software-engineer-ii",
+    "slug": "senior-software-engineer-ii-nomad-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-nomad-senior-software-engineer-ii",
+    "title": "Senior Software Engineer II",
+    "seo_title": "Remote Senior Software Engineer II Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer II job at Nomad in Worldwide. Explore RAG, AWS, Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Nomad",
+      "slug": "nomad",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "Headquarters: Denver CO URL: https://nomadlease.com About Nomad Nomad is unlocking economic opportunity for everyone in the long-term rental community. We offer property owners guaranteed rent and peace of mind, while delivering a better rental experience for...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
+    "published_at": "2026-05-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Engineer II",
+      "description": "Headquarters: Denver CO URL: https://nomadlease.com About Nomad Nomad is unlocking economic opportunity for everyone in the long-term rental community. We offer property owners guaranteed rent and peace of mind, while delivering a better rental experience for...",
+      "datePosted": "2026-05-19",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Nomad"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
     "slug": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
     "title": "Applied AI Architect, Partnerships",
@@ -5901,6 +5956,64 @@
     "ai_relevant": true
   },
   {
+    "id": "data-center-strategic-sourcing-network-anthropic-usa-greenhouse-anthropic-5205626008",
+    "slug": "data-center-strategic-sourcing-network-anthropic-usa-greenhouse-anthropic-5205626008",
+    "title": "Data Center Strategic Sourcing - Network",
+    "seo_title": "Remote Data Center Strategic Sourcing - Network Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Center Strategic Sourcing - Network job at anthropic in USA. Explore RAG, AWS, Compute and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Remote-Friendly, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205626008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205626008",
+    "published_at": "2026-04-30",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Center Strategic Sourcing - Network",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-04-30",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205626008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-devops-engineer-lemon-io-usa-remotive-2090002",
     "slug": "senior-devops-engineer-lemon-io-usa-remotive-2090002",
     "title": "Senior DevOps Engineer",
@@ -6998,6 +7111,64 @@
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-center-portfolio-planning-execution-lead-anthropic-usa-greenhouse-anthropic-5188939008",
+    "slug": "data-center-portfolio-planning-execution-lead-anthropic-usa-greenhouse-anthropic-5188939008",
+    "title": "Data Center Portfolio Planning & Execution Lead",
+    "seo_title": "Remote Data Center Portfolio Planning & Execution Lead Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Center Portfolio Planning & Execution Lead job at anthropic in USA. Explore RAG, AWS, Compute and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Remote-Friendly, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5188939008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5188939008",
+    "published_at": "2026-04-16",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Center Portfolio Planning & Execution Lead",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-04-16",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5188939008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
     },
     "ai_relevant": true
   }
