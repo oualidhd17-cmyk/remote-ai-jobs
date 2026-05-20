@@ -7,17 +7,17 @@
   {
     "name": "Data Science",
     "slug": "data-science",
-    "jobs_count": 21
+    "jobs_count": 20
   },
   {
     "name": "MLOps",
     "slug": "mlops",
-    "jobs_count": 20
+    "jobs_count": 18
   },
   {
     "name": "Robotics",
     "slug": "robotics",
-    "jobs_count": 16
+    "jobs_count": 15
   },
   {
     "name": "Data Analytics",
@@ -25,13 +25,13 @@
     "jobs_count": 4
   },
   {
-    "name": "NLP",
-    "slug": "nlp",
-    "jobs_count": 4
-  },
-  {
     "name": "Machine Learning",
     "slug": "machine-learning",
+    "jobs_count": 3
+  },
+  {
+    "name": "NLP",
+    "slug": "nlp",
     "jobs_count": 3
   },
   {

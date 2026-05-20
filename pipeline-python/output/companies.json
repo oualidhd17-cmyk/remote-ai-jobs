@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 27
+    "jobs_count": 26
   },
   {
     "name": "Avalere Health",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Pearl",
+    "slug": "pearl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Figure 53",
@@ -68,6 +75,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Benchling",
+    "slug": "benchling",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CXT Software",
+    "slug": "cxt-software",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Nomad",
@@ -154,13 +175,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Pearl",
-    "slug": "pearl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Paired",
     "slug": "paired",
     "logo_url": null,
@@ -170,13 +184,6 @@
   {
     "name": "Constant Contact",
     "slug": "constant-contact",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Softswiss",
-    "slug": "softswiss",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -399,13 +406,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Apollo Information Systems",
-    "slug": "apollo-information-systems",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Precision Medicine Group",
     "slug": "precision-medicine-group",
     "logo_url": null,
@@ -415,34 +415,6 @@
   {
     "name": "nooro",
     "slug": "nooro",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CX2",
-    "slug": "cx2",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CSC Generation",
-    "slug": "csc-generation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "BIS Safety Software",
-    "slug": "bis-safety-software",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LiveKit",
-    "slug": "livekit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -478,13 +450,6 @@
   {
     "name": "Parkosecure GmbH",
     "slug": "parkosecure-gmbh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Webpt",
-    "slug": "webpt",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
