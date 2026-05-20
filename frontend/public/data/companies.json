@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 26
+    "jobs_count": 33
   },
   {
     "name": "Avalere Health",
@@ -56,13 +56,6 @@
     "jobs_count": 2
   },
   {
-    "name": "SuperPlane",
-    "slug": "superplane",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Careers In Travel | Destination Planners",
     "slug": "careers-in-travel-destination-planners",
     "logo_url": null,
@@ -75,6 +68,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Orchard Brokerage",
+    "slug": "orchard-brokerage",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Benchling",
@@ -147,13 +154,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Oowlish Technology",
-    "slug": "oowlish-technology",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Hint Health",
     "slug": "hint-health",
     "logo_url": null,
@@ -177,13 +177,6 @@
   {
     "name": "Paired",
     "slug": "paired",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Constant Contact",
-    "slug": "constant-contact",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -261,6 +254,13 @@
   {
     "name": "TELUS Digital",
     "slug": "telus-digital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "SuperPlane",
+    "slug": "superplane",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
