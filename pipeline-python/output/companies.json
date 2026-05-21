@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
+    "jobs_count": 32
   },
   {
     "name": "Avalere Health",
@@ -16,6 +16,13 @@
   {
     "name": "Pearl",
     "slug": "pearl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "EverAI",
+    "slug": "everai",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -68,6 +75,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Braviant Holdings",
+    "slug": "braviant-holdings",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "LawnStarter",
@@ -406,13 +420,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Precision Medicine Group",
-    "slug": "precision-medicine-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "nooro",
     "slug": "nooro",
     "logo_url": null,
@@ -534,13 +541,6 @@
   {
     "name": "Indiewalls",
     "slug": "indiewalls",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EverAI",
-    "slug": "everai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
