@@ -1,5 +1,117 @@
 [
   {
+    "id": "staff-product-engineer-lawnstarter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lawnstarter-staff-product-engineer",
+    "slug": "staff-product-engineer-lawnstarter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lawnstarter-staff-product-engineer",
+    "title": "Staff Product Engineer",
+    "seo_title": "Remote Staff Product Engineer Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Staff Product Engineer job at LawnStarter in Worldwide. Explore RAG, AWS, Airflow, All Other Remote and remote AI jobs.",
+    "company": {
+      "name": "LawnStarter",
+      "slug": "lawnstarter",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Airflow",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "Headquarters: São Paulo, Brazil URL: http://lawnstarter.com About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/lawnstarter-staff-product-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/lawnstarter-staff-product-engineer",
+    "published_at": "2026-05-21",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Staff Product Engineer",
+      "description": "Headquarters: São Paulo, Brazil URL: http://lawnstarter.com About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the...",
+      "datePosted": "2026-05-21",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "LawnStarter"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-staff-product-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-ai-native-anthropic-worldwide-greenhouse-anthropic-4461450008",
+    "slug": "account-executive-ai-native-anthropic-worldwide-greenhouse-anthropic-4461450008",
+    "title": "Account Executive, AI Native",
+    "seo_title": "Remote Account Executive, AI Native Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Account Executive, AI Native job at anthropic in Worldwide. Explore LLM, RAG, AWS, Sales and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Sales",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+    "published_at": "2026-05-21",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive, AI Native",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-21",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-fellows-program-ai-safety-anthropic-usa-greenhouse-anthropic-5183044008",
     "slug": "anthropic-fellows-program-ai-safety-anthropic-usa-greenhouse-anthropic-5183044008",
     "title": "Anthropic Fellows Program, AI Safety",
@@ -943,6 +1055,61 @@
           "unitText": "YEAR"
         }
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "design-engineer-web-anthropic-worldwide-greenhouse-anthropic-5223916008",
+    "slug": "design-engineer-web-anthropic-worldwide-greenhouse-anthropic-5223916008",
+    "title": "Design Engineer, Web",
+    "seo_title": "Remote Design Engineer, Web Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Design Engineer, Web job at anthropic in Worldwide. Explore RAG, AWS, Marketing & Brand, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Marketing & Brand",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
+    "published_at": "2026-05-19",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Design Engineer, Web",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-19",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -3147,115 +3314,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/sitecare-client-success-advisor",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "remote-benefits-representative-arias-organization-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-arias-organization-remote-benefits-representativ",
-    "slug": "remote-benefits-representative-arias-organization-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-arias-organization-remote-benefits-representativ",
-    "title": "Remote Benefits Representative",
-    "seo_title": "Remote Remote Benefits Representative Job | NLP Jobs",
-    "seo_description": "Apply for a remote Remote Benefits Representative job at Arias Organization in Worldwide. Explore LLM, RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Arias Organization",
-      "slug": "arias-organization",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Pittsburgh,PA URL: https://resumeengine.tech/apply/wework Are you a people person looking for a career that combines customer service, sales, and marketing? We are seeking energetic individuals to join our growing team as Remote Benefits...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/arias-organization-remote-benefits-representative",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/arias-organization-remote-benefits-representative",
-    "published_at": "2026-05-15",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Remote Benefits Representative",
-      "description": "Headquarters: Pittsburgh,PA URL: https://resumeengine.tech/apply/wework Are you a people person looking for a career that combines customer service, sales, and marketing? We are seeking energetic individuals to join our growing team as Remote Benefits...",
-      "datePosted": "2026-05-15",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Arias Organization"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/arias-organization-remote-benefits-representative",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "content-reviewer-us-telus-digital-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-telus-digital-content-reviewer-us-4",
-    "slug": "content-reviewer-us-telus-digital-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-telus-digital-content-reviewer-us-4",
-    "title": "Content Reviewer - US",
-    "seo_title": "Remote Content Reviewer - US Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Content Reviewer - US job at TELUS Digital in Worldwide. Explore Machine Learning, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "TELUS Digital",
-      "slug": "telus-digital",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "part-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Las Vegas, Nevada URL: https://jobs.telusdigital.com/search/jobs?cfm5=Artificial+Intelligence&ns_category=artificial-intelligence Looking for a freelance opportunity where you can make an impact on technology from the comfort of your home? If...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/telus-digital-content-reviewer-us-4",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/telus-digital-content-reviewer-us-4",
-    "published_at": "2026-05-15",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Content Reviewer - US",
-      "description": "Headquarters: Las Vegas, Nevada URL: https://jobs.telusdigital.com/search/jobs?cfm5=Artificial+Intelligence&ns_category=artificial-intelligence Looking for a freelance opportunity where you can make an impact on technology from the comfort of your home? If...",
-      "datePosted": "2026-05-15",
-      "employmentType": "PART_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "TELUS Digital"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/telus-digital-content-reviewer-us-4",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5646,62 +5704,6 @@
     "ai_relevant": true
   },
   {
-    "id": "certification-development-lead-anthropic-worldwide-greenhouse-anthropic-5097348008",
-    "slug": "certification-development-lead-anthropic-worldwide-greenhouse-anthropic-5097348008",
-    "title": "Certification Development Lead",
-    "seo_title": "Remote Certification Development Lead Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Certification Development Lead job at anthropic in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY; San Francisco, CA | New York City, NY",
-    "location_label": "New York City, NY; San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "GCP",
-      "Azure",
-      "AI Research & Engineering",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5097348008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5097348008",
-    "published_at": "2026-05-07",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Certification Development Lead",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-07",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5097348008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-infrastructure-security-anthropic-worldwide-greenhouse-anthropic-5205894008",
     "slug": "commercial-counsel-infrastructure-security-anthropic-worldwide-greenhouse-anthropic-5205894008",
     "title": "Commercial Counsel, Infrastructure Security",
@@ -7148,6 +7150,59 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-engineer-2089958",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "remote-ai-training-20-hr-united-states-remote-talent-cloud-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-talent-cloud-remote-ai-training",
+    "slug": "remote-ai-training-20-hr-united-states-remote-talent-cloud-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-talent-cloud-remote-ai-training",
+    "title": "Remote AI Training - $20/hr - United States",
+    "seo_title": "Remote Remote AI Training - $20/hr - United States Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Remote AI Training - $20/hr - United States job at Remote Talent Cloud in Worldwide. Explore All Other Remote, Remote and remote AI...",
+    "company": {
+      "name": "Remote Talent Cloud",
+      "slug": "remote-talent-cloud",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ ========== IMPORTANT! Please use this link to apply: ➡️ https://remotetalentcloud.com/apply-ai/ ========== Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states",
+    "published_at": "2026-04-21",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Remote AI Training - $20/hr - United States",
+      "description": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ ========== IMPORTANT! Please use this link to apply: ➡️ https://remotetalentcloud.com/apply-ai/ ========== Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in...",
+      "datePosted": "2026-04-21",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Remote Talent Cloud"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true

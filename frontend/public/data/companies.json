@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 32
+    "jobs_count": 33
   },
   {
     "name": "Avalere Health",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Pearl",
@@ -79,13 +86,6 @@
   {
     "name": "Braviant Holdings",
     "slug": "braviant-holdings",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -254,20 +254,6 @@
   {
     "name": "SiteCare",
     "slug": "sitecare",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Arias Organization",
-    "slug": "arias-organization",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "TELUS Digital",
-    "slug": "telus-digital",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -555,6 +541,13 @@
   {
     "name": "Dry Ground AI",
     "slug": "dry-ground-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Remote Talent Cloud",
+    "slug": "remote-talent-cloud",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
