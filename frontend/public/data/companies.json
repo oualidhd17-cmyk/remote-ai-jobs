@@ -7,6 +7,13 @@
     "jobs_count": 33
   },
   {
+    "name": "Aisle and Abroad",
+    "slug": "aisle-and-abroad",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
     "name": "Avalere Health",
     "slug": "avalere-health",
     "logo_url": null,
@@ -63,18 +70,32 @@
     "jobs_count": 2
   },
   {
-    "name": "Careers In Travel | Destination Planners",
-    "slug": "careers-in-travel-destination-planners",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Caul Group",
     "slug": "caul-group",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tremendous",
+    "slug": "tremendous",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Empathy",
+    "slug": "empathy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Cohesity",
@@ -114,6 +135,13 @@
   {
     "name": "Luxury Presence",
     "slug": "luxury-presence",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Roar Media",
+    "slug": "roar-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,13 +196,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Farfetch",
-    "slug": "farfetch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mitek Systems",
     "slug": "mitek-systems",
     "logo_url": null,
@@ -184,13 +205,6 @@
   {
     "name": "PerformYard",
     "slug": "performyard",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Arbostar",
-    "slug": "arbostar",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -371,50 +385,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Phaidra",
-    "slug": "phaidra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Catamaran Research",
     "slug": "catamaran-research",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Wealthsimple Technologies",
-    "slug": "wealthsimple-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "uConnect",
-    "slug": "uconnect",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Smartbug Media/Point Sucess/Globalia",
-    "slug": "smartbug-media-point-sucess-globalia",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "GiddyUp",
-    "slug": "giddyup",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Natera",
-    "slug": "natera",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -506,6 +478,20 @@
   {
     "name": "Speechify",
     "slug": "speechify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Horizon Assset Investments",
+    "slug": "horizon-assset-investments",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "comparis.ch",
+    "slug": "comparis-ch",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
