@@ -14,6 +14,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Radix",
+    "slug": "radix",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
@@ -42,22 +49,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Affirm",
-    "slug": "affirm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Expion Health",
-    "slug": "expion-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -82,6 +75,48 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Cohesity",
+    "slug": "cohesity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Rock Encantech",
+    "slug": "rock-encantech",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Alkami",
+    "slug": "alkami",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "TCWGlobal",
+    "slug": "tcwglobal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vinta",
+    "slug": "vinta",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Luxury Presence",
+    "slug": "luxury-presence",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Braviant Holdings",
@@ -203,13 +238,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Wealthsimple",
-    "slug": "wealthsimple",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Olive June",
     "slug": "olive-june",
     "logo_url": null,
@@ -247,13 +275,6 @@
   {
     "name": "InStride Health",
     "slug": "instride-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "SiteCare",
-    "slug": "sitecare",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -310,6 +331,13 @@
   {
     "name": "Stealth AI Startup",
     "slug": "stealth-ai-startup",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Expion Health",
+    "slug": "expion-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -420,13 +448,6 @@
     "jobs_count": 1
   },
   {
-    "name": "SketchDeck",
-    "slug": "sketchdeck",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "silverorange",
     "slug": "silverorange",
     "logo_url": null,
@@ -483,27 +504,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Vexxhost",
-    "slug": "vexxhost",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Interop Labs",
-    "slug": "interop-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Careers - Think Digitally",
-    "slug": "careers-think-digitally",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Speechify",
     "slug": "speechify",
     "logo_url": null,
@@ -511,43 +511,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Horizon Assset Investments",
-    "slug": "horizon-assset-investments",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "comparis.ch",
-    "slug": "comparis-ch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Indiewalls",
-    "slug": "indiewalls",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Urban Legend",
-    "slug": "urban-legend",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Dry Ground AI",
     "slug": "dry-ground-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Remote Talent Cloud",
-    "slug": "remote-talent-cloud",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
