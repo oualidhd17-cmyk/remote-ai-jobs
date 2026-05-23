@@ -4,21 +4,21 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
+    "jobs_count": 32
   },
   {
     "name": "Aisle and Abroad",
     "slug": "aisle-and-abroad",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 10
   },
   {
-    "name": "Avalere Health",
-    "slug": "avalere-health",
+    "name": "Tremendous",
+    "slug": "tremendous",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
     "name": "Radix",
@@ -30,13 +30,6 @@
   {
     "name": "LawnStarter",
     "slug": "lawnstarter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Pearl",
-    "slug": "pearl",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -77,6 +70,62 @@
     "jobs_count": 2
   },
   {
+    "name": "PaperWorks",
+    "slug": "paperworks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Anyone AI",
+    "slug": "anyone-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Viseven",
+    "slug": "viseven",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Centralreach",
+    "slug": "centralreach",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Iungo Spa",
+    "slug": "iungo-spa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "E. Breuninger& Co.",
+    "slug": "e-breuninger-co",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Aledade",
+    "slug": "aledade",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Welocalize",
+    "slug": "welocalize",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -84,8 +133,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Tremendous",
-    "slug": "tremendous",
+    "name": "LiveKit",
+    "slug": "livekit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Acclaim AI",
+    "slug": "acclaim-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -119,13 +175,6 @@
     "jobs_count": 1
   },
   {
-    "name": "TCWGlobal",
-    "slug": "tcwglobal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Vinta",
     "slug": "vinta",
     "logo_url": null,
@@ -142,6 +191,13 @@
   {
     "name": "Roar Media",
     "slug": "roar-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Swiggy",
+    "slug": "swiggy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,8 +224,29 @@
     "jobs_count": 1
   },
   {
+    "name": "adm Indicia",
+    "slug": "adm-indicia",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercor",
+    "slug": "mercor",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "CXT Software",
     "slug": "cxt-software",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pearl",
+    "slug": "pearl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -182,6 +259,13 @@
     "jobs_count": 1
   },
   {
+    "name": "PointClickCare",
+    "slug": "pointclickcare",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Wealth.com",
     "slug": "wealth-com",
     "logo_url": null,
@@ -189,57 +273,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Bazaarvoice",
-    "slug": "bazaarvoice",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mitek Systems",
-    "slug": "mitek-systems",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PerformYard",
-    "slug": "performyard",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Chief Rebel",
-    "slug": "chief-rebel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Hint Health",
     "slug": "hint-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cloudlinux",
-    "slug": "cloudlinux",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cohere",
-    "slug": "cohere",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Paired",
-    "slug": "paired",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -273,71 +308,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Yuno",
-    "slug": "yuno",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Global Elite Empire Consultants",
-    "slug": "global-elite-empire-consultants",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "InStride Health",
-    "slug": "instride-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "SuperPlane",
-    "slug": "superplane",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sticker Mule",
-    "slug": "sticker-mule",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mitre Media",
     "slug": "mitre-media",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Obsidian Security",
-    "slug": "obsidian-security",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cosuno",
-    "slug": "cosuno",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "HighLevel",
-    "slug": "highlevel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Altarum",
-    "slug": "altarum",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -352,34 +324,6 @@
   {
     "name": "Expion Health",
     "slug": "expion-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ContinuumGlobal, Inc",
-    "slug": "continuumglobal-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CentralReach",
-    "slug": "centralreach",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sprinto",
-    "slug": "sprinto",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Firework",
-    "slug": "firework",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -457,13 +401,6 @@
   {
     "name": "Socket",
     "slug": "socket",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Atria Physician Practice New York Pc",
-    "slug": "atria-physician-practice-new-york-pc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
