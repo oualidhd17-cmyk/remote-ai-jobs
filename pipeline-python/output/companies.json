@@ -14,6 +14,13 @@
     "jobs_count": 10
   },
   {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Tremendous",
     "slug": "tremendous",
     "logo_url": null,
@@ -23,13 +30,6 @@
   {
     "name": "Radix",
     "slug": "radix",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -68,6 +68,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Speechify Inc",
+    "slug": "speechify-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Happily",
+    "slug": "happily",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "RubyPlay",
+    "slug": "rubyplay",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "PaperWorks",
@@ -147,6 +168,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Obelisk Support",
+    "slug": "obelisk-support",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "The Auctus Group",
+    "slug": "the-auctus-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Empathy",
     "slug": "empathy",
     "logo_url": null,
@@ -168,13 +203,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Alkami",
-    "slug": "alkami",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Vinta",
     "slug": "vinta",
     "logo_url": null,
@@ -189,6 +217,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Unilever",
+    "slug": "unilever",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Roar Media",
     "slug": "roar-media",
     "logo_url": null,
@@ -196,8 +231,22 @@
     "jobs_count": 1
   },
   {
+    "name": "SMG Studio",
+    "slug": "smg-studio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Swiggy",
     "slug": "swiggy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercor",
+    "slug": "mercor",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -217,8 +266,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Benchling",
-    "slug": "benchling",
+    "name": "Social Element",
+    "slug": "social-element",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -231,27 +280,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Mercor",
-    "slug": "mercor",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CXT Software",
-    "slug": "cxt-software",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pearl",
-    "slug": "pearl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Nomad",
     "slug": "nomad",
     "logo_url": null,
@@ -259,15 +287,8 @@
     "jobs_count": 1
   },
   {
-    "name": "PointClickCare",
-    "slug": "pointclickcare",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Wealth.com",
-    "slug": "wealth-com",
+    "name": "Bazaarvoice",
+    "slug": "bazaarvoice",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -420,13 +441,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Horizon Assset Investments",
-    "slug": "horizon-assset-investments",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "comparis.ch",
     "slug": "comparis-ch",
     "logo_url": null,
@@ -434,8 +448,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Dry Ground AI",
-    "slug": "dry-ground-ai",
+    "name": "VP Education Group",
+    "slug": "vp-education-group",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
