@@ -11,7 +11,7 @@
     "slug": "aisle-and-abroad",
     "logo_url": null,
     "website": null,
-    "jobs_count": 10
+    "jobs_count": 9
   },
   {
     "name": "LawnStarter",
@@ -19,13 +19,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
-  },
-  {
-    "name": "Tremendous",
-    "slug": "tremendous",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
   },
   {
     "name": "Radix",
@@ -70,6 +63,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Bluelight Consulting",
+    "slug": "bluelight-consulting",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Speechify Inc",
     "slug": "speechify-inc",
     "logo_url": null,
@@ -79,6 +79,13 @@
   {
     "name": "Happily",
     "slug": "happily",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "MyOme",
+    "slug": "myome",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,6 +175,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Tremendous",
+    "slug": "tremendous",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Acclaim AI",
     "slug": "acclaim-ai",
     "logo_url": null,
@@ -184,13 +198,6 @@
   {
     "name": "The Auctus Group",
     "slug": "the-auctus-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Empathy",
-    "slug": "empathy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,20 +226,6 @@
   {
     "name": "Luxury Presence",
     "slug": "luxury-presence",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Unilever",
-    "slug": "unilever",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Roar Media",
-    "slug": "roar-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
