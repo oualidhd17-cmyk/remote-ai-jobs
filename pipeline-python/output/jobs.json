@@ -1,1016 +1,120 @@
 [
   {
-    "id": "hr-assistant-aisle-and-abroad-usa-remoteok-1132144",
-    "slug": "hr-assistant-aisle-and-abroad-usa-remoteok-1132144",
-    "title": "HR Assistant",
-    "seo_title": "Remote HR Assistant Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote HR Assistant job at Aisle and Abroad in USA. Explore hr, assistant, admin, recruiting and remote AI jobs.",
+    "id": "data-engineer-safeguards-anthropic-uk-greenhouse-anthropic-5156057008",
+    "slug": "data-engineer-safeguards-anthropic-uk-greenhouse-anthropic-5156057008",
+    "title": "Data Engineer, Safeguards",
+    "seo_title": "Remote Data Engineer, Safeguards Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Engineer, Safeguards job at anthropic in UK. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
     "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
+      "name": "anthropic",
+      "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "USA",
+    "country": "UK",
     "city": null,
-    "location": "Texas, Texas, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "skills": [
-      "hr",
-      "assistant",
-      "admin",
-      "recruiting",
-      "recruitment",
-      "full time",
-      "non tech"
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Spark",
+      "Airflow",
+      "Tableau",
+      "Statistics",
+      "Safeguards (Trust & Safety)",
+      "London, UK"
     ],
     "category": "AI Engineering",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $38,000 - $50,000 per year Job Description We are hiring an HR Assistant to support our human resources team with recruitment coordination, employee records, and onboarding administration. This role...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-aisle-and-abroad-1132144",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132144",
-    "published_at": "2026-05-23",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5156057008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5156057008",
+    "published_at": "2026-05-25",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "HR Assistant",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $38,000 - $50,000 per year Job Description We are hiring an HR Assistant to support our human resources team with recruitment coordination, employee records, and onboarding administration. This role...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
+      "title": "Data Engineer, Safeguards",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-25",
+      "employmentType": "INTERN",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "Aisle and Abroad"
+        "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132144",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5156057008"
     },
     "ai_relevant": true
   },
   {
-    "id": "hr-assistant-aisle-and-abroad-usa-remoteok-1132138",
-    "slug": "hr-assistant-aisle-and-abroad-usa-remoteok-1132138",
-    "title": "HR Assistant",
-    "seo_title": "Remote HR Assistant Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote HR Assistant job at Aisle and Abroad in USA. Explore hr, assistant, recruiting, recruitment and remote AI jobs.",
+    "id": "data-scientist-platform-product-anthropic-worldwide-greenhouse-anthropic-5116820008",
+    "slug": "data-scientist-platform-product-anthropic-worldwide-greenhouse-anthropic-5116820008",
+    "title": "Data Scientist, Platform Product",
+    "seo_title": "Remote Data Scientist, Platform Product Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Platform Product job at anthropic in Worldwide. Explore Python, SQL, LLM, RAG and remote AI jobs.",
     "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
+      "name": "anthropic",
+      "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "USA",
+    "country": "Worldwide",
     "city": null,
-    "location": "Pennsylvania, Pennsylvania, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA",
+    "location_label": "New York City, NY | Seattle, WA; San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "skills": [
-      "hr",
-      "assistant",
-      "recruiting",
-      "recruitment",
-      "admin",
-      "full time",
-      "work from home"
+      "Python",
+      "SQL",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Statistics",
+      "Data Science & Analytics",
+      "San Francisco, CA"
     ],
     "category": "AI Engineering",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $38,000 - $50,000 per year Job Description We are hiring an HR Assistant to support our human resources team with recruitment coordination, employee records, and onboarding administration. This role...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-hr-assistant-aisle-and-abroad-1132138",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132138",
-    "published_at": "2026-05-23",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008",
+    "published_at": "2026-05-25",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "HR Assistant",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $38,000 - $50,000 per year Job Description We are hiring an HR Assistant to support our human resources team with recruitment coordination, employee records, and onboarding administration. This role...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
+      "title": "Data Scientist, Platform Product",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-25",
+      "employmentType": "INTERN",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "Aisle and Abroad"
+        "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132138",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132129",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132129",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, telecommuting and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Pennsylvania, Pennsylvania, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "telecommuting"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132129",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132129",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132129",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132133",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132133",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, admin, full time, work from home and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Florida, Florida, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "admin",
-      "full time",
-      "work from home",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132133",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132133",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132133",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132137",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132137",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "California, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132137",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132137",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132137",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132141",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132141",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, admin and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Illinois, Illinois, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "admin",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132141",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132141",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132141",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132135",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132135",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, admin and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Texas, Texas, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "admin"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132135",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132135",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132135",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132134",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132134",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, admin and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "California, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "admin",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132134",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132134",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132134",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132131",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132131",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, telecommuting and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Florida, Florida, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "telecommuting",
-      "admin",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132131",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132131",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132131",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132132",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132132",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, non tech and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Illinois, Illinois, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132132",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132132",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132132",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132136",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132136",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, non tech and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Pennsylvania, Pennsylvania, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132136",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132136",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132136",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "email-support-representative-aisle-and-abroad-usa-remoteok-1132139",
-    "slug": "email-support-representative-aisle-and-abroad-usa-remoteok-1132139",
-    "title": "Email Support Representative",
-    "seo_title": "Remote Email Support Representative Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Email Support Representative job at Aisle and Abroad in USA. Explore customer support, support, full time, work from home and remote AI...",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Pennsylvania, Pennsylvania, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "customer support",
-      "support",
-      "full time",
-      "work from home",
-      "non tech",
-      "admin"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Why checks apply: Accesses customer accounts and personal data via email â background check required. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $44,000 per year Job Description We are looking for Email Support Representatives to...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-email-support-representative-aisle-and-abroad-1132139",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132139",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Email Support Representative",
-      "description": "Why checks apply: Accesses customer accounts and personal data via email â background check required. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $44,000 per year Job Description We are looking for Email Support Representatives to...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132139",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "email-support-representative-aisle-and-abroad-usa-remoteok-1132143",
-    "slug": "email-support-representative-aisle-and-abroad-usa-remoteok-1132143",
-    "title": "Email Support Representative",
-    "seo_title": "Remote Email Support Representative Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Email Support Representative job at Aisle and Abroad in USA. Explore customer support, full time, work from home, support and remote AI...",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Illinois, Illinois, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "customer support",
-      "full time",
-      "work from home",
-      "support",
-      "non tech"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Why checks apply: Accesses customer accounts and personal data via email â background check required. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $44,000 per year Job Description We are looking for Email Support Representatives to...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-email-support-representative-aisle-and-abroad-1132143",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132143",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Email Support Representative",
-      "description": "Why checks apply: Accesses customer accounts and personal data via email â background check required. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $44,000 per year Job Description We are looking for Email Support Representatives to...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132143",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132126",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132126",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, admin and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Pennsylvania, Pennsylvania, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "admin"
-    ],
-    "category": "Robotics",
-    "description_summary": "Why checks apply: Access to client records and internal databases â background check standard for all remote data roles. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132126",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132126",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Why checks apply: Access to client records and internal databases â background check standard for all remote data roles. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132126",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132127",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132127",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "New York, New York, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home"
-    ],
-    "category": "Robotics",
-    "description_summary": "Why checks apply: Access to client records and internal databases â background check standard for all remote data roles. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132127",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132127",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Why checks apply: Access to client records and internal databases â background check standard for all remote data roles. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132127",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132130",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132130",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, admin and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Florida, Florida, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "admin",
-      "operations"
-    ],
-    "category": "Robotics",
-    "description_summary": "Why checks apply: Access to client records and internal databases â background check standard for all remote data roles. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132130",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132130",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Why checks apply: Access to client records and internal databases â background check standard for all remote data roles. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132130",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132128",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1132128",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "California, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home"
-    ],
-    "category": "Robotics",
-    "description_summary": "Why checks apply: Access to client records and internal databases â background check standard for all remote data roles. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1132128",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132128",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Why checks apply: Access to client records and internal databases â background check standard for all remote data roles. Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132128",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116820008"
     },
     "ai_relevant": true
   },
@@ -1072,488 +176,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "UK"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "project-coordinator-aisle-and-abroad-usa-remoteok-1131983",
-    "slug": "project-coordinator-aisle-and-abroad-usa-remoteok-1131983",
-    "title": "Project Coordinator",
-    "seo_title": "Remote Project Coordinator Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Project Coordinator job at Aisle and Abroad in USA. Explore coordinator, full time, work from home, operations and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "New York, New York, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "coordinator",
-      "full time",
-      "work from home",
-      "operations",
-      "assistant"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $45,000 - $58,000 per year Job Description We are hiring a Project Coordinator to support the planning, tracking, and execution of internal and client-facing projects. This role involves access to...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-project-coordinator-aisle-and-abroad-1131983",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131983",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Project Coordinator",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $45,000 - $58,000 per year Job Description We are hiring a Project Coordinator to support the planning, tracking, and execution of internal and client-facing projects. This role involves access to...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131983",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "virtual-assistant-aisle-and-abroad-usa-remoteok-1131984",
-    "slug": "virtual-assistant-aisle-and-abroad-usa-remoteok-1131984",
-    "title": "Virtual Assistant",
-    "seo_title": "Remote Virtual Assistant Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Virtual Assistant job at Aisle and Abroad in USA. Explore virtual assistant, admin, assistant, full time and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "New York, New York, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "virtual assistant",
-      "admin",
-      "assistant",
-      "full time",
-      "work from home",
-      "non tech"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $37,000 - $49,000 per year Job Description We are hiring Virtual Assistants to provide administrative and operational support to our executive team. This role involves access to confidential business...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-virtual-assistant-aisle-and-abroad-1131984",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131984",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Virtual Assistant",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $37,000 - $49,000 per year Job Description We are hiring Virtual Assistants to provide administrative and operational support to our executive team. This role involves access to confidential business...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131984",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-analyst-aisle-and-abroad-usa-remoteok-1131982",
-    "slug": "data-analyst-aisle-and-abroad-usa-remoteok-1131982",
-    "title": "Data Analyst",
-    "seo_title": "Remote Data Analyst Job in USA | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Data Analyst job at Aisle and Abroad in USA. Explore Tableau, Power BI, analyst, analytics and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "California, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Tableau",
-      "Power BI",
-      "analyst",
-      "analytics",
-      "excel",
-      "full time",
-      "telecommuting",
-      "work from home"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $50,000 - $68,000 per year Job Description We are seeking a Data Analyst to support our business intelligence and reporting functions. This role involves working with large datasets, building reports,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-analyst-aisle-and-abroad-1131982",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131982",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Analyst",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $50,000 - $68,000 per year Job Description We are seeking a Data Analyst to support our business intelligence and reporting functions. This role involves working with large datasets, building reports,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131982",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131979",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131979",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, telecommuting and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "New York, New York, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "telecommuting",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1131979",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131979",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131979",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131980",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131980",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, non tech and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Florida, Florida, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1131980",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131980",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131980",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131981",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131981",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, telecommuting and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Pennsylvania, Pennsylvania, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "telecommuting",
-      "admin",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1131981",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131981",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131981",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131987",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131987",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, full time, work from home, non tech and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "California, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "full time",
-      "work from home",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1131987",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131987",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131987",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131989",
-    "slug": "data-entry-clerk-aisle-and-abroad-usa-remoteok-1131989",
-    "title": "Data Entry Clerk",
-    "seo_title": "Remote Data Entry Clerk Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Data Entry Clerk job at Aisle and Abroad in USA. Explore data entry, admin, full time, work from home and remote AI jobs.",
-    "company": {
-      "name": "Aisle and Abroad",
-      "slug": "aisle-and-abroad",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Illinois, Illinois, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data entry",
-      "admin",
-      "full time",
-      "work from home"
-    ],
-    "category": "Robotics",
-    "description_summary": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-aisle-and-abroad-1131989",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1131989",
-    "published_at": "2026-05-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Entry Clerk",
-      "description": "Location: Full Time / 100% Remote (United States) Salary: $35,000 - $45,000 per year Job Description We are hiring Data Entry Clerks to support our operations team from home. This role involves entering and maintaining customer records, account information,...",
-      "datePosted": "2026-05-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aisle and Abroad"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1131989",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
       }
     },
     "ai_relevant": true
@@ -2984,60 +1606,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
-    "slug": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
-    "title": "Data Center Electrical Engineer",
-    "seo_title": "Remote Data Center Electrical Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Center Electrical Engineer job at anthropic in Worldwide. Explore RAG, AWS, Compute, Tokyo, Japan and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Tokyo, Japan",
-    "location_label": "Tokyo, Japan",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute",
-      "Tokyo, Japan"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
-    "published_at": "2026-05-21",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Center Electrical Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-21",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
     "slug": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
     "title": "Data Center Electrical Engineer",
@@ -3088,6 +1656,60 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
+    "slug": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
+    "title": "Data Center Electrical Engineer",
+    "seo_title": "Remote Data Center Electrical Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Center Electrical Engineer job at anthropic in Worldwide. Explore RAG, AWS, Compute, Tokyo, Japan and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Tokyo, Japan",
+    "location_label": "Tokyo, Japan",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute",
+      "Tokyo, Japan"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
+    "published_at": "2026-05-21",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Center Electrical Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-21",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008"
     },
     "ai_relevant": true
   },
@@ -4015,64 +2637,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-scientist-developer-productivity-anthropic-worldwide-greenhouse-anthropic-5197529008",
-    "slug": "data-scientist-developer-productivity-anthropic-worldwide-greenhouse-anthropic-5197529008",
-    "title": "Data Scientist, Developer Productivity",
-    "seo_title": "Remote Data Scientist, Developer Productivity Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Scientist, Developer Productivity job at anthropic in Worldwide. Explore Python, SQL, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Statistics",
-      "Data Science & Analytics",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008",
-    "published_at": "2026-05-19",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Scientist, Developer Productivity",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-19",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5197529008"
     },
     "ai_relevant": true
   },
@@ -6535,6 +5099,59 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/vp-education-group-high-paying-hourly-enrollment-specialist",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "remote-ai-training-20-hr-united-states-remote-talent-cloud-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-talent-cloud-remote-ai-training",
+    "slug": "remote-ai-training-20-hr-united-states-remote-talent-cloud-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-talent-cloud-remote-ai-training",
+    "title": "Remote AI Training - $20/hr - United States",
+    "seo_title": "Remote Remote AI Training - $20/hr - United States Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Remote AI Training - $20/hr - United States job at Remote Talent Cloud in Worldwide. Explore All Other Remote, Remote and remote AI...",
+    "company": {
+      "name": "Remote Talent Cloud",
+      "slug": "remote-talent-cloud",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ ========== IMPORTANT! Please use this link to apply: ➡️ https://remotetalentcloud.com/apply-ai/ ========== Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states",
+    "published_at": "2026-04-21",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Remote AI Training - $20/hr - United States",
+      "description": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ ========== IMPORTANT! Please use this link to apply: ➡️ https://remotetalentcloud.com/apply-ai/ ========== Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in...",
+      "datePosted": "2026-04-21",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Remote Talent Cloud"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
