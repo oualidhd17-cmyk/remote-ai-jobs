@@ -4,18 +4,18 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
-  },
-  {
-    "name": "PULSEMEDIA (APAC)",
-    "slug": "pulsemedia-apac",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
+    "jobs_count": 32
   },
   {
     "name": "LawnStarter",
     "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "Sword Health",
+    "slug": "sword-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -23,13 +23,6 @@
   {
     "name": "Radix",
     "slug": "radix",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "EverAI",
-    "slug": "everai",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -63,29 +56,29 @@
     "jobs_count": 2
   },
   {
+    "name": "frete.com",
+    "slug": "frete-com",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "BuildOps",
+    "slug": "buildops",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Compound Planning",
+    "slug": "compound-planning",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Pickle",
     "slug": "pickle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mercor",
-    "slug": "mercor",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Bluelight Consulting",
-    "slug": "bluelight-consulting",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Speechify Inc",
-    "slug": "speechify-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -133,13 +126,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Cohesity",
     "slug": "cohesity",
     "logo_url": null,
@@ -168,8 +154,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Orchard Brokerage",
-    "slug": "orchard-brokerage",
+    "name": "EverAI",
+    "slug": "everai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -231,13 +217,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Stealth AI Startup",
-    "slug": "stealth-ai-startup",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Expion Health",
     "slug": "expion-health",
     "logo_url": null,
@@ -247,13 +226,6 @@
   {
     "name": "Catamaran Research",
     "slug": "catamaran-research",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ORCID",
-    "slug": "orcid",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -338,20 +310,6 @@
   {
     "name": "comparis.ch",
     "slug": "comparis-ch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "VP Education Group",
-    "slug": "vp-education-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Remote Talent Cloud",
-    "slug": "remote-talent-cloud",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
