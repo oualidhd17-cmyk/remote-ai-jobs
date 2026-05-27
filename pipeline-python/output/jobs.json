@@ -63,6 +63,63 @@
     "ai_relevant": true
   },
   {
+    "id": "qa-engineer-cortes-23-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cortes-23-qa-engineer",
+    "slug": "qa-engineer-cortes-23-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cortes-23-qa-engineer",
+    "title": "QA Engineer",
+    "seo_title": "Remote QA Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote QA Engineer job at Cortes 23 in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
+    "company": {
+      "name": "Cortes 23",
+      "slug": "cortes-23",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote URL: https://cortes23.com Are you an experienced QA engineer with a proven record of success, looking for a new and exciting challenge? Do you want to be part of an industry disruptor? If so, we could have the opportunity for you. The...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/cortes-23-qa-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/cortes-23-qa-engineer",
+    "published_at": "2026-05-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "QA Engineer",
+      "description": "Headquarters: Remote URL: https://cortes23.com Are you an experienced QA engineer with a proven record of success, looking for a new and exciting challenge? Do you want to be part of an industry disruptor? If so, we could have the opportunity for you. The...",
+      "datePosted": "2026-05-26",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Cortes 23"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/cortes-23-qa-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "analista-de-sistemas-crm-senior-frete-com-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-frete-com-analista-de-sistemas-crm-senior",
     "slug": "analista-de-sistemas-crm-senior-frete-com-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-frete-com-analista-de-sistemas-crm-senior",
     "title": "Analista de Sistemas CRM Sênior",
@@ -446,6 +503,60 @@
     "ai_relevant": true
   },
   {
+    "id": "communications-manager-enterprise-anthropic-worldwide-greenhouse-anthropic-5164551008",
+    "slug": "communications-manager-enterprise-anthropic-worldwide-greenhouse-anthropic-5164551008",
+    "title": "Communications Manager, Enterprise",
+    "seo_title": "Remote Communications Manager, Enterprise Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Communications Manager, Enterprise job at anthropic in Worldwide. Explore RAG, AWS, Communications, San Francisco, CA and remote AI...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Communications",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5164551008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5164551008",
+    "published_at": "2026-05-26",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Communications Manager, Enterprise",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-26",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5164551008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "data-engineering-manager-gtm-marketing-anthropic-worldwide-greenhouse-anthropic-5229976008",
     "slug": "data-engineering-manager-gtm-marketing-anthropic-worldwide-greenhouse-anthropic-5229976008",
     "title": "Data Engineering Manager, GTM & Marketing",
@@ -498,6 +609,132 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5229976008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "junior-creative-strategist-linjer-worldwide-remoteok-1132385",
+    "slug": "junior-creative-strategist-linjer-worldwide-remoteok-1132385",
+    "title": "Junior Creative Strategist",
+    "seo_title": "Remote Junior Creative Strategist Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Junior Creative Strategist job at Linjer in Worldwide. Explore virtual assistant, education, customer support, marketing and remote AI...",
+    "company": {
+      "name": "Linjer",
+      "slug": "linjer",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Hong Kong, Hong Kong, Hong Kong SAR",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "entry",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "virtual assistant",
+      "education",
+      "customer support",
+      "marketing",
+      "video",
+      "microsoft",
+      "exec",
+      "ops",
+      "excel",
+      "analyst",
+      "finance",
+      "data science"
+    ],
+    "category": "Data Science",
+    "description_summary": "About Linjer Founded in 2014, Linjer is a design studio with Scandinavian roots dedicated to creating timeless, high-quality jewelry, bags, and watches. Frustrated by the limited options between fast fashion and overpriced luxury, we partner directly with top...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-creative-strategist-linjer-1132385",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132385",
+    "published_at": "2026-05-25",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Junior Creative Strategist",
+      "description": "About Linjer Founded in 2014, Linjer is a design studio with Scandinavian roots dedicated to creating timeless, high-quality jewelry, bags, and watches. Frustrated by the limited options between fast fashion and overpriced luxury, we partner directly with top...",
+      "datePosted": "2026-05-25",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Linjer"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132385",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "medical-assistant-patient-advocate-amaze-health-worldwide-remoteok-1132308",
+    "slug": "medical-assistant-patient-advocate-amaze-health-worldwide-remoteok-1132308",
+    "title": "Medical Assistant Patient Advocate",
+    "seo_title": "Remote Medical Assistant Patient Advocate Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Medical Assistant Patient Advocate job at Amaze Health in Worldwide. Explore RAG, design, writer, copywriting and remote AI jobs.",
+    "company": {
+      "name": "Amaze Health",
+      "slug": "amaze-health",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Denver,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "design",
+      "writer",
+      "copywriting",
+      "web dev",
+      "speech",
+      "seo",
+      "content writing",
+      "marketing",
+      "medical",
+      "ecommerce",
+      "digital nomad"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Amaze Health delivers concierge-style virtual care that feels like having a trusted âdoctor friendâ on call 24/7, for everything from sudden illnesses to chronic conditions and mental health. As a true partner, we simplify the healthcare maze, guiding...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-medical-assistant-patient-advocate-amaze-health-1132308",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132308",
+    "published_at": "2026-05-25",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Medical Assistant Patient Advocate",
+      "description": "Amaze Health delivers concierge-style virtual care that feels like having a trusted âdoctor friendâ on call 24/7, for everything from sudden illnesses to chronic conditions and mental health. As a true partner, we simplify the healthcare maze, guiding...",
+      "datePosted": "2026-05-25",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Amaze Health"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132308",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -1948,60 +2185,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
-    "slug": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
-    "title": "Data Center Electrical Engineer",
-    "seo_title": "Remote Data Center Electrical Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Center Electrical Engineer job at anthropic in Worldwide. Explore RAG, AWS, Compute, Tokyo, Japan and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Tokyo, Japan",
-    "location_label": "Tokyo, Japan",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute",
-      "Tokyo, Japan"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
-    "published_at": "2026-05-21",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Center Electrical Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-21",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
     "slug": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
     "title": "Data Center Electrical Engineer",
@@ -2052,6 +2235,60 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
+    "slug": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
+    "title": "Data Center Electrical Engineer",
+    "seo_title": "Remote Data Center Electrical Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Center Electrical Engineer job at anthropic in Worldwide. Explore RAG, AWS, Compute, Tokyo, Japan and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Tokyo, Japan",
+    "location_label": "Tokyo, Japan",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute",
+      "Tokyo, Japan"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
+    "published_at": "2026-05-21",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Center Electrical Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-21",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008"
     },
     "ai_relevant": true
   },
@@ -2811,60 +3048,6 @@
     "ai_relevant": true
   },
   {
-    "id": "product-marketing-manager-bazaarvoice-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bazaarvoice-product-marketing-manager",
-    "slug": "product-marketing-manager-bazaarvoice-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bazaarvoice-product-marketing-manager",
-    "title": "Product Marketing Manager",
-    "seo_title": "Remote Product Marketing Manager Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Product Marketing Manager job at Bazaarvoice in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Bazaarvoice",
-      "slug": "bazaarvoice",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote, United States About Bazaarvoice At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community & enterprise technology, we connect thousands of brands and retailers with billions...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/bazaarvoice-product-marketing-manager",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/bazaarvoice-product-marketing-manager",
-    "published_at": "2026-05-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Marketing Manager",
-      "description": "Headquarters: Remote, United States About Bazaarvoice At Bazaarvoice, we create smart shopping experiences. Through our expansive global network, product-passionate community & enterprise technology, we connect thousands of brands and retailers with billions...",
-      "datePosted": "2026-05-18",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Bazaarvoice"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/bazaarvoice-product-marketing-manager",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-qlab-support-specialist-half-time-figure-53-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-figure-53-senior-qlab-support-specialist-half-t",
     "slug": "senior-qlab-support-specialist-half-time-figure-53-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-figure-53-senior-qlab-support-specialist-half-t",
     "title": "Senior QLab Support Specialist (half time)",
@@ -3372,65 +3555,6 @@
     "ai_relevant": true
   },
   {
-    "id": "application-security-engineer-anthropic-worldwide-greenhouse-anthropic-4502508008",
-    "slug": "application-security-engineer-anthropic-worldwide-greenhouse-anthropic-4502508008",
-    "title": "Application Security Engineer",
-    "seo_title": "Remote Application Security Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Application Security Engineer job at anthropic in Worldwide. Explore Python, RAG, Docker, Kubernetes and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "GCP",
-      "Security",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
-    "published_at": "2026-05-15",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Application Security Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-15",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4502508008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-full-stack-react-developer-lemon-io-usa-remotive-2088711",
     "slug": "senior-full-stack-react-developer-lemon-io-usa-remotive-2088711",
     "title": "Senior Full-stack React Developer",
@@ -3852,7 +3976,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
     "published_at": "2026-05-12",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -3868,116 +3992,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-center-facility-operations-lead-anthropic-australia-greenhouse-anthropic-5218181008",
-    "slug": "data-center-facility-operations-lead-anthropic-australia-greenhouse-anthropic-5218181008",
-    "title": "Data Center Facility Operations Lead",
-    "seo_title": "Remote Data Center Facility Operations Lead Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Center Facility Operations Lead job at anthropic in Australia. Explore RAG, AWS, Compute, Sydney, Australia and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5218181008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5218181008",
-    "published_at": "2026-05-12",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Center Facility Operations Lead",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-12",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5218181008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-center-hardware-operations-lead-anthropic-australia-greenhouse-anthropic-5218186008",
-    "slug": "data-center-hardware-operations-lead-anthropic-australia-greenhouse-anthropic-5218186008",
-    "title": "Data Center Hardware Operations Lead",
-    "seo_title": "Remote Data Center Hardware Operations Lead Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Center Hardware Operations Lead job at anthropic in Australia. Explore RAG, AWS, Tableau, Power BI and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Tableau",
-      "Power BI",
-      "Compute",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5218186008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5218186008",
-    "published_at": "2026-05-12",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Center Hardware Operations Lead",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-12",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5218186008"
     },
     "ai_relevant": true
   },
@@ -4408,65 +4422,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-support-manager-parkosecure-gmbh-switzerland-remotive-2090874",
-    "slug": "customer-support-manager-parkosecure-gmbh-switzerland-remotive-2090874",
-    "title": "🇩🇪Customer Support Manager",
-    "seo_title": "Remote 🇩🇪Customer Support Manager Job in Switzerland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote 🇩🇪Customer Support Manager job at Parkosecure GmbH in Switzerland. Explore RAG, MS Office, Customer Service, full_time and remote AI...",
-    "company": {
-      "name": "Parkosecure GmbH",
-      "slug": "parkosecure-gmbh",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Switzerland",
-    "city": null,
-    "location": "Switzerland",
-    "location_label": "Remote - Switzerland",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "MS Office",
-      "Customer Service",
-      "full_time"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "🇩🇪 This job ad is written in German. 🇩🇪 Die Parkosecure GmbH ist ein innovatives Unternehmen im Bereich Parkraummanagement in der Schweiz. Für die Betreuung unserer Kunden in der französischen Schweiz suchen wir eine zuverlässige und selbständig arbeitende...",
-    "apply_url": "https://remotive.com/remote-jobs/customer-service/customer-support-manager-2090874",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/customer-service/customer-support-manager-2090874",
-    "published_at": "2026-05-04",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "🇩🇪Customer Support Manager",
-      "description": "🇩🇪 This job ad is written in German. 🇩🇪 Die Parkosecure GmbH ist ein innovatives Unternehmen im Bereich Parkraummanagement in der Schweiz. Für die Betreuung unserer Kunden in der französischen Schweiz suchen wir eine zuverlässige und selbständig arbeitende...",
-      "datePosted": "2026-05-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Parkosecure GmbH"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/customer-service/customer-support-manager-2090874",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Switzerland"
       }
     },
     "ai_relevant": true

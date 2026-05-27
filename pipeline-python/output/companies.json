@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 32
+    "jobs_count": 30
   },
   {
     "name": "LawnStarter",
@@ -56,6 +56,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Cortes 23",
+    "slug": "cortes-23",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "frete.com",
     "slug": "frete-com",
     "logo_url": null,
@@ -72,6 +79,20 @@
   {
     "name": "Compound Planning",
     "slug": "compound-planning",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Linjer",
+    "slug": "linjer",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Amaze Health",
+    "slug": "amaze-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,13 +189,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Bazaarvoice",
-    "slug": "bazaarvoice",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Hint Health",
     "slug": "hint-health",
     "logo_url": null,
@@ -261,13 +275,6 @@
   {
     "name": "Praia Health Inc.",
     "slug": "praia-health-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Parkosecure GmbH",
-    "slug": "parkosecure-gmbh",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
