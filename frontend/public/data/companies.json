@@ -11,7 +11,7 @@
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 4
   },
   {
     "name": "Sword Health",
@@ -54,6 +54,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Guidehealth",
+    "slug": "guidehealth",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Cortes 23",
@@ -310,13 +324,6 @@
   {
     "name": "Speechify",
     "slug": "speechify",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "comparis.ch",
-    "slug": "comparis-ch",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -1,5 +1,63 @@
 [
   {
+    "id": "marketing-data-scientist-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-marketing-data-scientist",
+    "slug": "marketing-data-scientist-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-marketing-data-scientist",
+    "title": "Marketing Data Scientist",
+    "seo_title": "Remote Marketing Data Scientist Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Marketing Data Scientist job at Toptal in Worldwide. Explore Python, Pandas, NumPy, AWS and remote AI jobs.",
+    "company": {
+      "name": "Toptal",
+      "slug": "toptal",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "AWS",
+      "Statistics",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Remote URL: https://www.toptal.com/ Job Description We are seeking a Marketing Data Scientist to support and enhance internally built marketing ROI and analytics platform. This role focuses on analyzing marketing effectiveness, optimizing ad...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/toptal-marketing-data-scientist",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/toptal-marketing-data-scientist",
+    "published_at": "2026-05-27",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Marketing Data Scientist",
+      "description": "Headquarters: Remote URL: https://www.toptal.com/ Job Description We are seeking a Marketing Data Scientist to support and enhance internally built marketing ROI and analytics platform. This role focuses on analyzing marketing effectiveness, optimizing ad...",
+      "datePosted": "2026-05-27",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Toptal"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/toptal-marketing-data-scientist",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-fellows-program-the-anthropic-institute-economics-policy-anthropic-usa-greenhouse-anthropic-5183053008",
     "slug": "anthropic-fellows-program-the-anthropic-institute-economics-policy-anthropic-usa-greenhouse-anthropic-5183053008",
     "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
@@ -54,6 +112,73 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "clinical-quality-improvement-coordinator-guidehealth-usa-remoteok-1132349",
+    "slug": "clinical-quality-improvement-coordinator-guidehealth-usa-remoteok-1132349",
+    "title": "Clinical Quality Improvement Coordinator",
+    "seo_title": "Remote Clinical Quality Improvement Coordinator Job in USA | NLP Jobs",
+    "seo_description": "Apply for a remote Clinical Quality Improvement Coordinator job at Guidehealth in USA. Explore LLM, RAG, AWS, embedded and remote AI jobs.",
+    "company": {
+      "name": "Guidehealth",
+      "slug": "guidehealth",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Dallas, Dallas, Texas, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "embedded",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "coordinator",
+      "customer support",
+      "dev",
+      "testing"
+    ],
+    "category": "NLP",
+    "description_summary": "WHO IS GUIDEHEALTH? Guidehealth is a data-powered, performance-driven healthcare company dedicated to operational excellence. Our goal is to make great healthcare affordable, improve the health of patients, and restore the fulfillment of practicing medicine...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-clinical-quality-improvement-coordinator-guidehealth-1132349",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132349",
+    "published_at": "2026-05-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Clinical Quality Improvement Coordinator",
+      "description": "WHO IS GUIDEHEALTH? Guidehealth is a data-powered, performance-driven healthcare company dedicated to operational excellence. Our goal is to make great healthcare affordable, improve the health of patients, and restore the fulfillment of practicing medicine...",
+      "datePosted": "2026-05-26",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Guidehealth"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132349",
       "jobLocationType": "TELECOMMUTE",
       "applicantLocationRequirements": {
         "@type": "Country",
@@ -443,61 +568,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-webflow-designer-3",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-webflow-designer-lawnstarter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lawnstarter-senior-webflow-designer-2",
-    "slug": "senior-webflow-designer-lawnstarter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lawnstarter-senior-webflow-designer-2",
-    "title": "Senior Webflow Designer",
-    "seo_title": "Remote Senior Webflow Designer Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Webflow Designer job at LawnStarter in Worldwide. Explore RAG, AWS, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "LawnStarter",
-      "slug": "lawnstarter",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: New York, United States URL: http://lawnstarter.com About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and related services, with over $100M in annual bookings. We're expanding beyond lawn care to become...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-webflow-designer-2",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-webflow-designer-2",
-    "published_at": "2026-05-26",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Webflow Designer",
-      "description": "Headquarters: New York, United States URL: http://lawnstarter.com About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and related services, with over $100M in annual bookings. We're expanding beyond lawn care to become...",
-      "datePosted": "2026-05-26",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LawnStarter"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-senior-webflow-designer-2",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2185,60 +2255,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
-    "slug": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
-    "title": "Data Center Electrical Engineer",
-    "seo_title": "Remote Data Center Electrical Engineer Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Center Electrical Engineer job at anthropic in Australia. Explore RAG, AWS, Compute, Sydney, Australia and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008",
-    "published_at": "2026-05-21",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Center Electrical Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-21",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
     "slug": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
     "title": "Data Center Electrical Engineer",
@@ -2289,6 +2305,60 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
+    "slug": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
+    "title": "Data Center Electrical Engineer",
+    "seo_title": "Remote Data Center Electrical Engineer Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Center Electrical Engineer job at anthropic in Australia. Explore RAG, AWS, Compute, Sydney, Australia and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008",
+    "published_at": "2026-05-21",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Center Electrical Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-21",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008"
     },
     "ai_relevant": true
   },
@@ -4888,64 +4958,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/speechify-software-engineer-ios-core-product",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "backend-engineer-80-100-f-m-x-comparis-ch-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-comparis-ch-backend-engineer-80-100-f-m-x",
-    "slug": "backend-engineer-80-100-f-m-x-comparis-ch-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-comparis-ch-backend-engineer-80-100-f-m-x",
-    "title": "Backend Engineer, 80-100% (f/m/x)",
-    "seo_title": "Remote Backend Engineer, 80-100% (f/m/x) Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Backend Engineer, 80-100% (f/m/x) job at comparis.ch in Worldwide. Explore SQL, Docker, Kubernetes, AWS and remote AI jobs.",
-    "company": {
-      "name": "comparis.ch",
-      "slug": "comparis-ch",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "Azure",
-      "Back-End Programming",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Zuerich URL: https://en.comparis.ch/ What you will do We are looking for a Backend Developer to join our Marketplaces department and become part of the cross-functional Homefinder development team. Together, you will maintain and further develop...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
-    "published_at": "2026-04-27",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Backend Engineer, 80-100% (f/m/x)",
-      "description": "Headquarters: Zuerich URL: https://en.comparis.ch/ What you will do We are looking for a Backend Developer to join our Marketplaces department and become part of the cross-functional Homefinder development team. Together, you will maintain and further develop...",
-      "datePosted": "2026-04-27",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "comparis.ch"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
