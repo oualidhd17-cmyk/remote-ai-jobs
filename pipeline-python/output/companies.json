@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
+    "jobs_count": 36
   },
   {
     "name": "LawnStarter",
@@ -21,15 +21,15 @@
     "jobs_count": 3
   },
   {
-    "name": "Zirtual",
-    "slug": "zirtual",
+    "name": "Newsweek",
+    "slug": "newsweek",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "RecruitLyticx Hire",
-    "slug": "recruitlyticx-hire",
+    "name": "Zirtual",
+    "slug": "zirtual",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -65,6 +65,20 @@
   {
     "name": "EngagedMD",
     "slug": "engagedmd",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "LinkedIn",
+    "slug": "linkedin",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Centre for Effective Altruism",
+    "slug": "centre-for-effective-altruism",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -189,13 +203,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Radicle Science",
-    "slug": "radicle-science",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Tablet Command, Inc.",
     "slug": "tablet-command-inc",
     "logo_url": null,
@@ -205,13 +212,6 @@
   {
     "name": "Toptal",
     "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Guidehealth",
-    "slug": "guidehealth",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
