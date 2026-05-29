@@ -11,7 +11,7 @@
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 8
   },
   {
     "name": "Lemon.io",
@@ -19,6 +19,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Zirtual",
+    "slug": "zirtual",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "RecruitLyticx Hire",
@@ -49,8 +56,43 @@
     "jobs_count": 2
   },
   {
+    "name": "Pivotal Health",
+    "slug": "pivotal-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "EngagedMD",
     "slug": "engagedmd",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Appletree Medical Group",
+    "slug": "appletree-medical-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "idwall",
+    "slug": "idwall",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cardinal Health",
+    "slug": "cardinal-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "YNAB",
+    "slug": "ynab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -203,13 +245,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Viseven",
-    "slug": "viseven",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Centralreach",
     "slug": "centralreach",
     "logo_url": null,
@@ -303,13 +338,6 @@
   {
     "name": "Expion Health",
     "slug": "expion-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "bunny.net",
-    "slug": "bunny-net",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

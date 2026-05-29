@@ -1,5 +1,78 @@
 [
   {
+    "id": "events-marketing-manager-pivotal-health-worldwide-remoteok-1132436",
+    "slug": "events-marketing-manager-pivotal-health-worldwide-remoteok-1132436",
+    "title": "Events Marketing Manager",
+    "seo_title": "Remote Events Marketing Manager Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Events Marketing Manager job at Pivotal Health in Worldwide. Explore RAG, AWS, exec, design and remote AI jobs.",
+    "company": {
+      "name": "Pivotal Health",
+      "slug": "pivotal-health",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Los Angeles",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 105000,
+    "salary_max": 120000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "AWS",
+      "exec",
+      "design",
+      "saas",
+      "salesforce",
+      "designer",
+      "customer support",
+      "dev",
+      "content writing",
+      "senior",
+      "marketing"
+    ],
+    "category": "MLOps",
+    "description_summary": "About Pivotal Health Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape. Today, many providers face persistent underpayment from health insurance companies,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-events-marketing-manager-pivotal-health-1132436",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132436",
+    "published_at": "2026-05-28",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Events Marketing Manager",
+      "description": "About Pivotal Health Pivotal Health is the leading technology platform that helps healthcare providers get paid fairly in an increasingly complex reimbursement landscape. Today, many providers face persistent underpayment from health insurance companies,...",
+      "datePosted": "2026-05-28",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Pivotal Health"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132436",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 105000,
+          "maxValue": 120000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-software-engineer-engagedmd-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-engagedmd-senior-software-engineer",
     "slug": "senior-software-engineer-engagedmd-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-engagedmd-senior-software-engineer",
     "title": "Senior Software Engineer",
@@ -51,6 +124,305 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/engagedmd-senior-software-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "executive-assistant-zirtual-canada-remoteok-1132431",
+    "slug": "executive-assistant-zirtual-canada-remoteok-1132431",
+    "title": "Executive Assistant",
+    "seo_title": "Remote Executive Assistant Job in Canada | Robotics Jobs",
+    "seo_description": "Apply for a remote Executive Assistant job at Zirtual in Canada. Explore RAG, virtual assistant, salesforce, infosec and remote AI jobs.",
+    "company": {
+      "name": "Zirtual",
+      "slug": "zirtual",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "Toronto, Toronto, Ontario, Canada",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "virtual assistant",
+      "salesforce",
+      "infosec",
+      "technical",
+      "supervisor",
+      "customer support",
+      "travel",
+      "finance",
+      "microsoft",
+      "exec",
+      "ops"
+    ],
+    "category": "Robotics",
+    "description_summary": "Zirtual is a work-life balanced company that provides clients with experienced, highly skilled remote assistants for both personal and professional needs. Our Executive Assistants are committed to delivering efficient, proactive, and high-quality support that...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-zirtual-1132431",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132431",
+    "published_at": "2026-05-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Executive Assistant",
+      "description": "Zirtual is a work-life balanced company that provides clients with experienced, highly skilled remote assistants for both personal and professional needs. Our Executive Assistants are committed to delivering efficient, proactive, and high-quality support that...",
+      "datePosted": "2026-05-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Zirtual"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132431",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "junior-product-analyst-appletree-medical-group-canada-remoteok-1132515",
+    "slug": "junior-product-analyst-appletree-medical-group-canada-remoteok-1132515",
+    "title": "Junior Product Analyst",
+    "seo_title": "Remote Junior Product Analyst Job in Canada | Robotics Jobs",
+    "seo_description": "Apply for a remote Junior Product Analyst job at Appletree Medical Group in Canada. Explore SQL, RAG, Azure, analyst and remote AI jobs.",
+    "company": {
+      "name": "Appletree Medical Group",
+      "slug": "appletree-medical-group",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "Toronto, Toronto, Ontario, Canada",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "entry",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Azure",
+      "analyst",
+      "design",
+      "graphql",
+      "sys admin",
+      "technical",
+      "customer support",
+      "marketing",
+      "quality assurance",
+      "devops"
+    ],
+    "category": "Robotics",
+    "description_summary": "Who We Are Canadian Health Systems Inc. (CHS) is a leader in unified assistive healthcare platforms, delivering end-to-end workflow solutions that empower individual practitioners, clinics, and entire healthcare systems. As an affiliate of Appletree Shared...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-product-analyst-appletree-medical-group-1132515",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132515",
+    "published_at": "2026-05-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Junior Product Analyst",
+      "description": "Who We Are Canadian Health Systems Inc. (CHS) is a leader in unified assistive healthcare platforms, delivering end-to-end workflow solutions that empower individual practitioners, clinics, and entire healthcare systems. As an affiliate of Appletree Shared...",
+      "datePosted": "2026-05-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Appletree Medical Group"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132515",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-analytics-engineer-idwall-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-idwall-senior-analytics-engineer",
+    "slug": "senior-analytics-engineer-idwall-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-idwall-senior-analytics-engineer",
+    "title": "Senior Analytics Engineer",
+    "seo_title": "Remote Senior Analytics Engineer Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Senior Analytics Engineer job at idwall in Worldwide. Explore Python, SQL, Airflow, Sales and Marketing and remote AI jobs.",
+    "company": {
+      "name": "idwall",
+      "slug": "idwall",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Airflow",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "Headquarters: BR URL: http://idwall.co Estamos revolucionando a forma como as relações de confiança são criadas e nutridas. A paixão pelo que fazemos alimenta nossa inquietude coletiva para criar as tecnologias de ponta que são referência em nosso mercado....",
+    "apply_url": "https://weworkremotely.com/remote-jobs/idwall-senior-analytics-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/idwall-senior-analytics-engineer",
+    "published_at": "2026-05-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Analytics Engineer",
+      "description": "Headquarters: BR URL: http://idwall.co Estamos revolucionando a forma como as relações de confiança são criadas e nutridas. A paixão pelo que fazemos alimenta nossa inquietude coletiva para criar as tecnologias de ponta que são referência em nosso mercado....",
+      "datePosted": "2026-05-28",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "idwall"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/idwall-senior-analytics-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "sr-analyst-process-analytics-cardinal-health-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cardinal-health-sr-analyst-process-analytics",
+    "slug": "sr-analyst-process-analytics-cardinal-health-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cardinal-health-sr-analyst-process-analytics",
+    "title": "Sr. Analyst, Process Analytics",
+    "seo_title": "Remote Sr. Analyst, Process Analytics Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Sr. Analyst, Process Analytics job at Cardinal Health in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Cardinal Health",
+      "slug": "cardinal-health",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Philippines-Bonifacio Global City-Taguig URL: http://cardinalhealth.com Roles and Duties Perform end-to-end process mapping and analysis using BPMN standards and process mining tools (e.g., Celonis, Lucid, Visio, etc.). Conduct detailed variance...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/cardinal-health-sr-analyst-process-analytics",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/cardinal-health-sr-analyst-process-analytics",
+    "published_at": "2026-05-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Sr. Analyst, Process Analytics",
+      "description": "Headquarters: Philippines-Bonifacio Global City-Taguig URL: http://cardinalhealth.com Roles and Duties Perform end-to-end process mapping and analysis using BPMN standards and process mining tools (e.g., Celonis, Lucid, Visio, etc.). Conduct detailed variance...",
+      "datePosted": "2026-05-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Cardinal Health"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/cardinal-health-sr-analyst-process-analytics",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "humbly-confident-senior-ios-engineer-ynab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ynab-humbly-confident-senior-ios-engineer-1",
+    "slug": "humbly-confident-senior-ios-engineer-ynab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ynab-humbly-confident-senior-ios-engineer-1",
+    "title": "Humbly Confident Senior iOS Engineer",
+    "seo_title": "Remote Humbly Confident Senior iOS Engineer Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Humbly Confident Senior iOS Engineer job at YNAB in Worldwide. Explore SQL, RAG, Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "YNAB",
+      "slug": "ynab",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "part-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Worldwide! We're fully remote. URL: https://www.ynab.com/ About Us and Why We’re Hiring We’re YNAB (“why-nab”), a product company with a mission: to help people get good at money so they never worry about money again. For over 20 years, YNAB has...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/ynab-humbly-confident-senior-ios-engineer-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/ynab-humbly-confident-senior-ios-engineer-1",
+    "published_at": "2026-05-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Humbly Confident Senior iOS Engineer",
+      "description": "Headquarters: Worldwide! We're fully remote. URL: https://www.ynab.com/ About Us and Why We’re Hiring We’re YNAB (“why-nab”), a product company with a mission: to help people get good at money so they never worry about money again. For over 20 years, YNAB has...",
+      "datePosted": "2026-05-28",
+      "employmentType": "PART_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "YNAB"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/ynab-humbly-confident-senior-ios-engineer-1",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -575,6 +947,292 @@
           "maxValue": 160000,
           "unitText": "YEAR"
         }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "staff-product-engineer-florianopolis-lawnstarter-worldwide-remotive-2090899",
+    "slug": "staff-product-engineer-florianopolis-lawnstarter-worldwide-remotive-2090899",
+    "title": "Staff Product Engineer (Florianópolis)",
+    "seo_title": "Remote Staff Product Engineer (Florianópolis) Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Staff Product Engineer (Florianópolis) job at LawnStarter in Worldwide. Explore RAG, AWS, Airflow, backend and remote AI jobs.",
+    "company": {
+      "name": "LawnStarter",
+      "slug": "lawnstarter",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Brazil",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 100000,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "AWS",
+      "Airflow",
+      "backend",
+      "frontend",
+      "php",
+      "react",
+      "security",
+      "UI/UX",
+      "AI/ML",
+      "jira",
+      "react native"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "This is a remote role for candidates located in Florianópolis, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
+    "apply_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899",
+    "published_at": "2026-05-27",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Staff Product Engineer (Florianópolis)",
+      "description": "This is a remote role for candidates located in Florianópolis, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
+      "datePosted": "2026-05-27",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "LawnStarter"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 100000,
+          "maxValue": null,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "staff-product-engineer-belo-horizonte-lawnstarter-worldwide-remotive-2090900",
+    "slug": "staff-product-engineer-belo-horizonte-lawnstarter-worldwide-remotive-2090900",
+    "title": "Staff Product Engineer (Belo Horizonte)",
+    "seo_title": "Remote Staff Product Engineer (Belo Horizonte) Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Staff Product Engineer (Belo Horizonte) job at LawnStarter in Worldwide. Explore RAG, AWS, Airflow, backend and remote AI jobs.",
+    "company": {
+      "name": "LawnStarter",
+      "slug": "lawnstarter",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Brazil",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 100000,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "AWS",
+      "Airflow",
+      "backend",
+      "frontend",
+      "php",
+      "react",
+      "security",
+      "UI/UX",
+      "AI/ML",
+      "jira",
+      "react native"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
+    "apply_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900",
+    "published_at": "2026-05-27",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Staff Product Engineer (Belo Horizonte)",
+      "description": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
+      "datePosted": "2026-05-27",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "LawnStarter"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 100000,
+          "maxValue": null,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "staff-product-engineer-porto-alegre-lawnstarter-worldwide-remotive-2090901",
+    "slug": "staff-product-engineer-porto-alegre-lawnstarter-worldwide-remotive-2090901",
+    "title": "Staff Product Engineer (Porto Alegre)",
+    "seo_title": "Remote Staff Product Engineer (Porto Alegre) Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Staff Product Engineer (Porto Alegre) job at LawnStarter in Worldwide. Explore RAG, AWS, Airflow, backend and remote AI jobs.",
+    "company": {
+      "name": "LawnStarter",
+      "slug": "lawnstarter",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Brazil",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 100000,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "AWS",
+      "Airflow",
+      "backend",
+      "frontend",
+      "php",
+      "react",
+      "security",
+      "UI/UX",
+      "AI/ML",
+      "jira",
+      "react native"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "This is a remote role for candidates located in Porto Alegre, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
+    "apply_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901",
+    "published_at": "2026-05-27",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Staff Product Engineer (Porto Alegre)",
+      "description": "This is a remote role for candidates located in Porto Alegre, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
+      "datePosted": "2026-05-27",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "LawnStarter"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 100000,
+          "maxValue": null,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "executive-assistant-zirtual-canada-remoteok-1132432",
+    "slug": "executive-assistant-zirtual-canada-remoteok-1132432",
+    "title": "Executive Assistant",
+    "seo_title": "Remote Executive Assistant Job in Canada | Robotics Jobs",
+    "seo_description": "Apply for a remote Executive Assistant job at Zirtual in Canada. Explore RAG, virtual assistant, salesforce, infosec and remote AI jobs.",
+    "company": {
+      "name": "Zirtual",
+      "slug": "zirtual",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "Toronto, Toronto, Ontario, Canada",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "virtual assistant",
+      "salesforce",
+      "infosec",
+      "technical",
+      "supervisor",
+      "customer support",
+      "travel",
+      "finance",
+      "microsoft",
+      "exec",
+      "ops"
+    ],
+    "category": "Robotics",
+    "description_summary": "Zirtual is a work-life balanced company that provides clients with experienced, highly skilled remote assistants for both personal and professional needs. Our Executive Assistants are committed to delivering efficient, proactive, and high-quality support that...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-zirtual-1132432",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132432",
+    "published_at": "2026-05-27",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Executive Assistant",
+      "description": "Zirtual is a work-life balanced company that provides clients with experienced, highly skilled remote assistants for both personal and professional needs. Our Executive Assistants are committed to delivering efficient, proactive, and high-quality support that...",
+      "datePosted": "2026-05-27",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Zirtual"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132432",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
       }
     },
     "ai_relevant": true
@@ -2115,61 +2773,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5156057008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "product-marketing-manager-b2b-for-life-sciences-pharma-biotech-viseven-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-viseven-product-marketing-m",
-    "slug": "product-marketing-manager-b2b-for-life-sciences-pharma-biotech-viseven-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-viseven-product-marketing-m",
-    "title": "Product Marketing Manager (B2B for life sciences/pharma/biotech)",
-    "seo_title": "Remote Product Marketing Manager (B2B for life sciences/pharma/biotech) Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Product Marketing Manager (B2B for life sciences/pharma/biotech) job at Viseven in Worldwide. Explore SQL, RAG, Sales and Marketing,...",
-    "company": {
-      "name": "Viseven",
-      "slug": "viseven",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Warszawa Viseven Group is a leading global B2B MarTech service provider, empowering Pharma and LifeScience companies since 2009. Our mission is to drive digital transformation and excellence, offering comprehensive end-to-end software and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/viseven-product-marketing-manager-b2b-for-life-sciences-pharma-biotech",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/viseven-product-marketing-manager-b2b-for-life-sciences-pharma-biotech",
-    "published_at": "2026-05-22",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Marketing Manager (B2B for life sciences/pharma/biotech)",
-      "description": "Headquarters: Warszawa Viseven Group is a leading global B2B MarTech service provider, empowering Pharma and LifeScience companies since 2009. Our mission is to drive digital transformation and excellence, offering comprehensive end-to-end software and...",
-      "datePosted": "2026-05-22",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Viseven"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/viseven-product-marketing-manager-b2b-for-life-sciences-pharma-biotech",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -4620,7 +5223,7 @@
     "source_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
     "published_at": "2026-05-14",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4727,61 +5330,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "staff-software-engineer-magic-containers-bunny-net-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bunny-net-staff-software-engineer-magic-contain",
-    "slug": "staff-software-engineer-magic-containers-bunny-net-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bunny-net-staff-software-engineer-magic-contain",
-    "title": "Staff Software Engineer (Magic Containers)",
-    "seo_title": "Remote Staff Software Engineer (Magic Containers) Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Staff Software Engineer (Magic Containers) job at bunny.net in Worldwide. Explore RAG, Kubernetes, Back-End Programming, Remote and...",
-    "company": {
-      "name": "bunny.net",
-      "slug": "bunny-net",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Kubernetes",
-      "Back-End Programming",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Slovenia URL: http://bunny.net Staff Software Engineer (Magic Containers) Magic Containers is bunny.net’s edge-native platform for running containerized applications. It’s fast, flexible, and free from traditional cloud complexity. No...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
-    "published_at": "2026-05-12",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Staff Software Engineer (Magic Containers)",
-      "description": "Headquarters: Slovenia URL: http://bunny.net Staff Software Engineer (Magic Containers) Magic Containers is bunny.net’s edge-native platform for running containerized applications. It’s fast, flexible, and free from traditional cloud complexity. No...",
-      "datePosted": "2026-05-12",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "bunny.net"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
