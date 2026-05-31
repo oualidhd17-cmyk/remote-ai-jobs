@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 40
+    "jobs_count": 41
   },
   {
     "name": "LawnStarter",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 8
+  },
+  {
+    "name": "Rithum",
+    "slug": "rithum",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
   },
   {
     "name": "Newsweek",
@@ -23,13 +30,6 @@
   {
     "name": "Radix",
     "slug": "radix",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Figure 53",
-    "slug": "figure-53",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -47,6 +47,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Rexi Group",
+    "slug": "rexi-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Thorne",
+    "slug": "thorne",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "ForFutures Financial, Planning, a financial advisory practice of Ameriprise Financial Services LLC",
@@ -84,13 +98,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Pivotal Health",
-    "slug": "pivotal-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "EngagedMD",
     "slug": "engagedmd",
     "logo_url": null,
@@ -112,15 +119,15 @@
     "jobs_count": 1
   },
   {
-    "name": "LinkedIn",
-    "slug": "linkedin",
+    "name": "Meadow Memorials",
+    "slug": "meadow-memorials",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Centre for Effective Altruism",
-    "slug": "centre-for-effective-altruism",
+    "name": "LinkedIn",
+    "slug": "linkedin",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,6 +296,13 @@
   {
     "name": "EverAI",
     "slug": "everai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Figure 53",
+    "slug": "figure-53",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
