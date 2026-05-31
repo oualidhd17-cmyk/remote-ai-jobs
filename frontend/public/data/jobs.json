@@ -1,5 +1,58 @@
 [
   {
+    "id": "community-executive-escalations-program-manager-anthropic-worldwide-greenhouse-anthropic-5207565008",
+    "slug": "community-executive-escalations-program-manager-anthropic-worldwide-greenhouse-anthropic-5207565008",
+    "title": "Community & Executive Escalations Program Manager",
+    "seo_title": "Remote Community & Executive Escalations Program Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Community & Executive Escalations Program Manager job at anthropic in Worldwide. Explore RAG, AWS, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5207565008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5207565008",
+    "published_at": "2026-05-31",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Community & Executive Escalations Program Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-31",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5207565008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "data-scientist-gtm-anthropic-worldwide-greenhouse-anthropic-5196852008",
     "slug": "data-scientist-gtm-anthropic-worldwide-greenhouse-anthropic-5196852008",
     "title": "Data Scientist, GTM",
@@ -1530,70 +1583,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1132508",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "manager-program-management-gtme-coe-linkedin-usa-remoteok-1132498",
-    "slug": "manager-program-management-gtme-coe-linkedin-usa-remoteok-1132498",
-    "title": "Manager Program Management GTME COE",
-    "seo_title": "Remote Manager Program Management GTME COE Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Manager Program Management GTME COE job at LinkedIn in USA. Explore RAG, exec, consulting, marketing and remote AI jobs.",
-    "company": {
-      "name": "LinkedIn",
-      "slug": "linkedin",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Sunnyvale, Sunnyvale, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "exec",
-      "consulting",
-      "marketing",
-      "travel",
-      "c",
-      "senior",
-      "ops",
-      "legal"
-    ],
-    "category": "Robotics",
-    "description_summary": "LinkedIn is the world's largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-manager-program-management-gtme-coe-linkedin-1132498",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132498",
-    "published_at": "2026-05-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Manager Program Management GTME COE",
-      "description": "LinkedIn is the world's largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable...",
-      "datePosted": "2026-05-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LinkedIn"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132498",
       "jobLocationType": "TELECOMMUTE",
       "applicantLocationRequirements": {
         "@type": "Country",
@@ -5855,6 +5844,61 @@
           "unitText": "YEAR"
         }
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "staff-software-engineer-magic-containers-bunny-net-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bunny-net-staff-software-engineer-magic-contain",
+    "slug": "staff-software-engineer-magic-containers-bunny-net-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bunny-net-staff-software-engineer-magic-contain",
+    "title": "Staff Software Engineer (Magic Containers)",
+    "seo_title": "Remote Staff Software Engineer (Magic Containers) Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Staff Software Engineer (Magic Containers) job at bunny.net in Worldwide. Explore RAG, Kubernetes, Back-End Programming, Remote and...",
+    "company": {
+      "name": "bunny.net",
+      "slug": "bunny-net",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Kubernetes",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Slovenia URL: http://bunny.net Staff Software Engineer (Magic Containers) Magic Containers is bunny.net’s edge-native platform for running containerized applications. It’s fast, flexible, and free from traditional cloud complexity. No...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
+    "published_at": "2026-05-12",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Staff Software Engineer (Magic Containers)",
+      "description": "Headquarters: Slovenia URL: http://bunny.net Staff Software Engineer (Magic Containers) Magic Containers is bunny.net’s edge-native platform for running containerized applications. It’s fast, flexible, and free from traditional cloud complexity. No...",
+      "datePosted": "2026-05-12",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "bunny.net"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/bunny-net-staff-software-engineer-magic-containers",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
