@@ -11,7 +11,7 @@
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 8
+    "jobs_count": 7
   },
   {
     "name": "Rithum",
@@ -28,18 +28,25 @@
     "jobs_count": 2
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Assured",
     "slug": "assured",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Bask Health",
+    "slug": "bask-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Onside Capital",
+    "slug": "onside-capital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Rexi Group",
@@ -70,20 +77,6 @@
     "jobs_count": 1
   },
   {
-    "name": "RemoteVA",
-    "slug": "remoteva",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Crossing Hurdles",
-    "slug": "crossing-hurdles",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Gameplay Galaxy",
     "slug": "gameplay-galaxy",
     "logo_url": null,
@@ -93,27 +86,6 @@
   {
     "name": "EngagedMD",
     "slug": "engagedmd",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Madison Hunt",
-    "slug": "madison-hunt",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Verse Medical",
-    "slug": "verse-medical",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Meadow Memorials",
-    "slug": "meadow-memorials",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -287,13 +259,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Figure 53",
-    "slug": "figure-53",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Hint Health",
     "slug": "hint-health",
     "logo_url": null,
@@ -310,6 +275,13 @@
   {
     "name": "A.Team",
     "slug": "a-team",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
