@@ -11,7 +11,7 @@
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 10
   },
   {
     "name": "Rithum",
@@ -19,6 +19,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 4
+  },
+  {
+    "name": "Bask Health",
+    "slug": "bask-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Radix",
@@ -35,8 +42,22 @@
     "jobs_count": 2
   },
   {
-    "name": "Bask Health",
-    "slug": "bask-health",
+    "name": "MailerLite",
+    "slug": "mailerlite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Atom Computing",
+    "slug": "atom-computing",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Lightup Network Solutions GmbH & Co. KG",
+    "slug": "lightup-network-solutions-gmbh-co-kg",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -77,13 +98,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Gameplay Galaxy",
-    "slug": "gameplay-galaxy",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "EngagedMD",
     "slug": "engagedmd",
     "logo_url": null,
@@ -93,13 +107,6 @@
   {
     "name": "idwall",
     "slug": "idwall",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cardinal Health",
-    "slug": "cardinal-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,13 +175,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Tablet Command, Inc.",
-    "slug": "tablet-command-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -203,22 +203,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Compound Planning",
-    "slug": "compound-planning",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Centralreach",
     "slug": "centralreach",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Iungo Spa",
-    "slug": "iungo-spa",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -266,15 +252,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Biggerpockets",
-    "slug": "biggerpockets",
+    "name": "A.Team",
+    "slug": "a-team",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "A.Team",
-    "slug": "a-team",
+    "name": "Biggerpockets",
+    "slug": "biggerpockets",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -301,13 +287,6 @@
     "jobs_count": 1
   },
   {
-    "name": "bunny.net",
-    "slug": "bunny-net",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Caul Group",
     "slug": "caul-group",
     "logo_url": null,
@@ -324,6 +303,27 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Clerky",
+    "slug": "clerky",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "comparis.ch",
+    "slug": "comparis-ch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Spiralyze",
+    "slug": "spiralyze",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
