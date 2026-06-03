@@ -4,18 +4,18 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 46
+    "jobs_count": 47
   },
   {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 10
+    "jobs_count": 15
   },
   {
-    "name": "Rithum",
-    "slug": "rithum",
+    "name": "KIPP Foundation",
+    "slug": "kipp-foundation",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -25,11 +25,18 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 3
   },
   {
-    "name": "KIPP Foundation",
-    "slug": "kipp-foundation",
+    "name": "Diptyque Paris",
+    "slug": "diptyque-paris",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Connoisseur Media",
+    "slug": "connoisseur-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -49,11 +56,60 @@
     "jobs_count": 2
   },
   {
-    "name": "Assured",
-    "slug": "assured",
+    "name": "Lodgify",
+    "slug": "lodgify",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "Insider One",
+    "slug": "insider-one",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "TechSoup",
+    "slug": "techsoup",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "POS+",
+    "slug": "pos",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Toggl",
+    "slug": "toggl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Dart",
+    "slug": "dart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bloom HR Pty Ltd",
+    "slug": "bloom-hr-pty-ltd",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Clerky, Inc.",
+    "slug": "clerky-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Insignia Consultancy Solutions",
@@ -105,29 +161,15 @@
     "jobs_count": 1
   },
   {
+    "name": "Employment Hero",
+    "slug": "employment-hero",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Lightup Network Solutions GmbH & Co. KG",
     "slug": "lightup-network-solutions-gmbh-co-kg",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Onside Capital",
-    "slug": "onside-capital",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Rexi Group",
-    "slug": "rexi-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EngagedMD",
-    "slug": "engagedmd",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -203,20 +245,6 @@
     "jobs_count": 1
   },
   {
-    "name": "frete.com",
-    "slug": "frete-com",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "BuildOps",
-    "slug": "buildops",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Centralreach",
     "slug": "centralreach",
     "logo_url": null,
@@ -273,13 +301,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Biggerpockets",
-    "slug": "biggerpockets",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mitre Media",
     "slug": "mitre-media",
     "logo_url": null,
@@ -317,13 +338,6 @@
   {
     "name": "Clerky",
     "slug": "clerky",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "comparis.ch",
-    "slug": "comparis-ch",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
