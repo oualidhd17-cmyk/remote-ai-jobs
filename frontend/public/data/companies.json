@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 47
+    "jobs_count": 46
   },
   {
     "name": "LawnStarter",
@@ -35,6 +35,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Akamai",
+    "slug": "akamai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Connoisseur Media",
     "slug": "connoisseur-media",
     "logo_url": null,
@@ -54,6 +61,34 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Allianz",
+    "slug": "allianz",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Spieldenner Financial Group",
+    "slug": "spieldenner-financial-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wealth.com",
+    "slug": "wealth-com",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Empower Retirement",
+    "slug": "empower-retirement",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Lodgify",
@@ -100,6 +135,13 @@
   {
     "name": "Bloom HR Pty Ltd",
     "slug": "bloom-hr-pty-ltd",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Deliveree On-Demand Logistics (Southeast Asia)",
+    "slug": "deliveree-on-demand-logistics-southeast-asia",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -184,20 +226,6 @@
   {
     "name": "Linkage Web Development",
     "slug": "linkage-web-development",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Akamai",
-    "slug": "akamai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Horizon3 AI",
-    "slug": "horizon3-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -331,13 +359,6 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Clerky",
-    "slug": "clerky",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
