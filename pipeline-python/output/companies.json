@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 46
+    "jobs_count": 48
   },
   {
     "name": "LawnStarter",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 15
+  },
+  {
+    "name": "NestlÃ© Health Science",
+    "slug": "nestla-health-science",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
   },
   {
     "name": "KIPP Foundation",
@@ -35,6 +42,20 @@
     "jobs_count": 3
   },
   {
+    "name": "Binance",
+    "slug": "binance",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Anexia Internetdienstleistungs",
+    "slug": "anexia-internetdienstleistungs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Akamai",
     "slug": "akamai",
     "logo_url": null,
@@ -56,15 +77,57 @@
     "jobs_count": 2
   },
   {
-    "name": "Radix",
-    "slug": "radix",
+    "name": "Adoreal",
+    "slug": "adoreal",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "BlueMatrix",
+    "slug": "bluematrix",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hostinger",
+    "slug": "hostinger",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "TELUS Digital",
+    "slug": "telus-digital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Allianz",
     "slug": "allianz",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Netrix Global",
+    "slug": "netrix-global",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Lambent",
+    "slug": "lambent",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Torentify",
+    "slug": "torentify",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,13 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Binance",
-    "slug": "binance",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "MailerLite",
     "slug": "mailerlite",
     "logo_url": null,
@@ -184,27 +240,6 @@
   {
     "name": "Loca Loka Tequila",
     "slug": "loca-loka-tequila",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pencil",
-    "slug": "pencil",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Atom Computing",
-    "slug": "atom-computing",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Employment Hero",
-    "slug": "employment-hero",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -273,13 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Centralreach",
-    "slug": "centralreach",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "E. Breuninger& Co.",
     "slug": "e-breuninger-co",
     "logo_url": null,
@@ -289,6 +317,13 @@
   {
     "name": "Aledade",
     "slug": "aledade",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Radix",
+    "slug": "radix",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
