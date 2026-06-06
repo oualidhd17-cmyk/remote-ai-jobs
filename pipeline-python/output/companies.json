@@ -42,13 +42,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Binance",
-    "slug": "binance",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Anexia Internetdienstleistungs",
     "slug": "anexia-internetdienstleistungs",
     "logo_url": null,
@@ -61,6 +54,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Memora ApS",
+    "slug": "memora-aps",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vista Fulfillment Group",
+    "slug": "vista-fulfillment-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "UppalCorp",
+    "slug": "uppalcorp",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "RecruitLytic Hires",
@@ -205,6 +219,13 @@
   {
     "name": "The Archetype Strategy",
     "slug": "the-archetype-strategy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Binance",
+    "slug": "binance",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
