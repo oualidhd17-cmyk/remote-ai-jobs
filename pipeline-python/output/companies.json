@@ -21,15 +21,8 @@
     "jobs_count": 5
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Akamai",
-    "slug": "akamai",
+    "name": "Level",
+    "slug": "level",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -49,11 +42,32 @@
     "jobs_count": 2
   },
   {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Bask Health",
     "slug": "bask-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Umbrel",
+    "slug": "umbrel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Patrianna",
+    "slug": "patrianna",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Memora ApS",
@@ -65,6 +79,27 @@
   {
     "name": "Vista Fulfillment Group",
     "slug": "vista-fulfillment-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "StioÂ®",
+    "slug": "stioa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "KIPP Foundation",
+    "slug": "kipp-foundation",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Dossier - Digital Competency Management",
+    "slug": "dossier-digital-competency-management",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -93,6 +128,13 @@
   {
     "name": "Varicent",
     "slug": "varicent",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Akamai",
+    "slug": "akamai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -140,15 +182,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Level",
-    "slug": "level",
+    "name": "sofatutor GmbH",
+    "slug": "sofatutor-gmbh",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "sofatutor GmbH",
-    "slug": "sofatutor-gmbh",
+    "name": "Consultran",
+    "slug": "consultran",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -184,13 +226,6 @@
   {
     "name": "Pickle",
     "slug": "pickle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "FindTutors",
-    "slug": "findtutors",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,13 +343,6 @@
     "jobs_count": 1
   },
   {
-    "name": "POS+",
-    "slug": "pos",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Toggl",
     "slug": "toggl",
     "logo_url": null,
@@ -324,20 +352,6 @@
   {
     "name": "Clerky, Inc.",
     "slug": "clerky-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Insignia Consultancy Solutions",
-    "slug": "insignia-consultancy-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Merchant Innovate",
-    "slug": "merchant-innovate",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -359,6 +373,13 @@
   {
     "name": "Linkage Web Development",
     "slug": "linkage-web-development",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ignition, Inc.",
+    "slug": "ignition-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
