@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 46
+    "jobs_count": 43
   },
   {
     "name": "LawnStarter",
@@ -21,18 +21,18 @@
     "jobs_count": 5
   },
   {
-    "name": "NestlÃ© Health Science",
-    "slug": "nestla-health-science",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Akamai",
+    "slug": "akamai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "EverAI",
@@ -63,6 +63,69 @@
     "jobs_count": 2
   },
   {
+    "name": "RecruitLytic Hires",
+    "slug": "recruitlytic-hires",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "SonderMind",
+    "slug": "sondermind",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Varicent",
+    "slug": "varicent",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Collectly",
+    "slug": "collectly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Arineo",
+    "slug": "arineo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Fonio",
+    "slug": "fonio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ssc Hr Solutions",
+    "slug": "ssc-hr-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Gensler",
+    "slug": "gensler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Animalz",
+    "slug": "animalz",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Level",
     "slug": "level",
     "logo_url": null,
@@ -77,8 +140,22 @@
     "jobs_count": 1
   },
   {
+    "name": "NestlÃ© Health Science",
+    "slug": "nestla-health-science",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Adoreal",
     "slug": "adoreal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cyara",
+    "slug": "cyara",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -163,34 +240,6 @@
   {
     "name": "Allianz",
     "slug": "allianz",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Netrix Global",
-    "slug": "netrix-global",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Lambent",
-    "slug": "lambent",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Torentify",
-    "slug": "torentify",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Akamai",
-    "slug": "akamai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,76 +338,6 @@
   {
     "name": "Linkage Web Development",
     "slug": "linkage-web-development",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Qive",
-    "slug": "qive",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CashMe",
-    "slug": "cashme",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "OneSource Virtual",
-    "slug": "onesource-virtual",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ignition, Inc.",
-    "slug": "ignition-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "E. Breuninger& Co.",
-    "slug": "e-breuninger-co",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Aledade",
-    "slug": "aledade",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Radix",
-    "slug": "radix",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Vinta",
-    "slug": "vinta",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Luxury Presence",
-    "slug": "luxury-presence",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hint Health",
-    "slug": "hint-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
