@@ -507,7 +507,7 @@
       "exec"
     ],
     "category": "NLP",
-    "description_summary": "This is a remote position. AWISEE is looking for a highly organized and proactive Executiveâ¦See this and similar jobs on LinkedIn. Please mention the word **HALLMARKS** and tag RNDQuMjEwLjEwMi4yNw== when applying to show you read the job post completely...",
+    "description_summary": "This is a remote position. AWISEE is looking for a highly organized and proactive Executiveâ¦See this and similar jobs on LinkedIn. Please mention the word **HALLMARKS** and tag RNTIuMTc2LjM1LjExMg== when applying to show you read the job post completely...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-awisee-1132902",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1132902",
@@ -519,7 +519,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Executive Assistant",
-      "description": "This is a remote position. AWISEE is looking for a highly organized and proactive Executiveâ¦See this and similar jobs on LinkedIn. Please mention the word **HALLMARKS** and tag RNDQuMjEwLjEwMi4yNw== when applying to show you read the job post completely...",
+      "description": "This is a remote position. AWISEE is looking for a highly organized and proactive Executiveâ¦See this and similar jobs on LinkedIn. Please mention the word **HALLMARKS** and tag RNTIuMTc2LjM1LjExMg== when applying to show you read the job post completely...",
       "datePosted": "2026-06-05",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -1887,70 +1887,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "multi-utility-locator-ledcor-uk-remoteok-1132878",
-    "slug": "multi-utility-locator-ledcor-uk-remoteok-1132878",
-    "title": "Multi Utility Locator",
-    "seo_title": "Remote Multi Utility Locator Job in UK | Robotics Jobs",
-    "seo_description": "Apply for a remote Multi Utility Locator job at Ledcor in UK. Explore RAG, customer support, education, medical and remote AI jobs.",
-    "company": {
-      "name": "Ledcor",
-      "slug": "ledcor",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London,",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "customer support",
-      "education",
-      "medical",
-      "non tech",
-      "technical",
-      "testing",
-      "travel",
-      "exec"
-    ],
-    "category": "Robotics",
-    "description_summary": "Description You are an experienced Utility Locator who takes pride in accurately identifying underground facilities. You are comfortable working independently, managing your workload in a fast-paced environment, and meeting project timelines. With a strong...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-multi-utility-locator-ledcor-1132878",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132878",
-    "published_at": "2026-06-04",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Multi Utility Locator",
-      "description": "Description You are an experienced Utility Locator who takes pride in accurately identifying underground facilities. You are comfortable working independently, managing your workload in a fast-paced environment, and meeting project timelines. With a strong...",
-      "datePosted": "2026-06-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Ledcor"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132878",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
       }
     },
     "ai_relevant": true
