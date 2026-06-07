@@ -7,9 +7,9 @@
   "visa_count": 46,
   "salary_count": 17,
   "status_counts": {
+    "rejected": 92,
     "published": 124,
     "pending": 40,
-    "rejected": 92,
     "expired": 12
   },
   "source_counts": {
