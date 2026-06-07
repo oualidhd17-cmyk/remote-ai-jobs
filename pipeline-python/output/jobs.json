@@ -1,5 +1,68 @@
 [
   {
+    "id": "territory-business-development-manager-usmc-shield-ai-worldwide-remoteok-1132918",
+    "slug": "territory-business-development-manager-usmc-shield-ai-worldwide-remoteok-1132918",
+    "title": "Territory Business Development Manager USMC",
+    "seo_title": "Remote Territory Business Development Manager USMC Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Territory Business Development Manager USMC job at Shield AI in Worldwide. Explore product manager, exec, technical, customer support...",
+    "company": {
+      "name": "Shield AI",
+      "slug": "shield-ai",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "product manager",
+      "exec",
+      "technical",
+      "customer support",
+      "dev",
+      "marketing",
+      "travel",
+      "senior",
+      "ops",
+      "bus dev",
+      "sales",
+      "golang"
+    ],
+    "category": "Data Science",
+    "description_summary": "Founded in 2015, Shield AI is a venture-backed deep-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include the V-BAT and X-BAT aircraft, Hivemind Enterprise, and the Hivemind Vision product...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-territory-business-development-manager-usmc-shield-ai-1132918",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132918",
+    "published_at": "2026-06-06",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Territory Business Development Manager USMC",
+      "description": "Founded in 2015, Shield AI is a venture-backed deep-tech company with the mission of protecting service members and civilians with intelligent systems. Its products include the V-BAT and X-BAT aircraft, Hivemind Enterprise, and the Hivemind Vision product...",
+      "datePosted": "2026-06-06",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Shield AI"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132918",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "customer-support-non-technical-umbrel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-umbrel-customer-support-non-technical",
     "slug": "customer-support-non-technical-umbrel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-umbrel-customer-support-non-technical",
     "title": "Customer Support (non-technical)",
@@ -281,6 +344,190 @@
           "maxValue": 90000,
           "unitText": "YEAR"
         }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "vice-president-people-kipp-foundation-worldwide-remoteok-1132957",
+    "slug": "vice-president-people-kipp-foundation-worldwide-remoteok-1132957",
+    "title": "Vice President People",
+    "seo_title": "Remote Vice President People Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Vice President People job at KIPP Foundation in Worldwide. Explore RAG, coordinator, design, embedded and remote AI jobs.",
+    "company": {
+      "name": "KIPP Foundation",
+      "slug": "kipp-foundation",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "coordinator",
+      "design",
+      "embedded",
+      "hr",
+      "sys admin",
+      "infosec",
+      "teaching",
+      "customer support",
+      "testing",
+      "marketing",
+      "exec"
+    ],
+    "category": "Robotics",
+    "description_summary": "Company Description About the Organization KIPP Public Schools is a national network of tuition-free public charter schools that prepares students with the skills and confidence to create the future they want for themselves, their communities, and us...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-vice-president-people-kipp-foundation-1132957",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132957",
+    "published_at": "2026-06-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Vice President People",
+      "description": "Company Description About the Organization KIPP Public Schools is a national network of tuition-free public charter schools that prepares students with the skills and confidence to create the future they want for themselves, their communities, and us...",
+      "datePosted": "2026-06-05",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "KIPP Foundation"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132957",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "manager-people-operations-kipp-foundation-worldwide-remoteok-1132943",
+    "slug": "manager-people-operations-kipp-foundation-worldwide-remoteok-1132943",
+    "title": "Manager People Operations",
+    "seo_title": "Remote Manager People Operations Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Manager People Operations job at KIPP Foundation in Worldwide. Explore LLM, RAG, AWS, salesforce and remote AI jobs.",
+    "company": {
+      "name": "KIPP Foundation",
+      "slug": "kipp-foundation",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "salesforce",
+      "hr",
+      "sys admin",
+      "teaching",
+      "education",
+      "customer support",
+      "dev",
+      "marketing",
+      "exec"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "Company Description About the Organization KIPP Public Schools is a national network of tuition-free public charter schools that prepares students with the skills and confidence to create the future they want for themselves, their communities, and us...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-manager-people-operations-kipp-foundation-1132943",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132943",
+    "published_at": "2026-06-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Manager People Operations",
+      "description": "Company Description About the Organization KIPP Public Schools is a national network of tuition-free public charter schools that prepares students with the skills and confidence to create the future they want for themselves, their communities, and us...",
+      "datePosted": "2026-06-05",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "KIPP Foundation"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132943",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "executive-assistant-awisee-usa-remoteok-1132902",
+    "slug": "executive-assistant-awisee-usa-remoteok-1132902",
+    "title": "Executive Assistant",
+    "seo_title": "Remote Executive Assistant Job in USA | NLP Jobs",
+    "seo_description": "Apply for a remote Executive Assistant job at AWISEE in USA. Explore LLM, virtual assistant, exec and remote AI jobs.",
+    "company": {
+      "name": "AWISEE",
+      "slug": "awisee",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "United States,",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "virtual assistant",
+      "exec"
+    ],
+    "category": "NLP",
+    "description_summary": "This is a remote position. AWISEE is looking for a highly organized and proactive Executiveâ¦See this and similar jobs on LinkedIn. Please mention the word **HALLMARKS** and tag ROTguOTMuMTQ2LjE0MA== when applying to show you read the job post completely...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-awisee-1132902",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1132902",
+    "published_at": "2026-06-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Executive Assistant",
+      "description": "This is a remote position. AWISEE is looking for a highly organized and proactive Executiveâ¦See this and similar jobs on LinkedIn. Please mention the word **HALLMARKS** and tag ROTguOTMuMTQ2LjE0MA== when applying to show you read the job post completely...",
+      "datePosted": "2026-06-05",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AWISEE"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1132902",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
       }
     },
     "ai_relevant": true
@@ -2035,73 +2282,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Canada"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "freelance-content-creator-pickle-uk-remoteok-1132846",
-    "slug": "freelance-content-creator-pickle-uk-remoteok-1132846",
-    "title": "Freelance Content Creator",
-    "seo_title": "Remote Freelance Content Creator Job in UK | Robotics Jobs",
-    "seo_description": "Apply for a remote Freelance Content Creator job at Pickle in UK. Explore RAG, design, education, technical and remote AI jobs.",
-    "company": {
-      "name": "Pickle",
-      "slug": "pickle",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "Greater London,",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "design",
-      "education",
-      "technical",
-      "writer",
-      "customer support",
-      "dev",
-      "speech",
-      "adult",
-      "video",
-      "exec",
-      "content writing"
-    ],
-    "category": "Robotics",
-    "description_summary": "About Us At our organisation, we redefine executive and business support through exceptional problem-solving, proactive execution, and advanced integration of technology and AI. We partner with purpose-led leaders who value strategic collaborators capable of...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-freelance-content-creator-pickle-1132846",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132846",
-    "published_at": "2026-06-04",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Freelance Content Creator",
-      "description": "About Us At our organisation, we redefine executive and business support through exceptional problem-solving, proactive execution, and advanced integration of technology and AI. We partner with purpose-led leaders who value strategic collaborators capable of...",
-      "datePosted": "2026-06-04",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Pickle"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132846",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
       }
     },
     "ai_relevant": true
@@ -4140,6 +4320,62 @@
           "unitText": "YEAR"
         }
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
+    "slug": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
+    "title": "Data Scientist, Safeguards",
+    "seo_title": "Remote Data Scientist, Safeguards Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Safeguards job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "AWS",
+      "Safeguards (Trust & Safety)"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+    "published_at": "2026-06-02",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Safeguards",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-02",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6192,60 +6428,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205894008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "commercial-counsel-networking-datacenter-operations-anthropic-worldwide-greenhouse-anthropic-5205884008",
-    "slug": "commercial-counsel-networking-datacenter-operations-anthropic-worldwide-greenhouse-anthropic-5205884008",
-    "title": "Commercial Counsel, Networking & Datacenter Operations",
-    "seo_title": "Remote Commercial Counsel, Networking & Datacenter Operations Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, Networking & Datacenter Operations job at anthropic in Worldwide. Explore RAG, AWS, Legal, San Francisco, CA and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
-    "location_label": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205884008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205884008",
-    "published_at": "2026-05-27",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, Networking & Datacenter Operations",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-27",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205884008"
     },
     "ai_relevant": true
   },
