@@ -14,6 +14,13 @@
     "jobs_count": 15
   },
   {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Level",
     "slug": "level",
     "logo_url": null,
@@ -42,18 +49,11 @@
     "jobs_count": 2
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Select Saunas",
+    "slug": "select-saunas",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Bask Health",
-    "slug": "bask-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
   },
   {
     "name": "Anheuser-Busch",
@@ -392,6 +392,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Bask Health",
+    "slug": "bask-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Lightup Network Solutions GmbH & Co. KG",
     "slug": "lightup-network-solutions-gmbh-co-kg",
     "logo_url": null,
@@ -401,13 +408,6 @@
   {
     "name": "Linkage Web Development",
     "slug": "linkage-web-development",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ignition, Inc.",
-    "slug": "ignition-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

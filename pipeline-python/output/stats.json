@@ -7,8 +7,8 @@
   "visa_count": 45,
   "salary_count": 17,
   "status_counts": {
-    "published": 127,
     "rejected": 92,
+    "published": 127,
     "pending": 36,
     "expired": 13
   },
@@ -19,19 +19,19 @@
     "greenhouse": 80
   },
   "category_counts": {
+    "AI Engineering": 58,
+    "NLP": 4,
     "Robotics": 17,
-    "NLP": 3,
-    "AI Engineering": 57,
-    "Data Science": 17,
+    "Data Science": 16,
     "MLOps": 10,
-    "Data Analytics": 19,
+    "Data Analytics": 18,
     "Prompt Engineering": 2,
     "Machine Learning": 2
   },
   "country_counts": {
-    "USA": 19,
     "Worldwide": 94,
     "Ireland": 2,
+    "USA": 19,
     "Australia": 7,
     "UK": 5
   }
