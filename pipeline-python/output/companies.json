@@ -28,8 +28,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Level",
-    "slug": "level",
+    "name": "PFAS (Personal Functional Assessment Services)",
+    "slug": "pfas-personal-functional-assessment-services",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -238,13 +238,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Dossier - Digital Competency Management",
-    "slug": "dossier-digital-competency-management",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Varicent",
     "slug": "varicent",
     "logo_url": null,
@@ -289,6 +282,13 @@
   {
     "name": "Animalz",
     "slug": "animalz",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Level",
+    "slug": "level",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -392,13 +392,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Wealth.com",
-    "slug": "wealth-com",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Lodgify",
     "slug": "lodgify",
     "logo_url": null,
@@ -471,13 +464,6 @@
   {
     "name": "nooro",
     "slug": "nooro",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Credit Wellness, LLC",
-    "slug": "credit-wellness-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
