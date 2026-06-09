@@ -4,14 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 44
+    "jobs_count": 46
   },
   {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 15
+    "jobs_count": 10
   },
   {
     "name": "Lemon.io",
@@ -35,13 +35,6 @@
     "jobs_count": 2
   },
   {
-    "name": "KIPP Foundation",
-    "slug": "kipp-foundation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "EverAI",
     "slug": "everai",
     "logo_url": null,
@@ -54,6 +47,34 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Trinca",
+    "slug": "trinca",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Luby",
+    "slug": "luby",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "JMS Technical Solutions",
+    "slug": "jms-technical-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Docker",
+    "slug": "docker",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Education Reform Now Advocacy",
@@ -224,15 +245,8 @@
     "jobs_count": 1
   },
   {
-    "name": "AWISEE",
-    "slug": "awisee",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "StioÂ®",
-    "slug": "stioa",
+    "name": "KIPP Foundation",
+    "slug": "kipp-foundation",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,20 +303,6 @@
   {
     "name": "Level",
     "slug": "level",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "sofatutor GmbH",
-    "slug": "sofatutor-gmbh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Consultran",
-    "slug": "consultran",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -415,13 +415,6 @@
   {
     "name": "Clerky, Inc.",
     "slug": "clerky-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "MailerLite",
-    "slug": "mailerlite",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
