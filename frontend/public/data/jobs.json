@@ -1,5 +1,126 @@
 [
   {
+    "id": "corporate-communication-lead-anthropic-worldwide-greenhouse-anthropic-5149725008",
+    "slug": "corporate-communication-lead-anthropic-worldwide-greenhouse-anthropic-5149725008",
+    "title": "Corporate Communication Lead",
+    "seo_title": "Remote Corporate Communication Lead Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Corporate Communication Lead job at anthropic in Worldwide. Explore RAG, AWS, Communications, Bangalore, India and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Bangalore, India",
+    "location_label": "Bangalore, India",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Communications",
+      "Bangalore, India"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5149725008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5149725008",
+    "published_at": "2026-06-10",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Corporate Communication Lead",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-10",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5149725008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "scrum-master-avum-inc-usa-remoteok-1133092",
+    "slug": "scrum-master-avum-inc-usa-remoteok-1133092",
+    "title": "Scrum Master",
+    "seo_title": "Remote Scrum Master Job in USA | Data Science Jobs",
+    "seo_description": "Apply for a remote Scrum Master job at Avum Inc. in USA. Explore design, sys admin, vfx, designer and remote AI jobs.",
+    "company": {
+      "name": "Avum Inc.",
+      "slug": "avum-inc",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Malibu, Malibu, California, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "design",
+      "sys admin",
+      "vfx",
+      "designer",
+      "marketing",
+      "exec",
+      "web dev",
+      "video",
+      "cloud",
+      "content writing",
+      "photoshop",
+      "medical"
+    ],
+    "category": "Data Science",
+    "description_summary": "Description Position Summary Facilitates Agile delivery for assigned development and QA teams. Leads Scrum ceremonies, removes impediments, coordinates with Release Management, and ensures teams deliver value consistently through each sprint. Key...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-scrum-master-avum-inc-1133092",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133092",
+    "published_at": "2026-06-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Scrum Master",
+      "description": "Description Position Summary Facilitates Agile delivery for assigned development and QA teams. Leads Scrum ceremonies, removes impediments, coordinates with Release Management, and ensures teams deliver value consistently through each sprint. Key...",
+      "datePosted": "2026-06-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Avum Inc."
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133092",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "data-scientist-yo-hr-consultancy-worldwide-remoteok-1133043",
     "slug": "data-scientist-yo-hr-consultancy-worldwide-remoteok-1133043",
     "title": "Data Scientist",
@@ -37,7 +158,7 @@
       "exec"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 11:03:35 AM. Job Title: Data ScientistJob Type: ContractorLocation: RemoteJob SummaryIn this role, you'll applyâ¦See this and similar jobs on LinkedIn. Please mention the word **GAINFUL** and tag RMjYwMDoxOTAwOjA6MjEwMDo6MTAwMQ== when applying to show...",
+    "description_summary": "Posted 11:03:35 AM. Job Title: Data ScientistJob Type: ContractorLocation: RemoteJob SummaryIn this role, you'll applyâ¦See this and similar jobs on LinkedIn. Please mention the word **GAINFUL** and tag RMTguMjEwLjIzLjE1MA== when applying to show you read...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-data-scientist-yo-hr-consultancy-1133043",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133043",
@@ -49,7 +170,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Data Scientist",
-      "description": "Posted 11:03:35 AM. Job Title: Data ScientistJob Type: ContractorLocation: RemoteJob SummaryIn this role, you'll applyâ¦See this and similar jobs on LinkedIn. Please mention the word **GAINFUL** and tag RMjYwMDoxOTAwOjA6MjEwMDo6MTAwMQ== when applying to show...",
+      "description": "Posted 11:03:35 AM. Job Title: Data ScientistJob Type: ContractorLocation: RemoteJob SummaryIn this role, you'll applyâ¦See this and similar jobs on LinkedIn. Please mention the word **GAINFUL** and tag RMTguMjEwLjIzLjE1MA== when applying to show you read...",
       "datePosted": "2026-06-09",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -1286,6 +1407,67 @@
     "ai_relevant": true
   },
   {
+    "id": "supply-chain-specialist-distoria-technologies-inc-canada-remoteok-1133127",
+    "slug": "supply-chain-specialist-distoria-technologies-inc-canada-remoteok-1133127",
+    "title": "Supply Chain Specialist",
+    "seo_title": "Remote Supply Chain Specialist Job in Canada | NLP Jobs",
+    "seo_description": "Apply for a remote Supply Chain Specialist job at Distoria Technologies INC in Canada. Explore LLM, customer support, dev, exec and remote AI jobs.",
+    "company": {
+      "name": "Distoria Technologies INC",
+      "slug": "distoria-technologies-inc",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "Toronto, Toronto, Ontario, Canada",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "customer support",
+      "dev",
+      "exec",
+      "ops",
+      "digital nomad"
+    ],
+    "category": "NLP",
+    "description_summary": "About Distoria Technologies Inc. Distoria Technologies Inc. is a Canada-based digital product company building scalable, trust-driven platforms across commerce and community. Its growing portfolio includes Wardrobe , a trust-first fashion marketplace, and...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-supply-chain-specialist-distoria-technologies-inc-1133127",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133127",
+    "published_at": "2026-06-08",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Supply Chain Specialist",
+      "description": "About Distoria Technologies Inc. Distoria Technologies Inc. is a Canada-based digital product company building scalable, trust-driven platforms across commerce and community. Its growing portfolio includes Wardrobe , a trust-first fashion marketplace, and...",
+      "datePosted": "2026-06-08",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Distoria Technologies INC"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133127",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "director-of-total-rewards-skims-usa-remoteok-1133085",
     "slug": "director-of-total-rewards-skims-usa-remoteok-1133085",
     "title": "Director of Total Rewards",
@@ -2413,7 +2595,7 @@
       "data science"
     ],
     "category": "Data Science",
-    "description_summary": "Role: Data Analyst (Remote)Location: Remote (Work from Anywhere)Payout: Competitive Roleâ¦ Please mention the word **INSTRUMENTAL** and tag RMjYwMDoxOTAwOjA6MjEwMDo6MTAwMQ== when applying to show you read the job post completely...",
+    "description_summary": "Role: Data Analyst (Remote)Location: Remote (Work from Anywhere)Payout: Competitive Roleâ¦ Please mention the word **INSTRUMENTAL** and tag RMTguMjEwLjIzLjE1MA== when applying to show you read the job post completely (#RMTguMjEwLjIzLjE1MA==). This is a beta...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-data-analyst-hired-1132989",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1132989",
@@ -2425,7 +2607,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Data Analyst",
-      "description": "Role: Data Analyst (Remote)Location: Remote (Work from Anywhere)Payout: Competitive Roleâ¦ Please mention the word **INSTRUMENTAL** and tag RMjYwMDoxOTAwOjA6MjEwMDo6MTAwMQ== when applying to show you read the job post completely...",
+      "description": "Role: Data Analyst (Remote)Location: Remote (Work from Anywhere)Payout: Competitive Roleâ¦ Please mention the word **INSTRUMENTAL** and tag RMTguMjEwLjIzLjE1MA== when applying to show you read the job post completely (#RMTguMjEwLjIzLjE1MA==). This is a beta...",
       "datePosted": "2026-06-07",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -2476,7 +2658,7 @@
       "recruiter"
     ],
     "category": "Robotics",
-    "description_summary": "Event Director: Anheuser-Busch (Full Time 3 Month Temporary Position)Remote within the U.S. At ourâ¦See this and similar jobs on LinkedIn. Please mention the word **RESPECTFUL** and tag RMjYwMDoxOTAwOjA6MjEwMDo6MTAwMQ== when applying to show you read the job...",
+    "description_summary": "Event Director: Anheuser-Busch (Full Time 3 Month Temporary Position)Remote within the U.S. At ourâ¦See this and similar jobs on LinkedIn. Please mention the word **RESPECTFUL** and tag RMTguMjEwLjIzLjE1MA== when applying to show you read the job post...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-event-director-anheuser-busch-1132980",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1132980",
@@ -2488,7 +2670,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Event Director",
-      "description": "Event Director: Anheuser-Busch (Full Time 3 Month Temporary Position)Remote within the U.S. At ourâ¦See this and similar jobs on LinkedIn. Please mention the word **RESPECTFUL** and tag RMjYwMDoxOTAwOjA6MjEwMDo6MTAwMQ== when applying to show you read the job...",
+      "description": "Event Director: Anheuser-Busch (Full Time 3 Month Temporary Position)Remote within the U.S. At ourâ¦See this and similar jobs on LinkedIn. Please mention the word **RESPECTFUL** and tag RMTguMjEwLjIzLjE1MA== when applying to show you read the job post...",
       "datePosted": "2026-06-07",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -2694,130 +2876,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1132965",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-ml-engineer-clutch-worldwide-remoteok-1132963",
-    "slug": "senior-ml-engineer-clutch-worldwide-remoteok-1132963",
-    "title": "Senior ML Engineer",
-    "seo_title": "Remote Senior ML Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior ML Engineer job at Clutch in Worldwide. Explore Python, Machine Learning, LLM, LangChain and remote AI jobs.",
-    "company": {
-      "name": "Clutch",
-      "slug": "clutch",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "LangChain",
-      "RAG",
-      "Docker",
-      "AWS",
-      "Spark",
-      "design",
-      "saas",
-      "sys admin",
-      "education"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About the Role We're hiring a Senior ML Engineer to be the data team's owner of production ML and AI agent systems. You'll take models from prototype to production, build and maintain the low-latency ML API that powers our Next Best Action (NBA) engine, and...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-ml-engineer-clutch-1132963",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132963",
-    "published_at": "2026-06-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior ML Engineer",
-      "description": "About the Role We're hiring a Senior ML Engineer to be the data team's owner of production ML and AI agent systems. You'll take models from prototype to production, build and maintain the low-latency ML API that powers our Next Best Action (NBA) engine, and...",
-      "datePosted": "2026-06-07",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Clutch"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132963",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "multi-grade-geographically-position-school-district-no-27-worldwide-remoteok-1132973",
-    "slug": "multi-grade-geographically-position-school-district-no-27-worldwide-remoteok-1132973",
-    "title": "Multi Grade Geographically Position",
-    "seo_title": "Remote Multi Grade Geographically Position Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Multi Grade Geographically Position job at School District No. 27 in Worldwide. Explore RAG, teaching, education, customer support and...",
-    "company": {
-      "name": "School District No. 27",
-      "slug": "school-district-no-27",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Anahim Lake,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "entry",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "teaching",
-      "education",
-      "customer support",
-      "travel",
-      "finance",
-      "c",
-      "mobile",
-      "recruiter",
-      "non tech"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Full Time, Continuing, multi-grade K-3. Effective September 1st, 2026. This multi-grade, geographically remote opportunity is an ideal opportunity for the applicant who: Has an interest in remote teaching Has the ability to teach a wide variety of subjects...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-multi-grade-geographically-position-school-district-no-27-1132973",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1132973",
-    "published_at": "2026-06-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Multi Grade Geographically Position",
-      "description": "Full Time, Continuing, multi-grade K-3. Effective September 1st, 2026. This multi-grade, geographically remote opportunity is an ideal opportunity for the applicant who: Has an interest in remote teaching Has the ability to teach a wide variety of subjects...",
-      "datePosted": "2026-06-06",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "School District No. 27"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1132973",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -4549,60 +4607,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-product-manager-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-product-manager-4",
-    "slug": "senior-product-manager-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-product-manager-4",
-    "title": "Senior Product Manager",
-    "seo_title": "Remote Senior Product Manager Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Product Manager job at Toggl in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
-    "company": {
-      "name": "Toggl",
-      "slug": "toggl",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Product",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Product Manager to join one of our Product Tribes , the cross-functional units that own the end-to-end experience for a specific Toggl user role. You own your Tribe's...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-    "published_at": "2026-06-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Product Manager",
-      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Product Manager to join one of our Product Tribes , the cross-functional units that own the end-to-end experience for a specific Toggl user role. You own your Tribe's...",
-      "datePosted": "2026-06-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Toggl"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "amazon-gtm-partnership-startups-anthropic-worldwide-greenhouse-anthropic-5215052008",
     "slug": "amazon-gtm-partnership-startups-anthropic-worldwide-greenhouse-anthropic-5215052008",
     "title": "Amazon GTM Partnership, Startups",
@@ -5350,62 +5354,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
-    "slug": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
-    "title": "Data Scientist, Safeguards",
-    "seo_title": "Remote Data Scientist, Safeguards Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Scientist, Safeguards job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY; San Francisco, CA | New York City, NY; Seattle, WA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "RAG",
-      "AWS",
-      "Safeguards (Trust & Safety)"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-    "published_at": "2026-06-02",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Scientist, Safeguards",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-02",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
