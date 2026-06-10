@@ -14,15 +14,22 @@
     "jobs_count": 10
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "JMS Technical Solutions",
+    "slug": "jms-technical-solutions",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
     "name": "Umbrel",
     "slug": "umbrel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -49,6 +56,62 @@
     "jobs_count": 2
   },
   {
+    "name": "YO HR Consultancy",
+    "slug": "yo-hr-consultancy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stio",
+    "slug": "stio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kojo",
+    "slug": "kojo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "TCWGlobal",
+    "slug": "tcwglobal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Intapp",
+    "slug": "intapp",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Palette Media",
+    "slug": "palette-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Assemble",
+    "slug": "assemble",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Dentology",
+    "slug": "dentology",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Trinca",
     "slug": "trinca",
     "logo_url": null,
@@ -63,8 +126,8 @@
     "jobs_count": 1
   },
   {
-    "name": "JMS Technical Solutions",
-    "slug": "jms-technical-solutions",
+    "name": "Fusemachines",
+    "slug": "fusemachines",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -72,6 +135,48 @@
   {
     "name": "Docker",
     "slug": "docker",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "American Society of Neuroradiology",
+    "slug": "american-society-of-neuroradiology",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kforce Inc",
+    "slug": "kforce-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cyara",
+    "slug": "cyara",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "SKIMS",
+    "slug": "skims",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "INFUSE",
+    "slug": "infuse",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -86,6 +191,13 @@
   {
     "name": "Joblinxsapp",
     "slug": "joblinxsapp",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "RecruitLyticx Hires",
+    "slug": "recruitlyticx-hires",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -196,20 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Rose, Klein & Marias",
-    "slug": "rose-klein-marias",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Shield AI",
-    "slug": "shield-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Patrianna",
     "slug": "patrianna",
     "logo_url": null,
@@ -226,41 +324,6 @@
   {
     "name": "Vista Fulfillment Group",
     "slug": "vista-fulfillment-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Aveanna Healthcare",
-    "slug": "aveanna-healthcare",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Magdalena Biosciences",
-    "slug": "magdalena-biosciences",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "KIPP Foundation",
-    "slug": "kipp-foundation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Varicent",
-    "slug": "varicent",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Akamai",
-    "slug": "akamai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -364,13 +427,6 @@
     "jobs_count": 1
   },
   {
-    "name": "TELUS Digital",
-    "slug": "telus-digital",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "The Land Geek",
     "slug": "the-land-geek",
     "logo_url": null,
@@ -415,13 +471,6 @@
   {
     "name": "Clerky, Inc.",
     "slug": "clerky-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Lightup Network Solutions GmbH & Co. KG",
-    "slug": "lightup-network-solutions-gmbh-co-kg",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
