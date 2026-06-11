@@ -4,14 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 45
+    "jobs_count": 44
   },
   {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 10
+    "jobs_count": 11
   },
   {
     "name": "SORACOM",
@@ -26,6 +26,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "AHU Technologies",
+    "slug": "ahu-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Bask Health",
@@ -54,6 +61,41 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Cortes 23",
+    "slug": "cortes-23",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "NDEAVOUR CONSULTING",
+    "slug": "ndeavour-consulting",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "YipitData",
+    "slug": "yipitdata",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Superhuman",
+    "slug": "superhuman",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercier Consultancy Group",
+    "slug": "mercier-consultancy-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Work Force Nexus",
@@ -217,41 +259,6 @@
     "jobs_count": 1
   },
   {
-    "name": "The Contractor Consultants",
-    "slug": "the-contractor-consultants",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "STEM Sync AI",
-    "slug": "stem-sync-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "NeuroDiscovery AI",
-    "slug": "neurodiscovery-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Peace Through Trade (PTT Coin) | Layer-1 PoW Blockchain",
-    "slug": "peace-through-trade-ptt-coin-layer-1-pow-blockchain",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Destination Careers",
-    "slug": "destination-careers",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Kojo",
     "slug": "kojo",
     "logo_url": null,
@@ -308,13 +315,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Fluidstack",
-    "slug": "fluidstack",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "NestlÃ© Health Science",
     "slug": "nestla-health-science",
     "logo_url": null,
@@ -343,20 +343,6 @@
     "jobs_count": 1
   },
   {
-    "name": "AHU Technologies",
-    "slug": "ahu-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ServiceTitan",
-    "slug": "servicetitan",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Smartbug Media/Point Sucess/Globalia",
     "slug": "smartbug-media-point-sucess-globalia",
     "logo_url": null,
@@ -378,22 +364,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Select Saunas",
-    "slug": "select-saunas",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Patrianna",
     "slug": "patrianna",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Vista Fulfillment Group",
-    "slug": "vista-fulfillment-group",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -413,13 +385,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Level",
-    "slug": "level",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Compass Business Solutions",
     "slug": "compass-business-solutions",
     "logo_url": null,
@@ -429,27 +394,6 @@
   {
     "name": "Runway",
     "slug": "runway",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CapsLock",
-    "slug": "capslock",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Binance",
-    "slug": "binance",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Anexia Internetdienstleistungs",
-    "slug": "anexia-internetdienstleistungs",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
