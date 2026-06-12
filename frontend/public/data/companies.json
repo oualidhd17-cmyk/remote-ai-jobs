@@ -28,13 +28,6 @@
     "jobs_count": 3
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "AHU Technologies",
     "slug": "ahu-technologies",
     "logo_url": null,
@@ -49,6 +42,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "JMS Technical Solutions",
     "slug": "jms-technical-solutions",
     "logo_url": null,
@@ -56,8 +56,29 @@
     "jobs_count": 2
   },
   {
+    "name": "Aguru UK Ltd",
+    "slug": "aguru-uk-ltd",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nearcut",
+    "slug": "nearcut",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Arsenal Football Club",
     "slug": "arsenal-football-club",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "University of Florida",
+    "slug": "university-of-florida",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
