@@ -14,18 +14,18 @@
     "jobs_count": 11
   },
   {
-    "name": "Nabu Casa",
-    "slug": "nabu-casa",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 8
-  },
-  {
     "name": "HealthCorps",
     "slug": "healthcorps",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "AHU Technologies",
@@ -42,11 +42,18 @@
     "jobs_count": 2
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Pickle",
+    "slug": "pickle",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercier Consultancy Group",
+    "slug": "mercier-consultancy-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Triple Whale",
@@ -198,13 +205,6 @@
   {
     "name": "Synchrony Group, LLC",
     "slug": "synchrony-group-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Dagen",
-    "slug": "dagen",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -415,13 +415,6 @@
   {
     "name": "Mitre Media",
     "slug": "mitre-media",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Expion Health",
-    "slug": "expion-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
