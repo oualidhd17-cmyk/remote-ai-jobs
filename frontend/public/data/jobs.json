@@ -1,5 +1,60 @@
 [
   {
+    "id": "junior-ml-engineer-work-force-nexus-worldwide-remoteok-1133365",
+    "slug": "junior-ml-engineer-work-force-nexus-worldwide-remoteok-1133365",
+    "title": "Junior ML Engineer",
+    "seo_title": "Remote Junior ML Engineer Job | Machine Learning Jobs",
+    "seo_description": "Apply for a remote Junior ML Engineer job at Work Force Nexus in Worldwide. Explore Machine Learning, junior, engineer, full time and remote AI jobs.",
+    "company": {
+      "name": "Work Force Nexus",
+      "slug": "work-force-nexus",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "entry",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "junior",
+      "engineer",
+      "full time"
+    ],
+    "category": "Machine Learning",
+    "description_summary": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMy4yMTYuMTU1LjIwMw== when applying to show you read the job...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-ml-engineer-work-force-nexus-1133365",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133365",
+    "published_at": "2026-06-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Junior ML Engineer",
+      "description": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMy4yMTYuMTU1LjIwMw== when applying to show you read the job...",
+      "datePosted": "2026-06-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Work Force Nexus"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133365",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "seo-content-writer-inspira-education-usa-remoteok-1133357",
     "slug": "seo-content-writer-inspira-education-usa-remoteok-1133357",
     "title": "SEO Content Writer",
@@ -62,6 +117,83 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "business-transformation-lead-expion-health-usa-remotive-2090881",
+    "slug": "business-transformation-lead-expion-health-usa-remotive-2090881",
+    "title": "Business Transformation Lead",
+    "seo_title": "Remote Business Transformation Lead Job in USA | Data Science Jobs",
+    "seo_description": "Apply for a remote Business Transformation Lead job at Expion Health in USA. Explore LLM, AWS, Spark, Prompt Engineering and remote AI jobs.",
+    "company": {
+      "name": "Expion Health",
+      "slug": "expion-health",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "USA",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 175000,
+    "salary_max": 225000,
+    "salary_currency": "USD",
+    "skills": [
+      "LLM",
+      "AWS",
+      "Spark",
+      "Prompt Engineering",
+      "api",
+      "AI/ML",
+      "automation",
+      "healthcare",
+      "startup",
+      "infrastructure",
+      "insurance",
+      "Artificial Intelligence"
+    ],
+    "category": "Data Science",
+    "description_summary": "Title : Business Transformation Lead Location : Fully Remote Reports To : President, Service & Growth Expion Health is building the future of pharmacy economics. As architects of prescription economics, we design how pharmacy value is created, aligning cost,...",
+    "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/business-transformation-lead-2090881",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/artificial-intelligence/business-transformation-lead-2090881",
+    "published_at": "2026-06-12",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Transformation Lead",
+      "description": "Title : Business Transformation Lead Location : Fully Remote Reports To : President, Service & Growth Expion Health is building the future of pharmacy economics. As architects of prescription economics, we design how pharmacy value is created, aligning cost,...",
+      "datePosted": "2026-06-12",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Expion Health"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/business-transformation-lead-2090881",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 175000,
+          "maxValue": 225000,
+          "unitText": "YEAR"
+        }
       }
     },
     "ai_relevant": true
