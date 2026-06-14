@@ -1,5 +1,68 @@
 [
   {
+    "id": "customer-service-representative-point72-usa-remoteok-1133406",
+    "slug": "customer-service-representative-point72-usa-remoteok-1133406",
+    "title": "Customer Service Representative",
+    "seo_title": "Remote Customer Service Representative Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Service Representative job at Point72 in USA. Explore RAG, virtual assistant, admin, education and remote AI jobs.",
+    "company": {
+      "name": "Point72",
+      "slug": "point72",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "New York, New York, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "part-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "virtual assistant",
+      "admin",
+      "education",
+      "customer support",
+      "marketing",
+      "part time",
+      "non tech"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Weâre looking for a motivated and professional Customer Service Representative to join our remote team. In this role, youâll assist customers through email, chat, and phone communications while helping create a positive customer experience. This...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-point72-1133406",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133406",
+    "published_at": "2026-06-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Service Representative",
+      "description": "Weâre looking for a motivated and professional Customer Service Representative to join our remote team. In this role, youâll assist customers through email, chat, and phone communications while helping create a positive customer experience. This...",
+      "datePosted": "2026-06-13",
+      "employmentType": "PART_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Point72"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133406",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "junior-ml-engineer-work-force-nexus-worldwide-remoteok-1133365",
     "slug": "junior-ml-engineer-work-force-nexus-worldwide-remoteok-1133365",
     "title": "Junior ML Engineer",
@@ -29,7 +92,7 @@
       "full time"
     ],
     "category": "Machine Learning",
-    "description_summary": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMTQ0LjEyNi4xMzQuMTk4 when applying to show you read the job...",
+    "description_summary": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMjYwMToyYzM6YzM4NTpjYTEwOjVjMTQ6MTc1YzozOTkzOmIxYjQ= when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-ml-engineer-work-force-nexus-1133365",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133365",
@@ -41,7 +104,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Junior ML Engineer",
-      "description": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMTQ0LjEyNi4xMzQuMTk4 when applying to show you read the job...",
+      "description": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMjYwMToyYzM6YzM4NTpjYTEwOjVjMTQ6MTc1YzozOTkzOmIxYjQ= when...",
       "datePosted": "2026-06-13",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -1644,73 +1707,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1133277",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "director-operations-logistics-cloetta-usa-remoteok-1133321",
-    "slug": "director-operations-logistics-cloetta-usa-remoteok-1133321",
-    "title": "Director Operations Logistics",
-    "seo_title": "Remote Director Operations Logistics Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Director Operations Logistics job at Cloetta in USA. Explore RAG, design, infosec, teaching and remote AI jobs.",
-    "company": {
-      "name": "Cloetta",
-      "slug": "cloetta",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "New York, New York, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "design",
-      "infosec",
-      "teaching",
-      "education",
-      "customer support",
-      "testing",
-      "marketing",
-      "travel",
-      "exec",
-      "finance",
-      "video"
-    ],
-    "category": "Robotics",
-    "description_summary": "Operations & Logistics Director - U.S. LOCATION: United States, East Coast (Remote, with domestic travel) REPORTS TO: U.S. Country Manager (Strong functional link to Global Operations & Supply Chain) PART OF: U.S. Management Team (to be established) A core,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-director-operations-logistics-cloetta-1133321",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133321",
-    "published_at": "2026-06-11",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Director Operations Logistics",
-      "description": "Operations & Logistics Director - U.S. LOCATION: United States, East Coast (Remote, with domestic travel) REPORTS TO: U.S. Country Manager (Strong functional link to Global Operations & Supply Chain) PART OF: U.S. Management Team (to be established) A core,...",
-      "datePosted": "2026-06-11",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Cloetta"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133321",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   },
@@ -3331,60 +3327,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5164551008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "corporate-communication-lead-anthropic-worldwide-greenhouse-anthropic-5149725008",
-    "slug": "corporate-communication-lead-anthropic-worldwide-greenhouse-anthropic-5149725008",
-    "title": "Corporate Communication Lead",
-    "seo_title": "Remote Corporate Communication Lead Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Corporate Communication Lead job at anthropic in Worldwide. Explore RAG, AWS, Communications, Bangalore, India and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Bangalore, India",
-    "location_label": "Bangalore, India",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Communications",
-      "Bangalore, India"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5149725008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5149725008",
-    "published_at": "2026-06-10",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Corporate Communication Lead",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-10",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5149725008"
     },
     "ai_relevant": true
   },

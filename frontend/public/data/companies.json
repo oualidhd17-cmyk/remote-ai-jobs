@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 38
+    "jobs_count": 37
   },
   {
     "name": "LawnStarter",
@@ -28,13 +28,6 @@
     "jobs_count": 3
   },
   {
-    "name": "Cloetta",
-    "slug": "cloetta",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "AHU Technologies",
     "slug": "ahu-technologies",
     "logo_url": null,
@@ -47,6 +40,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Point72",
+    "slug": "point72",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Work Force Nexus",
@@ -93,6 +93,13 @@
   {
     "name": "ActivTrak",
     "slug": "activtrak",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cloetta",
+    "slug": "cloetta",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
