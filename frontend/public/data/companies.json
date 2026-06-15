@@ -14,13 +14,6 @@
     "jobs_count": 11
   },
   {
-    "name": "HealthCorps",
-    "slug": "healthcorps",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -91,6 +84,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Belle",
+    "slug": "belle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "ActivTrak",
     "slug": "activtrak",
     "logo_url": null,
@@ -100,6 +100,13 @@
   {
     "name": "Cloetta",
     "slug": "cloetta",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hilo by Aktiia",
+    "slug": "hilo-by-aktiia",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -182,8 +189,8 @@
     "jobs_count": 1
   },
   {
-    "name": "empact",
-    "slug": "empact",
+    "name": "HealthCorps",
+    "slug": "healthcorps",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -429,13 +436,6 @@
   {
     "name": "A.Team",
     "slug": "a-team",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mitre Media",
-    "slug": "mitre-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
