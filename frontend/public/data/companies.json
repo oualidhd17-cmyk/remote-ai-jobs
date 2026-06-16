@@ -28,8 +28,36 @@
     "jobs_count": 2
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Spiralyze",
+    "slug": "spiralyze",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hospitable",
+    "slug": "hospitable",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "MailerLite",
     "slug": "mailerlite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "YunoJuno",
+    "slug": "yunojuno",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -387,13 +415,6 @@
   {
     "name": "Kojo",
     "slug": "kojo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "TCWGlobal",
-    "slug": "tcwglobal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
