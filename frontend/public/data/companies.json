@@ -4,14 +4,21 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 38
+    "jobs_count": 41
   },
   {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 11
+    "jobs_count": 10
+  },
+  {
+    "name": "Mongoose",
+    "slug": "mongoose",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "AHU Technologies",
@@ -26,6 +33,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Mirantis",
+    "slug": "mirantis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wealthsimple",
+    "slug": "wealthsimple",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Toptal",
@@ -58,13 +79,6 @@
   {
     "name": "YunoJuno",
     "slug": "yunojuno",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mongoose",
-    "slug": "mongoose",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,20 +233,6 @@
   {
     "name": "Hilo by Aktiia",
     "slug": "hilo-by-aktiia",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pickle",
-    "slug": "pickle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mercier Consultancy Group",
-    "slug": "mercier-consultancy-group",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -401,20 +401,6 @@
   {
     "name": "nooro",
     "slug": "nooro",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "JMS Technical Solutions",
-    "slug": "jms-technical-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Kojo",
-    "slug": "kojo",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
