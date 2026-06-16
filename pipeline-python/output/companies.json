@@ -14,18 +14,25 @@
     "jobs_count": 11
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "AHU Technologies",
     "slug": "ahu-technologies",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "MailerLite",
+    "slug": "mailerlite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Mongoose",
@@ -100,6 +107,13 @@
   {
     "name": "Kodify Media Group",
     "slug": "kodify-media-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mitre Media",
+    "slug": "mitre-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -191,13 +205,6 @@
   {
     "name": "Mercier Consultancy Group",
     "slug": "mercier-consultancy-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Triple Whale",
-    "slug": "triple-whale",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -1,5 +1,113 @@
 [
   {
+    "id": "performance-copywriter-mailerlite-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mailerlite-performance-copywriter-1",
+    "slug": "performance-copywriter-mailerlite-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mailerlite-performance-copywriter-1",
+    "title": "Performance Copywriter",
+    "seo_title": "Remote Performance Copywriter Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Performance Copywriter job at MailerLite in Worldwide. Explore RAG, Management and Finance, Remote and remote AI jobs.",
+    "company": {
+      "name": "MailerLite",
+      "slug": "mailerlite",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Management and Finance",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: USA URL: https://www.mailerlite.com/company-values MailerLite is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world stay in touch with their customers. Today, we are a team of more than...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/mailerlite-performance-copywriter-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/mailerlite-performance-copywriter-1",
+    "published_at": "2026-06-16",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Performance Copywriter",
+      "description": "Headquarters: USA URL: https://www.mailerlite.com/company-values MailerLite is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world stay in touch with their customers. Today, we are a team of more than...",
+      "datePosted": "2026-06-16",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "MailerLite"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/mailerlite-performance-copywriter-1",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "customer-success-manager-public-sector-anthropic-worldwide-greenhouse-anthropic-5262369008",
+    "slug": "customer-success-manager-public-sector-anthropic-worldwide-greenhouse-anthropic-5262369008",
+    "title": "Customer Success Manager, Public Sector",
+    "seo_title": "Remote Customer Success Manager, Public Sector Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Success Manager, Public Sector job at anthropic in Worldwide. Explore RAG, AWS, Sales, Washington, D.C. and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY; San Francisco, CA; Washington, DC",
+    "location_label": "New York City, NY; San Francisco, CA; Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Washington, D.C."
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5262369008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5262369008",
+    "published_at": "2026-06-16",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Success Manager, Public Sector",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-16",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5262369008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "head-of-marketing-product-gtm-mongoose-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mongoose-head-of-marketing-product-gtm",
     "slug": "head-of-marketing-product-gtm-mongoose-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mongoose-head-of-marketing-product-gtm",
     "title": "Head of Marketing, Product & GTM",
@@ -947,58 +1055,79 @@
     "ai_relevant": true
   },
   {
-    "id": "director-infrastructure-compute-procurement-operations-anthropic-worldwide-greenhouse-anthropic-5234538008",
-    "slug": "director-infrastructure-compute-procurement-operations-anthropic-worldwide-greenhouse-anthropic-5234538008",
-    "title": "Director, Infrastructure Compute Procurement Operations",
-    "seo_title": "Remote Director, Infrastructure Compute Procurement Operations Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Director, Infrastructure Compute Procurement Operations job at anthropic in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
+    "id": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
+    "slug": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "seo_title": "Remote Tech Lead Full-Stack Rails Engineer Job in USA | Data Science Jobs",
+    "seo_description": "Apply for a remote Tech Lead Full-Stack Rails Engineer job at Mitre Media in USA. Explore SQL, LLM, LangChain, RAG and remote AI jobs.",
     "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
+      "name": "Mitre Media",
+      "slug": "mitre-media",
       "logo_url": null,
       "website": null
     },
-    "country": "Worldwide",
+    "country": "USA",
     "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
+    "location": "USA, Canada, USA timezones",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
     "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 170000,
+    "salary_max": 200000,
+    "salary_currency": "USD",
     "skills": [
+      "SQL",
+      "LLM",
+      "LangChain",
       "RAG",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Finance",
-      "San Francisco, CA"
+      "NLP",
+      "Docker",
+      "Kubernetes",
+      "api",
+      "CSS",
+      "elasticsearch",
+      "fullstack",
+      "html"
     ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008",
-    "published_at": "2026-06-15",
+    "category": "Data Science",
+    "description_summary": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over...",
+    "apply_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "published_at": "2026-06-14",
     "expires_at": null,
-    "quality_score": 75,
+    "quality_score": 100,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Director, Infrastructure Compute Procurement Operations",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-15",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over...",
+      "datePosted": "2026-06-14",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "anthropic"
+        "name": "Mitre Media"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008"
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 170000,
+          "maxValue": 200000,
+          "unitText": "YEAR"
+        }
+      }
     },
     "ai_relevant": true
   },
@@ -1095,7 +1224,7 @@
       "full time"
     ],
     "category": "Machine Learning",
-    "description_summary": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMTA0LjYyLjEwMi43OA== when applying to show you read the job...",
+    "description_summary": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMjYwMDoxOTAwOjA6MmQwNjo6YzAw when applying to show you read...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-ml-engineer-work-force-nexus-1133365",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133365",
@@ -1107,7 +1236,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Junior ML Engineer",
-      "description": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMTA0LjYyLjEwMi43OA== when applying to show you read the job...",
+      "description": "Posted 12:46:38 PM. Job Title: Junior ML EngineerLocation: Remote, UKEmployment Type: Full-time PermanentWorkâ¦See this and similar jobs on LinkedIn. Please mention the word **PERMISSIBLE** and tag RMjYwMDoxOTAwOjA6MmQwNjo6YzAw when applying to show you read...",
       "datePosted": "2026-06-13",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -1827,65 +1956,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1133329",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "director-of-technical-solutions-triple-whale-worldwide-remoteok-1133296",
-    "slug": "director-of-technical-solutions-triple-whale-worldwide-remoteok-1133296",
-    "title": "Director of Technical Solutions",
-    "seo_title": "Remote Director of Technical Solutions Job | NLP Jobs",
-    "seo_description": "Apply for a remote Director of Technical Solutions job at Triple Whale in Worldwide. Explore SQL, LLM, exec, sys admin and remote AI jobs.",
-    "company": {
-      "name": "Triple Whale",
-      "slug": "triple-whale",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote - US",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "LLM",
-      "exec",
-      "sys admin",
-      "technical",
-      "senior",
-      "marketing",
-      "engineer"
-    ],
-    "category": "NLP",
-    "description_summary": "What Do We Do? Triple Whale is the AI operating system built for modern ecommmerce. We help you see what's actually working in your business, what's not, and what to do next. Then we take action for you â pausing the underperforming ad, generating the next...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-director-of-technical-solutions-triple-whale-1133296",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133296",
-    "published_at": "2026-06-12",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Director of Technical Solutions",
-      "description": "What Do We Do? Triple Whale is the AI operating system built for modern ecommmerce. We help you see what's actually working in your business, what's not, and what to do next. Then we take action for you â pausing the underperforming ad, generating the next...",
-      "datePosted": "2026-06-12",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Triple Whale"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133296",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6458,73 +6528,6 @@
           "maxValue": 170000,
           "unitText": "YEAR"
         }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-full-stack-react-developer-lemon-io-usa-remotive-2088711",
-    "slug": "senior-full-stack-react-developer-lemon-io-usa-remotive-2088711",
-    "title": "Senior Full-stack React Developer",
-    "seo_title": "Remote Senior Full-stack React Developer Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Full-stack React Developer job at Lemon.io in USA. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Americas, Europe, Asia, Oceania",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "MLOps",
-      "AWS",
-      "GCP",
-      "Azure",
-      ".Net",
-      "android",
-      "backend",
-      "C"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
-    "published_at": "2026-05-15",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Full-stack React Developer",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
-      "datePosted": "2026-05-15",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/senior-full-stack-react-developer-2088711",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
       }
     },
     "ai_relevant": true
