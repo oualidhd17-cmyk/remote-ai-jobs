@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 41
+    "jobs_count": 36
   },
   {
     "name": "LawnStarter",
@@ -33,6 +33,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Peak Credit Union",
+    "slug": "peak-credit-union",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "TrueML",
+    "slug": "trueml",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Distru",
+    "slug": "distru",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Mirantis",
@@ -72,6 +93,13 @@
   {
     "name": "MailerLite",
     "slug": "mailerlite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -226,13 +254,6 @@
   {
     "name": "Cloetta",
     "slug": "cloetta",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hilo by Aktiia",
-    "slug": "hilo-by-aktiia",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
