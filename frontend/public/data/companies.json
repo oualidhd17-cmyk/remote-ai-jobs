@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 35
   },
   {
     "name": "LawnStarter",
@@ -42,6 +42,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Somewhere",
+    "slug": "somewhere",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Yembo",
+    "slug": "yembo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "TrueML",
     "slug": "trueml",
     "logo_url": null,
@@ -51,6 +65,13 @@
   {
     "name": "Distru",
     "slug": "distru",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Quinncia Inc",
+    "slug": "quinncia-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -240,20 +261,6 @@
   {
     "name": "Belle",
     "slug": "belle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ActivTrak",
-    "slug": "activtrak",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cloetta",
-    "slug": "cloetta",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -450,13 +457,6 @@
   {
     "name": "EverAI",
     "slug": "everai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "A.Team",
-    "slug": "a-team",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
