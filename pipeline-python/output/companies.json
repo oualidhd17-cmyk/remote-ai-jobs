@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 41
   },
   {
     "name": "LawnStarter",
@@ -37,6 +37,27 @@
   {
     "name": "Peak Credit Union",
     "slug": "peak-credit-union",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Grove Collaborative",
+    "slug": "grove-collaborative",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PBG",
+    "slug": "pbg",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "AWISEE",
+    "slug": "awisee",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -86,13 +107,6 @@
   {
     "name": "Wealthsimple",
     "slug": "wealthsimple",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -224,29 +238,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Inspira Education",
-    "slug": "inspira-education",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Expion Health",
     "slug": "expion-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ollie",
-    "slug": "ollie",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "VNU SÃ©nÃ©gal/Gambie",
-    "slug": "vnu-sanagal-gambie",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -392,13 +385,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Vultr",
-    "slug": "vultr",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Paired",
     "slug": "paired",
     "logo_url": null,
@@ -415,6 +401,13 @@
   {
     "name": "nooro",
     "slug": "nooro",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "JMS Technical Solutions",
+    "slug": "jms-technical-solutions",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
