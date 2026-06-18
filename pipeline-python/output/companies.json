@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 37
+    "jobs_count": 40
   },
   {
     "name": "LawnStarter",
@@ -26,6 +26,41 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Ventra Health",
+    "slug": "ventra-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "E. Breuninger & Co.",
+    "slug": "e-breuninger-co",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Liquibase",
+    "slug": "liquibase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Philips Deutschland",
+    "slug": "philips-deutschland",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Air Apps",
+    "slug": "air-apps",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "1Password",
@@ -63,6 +98,13 @@
     "jobs_count": 1
   },
   {
+    "name": "NABIS",
+    "slug": "nabis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Sangoma",
     "slug": "sangoma",
     "logo_url": null,
@@ -86,13 +128,6 @@
   {
     "name": "ALM Corp",
     "slug": "alm-corp",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Peak Credit Union",
-    "slug": "peak-credit-union",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -133,6 +168,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Ripjar",
+    "slug": "ripjar",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Kindgeek",
     "slug": "kindgeek",
     "logo_url": null,
@@ -149,20 +191,6 @@
   {
     "name": "Yembo",
     "slug": "yembo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "TrueML",
-    "slug": "trueml",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Distru",
-    "slug": "distru",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -205,13 +233,6 @@
   {
     "name": "MailerLite",
     "slug": "mailerlite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Discord",
-    "slug": "discord",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -392,41 +413,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Cortes 23",
-    "slug": "cortes-23",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Revvity",
-    "slug": "revvity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Runware",
-    "slug": "runware",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Career Team Enterprises",
-    "slug": "career-team-enterprises",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Intelmatix",
-    "slug": "intelmatix",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Fortrea",
     "slug": "fortrea",
     "logo_url": null,
@@ -443,6 +429,13 @@
   {
     "name": "Circle Internet Financial",
     "slug": "circle-internet-financial",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "GM",
+    "slug": "gm",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
