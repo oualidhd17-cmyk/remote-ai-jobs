@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 41
+    "jobs_count": 37
   },
   {
     "name": "LawnStarter",
@@ -14,6 +14,13 @@
     "jobs_count": 10
   },
   {
+    "name": "PBG",
+    "slug": "pbg",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Mongoose",
     "slug": "mongoose",
     "logo_url": null,
@@ -21,18 +28,46 @@
     "jobs_count": 2
   },
   {
-    "name": "AHU Technologies",
-    "slug": "ahu-technologies",
+    "name": "1Password",
+    "slug": "1password",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Remote VA",
+    "slug": "remote-va",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "MRIoA",
+    "slug": "mrioa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kuna",
+    "slug": "kuna",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Zensors",
+    "slug": "zensors",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ALM Corp",
+    "slug": "alm-corp",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Peak Credit Union",
@@ -49,15 +84,22 @@
     "jobs_count": 1
   },
   {
-    "name": "PBG",
-    "slug": "pbg",
+    "name": "AWISEE",
+    "slug": "awisee",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "AWISEE",
-    "slug": "awisee",
+    "name": "WISK.ai - Inventory Management for Hotels, Restaurants & Bars",
+    "slug": "wisk-ai-inventory-management-for-hotels-restaurants-bars",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "INNERGY",
+    "slug": "innergy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -161,6 +203,13 @@
     "jobs_count": 1
   },
   {
+    "name": "AHU Technologies",
+    "slug": "ahu-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Drivetrain",
     "slug": "drivetrain",
     "logo_url": null,
@@ -224,20 +273,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Point72",
-    "slug": "point72",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Work Force Nexus",
-    "slug": "work-force-nexus",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Expion Health",
     "slug": "expion-health",
     "logo_url": null,
@@ -282,6 +317,13 @@
   {
     "name": "Nearcut",
     "slug": "nearcut",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -378,36 +420,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Super.Com",
-    "slug": "super-com",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Paired",
-    "slug": "paired",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "GM",
-    "slug": "gm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "nooro",
     "slug": "nooro",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "JMS Technical Solutions",
-    "slug": "jms-technical-solutions",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
