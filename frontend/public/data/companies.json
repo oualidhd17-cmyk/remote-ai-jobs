@@ -63,6 +63,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Mission Inbox",
+    "slug": "mission-inbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bucket Listers",
+    "slug": "bucket-listers",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "ALM Corp",
     "slug": "alm-corp",
     "logo_url": null,
@@ -72,6 +86,13 @@
   {
     "name": "Peak Credit Union",
     "slug": "peak-credit-union",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "A.Team",
+    "slug": "a-team",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -100,6 +121,13 @@
   {
     "name": "INNERGY",
     "slug": "innergy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kindgeek",
+    "slug": "kindgeek",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -177,13 +205,6 @@
   {
     "name": "Discord",
     "slug": "discord",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "YunoJuno",
-    "slug": "yunojuno",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
