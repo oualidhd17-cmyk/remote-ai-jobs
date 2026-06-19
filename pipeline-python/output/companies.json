@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 40
+    "jobs_count": 53
   },
   {
     "name": "LawnStarter",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 10
+  },
+  {
+    "name": "HugeInc",
+    "slug": "hugeinc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "PBG",
@@ -26,6 +33,34 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Bottle Nexus",
+    "slug": "bottle-nexus",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Guest Services",
+    "slug": "guest-services",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sterry",
+    "slug": "sterry",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "NFP",
+    "slug": "nfp",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Ventra Health",
@@ -98,6 +133,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Why Hiring",
+    "slug": "why-hiring",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "NABIS",
     "slug": "nabis",
     "logo_url": null,
@@ -154,48 +196,6 @@
     "jobs_count": 1
   },
   {
-    "name": "WISK.ai - Inventory Management for Hotels, Restaurants & Bars",
-    "slug": "wisk-ai-inventory-management-for-hotels-restaurants-bars",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "INNERGY",
-    "slug": "innergy",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ripjar",
-    "slug": "ripjar",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Kindgeek",
-    "slug": "kindgeek",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Somewhere",
-    "slug": "somewhere",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Yembo",
-    "slug": "yembo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Quinncia Inc",
     "slug": "quinncia-inc",
     "logo_url": null,
@@ -233,13 +233,6 @@
   {
     "name": "MailerLite",
     "slug": "mailerlite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "HugeInc",
-    "slug": "hugeinc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -296,13 +289,6 @@
   {
     "name": "Abbott",
     "slug": "abbott",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Zapiet",
-    "slug": "zapiet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -408,34 +394,6 @@
   {
     "name": "Net Health",
     "slug": "net-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Fortrea",
-    "slug": "fortrea",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Thrivent",
-    "slug": "thrivent",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Circle Internet Financial",
-    "slug": "circle-internet-financial",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "GM",
-    "slug": "gm",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
