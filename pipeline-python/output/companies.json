@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 54
+    "jobs_count": 52
   },
   {
     "name": "LawnStarter",
@@ -30,6 +30,13 @@
   {
     "name": "Palo Alto Networks",
     "slug": "palo-alto-networks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pathway Communications",
+    "slug": "pathway-communications",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,20 +226,6 @@
   {
     "name": "Sangoma",
     "slug": "sangoma",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mission Inbox",
-    "slug": "mission-inbox",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Bucket Listers",
-    "slug": "bucket-listers",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
