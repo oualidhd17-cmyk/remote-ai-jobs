@@ -57,6 +57,63 @@
     "ai_relevant": true
   },
   {
+    "id": "fashion-product-merchandising-manager-italy-market-chanel-worldwide-remoteok-1133806",
+    "slug": "fashion-product-merchandising-manager-italy-market-chanel-worldwide-remoteok-1133806",
+    "title": "FASHION PRODUCT MERCHANDISING MANAGER Italy Market",
+    "seo_title": "Remote FASHION PRODUCT MERCHANDISING MANAGER Italy Market Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote FASHION PRODUCT MERCHANDISING MANAGER Italy Market job at CHANEL in Worldwide. Explore RAG, exec, customer support, marketing and...",
+    "company": {
+      "name": "CHANEL",
+      "slug": "chanel",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Milano,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "exec",
+      "customer support",
+      "marketing",
+      "sales",
+      "medical"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About The Fashion Product Merchandising Team The Fashion Product Merchandising manager for Italy leads the product strategy for the market and supports boutiques in defining and animating their assortment, making each boutique a unique place of excellence...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-fashion-product-merchandising-manager-italy-market-chanel-1133806",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133806",
+    "published_at": "2026-06-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "FASHION PRODUCT MERCHANDISING MANAGER Italy Market",
+      "description": "About The Fashion Product Merchandising Team The Fashion Product Merchandising manager for Italy leads the product strategy for the market and supports boutiques in defining and animating their assortment, making each boutique a unique place of excellence...",
+      "datePosted": "2026-06-19",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "CHANEL"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133806",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "desktop-support-technician-pathway-communications-canada-remoteok-1133710",
     "slug": "desktop-support-technician-pathway-communications-canada-remoteok-1133710",
     "title": "Desktop Support Technician",
@@ -1173,6 +1230,73 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1133598",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "biology-qa-lead-yo-it-consulting-australia-remoteok-1133807",
+    "slug": "biology-qa-lead-yo-it-consulting-australia-remoteok-1133807",
+    "title": "Biology QA Lead",
+    "seo_title": "Remote Biology QA Lead Job in Australia | Data Science Jobs",
+    "seo_description": "Apply for a remote Biology QA Lead job at YO IT Consulting in Australia. Explore LLM, RAG, Statistics, consulting and remote AI jobs.",
+    "company": {
+      "name": "YO IT Consulting",
+      "slug": "yo-it-consulting",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Melbourne, Melbourne, Victoria, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Statistics",
+      "consulting",
+      "design",
+      "teaching",
+      "education",
+      "technical",
+      "customer support",
+      "quality assurance",
+      "exec",
+      "content writing"
+    ],
+    "category": "Data Science",
+    "description_summary": "Job Description Job Title: Biology Quality Assurance Lead Job Type: Contract Location: Remote About This Role In this hourly, remote contractor role, you will work as a Biology Quality Assurance Lead to oversee quality, consistency, and trainer performance...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-biology-qa-lead-yo-it-consulting-1133807",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133807",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Biology QA Lead",
+      "description": "Job Description Job Title: Biology Quality Assurance Lead Job Type: Contract Location: Remote About This Role In this hourly, remote contractor role, you will work as a Biology Quality Assurance Lead to oversee quality, consistency, and trainer performance...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "YO IT Consulting"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133807",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
+      }
     },
     "ai_relevant": true
   },
@@ -2990,130 +3114,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5097186008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "junior-data-scientist-why-hiring-canada-remoteok-1133570",
-    "slug": "junior-data-scientist-why-hiring-canada-remoteok-1133570",
-    "title": "Junior Data Scientist",
-    "seo_title": "Remote Junior Data Scientist Job in Canada | Data Science Jobs",
-    "seo_description": "Apply for a remote Junior Data Scientist job at Why Hiring in Canada. Explore data science, junior and remote AI jobs.",
-    "company": {
-      "name": "Why Hiring",
-      "slug": "why-hiring",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Canada",
-    "city": null,
-    "location": "Canada,",
-    "location_label": "Remote - Canada",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "entry",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "data science",
-      "junior"
-    ],
-    "category": "Data Science",
-    "description_summary": "Posted 7:00:09 AM. At Why Hiring, we believe in the power of connecting talented individuals with incredible remoteâ¦See this and similar jobs on LinkedIn. Please mention the word **MAGIC** and tag RNjQuMjM2LjE2OS4xMDQ= when applying to show you read the job...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-data-scientist-why-hiring-1133570",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133570",
-    "published_at": "2026-06-17",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Junior Data Scientist",
-      "description": "Posted 7:00:09 AM. At Why Hiring, we believe in the power of connecting talented individuals with incredible remoteâ¦See this and similar jobs on LinkedIn. Please mention the word **MAGIC** and tag RNjQuMjM2LjE2OS4xMDQ= when applying to show you read the job...",
-      "datePosted": "2026-06-17",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Why Hiring"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133570",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Canada"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "people-operations-nabis-usa-remoteok-1133555",
-    "slug": "people-operations-nabis-usa-remoteok-1133555",
-    "title": "People Operations",
-    "seo_title": "Remote People Operations Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote People Operations job at NABIS in USA. Explore RAG, senior, exec, social media and remote AI jobs.",
-    "company": {
-      "name": "NABIS",
-      "slug": "nabis",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Dallas, Dallas, Texas, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "senior",
-      "exec",
-      "social media",
-      "part time",
-      "teaching",
-      "full time",
-      "music",
-      "coordinator",
-      "customer support",
-      "scheme",
-      "marketing"
-    ],
-    "category": "Robotics",
-    "description_summary": "About Nabis Nabis is the #1 licensed cannabis wholesale platform in the world, supplying $1B+ worth of cannabis products annually from hundreds of brands to retailers across California, New York, and Nevada. Our mission is to empower the world to discover...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-people-operations-nabis-1133555",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133555",
-    "published_at": "2026-06-17",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "People Operations",
-      "description": "About Nabis Nabis is the #1 licensed cannabis wholesale platform in the world, supplying $1B+ worth of cannabis products annually from hundreds of brands to retailers across California, New York, and Nevada. Our mission is to empower the world to discover...",
-      "datePosted": "2026-06-17",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NABIS"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133555",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   },
@@ -7037,71 +7037,6 @@
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
-    "slug": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
-    "title": "Anthropic Fellows Program",
-    "seo_title": "Remote Anthropic Fellows Program Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Fellows Program job at anthropic in USA. Explore Python, Deep Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Deep Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "AI Research & Engineering",
-      "British Columbia, CA",
-      "London, UK",
-      "Ontario, CA",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
-    "published_at": "2026-05-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Fellows Program",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-06",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5023394008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   }

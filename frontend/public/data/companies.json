@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 52
+    "jobs_count": 51
   },
   {
     "name": "LawnStarter",
@@ -30,6 +30,13 @@
   {
     "name": "Palo Alto Networks",
     "slug": "palo-alto-networks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CHANEL",
+    "slug": "chanel",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -126,6 +133,13 @@
     "jobs_count": 1
   },
   {
+    "name": "YO IT Consulting",
+    "slug": "yo-it-consulting",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Guest Services",
     "slug": "guest-services",
     "logo_url": null,
@@ -212,20 +226,6 @@
   {
     "name": "Zensors",
     "slug": "zensors",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Why Hiring",
-    "slug": "why-hiring",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "NABIS",
-    "slug": "nabis",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
