@@ -1689,64 +1689,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-backend-engineer-studio-ai-creative-fabrica-worldwide-remoteok-1133667",
-    "slug": "senior-backend-engineer-studio-ai-creative-fabrica-worldwide-remoteok-1133667",
-    "title": "Senior Backend Engineer Studio AI",
-    "seo_title": "Remote Senior Backend Engineer Studio AI Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Backend Engineer Studio AI job at Creative Fabrica in Worldwide. Explore golang, technical, dev, senior and remote AI jobs.",
-    "company": {
-      "name": "Creative Fabrica",
-      "slug": "creative-fabrica",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "golang",
-      "technical",
-      "dev",
-      "senior",
-      "engineer",
-      "backend",
-      "digital nomad"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Remote - About Creative FabricaCreative Fabrica is a subscription platform serving millions of creators, designers, and crafters worldwide. We're built on the principle that everyone can be creative. We remove what stands in the way: expensive software,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-studio-ai-creative-fabrica-1133667",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133667",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Backend Engineer Studio AI",
-      "description": "Remote - About Creative FabricaCreative Fabrica is a subscription platform serving millions of creators, designers, and crafters worldwide. We're built on the principle that everyone can be creative. We remove what stands in the way: expensive software,...",
-      "datePosted": "2026-06-18",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Creative Fabrica"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133667",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "managing-director-marketing-services-hugeinc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hugeinc-managing-director-marketing-services",
     "slug": "managing-director-marketing-services-hugeinc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hugeinc-managing-director-marketing-services",
     "title": "Managing Director, Marketing Services",
@@ -3673,63 +3615,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
-    "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
-    "title": "Applied AI Architect, Industries",
-    "seo_title": "Remote Applied AI Architect, Industries Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Paris, France",
-    "location_label": "Paris, France",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Paris, France"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
-    "published_at": "2026-06-17",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Industries",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-17",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
     "slug": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
     "title": "Applied AI Architect, Industries",
@@ -3783,6 +3668,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
+    "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
+    "title": "Applied AI Architect, Industries",
+    "seo_title": "Remote Applied AI Architect, Industries Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Paris, France",
+    "location_label": "Paris, France",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Paris, France"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
+    "published_at": "2026-06-17",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Industries",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-17",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008"
     },
     "ai_relevant": true
   },
