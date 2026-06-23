@@ -1,5 +1,125 @@
 [
   {
+    "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-5204086008",
+    "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-5204086008",
+    "title": "Applied AI Architect, Industries",
+    "seo_title": "Remote Applied AI Architect, Industries Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Zürich, CH",
+    "location_label": "Zürich, CH",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Zürich, CH"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5204086008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5204086008",
+    "published_at": "2026-06-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Industries",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-23",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5204086008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-analyst-iconsultera-worldwide-remoteok-1133846",
+    "slug": "data-analyst-iconsultera-worldwide-remoteok-1133846",
+    "title": "Data Analyst",
+    "seo_title": "Remote Data Analyst Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Data Analyst job at iConsultera in Worldwide. Explore design, coordinator, exec, web dev and remote AI jobs.",
+    "company": {
+      "name": "iConsultera",
+      "slug": "iconsultera",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "design",
+      "coordinator",
+      "exec",
+      "web dev",
+      "speech",
+      "content writing",
+      "marketing",
+      "stats",
+      "full time",
+      "digital nomad",
+      "analyst",
+      "data science"
+    ],
+    "category": "Data Science",
+    "description_summary": "Job Summary:We are seeking a detail-oriented and analytical Data Analyst to join our remote teamâ¦See this and similar jobs on LinkedIn. Please mention the word **EFFECTUAL** and tag RMTcyLjIxNC45Ny4yMzM= when applying to show you read the job post...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-analyst-iconsultera-1133846",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133846",
+    "published_at": "2026-06-22",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Analyst",
+      "description": "Job Summary:We are seeking a detail-oriented and analytical Data Analyst to join our remote teamâ¦See this and similar jobs on LinkedIn. Please mention the word **EFFECTUAL** and tag RMTcyLjIxNC45Ny4yMzM= when applying to show you read the job post...",
+      "datePosted": "2026-06-22",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "iConsultera"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133846",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "area-sales-manager-chicago-garage-beer-usa-remoteok-1133908",
     "slug": "area-sales-manager-chicago-garage-beer-usa-remoteok-1133908",
     "title": "Area Sales Manager Chicago",
@@ -129,6 +249,73 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "digital-marketing-designer-format-canada-remoteok-1133916",
+    "slug": "digital-marketing-designer-format-canada-remoteok-1133916",
+    "title": "Digital Marketing Designer",
+    "seo_title": "Remote Digital Marketing Designer Job in Canada | Robotics Jobs",
+    "seo_description": "Apply for a remote Digital Marketing Designer job at Format in Canada. Explore RAG, coordinator, recruiter, non tech and remote AI jobs.",
+    "company": {
+      "name": "Format",
+      "slug": "format",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "Toronto, Toronto, Ontario, Canada",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "coordinator",
+      "recruiter",
+      "non tech",
+      "design",
+      "saas",
+      "sys admin",
+      "designer",
+      "testing",
+      "video",
+      "css",
+      "html"
+    ],
+    "category": "Robotics",
+    "description_summary": "Title: Digital Marketing Designer Reports to: Head of Design Location: Remote (CA) About Zenfolio Inc. Zenfolio Inc. offers multiple e-commerce solutions for photographers to showcase their work, manage their business, and build their brand. For almost two...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-digital-marketing-designer-format-1133916",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133916",
+    "published_at": "2026-06-22",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Digital Marketing Designer",
+      "description": "Title: Digital Marketing Designer Reports to: Head of Design Location: Remote (CA) About Zenfolio Inc. Zenfolio Inc. offers multiple e-commerce solutions for photographers to showcase their work, manage their business, and build their brand. For almost two...",
+      "datePosted": "2026-06-22",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Format"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133916",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
       }
     },
     "ai_relevant": true
@@ -679,7 +866,7 @@
       "ops"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 5:57:32 PM. Pay range $75,000 to $85,000 RemoteCompany BackgroundBuffalo Games is an award-winning toy companyâ¦See this and similar jobs on LinkedIn. Please mention the word **ACHIEVIBLE** and tag RMTcyLjE3NC4xNjUuMjI4 when applying to show you read...",
+    "description_summary": "Posted 5:57:32 PM. Pay range $75,000 to $85,000 RemoteCompany BackgroundBuffalo Games is an award-winning toy companyâ¦See this and similar jobs on LinkedIn. Please mention the word **ACHIEVIBLE** and tag RMTcyLjIxNC45Ny4yMzM= when applying to show you read...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-amazon-forecasting-analyst-buffalo-games-1133837",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133837",
@@ -691,7 +878,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Amazon Forecasting Analyst",
-      "description": "Posted 5:57:32 PM. Pay range $75,000 to $85,000 RemoteCompany BackgroundBuffalo Games is an award-winning toy companyâ¦See this and similar jobs on LinkedIn. Please mention the word **ACHIEVIBLE** and tag RMTcyLjE3NC4xNjUuMjI4 when applying to show you read...",
+      "description": "Posted 5:57:32 PM. Pay range $75,000 to $85,000 RemoteCompany BackgroundBuffalo Games is an award-winning toy companyâ¦See this and similar jobs on LinkedIn. Please mention the word **ACHIEVIBLE** and tag RMTcyLjIxNC45Ny4yMzM= when applying to show you read...",
       "datePosted": "2026-06-21",
       "employmentType": "PART_TIME",
       "hiringOrganization": {
@@ -742,7 +929,7 @@
       "ops"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 5:04:38 PM. This is a remote position. Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn. Please mention the word **SUPPORT** and tag RMTcyLjE3NC4xNjUuMjI4 when applying to show you read the job...",
+    "description_summary": "Posted 5:04:38 PM. This is a remote position. Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn. Please mention the word **SUPPORT** and tag RMTcyLjIxNC45Ny4yMzM= when applying to show you read the job...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-supply-chain-analyst-helic-co-1133834",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133834",
@@ -754,7 +941,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Junior Supply Chain Analyst",
-      "description": "Posted 5:04:38 PM. This is a remote position. Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn. Please mention the word **SUPPORT** and tag RMTcyLjE3NC4xNjUuMjI4 when applying to show you read the job...",
+      "description": "Posted 5:04:38 PM. This is a remote position. Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn. Please mention the word **SUPPORT** and tag RMTcyLjIxNC45Ny4yMzM= when applying to show you read the job...",
       "datePosted": "2026-06-21",
       "employmentType": "PART_TIME",
       "hiringOrganization": {
@@ -809,7 +996,7 @@
       "ops"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 9:05:51 PM. Executive Assistant to the CEOUSA Remote Pop-Up Talent is a proud talent partner of Virtana, aâ¦See this and similar jobs on LinkedIn. Please mention the word **FANS** and tag RMTcyLjE3NC4xNjUuMjI4 when applying to show you read the job...",
+    "description_summary": "Posted 9:05:51 PM. Executive Assistant to the CEOUSA Remote Pop-Up Talent is a proud talent partner of Virtana, aâ¦See this and similar jobs on LinkedIn. Please mention the word **FANS** and tag RMTcyLjIxNC45Ny4yMzM= when applying to show you read the job...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-virtana-corp-1133831",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133831",
@@ -821,7 +1008,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Executive Assistant",
-      "description": "Posted 9:05:51 PM. Executive Assistant to the CEOUSA Remote Pop-Up Talent is a proud talent partner of Virtana, aâ¦See this and similar jobs on LinkedIn. Please mention the word **FANS** and tag RMTcyLjE3NC4xNjUuMjI4 when applying to show you read the job...",
+      "description": "Posted 9:05:51 PM. Executive Assistant to the CEOUSA Remote Pop-Up Talent is a proud talent partner of Virtana, aâ¦See this and similar jobs on LinkedIn. Please mention the word **FANS** and tag RMTcyLjIxNC45Ny4yMzM= when applying to show you read the job...",
       "datePosted": "2026-06-21",
       "employmentType": "PART_TIME",
       "hiringOrganization": {
@@ -1673,63 +1860,6 @@
     "ai_relevant": true
   },
   {
-    "id": "fashion-product-merchandising-manager-italy-market-chanel-worldwide-remoteok-1133806",
-    "slug": "fashion-product-merchandising-manager-italy-market-chanel-worldwide-remoteok-1133806",
-    "title": "FASHION PRODUCT MERCHANDISING MANAGER Italy Market",
-    "seo_title": "Remote FASHION PRODUCT MERCHANDISING MANAGER Italy Market Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote FASHION PRODUCT MERCHANDISING MANAGER Italy Market job at CHANEL in Worldwide. Explore RAG, exec, customer support, marketing and...",
-    "company": {
-      "name": "CHANEL",
-      "slug": "chanel",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Milano,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "exec",
-      "customer support",
-      "marketing",
-      "sales",
-      "medical"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About The Fashion Product Merchandising Team The Fashion Product Merchandising manager for Italy leads the product strategy for the market and supports boutiques in defining and animating their assortment, making each boutique a unique place of excellence...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-fashion-product-merchandising-manager-italy-market-chanel-1133806",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133806",
-    "published_at": "2026-06-19",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "FASHION PRODUCT MERCHANDISING MANAGER Italy Market",
-      "description": "About The Fashion Product Merchandising Team The Fashion Product Merchandising manager for Italy leads the product strategy for the market and supports boutiques in defining and animating their assortment, making each boutique a unique place of excellence...",
-      "datePosted": "2026-06-19",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "CHANEL"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133806",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remotive-2090887",
     "slug": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remotive-2090887",
     "title": "Mid/Senior AI Cinematic Video Editor",
@@ -2237,65 +2367,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -2350,6 +2421,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -4346,63 +4476,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
-    "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
-    "title": "Applied AI Architect, Industries",
-    "seo_title": "Remote Applied AI Architect, Industries Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Paris, France",
-    "location_label": "Paris, France",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Paris, France"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
-    "published_at": "2026-06-17",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Industries",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-17",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
     "slug": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
     "title": "Applied AI Architect, Industries",
@@ -4460,11 +4533,11 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
-    "slug": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
-    "title": "Applied AI Architect, Partnerships",
-    "seo_title": "Remote Applied AI Architect, Partnerships Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Partnerships job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
+    "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
+    "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
+    "title": "Applied AI Architect, Industries",
+    "seo_title": "Remote Applied AI Architect, Industries Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
@@ -4483,20 +4556,19 @@
     "salary_max": null,
     "salary_currency": null,
     "skills": [
+      "Python",
       "Machine Learning",
       "LLM",
       "RAG",
       "AWS",
-      "GCP",
-      "Generative AI",
       "Applied AI",
       "Paris, France"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008",
     "published_at": "2026-06-17",
     "expires_at": null,
     "quality_score": 75,
@@ -4504,7 +4576,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Applied AI Architect, Partnerships",
+      "title": "Applied AI Architect, Industries",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-06-17",
       "employmentType": "INTERN",
@@ -4513,7 +4585,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008"
     },
     "ai_relevant": true
   },
@@ -4572,6 +4644,64 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
+    "slug": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
+    "title": "Applied AI Architect, Partnerships",
+    "seo_title": "Remote Applied AI Architect, Partnerships Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Partnerships job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Paris, France",
+    "location_label": "Paris, France",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "GCP",
+      "Generative AI",
+      "Applied AI",
+      "Paris, France"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
+    "published_at": "2026-06-17",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Partnerships",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-17",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008"
     },
     "ai_relevant": true
   },
@@ -7770,61 +7900,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "design-engineer-web-anthropic-worldwide-greenhouse-anthropic-5223916008",
-    "slug": "design-engineer-web-anthropic-worldwide-greenhouse-anthropic-5223916008",
-    "title": "Design Engineer, Web",
-    "seo_title": "Remote Design Engineer, Web Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Design Engineer, Web job at anthropic in Worldwide. Explore RAG, AWS, Marketing & Brand, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Marketing & Brand",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
-    "published_at": "2026-05-19",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Design Engineer, Web",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-19",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   }
