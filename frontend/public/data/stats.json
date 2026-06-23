@@ -8,8 +8,8 @@
   "salary_count": 14,
   "status_counts": {
     "rejected": 99,
-    "published": 132,
     "pending": 26,
+    "published": 132,
     "expired": 13
   },
   "source_counts": {
@@ -19,13 +19,13 @@
     "greenhouse": 80
   },
   "category_counts": {
+    "AI Engineering": 64,
     "Data Science": 24,
-    "AI Engineering": 65,
+    "Robotics": 17,
     "Machine Learning": 5,
-    "Robotics": 15,
     "Data Analytics": 12,
     "NLP": 1,
-    "MLOps": 9,
+    "MLOps": 8,
     "Prompt Engineering": 1
   },
   "country_counts": {

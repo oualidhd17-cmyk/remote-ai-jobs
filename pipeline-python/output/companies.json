@@ -21,6 +21,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Celsius Studios",
+    "slug": "celsius-studios",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Garage Beer",
     "slug": "garage-beer",
     "logo_url": null,
@@ -47,6 +54,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Remote Talent Cloud",
+    "slug": "remote-talent-cloud",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "MapTiler",
@@ -245,20 +259,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Ventra Health",
-    "slug": "ventra-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "E. Breuninger & Co.",
-    "slug": "e-breuninger-co",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Liquibase",
     "slug": "liquibase",
     "logo_url": null,
@@ -380,13 +380,6 @@
   {
     "name": "Charles River",
     "slug": "charles-river",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Kodify Media Group",
-    "slug": "kodify-media-group",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
