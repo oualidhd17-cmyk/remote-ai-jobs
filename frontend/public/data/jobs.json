@@ -1,5 +1,138 @@
 [
   {
+    "id": "assistant-project-manager-fragrance-slate-brands-usa-remoteok-1133969",
+    "slug": "assistant-project-manager-fragrance-slate-brands-usa-remoteok-1133969",
+    "title": "Assistant Project Manager Fragrance",
+    "seo_title": "Remote Assistant Project Manager Fragrance Job in USA | Robotics Jobs",
+    "seo_description": "Apply for a remote Assistant Project Manager Fragrance job at Slate Brands in USA. Explore RAG, project manager, exec, virtual assistant and remote AI...",
+    "company": {
+      "name": "Slate Brands",
+      "slug": "slate-brands",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Brooklyn, Brooklyn, New York, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "project manager",
+      "exec",
+      "virtual assistant",
+      "dev",
+      "marketing",
+      "finance",
+      "ops",
+      "excel",
+      "full time",
+      "digital nomad"
+    ],
+    "category": "Robotics",
+    "description_summary": "Company Description Slate Brands is a modern beauty brand incubator and accelerator focused on redefining how beauty brands are built. The company identifies white space in high-growth categories and leverages strategic partnerships to create distinctive,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-assistant-project-manager-fragrance-slate-brands-1133969",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133969",
+    "published_at": "2026-06-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Assistant Project Manager Fragrance",
+      "description": "Company Description Slate Brands is a modern beauty brand incubator and accelerator focused on redefining how beauty brands are built. The company identifies white space in high-growth categories and leverages strategic partnerships to create distinctive,...",
+      "datePosted": "2026-06-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Slate Brands"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133969",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "freelance-website-copywriter-content-strategist-n4-studioa-australia-remoteok-1133968",
+    "slug": "freelance-website-copywriter-content-strategist-n4-studioa-australia-remoteok-1133968",
+    "title": "Freelance Website Copywriter Content Strategist",
+    "seo_title": "Remote Freelance Website Copywriter Content Strategist Job in Australia | Robotics Jobs",
+    "seo_description": "Apply for a remote Freelance Website Copywriter Content Strategist job at N4 StudioÂ® in Australia. Explore RAG, copywriting, design, designer and remote...",
+    "company": {
+      "name": "N4 StudioÂ®",
+      "slug": "n4-studioa",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Sydney, New South Wales, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "entry",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "copywriting",
+      "design",
+      "designer",
+      "strategy",
+      "marketing",
+      "web dev",
+      "speech",
+      "seo",
+      "exec",
+      "content writing",
+      "senior"
+    ],
+    "category": "Robotics",
+    "description_summary": "We are seeking a talented and experienced Website Copywriter to join our dynamic team. The ideal candidate will have a strong understanding of content-first design principles and be adept at creating compelling, conversion-focused copy that aligns with our...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-freelance-website-copywriter-content-strategist-n4-studior-1133968",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133968",
+    "published_at": "2026-06-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Freelance Website Copywriter Content Strategist",
+      "description": "We are seeking a talented and experienced Website Copywriter to join our dynamic team. The ideal candidate will have a strong understanding of content-first design principles and be adept at creating compelling, conversion-focused copy that aligns with our...",
+      "datePosted": "2026-06-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "N4 StudioÂ®"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133968",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "remote-ai-training-20-hr-united-states-remote-talent-cloud-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-talent-cloud-remote-ai-training",
     "slug": "remote-ai-training-20-hr-united-states-remote-talent-cloud-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-talent-cloud-remote-ai-training",
     "title": "Remote AI Training - $20/hr - United States",
@@ -103,6 +236,73 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/maptiler-developer-relations-customer-success-manager-maps-platform-remote-in-europe",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "head-of-public-understanding-nope-worldwide-remoteok-1133914",
+    "slug": "head-of-public-understanding-nope-worldwide-remoteok-1133914",
+    "title": "Head of Public Understanding",
+    "seo_title": "Remote Head of Public Understanding Job | NLP Jobs",
+    "seo_description": "Apply for a remote Head of Public Understanding job at NOPE in Worldwide. Explore LLM, RAG, marketing, communications and remote AI jobs.",
+    "company": {
+      "name": "NOPE",
+      "slug": "nope",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Worldwide",
+    "remote_type": "unknown",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 100000,
+    "salary_max": 150000,
+    "salary_currency": "USD",
+    "skills": [
+      "LLM",
+      "RAG",
+      "marketing",
+      "communications",
+      "content writing",
+      "ai",
+      "part time"
+    ],
+    "category": "NLP",
+    "description_summary": "Please note: this is a part-time contracting role. People are increasingly turning to AI for real relationships. They use it for companionship, for coaching, for emotional support, for advice, and sometimes on the hardest night of their lives. That is already...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-head-of-public-understanding-nope-1133914",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133914",
+    "published_at": "2026-06-23",
+    "expires_at": null,
+    "quality_score": 80,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Head of Public Understanding",
+      "description": "Please note: this is a part-time contracting role. People are increasingly turning to AI for real relationships. They use it for companionship, for coaching, for emotional support, for advice, and sometimes on the hardest night of their lives. That is already...",
+      "datePosted": "2026-06-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "NOPE"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133914",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 100000,
+          "maxValue": 150000,
+          "unitText": "YEAR"
+        }
+      }
     },
     "ai_relevant": true
   },
@@ -557,7 +757,7 @@
       "non tech"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 6:57:09 AM. Job Title: Data Analyst (Excel)Job Type: ContractorLocation: RemoteJob Summary: In this roleâ¦See this and similar jobs on LinkedIn. Please mention the word **ENJOYS** and tag RNTIuMTU0LjIxLjUx when applying to show you read the job post...",
+    "description_summary": "Posted 6:57:09 AM. Job Title: Data Analyst (Excel)Job Type: ContractorLocation: RemoteJob Summary: In this roleâ¦See this and similar jobs on LinkedIn. Please mention the word **ENJOYS** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read the job...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-data-analyst-yo-hr-consultancy-1133880",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133880",
@@ -569,7 +769,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Data Analyst",
-      "description": "Posted 6:57:09 AM. Job Title: Data Analyst (Excel)Job Type: ContractorLocation: RemoteJob Summary: In this roleâ¦See this and similar jobs on LinkedIn. Please mention the word **ENJOYS** and tag RNTIuMTU0LjIxLjUx when applying to show you read the job post...",
+      "description": "Posted 6:57:09 AM. Job Title: Data Analyst (Excel)Job Type: ContractorLocation: RemoteJob Summary: In this roleâ¦See this and similar jobs on LinkedIn. Please mention the word **ENJOYS** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read the job...",
       "datePosted": "2026-06-22",
       "employmentType": "CONTRACTOR",
       "hiringOrganization": {
@@ -578,6 +778,69 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1133880",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "freelance-designer-eneso-your-digital-partner-worldwide-remoteok-1133996",
+    "slug": "freelance-designer-eneso-your-digital-partner-worldwide-remoteok-1133996",
+    "title": "Freelance Designer",
+    "seo_title": "Remote Freelance Designer Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Freelance Designer job at Eneso - Your Digital Partner in Worldwide. Explore RAG, finance, non tech, customer support and remote AI...",
+    "company": {
+      "name": "Eneso - Your Digital Partner",
+      "slug": "eneso-your-digital-partner",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Time,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "entry",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "finance",
+      "non tech",
+      "customer support",
+      "marketing",
+      "c",
+      "exec",
+      "excel",
+      "legal",
+      "medical",
+      "speech",
+      "content writing"
+    ],
+    "category": "Robotics",
+    "description_summary": "Job Openings Freelance Designer November 30, 2023 About Us We prioritize hiring individuals based on their core values rather than solely focusing on hard skills. Our approach is to empower exceptional candidates to excel in a role by leveraging their...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-freelance-designer-eneso-your-digital-partner-1133996",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1133996",
+    "published_at": "2026-06-22",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Freelance Designer",
+      "description": "Job Openings Freelance Designer November 30, 2023 About Us We prioritize hiring individuals based on their core values rather than solely focusing on hard skills. Our approach is to empower exceptional candidates to excel in a role by leveraging their...",
+      "datePosted": "2026-06-22",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Eneso - Your Digital Partner"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1133996",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -620,7 +883,7 @@
       "data science"
     ],
     "category": "Data Science",
-    "description_summary": "Job Summary:We are seeking a detail-oriented and analytical Data Analyst to join our remote teamâ¦See this and similar jobs on LinkedIn. Please mention the word **EFFECTUAL** and tag RNTIuMTU0LjIxLjUx when applying to show you read the job post completely...",
+    "description_summary": "Job Summary:We are seeking a detail-oriented and analytical Data Analyst to join our remote teamâ¦See this and similar jobs on LinkedIn. Please mention the word **EFFECTUAL** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read the job post...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-data-analyst-iconsultera-1133846",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133846",
@@ -632,7 +895,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Data Analyst",
-      "description": "Job Summary:We are seeking a detail-oriented and analytical Data Analyst to join our remote teamâ¦See this and similar jobs on LinkedIn. Please mention the word **EFFECTUAL** and tag RNTIuMTU0LjIxLjUx when applying to show you read the job post completely...",
+      "description": "Job Summary:We are seeking a detail-oriented and analytical Data Analyst to join our remote teamâ¦See this and similar jobs on LinkedIn. Please mention the word **EFFECTUAL** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read the job post...",
       "datePosted": "2026-06-22",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -1392,7 +1655,7 @@
       "ops"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 5:57:32 PM. Pay range $75,000 to $85,000 RemoteCompany BackgroundBuffalo Games is an award-winning toy companyâ¦See this and similar jobs on LinkedIn. Please mention the word **ACHIEVIBLE** and tag RNTIuMTU0LjIxLjUx when applying to show you read the...",
+    "description_summary": "Posted 5:57:32 PM. Pay range $75,000 to $85,000 RemoteCompany BackgroundBuffalo Games is an award-winning toy companyâ¦See this and similar jobs on LinkedIn. Please mention the word **ACHIEVIBLE** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-amazon-forecasting-analyst-buffalo-games-1133837",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133837",
@@ -1404,7 +1667,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Amazon Forecasting Analyst",
-      "description": "Posted 5:57:32 PM. Pay range $75,000 to $85,000 RemoteCompany BackgroundBuffalo Games is an award-winning toy companyâ¦See this and similar jobs on LinkedIn. Please mention the word **ACHIEVIBLE** and tag RNTIuMTU0LjIxLjUx when applying to show you read the...",
+      "description": "Posted 5:57:32 PM. Pay range $75,000 to $85,000 RemoteCompany BackgroundBuffalo Games is an award-winning toy companyâ¦See this and similar jobs on LinkedIn. Please mention the word **ACHIEVIBLE** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read...",
       "datePosted": "2026-06-21",
       "employmentType": "PART_TIME",
       "hiringOrganization": {
@@ -1455,7 +1718,7 @@
       "ops"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 5:04:38 PM. This is a remote position. Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn. Please mention the word **SUPPORT** and tag RNTIuMTU0LjIxLjUx when applying to show you read the job post...",
+    "description_summary": "Posted 5:04:38 PM. This is a remote position. Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn. Please mention the word **SUPPORT** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read the job...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-supply-chain-analyst-helic-co-1133834",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133834",
@@ -1467,7 +1730,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Junior Supply Chain Analyst",
-      "description": "Posted 5:04:38 PM. This is a remote position. Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn. Please mention the word **SUPPORT** and tag RNTIuMTU0LjIxLjUx when applying to show you read the job post...",
+      "description": "Posted 5:04:38 PM. This is a remote position. Job Summary We are seeking a detail-oriented and analytical Juniorâ¦See this and similar jobs on LinkedIn. Please mention the word **SUPPORT** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read the job...",
       "datePosted": "2026-06-21",
       "employmentType": "PART_TIME",
       "hiringOrganization": {
@@ -1522,7 +1785,7 @@
       "ops"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 9:05:51 PM. Executive Assistant to the CEOUSA Remote Pop-Up Talent is a proud talent partner of Virtana, aâ¦See this and similar jobs on LinkedIn. Please mention the word **FANS** and tag RNTIuMTU0LjIxLjUx when applying to show you read the job post...",
+    "description_summary": "Posted 9:05:51 PM. Executive Assistant to the CEOUSA Remote Pop-Up Talent is a proud talent partner of Virtana, aâ¦See this and similar jobs on LinkedIn. Please mention the word **FANS** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read the job...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-virtana-corp-1133831",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133831",
@@ -1534,7 +1797,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Executive Assistant",
-      "description": "Posted 9:05:51 PM. Executive Assistant to the CEOUSA Remote Pop-Up Talent is a proud talent partner of Virtana, aâ¦See this and similar jobs on LinkedIn. Please mention the word **FANS** and tag RNTIuMTU0LjIxLjUx when applying to show you read the job post...",
+      "description": "Posted 9:05:51 PM. Executive Assistant to the CEOUSA Remote Pop-Up Talent is a proud talent partner of Virtana, aâ¦See this and similar jobs on LinkedIn. Please mention the word **FANS** and tag RMTM1LjIzMi4yMzIuMzY= when applying to show you read the job...",
       "datePosted": "2026-06-21",
       "employmentType": "PART_TIME",
       "hiringOrganization": {
@@ -1801,73 +2064,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1133828",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "project-assistant-talentoma-usa-remoteok-1133838",
-    "slug": "project-assistant-talentoma-usa-remoteok-1133838",
-    "title": "Project Assistant",
-    "seo_title": "Remote Project Assistant Job in USA | Data Science Jobs",
-    "seo_description": "Apply for a remote Project Assistant job at Talentoma in USA. Explore analyst, design, sys admin, infosec and remote AI jobs.",
-    "company": {
-      "name": "Talentoma",
-      "slug": "talentoma",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Pennsylvania, Pennsylvania, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "part-time",
-    "experience_level": "entry",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "analyst",
-      "design",
-      "sys admin",
-      "infosec",
-      "education",
-      "dev",
-      "testing",
-      "finance",
-      "cloud",
-      "exec",
-      "data science",
-      "ops"
-    ],
-    "category": "Data Science",
-    "description_summary": "Job Title: Remote Project Assistant Monthly Pay: $5,400 â $6,900 Summary: The Remote Project Assistant provides administrative and operational support to project teams by coordinating schedules, maintaining documentation, and assisting with project...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-project-assistant-talentoma-1133838",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133838",
-    "published_at": "2026-06-20",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Project Assistant",
-      "description": "Job Title: Remote Project Assistant Monthly Pay: $5,400 â $6,900 Summary: The Remote Project Assistant provides administrative and operational support to project teams by coordinating schedules, maintaining documentation, and assisting with project...",
-      "datePosted": "2026-06-20",
-      "employmentType": "PART_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Talentoma"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133838",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   },
@@ -3448,61 +3644,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "title": "Commercial Counsel, APAC",
@@ -3554,6 +3695,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
     },
     "ai_relevant": true
   },
@@ -4219,61 +4415,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-manager-performance-marketing-google-ads-alm-corp-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alm-corp-senior-manager-performance-marke",
-    "slug": "senior-manager-performance-marketing-google-ads-alm-corp-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alm-corp-senior-manager-performance-marke",
-    "title": "Senior Manager – Performance Marketing (Google Ads)",
-    "seo_title": "Remote Senior Manager – Performance Marketing (Google Ads) Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Manager – Performance Marketing (Google Ads) job at ALM Corp in Worldwide. Explore SQL, LLM, Sales and Marketing, Remote and...",
-    "company": {
-      "name": "ALM Corp",
-      "slug": "alm-corp",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "LLM",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Toronto, Canada URL: https://www.almcorp.com ALM Corp is a full-service digital marketing agency specializing in SEO, AI-driven content optimization, and performance marketing. We partner with American small and medium-sized businesses (SMBs)...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/alm-corp-senior-manager-performance-marketing-google-ads",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/alm-corp-senior-manager-performance-marketing-google-ads",
-    "published_at": "2026-06-17",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Manager – Performance Marketing (Google Ads)",
-      "description": "Headquarters: Toronto, Canada URL: https://www.almcorp.com ALM Corp is a full-service digital marketing agency specializing in SEO, AI-driven content optimization, and performance marketing. We partner with American small and medium-sized businesses (SMBs)...",
-      "datePosted": "2026-06-17",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "ALM Corp"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/alm-corp-senior-manager-performance-marketing-google-ads",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "account-executive-beneficial-deployments-french-speaking-anthropic-uk-greenhouse-anthropic-5221910008",
     "slug": "account-executive-beneficial-deployments-french-speaking-anthropic-uk-greenhouse-anthropic-5221910008",
     "title": "Account Executive, Beneficial Deployments (French Speaking)",
@@ -4442,64 +4583,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
-    "slug": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
-    "title": "Applied AI Architect, Partnerships",
-    "seo_title": "Remote Applied AI Architect, Partnerships Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Partnerships job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Paris, France",
-    "location_label": "Paris, France",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "GCP",
-      "Generative AI",
-      "Applied AI",
-      "Paris, France"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
-    "published_at": "2026-06-17",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Partnerships",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-17",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-4950664008",
     "slug": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-4950664008",
     "title": "Applied AI Architect, Partnerships",
@@ -4554,6 +4637,64 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4950664008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
+    "slug": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5161728008",
+    "title": "Applied AI Architect, Partnerships",
+    "seo_title": "Remote Applied AI Architect, Partnerships Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Partnerships job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Paris, France",
+    "location_label": "Paris, France",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "GCP",
+      "Generative AI",
+      "Applied AI",
+      "Paris, France"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008",
+    "published_at": "2026-06-17",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Partnerships",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-17",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161728008"
     },
     "ai_relevant": true
   },
@@ -6177,6 +6318,61 @@
     "ai_relevant": true
   },
   {
+    "id": "client-sales-development-manager-blackhawk-network-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-blackhawk-network-client-sales-development-mana",
+    "slug": "client-sales-development-manager-blackhawk-network-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-blackhawk-network-client-sales-development-mana",
+    "title": "Client Sales Development Manager",
+    "seo_title": "Remote Client Sales Development Manager Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Client Sales Development Manager job at Blackhawk Network in Worldwide. Explore RAG, AWS, Product, Remote and remote AI jobs.",
+    "company": {
+      "name": "Blackhawk Network",
+      "slug": "blackhawk-network",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Product",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Remote, United States URL: http://blackhawknetwork.com About Blackhawk Network: Today, through BHN’s single global platform, businesses of all kinds can tap into the world’s largest network of branded payment solutions. BHN helps businesses grow...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/blackhawk-network-client-sales-development-manager",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/blackhawk-network-client-sales-development-manager",
+    "published_at": "2026-06-11",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Client Sales Development Manager",
+      "description": "Headquarters: Remote, United States URL: http://blackhawknetwork.com About Blackhawk Network: Today, through BHN’s single global platform, businesses of all kinds can tap into the world’s largest network of branded payment solutions. BHN helps businesses grow...",
+      "datePosted": "2026-06-11",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Blackhawk Network"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/blackhawk-network-client-sales-development-manager",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "data-center-strategic-sourcing-lead-anthropic-usa-greenhouse-anthropic-5253145008",
     "slug": "data-center-strategic-sourcing-lead-anthropic-usa-greenhouse-anthropic-5253145008",
     "title": "Data Center Strategic Sourcing Lead",
@@ -7530,6 +7726,61 @@
         "@type": "Country",
         "name": "USA"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "design-engineer-web-anthropic-worldwide-greenhouse-anthropic-5223916008",
+    "slug": "design-engineer-web-anthropic-worldwide-greenhouse-anthropic-5223916008",
+    "title": "Design Engineer, Web",
+    "seo_title": "Remote Design Engineer, Web Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Design Engineer, Web job at anthropic in Worldwide. Explore RAG, AWS, Marketing & Brand, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Marketing & Brand",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
+    "published_at": "2026-05-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Design Engineer, Web",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-05-19",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   }

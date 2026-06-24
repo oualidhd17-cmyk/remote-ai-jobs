@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 48
+    "jobs_count": 49
   },
   {
     "name": "LawnStarter",
@@ -49,6 +49,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Slate Brands",
+    "slug": "slate-brands",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "N4 StudioÂ®",
+    "slug": "n4-studioa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Remote Talent Cloud",
     "slug": "remote-talent-cloud",
     "logo_url": null,
@@ -58,6 +72,13 @@
   {
     "name": "MapTiler",
     "slug": "maptiler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "NOPE",
+    "slug": "nope",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -79,6 +100,13 @@
   {
     "name": "YO HR Consultancy",
     "slug": "yo-hr-consultancy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Eneso - Your Digital Partner",
+    "slug": "eneso-your-digital-partner",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -177,13 +205,6 @@
   {
     "name": "OWL Services",
     "slug": "owl-services",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Talentoma",
-    "slug": "talentoma",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -315,13 +336,6 @@
     "jobs_count": 1
   },
   {
-    "name": "ALM Corp",
-    "slug": "alm-corp",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "A.Team",
     "slug": "a-team",
     "logo_url": null,
@@ -436,6 +450,13 @@
   {
     "name": "Renaissance Learning North America",
     "slug": "renaissance-learning-north-america",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Blackhawk Network",
+    "slug": "blackhawk-network",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
