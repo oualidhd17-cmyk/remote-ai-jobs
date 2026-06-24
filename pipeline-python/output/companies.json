@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 49
+    "jobs_count": 50
   },
   {
     "name": "LawnStarter",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 15
+  },
+  {
+    "name": "RSE+ Architekten Ingenieure GmbH",
+    "slug": "rse-architekten-ingenieure-gmbh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "YO IT Consulting",
@@ -54,6 +61,41 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "BitPay",
+    "slug": "bitpay",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wripple",
+    "slug": "wripple",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Capgemini",
+    "slug": "capgemini",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Lingraphica",
+    "slug": "lingraphica",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Caterpillar Inc.",
+    "slug": "caterpillar-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Slate Brands",
@@ -119,6 +161,13 @@
     "jobs_count": 1
   },
   {
+    "name": "EDU Holdings Limited",
+    "slug": "edu-holdings-limited",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "iConsultera",
     "slug": "iconsultera",
     "logo_url": null,
@@ -161,43 +210,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Omada.ai",
-    "slug": "omada-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Buffalo Games",
     "slug": "buffalo-games",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Helic & Co",
-    "slug": "helic-co",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Virtana Corp.",
-    "slug": "virtana-corp",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Houseink Studio",
-    "slug": "houseink-studio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "bdManagedIT",
-    "slug": "bdmanagedit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,13 +457,6 @@
   {
     "name": "Renaissance Learning North America",
     "slug": "renaissance-learning-north-america",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Blackhawk Network",
-    "slug": "blackhawk-network",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
