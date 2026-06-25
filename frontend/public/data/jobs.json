@@ -1,5 +1,62 @@
 [
   {
+    "id": "senior-react-native-developer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-react-native-developer",
+    "slug": "senior-react-native-developer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-react-native-developer",
+    "title": "Senior React Native Developer",
+    "seo_title": "Remote Senior React Native Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior React Native Developer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer",
+    "published_at": "2026-06-25",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior React Native Developer",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked...",
+      "datePosted": "2026-06-25",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "commercial-counsel-sparc-anthropic-worldwide-greenhouse-anthropic-5275765008",
     "slug": "commercial-counsel-sparc-anthropic-worldwide-greenhouse-anthropic-5275765008",
     "title": "Commercial Counsel, SPARC",
@@ -50,6 +107,116 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5275765008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-scientist-marketing-anthropic-worldwide-greenhouse-anthropic-5161402008",
+    "slug": "data-scientist-marketing-anthropic-worldwide-greenhouse-anthropic-5161402008",
+    "title": "Data Scientist, Marketing",
+    "seo_title": "Remote Data Scientist, Marketing Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Marketing job at anthropic in Worldwide. Explore RAG, AWS, Data Science & Analytics, San Francisco, CA and remote AI...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA",
+    "location_label": "New York City, NY | Seattle, WA; San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Data Science & Analytics",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+    "published_at": "2026-06-25",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Marketing",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-25",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-scientist-policy-anthropic-worldwide-greenhouse-anthropic-5232055008",
+    "slug": "data-scientist-policy-anthropic-worldwide-greenhouse-anthropic-5232055008",
+    "title": "Data Scientist, Policy",
+    "seo_title": "Remote Data Scientist, Policy Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Policy job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY; San Francisco, CA | New York City, NY; Washington, DC",
+    "location_label": "New York City, NY; San Francisco, CA | New York City, NY; Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "AWS",
+      "Data Science & Analytics",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5232055008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5232055008",
+    "published_at": "2026-06-25",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Policy",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-25",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5232055008"
     },
     "ai_relevant": true
   },
@@ -412,7 +579,7 @@
       "content writing"
     ],
     "category": "AI Engineering",
-    "description_summary": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMjAuODMuMTU4LjMz when applying to show you read...",
+    "description_summary": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMTcyLjE4Mi4yMjQuMTk3 when applying to show you...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-work-force-nexus-1133994",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133994",
@@ -424,7 +591,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Junior Business Analyst",
-      "description": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMjAuODMuMTU4LjMz when applying to show you read...",
+      "description": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMTcyLjE4Mi4yMjQuMTk3 when applying to show you...",
       "datePosted": "2026-06-24",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -1433,6 +1600,69 @@
     "ai_relevant": true
   },
   {
+    "id": "retail-marketing-coordinator-crown-affair-worldwide-remoteok-1134093",
+    "slug": "retail-marketing-coordinator-crown-affair-worldwide-remoteok-1134093",
+    "title": "Retail Marketing Coordinator",
+    "seo_title": "Remote Retail Marketing Coordinator Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Retail Marketing Coordinator job at Crown Affair in Worldwide. Explore RAG, coordinator, customer support, marketing and remote AI jobs.",
+    "company": {
+      "name": "Crown Affair",
+      "slug": "crown-affair",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City Metropolitan Area",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "coordinator",
+      "customer support",
+      "marketing",
+      "exec",
+      "education",
+      "content writing",
+      "ops",
+      "sales",
+      "medical",
+      "ecommerce",
+      "full time"
+    ],
+    "category": "Robotics",
+    "description_summary": "Role: Coordinator, Retail Marketing Department : Retail and Sales Reports to: Manager, Retail Marketing and Sales Type: Full-Time Location : LA/NY Preferred Required Work Authorization: USA Crown Affair is looking for a highly organized, detail-oriented, and...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-retail-marketing-coordinator-crown-affair-1134093",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134093",
+    "published_at": "2026-06-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Retail Marketing Coordinator",
+      "description": "Role: Coordinator, Retail Marketing Department : Retail and Sales Reports to: Manager, Retail Marketing and Sales Type: Full-Time Location : LA/NY Preferred Required Work Authorization: USA Crown Affair is looking for a highly organized, detail-oriented, and...",
+      "datePosted": "2026-06-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Crown Affair"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134093",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "patient-advocate-cedar-usa-remoteok-1134007",
     "slug": "patient-advocate-cedar-usa-remoteok-1134007",
     "title": "Patient Advocate",
@@ -1495,6 +1725,73 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "application-support-specialist-internova-travel-group-uk-remoteok-1134111",
+    "slug": "application-support-specialist-internova-travel-group-uk-remoteok-1134111",
+    "title": "Application Support Specialist",
+    "seo_title": "Remote Application Support Specialist Job in UK | Robotics Jobs",
+    "seo_description": "Apply for a remote Application Support Specialist job at Internova Travel Group in UK. Explore RAG, Power BI, virtual assistant, design and remote AI jobs.",
+    "company": {
+      "name": "Internova Travel Group",
+      "slug": "internova-travel-group",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, London, England, United Kingdom",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Power BI",
+      "virtual assistant",
+      "design",
+      "vfx",
+      "architecture",
+      "designer",
+      "customer support",
+      "photoshop",
+      "full time",
+      "digital nomad",
+      "travel"
+    ],
+    "category": "Robotics",
+    "description_summary": "Global Travel Collection (GTC ), part of Internova Travel Group, is the most influential collection of international luxury travel advisors. More than 1,700 GTC advisors are industry leaders in providing premium travel services to leisure travelers, corporate...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-application-support-specialist-internova-travel-group-1134111",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134111",
+    "published_at": "2026-06-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Application Support Specialist",
+      "description": "Global Travel Collection (GTC ), part of Internova Travel Group, is the most influential collection of international luxury travel advisors. More than 1,700 GTC advisors are industry leaders in providing premium travel services to leisure travelers, corporate...",
+      "datePosted": "2026-06-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Internova Travel Group"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134111",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
       }
     },
     "ai_relevant": true
@@ -1878,6 +2175,73 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "change-management-lead-inizio-uk-remoteok-1134113",
+    "slug": "change-management-lead-inizio-uk-remoteok-1134113",
+    "title": "Change Management Lead",
+    "seo_title": "Remote Change Management Lead Job in UK | Robotics Jobs",
+    "seo_description": "Apply for a remote Change Management Lead job at Inizio in UK. Explore RAG, virtual assistant, design, vfx and remote AI jobs.",
+    "company": {
+      "name": "Inizio",
+      "slug": "inizio",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, London, England, United Kingdom",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "virtual assistant",
+      "design",
+      "vfx",
+      "architecture",
+      "designer",
+      "customer support",
+      "photoshop",
+      "full time",
+      "digital nomad",
+      "travel",
+      "education"
+    ],
+    "category": "Robotics",
+    "description_summary": "About the role The Change Management Lead will support our Workday Optimisation project and other People and Culture-related projects (such as US Benefits and Job Architecture). We have identified the need to facilitate aligned, and sustained communication...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-change-management-lead-inizio-1134113",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134113",
+    "published_at": "2026-06-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Change Management Lead",
+      "description": "About the role The Change Management Lead will support our Workday Optimisation project and other People and Culture-related projects (such as US Benefits and Job Architecture). We have identified the need to facilitate aligned, and sustained communication...",
+      "datePosted": "2026-06-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Inizio"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134113",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
       }
     },
     "ai_relevant": true
@@ -2425,7 +2789,7 @@
       "Remote"
     ],
     "category": "AI Engineering",
-    "description_summary": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ ========== IMPORTANT! Please use this link to apply: ➡️ https://remotetalentcloud.com/apply-ai/ ========== Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in...",
+    "description_summary": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in helping train and improve artificial intelligence (AI) systems. Your work will directly support how AI models...",
     "apply_url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states-1",
     "source": "weworkremotely",
     "source_url": "https://weworkremotely.com/remote-jobs/remote-talent-cloud-remote-ai-training-20-hr-united-states-1",
@@ -2437,7 +2801,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Remote AI Training - $20/hr - United States",
-      "description": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ ========== IMPORTANT! Please use this link to apply: ➡️ https://remotetalentcloud.com/apply-ai/ ========== Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in...",
+      "description": "Headquarters: Cheyenne, WY URL: https://remotetalentcloud.com/ Description: As an AI Training Specialist (Data Annotation), you’ll play a key role in helping train and improve artificial intelligence (AI) systems. Your work will directly support how AI models...",
       "datePosted": "2026-06-23",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -2733,140 +3097,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5239403008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "manager-of-people-operations-karbon-usa-remoteok-1133906",
-    "slug": "manager-of-people-operations-karbon-usa-remoteok-1133906",
-    "title": "Manager of People Operations",
-    "seo_title": "Remote Manager of People Operations Job in USA | Data Science Jobs",
-    "seo_description": "Apply for a remote Manager of People Operations job at Karbon in USA. Explore LLM, RAG, Prompt Engineering, video and remote AI jobs.",
-    "company": {
-      "name": "Karbon",
-      "slug": "karbon",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Denver, Denver, Colorado, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Prompt Engineering",
-      "video",
-      "exec",
-      "full time",
-      "part time",
-      "customer support",
-      "travel",
-      "ops",
-      "excel",
-      "medical"
-    ],
-    "category": "Data Science",
-    "description_summary": "About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day....",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-manager-of-people-operations-karbon-1133906",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133906",
-    "published_at": "2026-06-22",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Manager of People Operations",
-      "description": "About Karbon Karbon is the global leader in AI-powered practice management software for accounting firms. We provide an award-winning cloud platform that helps tens of thousands of accounting professionals work more efficiently and collaboratively every day....",
-      "datePosted": "2026-06-22",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Karbon"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133906",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "graphic-designer-afina-uk-remoteok-1134082",
-    "slug": "graphic-designer-afina-uk-remoteok-1134082",
-    "title": "Graphic Designer",
-    "seo_title": "Remote Graphic Designer Job in UK | Data Science Jobs",
-    "seo_description": "Apply for a remote Graphic Designer job at Afina in UK. Explore virtual assistant, finance, exec, marketing and remote AI jobs.",
-    "company": {
-      "name": "Afina",
-      "slug": "afina",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, London, England, United Kingdom",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "virtual assistant",
-      "finance",
-      "exec",
-      "marketing",
-      "analyst",
-      "education",
-      "microsoft",
-      "data science",
-      "jira",
-      "sys admin",
-      "scrum",
-      "scheme"
-    ],
-    "category": "Data Science",
-    "description_summary": "Join One of the Fastest-Growing Brands in E-Commerce Afina is an 8-figure DTC wellness brand and the #1 selling filtered showerhead brand on Amazon. Weâre scaling aggressively across Meta, TikTok, Amazon, retail, and subscriptionâand weâre looking for a...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-graphic-designer-afina-1134082",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134082",
-    "published_at": "2026-06-22",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Graphic Designer",
-      "description": "Join One of the Fastest-Growing Brands in E-Commerce Afina is an 8-figure DTC wellness brand and the #1 selling filtered showerhead brand on Amazon. Weâre scaling aggressively across Meta, TikTok, Amazon, retail, and subscriptionâand weâre looking for a...",
-      "datePosted": "2026-06-22",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Afina"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134082",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
-      }
     },
     "ai_relevant": true
   },
@@ -4051,62 +4281,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
-    "slug": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
-    "title": "Data Scientist, Safeguards",
-    "seo_title": "Remote Data Scientist, Safeguards Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Scientist, Safeguards job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "RAG",
-      "AWS",
-      "Safeguards (Trust & Safety)"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Scientist, Safeguards",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5547,63 +5721,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
-    "slug": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
-    "title": "Applied AI Architect, Industries",
-    "seo_title": "Remote Applied AI Architect, Industries Job in Germany | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Germany. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Germany",
-    "city": null,
-    "location": "Munich, Germany",
-    "location_label": "Munich, Germany",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Munich, Germany"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
-    "published_at": "2026-06-17",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Industries",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-17",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
     "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4977626008",
     "title": "Applied AI Architect, Industries",
@@ -5657,6 +5774,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977626008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
+    "slug": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
+    "title": "Applied AI Architect, Industries",
+    "seo_title": "Remote Applied AI Architect, Industries Job in Germany | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Germany. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Germany",
+    "city": null,
+    "location": "Munich, Germany",
+    "location_label": "Munich, Germany",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Munich, Germany"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
+    "published_at": "2026-06-17",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Industries",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-17",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
     },
     "ai_relevant": true
   },
