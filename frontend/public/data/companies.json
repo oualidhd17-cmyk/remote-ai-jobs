@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 50
+    "jobs_count": 49
   },
   {
     "name": "LawnStarter",
@@ -14,6 +14,13 @@
     "jobs_count": 15
   },
   {
+    "name": "Mindrift",
+    "slug": "mindrift",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "RSE+ Architekten Ingenieure GmbH",
     "slug": "rse-architekten-ingenieure-gmbh",
     "logo_url": null,
@@ -21,22 +28,8 @@
     "jobs_count": 2
   },
   {
-    "name": "YO IT Consulting",
-    "slug": "yo-it-consulting",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Celsius Studios",
     "slug": "celsius-studios",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Garage Beer",
-    "slug": "garage-beer",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -63,6 +56,76 @@
     "jobs_count": 2
   },
   {
+    "name": "GM",
+    "slug": "gm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bright Vision Technologies",
+    "slug": "bright-vision-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercer County Works",
+    "slug": "mercer-county-works",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Origami Risk",
+    "slug": "origami-risk",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Rimini Street",
+    "slug": "rimini-street",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PCL Industrial Management",
+    "slug": "pcl-industrial-management",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "BlueBox",
+    "slug": "bluebox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Unqork",
+    "slug": "unqork",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Akamai",
+    "slug": "akamai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Agilent Technologies",
+    "slug": "agilent-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "BitPay",
     "slug": "bitpay",
     "logo_url": null,
@@ -70,8 +133,29 @@
     "jobs_count": 1
   },
   {
+    "name": "Adoreal",
+    "slug": "adoreal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cedar",
+    "slug": "cedar",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Wripple",
     "slug": "wripple",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Filipino Contractors",
+    "slug": "filipino-contractors",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -107,6 +191,13 @@
   {
     "name": "N4 StudioÂ®",
     "slug": "n4-studioa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "YO IT Consulting",
+    "slug": "yo-it-consulting",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -161,27 +252,6 @@
     "jobs_count": 1
   },
   {
-    "name": "EDU Holdings Limited",
-    "slug": "edu-holdings-limited",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "iConsultera",
-    "slug": "iconsultera",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Format",
-    "slug": "format",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Snap Finance",
     "slug": "snap-finance",
     "logo_url": null,
@@ -196,22 +266,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Mindrift",
-    "slug": "mindrift",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "KAI Partners",
     "slug": "kai-partners",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Buffalo Games",
-    "slug": "buffalo-games",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -261,13 +317,6 @@
   {
     "name": "TKD Solutions",
     "slug": "tkd-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Bottle Nexus",
-    "slug": "bottle-nexus",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -378,34 +427,6 @@
     "jobs_count": 1
   },
   {
-    "name": "AHU Technologies",
-    "slug": "ahu-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Perforce",
-    "slug": "perforce",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Golden 1 Credit Union",
-    "slug": "golden-1-credit-union",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Charles River",
-    "slug": "charles-river",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mitre Media",
     "slug": "mitre-media",
     "logo_url": null,
@@ -413,50 +434,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Vvd",
-    "slug": "vvd",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Aguru UK Ltd",
-    "slug": "aguru-uk-ltd",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Nearcut",
-    "slug": "nearcut",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Abstract",
-    "slug": "abstract",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Septeo CNEE",
-    "slug": "septeo-cnee",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Renaissance Learning North America",
-    "slug": "renaissance-learning-north-america",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
