@@ -54,6 +54,146 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-devops-engineer-lemon-io-worldwide-remoteok-1134015",
+    "slug": "senior-devops-engineer-lemon-io-worldwide-remoteok-1134015",
+    "title": "Senior DevOps Engineer",
+    "seo_title": "Remote Senior DevOps Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior DevOps Engineer job at Lemon.io in Worldwide. Explore Python, SQL, Machine Learning, LLM and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": 50000,
+    "salary_max": 150000,
+    "salary_currency": "USD",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "dev",
+      "devops",
+      "engineer"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134015",
+    "published_at": "2026-06-24",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior DevOps Engineer",
+      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
+      "datePosted": "2026-06-24",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134015",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 50000,
+          "maxValue": 150000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remoteok-1134014",
+    "slug": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remoteok-1134014",
+    "title": "Mid Senior AI Cinematic Video Editor",
+    "seo_title": "Remote Mid Senior AI Cinematic Video Editor Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Mid Senior AI Cinematic Video Editor job at EverAI in Worldwide. Explore LLM, AWS, design, ai and remote AI jobs.",
+    "company": {
+      "name": "EverAI",
+      "slug": "everai",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 30000,
+    "salary_max": 100000,
+    "salary_currency": "USD",
+    "skills": [
+      "LLM",
+      "AWS",
+      "design",
+      "ai",
+      "other",
+      "art direction"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Our Vision & Products ð EverAI â Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years â Help Us Reach 100M first, 500M next AtÂ EverAI , weâre shaping what it means...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134014",
+    "published_at": "2026-06-24",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Mid Senior AI Cinematic Video Editor",
+      "description": "Our Vision & Products ð EverAI â Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years â Help Us Reach 100M first, 500M next AtÂ EverAI , weâre shaping what it means...",
+      "datePosted": "2026-06-24",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "EverAI"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134014",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 30000,
+          "maxValue": 100000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "producer-human-interface-design-gm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gm-producer-human-interface-design",
     "slug": "producer-human-interface-design-gm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gm-producer-human-interface-design",
     "title": "Producer - Human Interface Design",
@@ -168,6 +308,73 @@
     "ai_relevant": true
   },
   {
+    "id": "chief-of-staff-the-ceo-valiantys-usa-remoteok-1134069",
+    "slug": "chief-of-staff-the-ceo-valiantys-usa-remoteok-1134069",
+    "title": "Chief of Staff the CEO",
+    "seo_title": "Remote Chief of Staff the CEO Job in USA | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Chief of Staff the CEO job at Valiantys in USA. Explore Python, SQL, RAG, virtual assistant and remote AI jobs.",
+    "company": {
+      "name": "Valiantys",
+      "slug": "valiantys",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "New York, New York, New York, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "virtual assistant",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "customer support",
+      "transcribing",
+      "dev",
+      "marketing"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "About Valiantys Valiantys is a global professional services firm dedicated to helping engineering and service organizations transform how they work, using AI-enabled software delivery, modern ITSM, and platform engineering. The opportunity We're hiring a...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-chief-of-staff-the-ceo-valiantys-1134069",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134069",
+    "published_at": "2026-06-24",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Chief of Staff the CEO",
+      "description": "About Valiantys Valiantys is a global professional services firm dedicated to helping engineering and service organizations transform how they work, using AI-enabled software delivery, modern ITSM, and platform engineering. The opportunity We're hiring a...",
+      "datePosted": "2026-06-24",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Valiantys"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134069",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "junior-business-analyst-work-force-nexus-uk-remoteok-1133994",
     "slug": "junior-business-analyst-work-force-nexus-uk-remoteok-1133994",
     "title": "Junior Business Analyst",
@@ -205,7 +412,7 @@
       "content writing"
     ],
     "category": "AI Engineering",
-    "description_summary": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RNzQuMjQ5Ljc4LjE2NQ== when applying to show you...",
+    "description_summary": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMjAuODMuMTU4LjMz when applying to show you read...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-work-force-nexus-1133994",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133994",
@@ -217,7 +424,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Junior Business Analyst",
-      "description": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RNzQuMjQ5Ljc4LjE2NQ== when applying to show you...",
+      "description": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMjAuODMuMTU4LjMz when applying to show you read...",
       "datePosted": "2026-06-24",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6206,6 +6413,62 @@
     "ai_relevant": true
   },
   {
+    "id": "data-analyst-curam-ahu-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ahu-technologies-data-analyst-curam",
+    "slug": "data-analyst-curam-ahu-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ahu-technologies-data-analyst-curam",
+    "title": "Data Analyst/ Curam",
+    "seo_title": "Remote Data Analyst/ Curam Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Data Analyst/ Curam job at AHU Technologies in Worldwide. Explore RAG, Tableau, Statistics, Front-End Programming and remote AI jobs.",
+    "company": {
+      "name": "AHU Technologies",
+      "slug": "ahu-technologies",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Tableau",
+      "Statistics",
+      "Front-End Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description: Short Description: The Client is looking for Data analyst with 11 years of experience managing data pertaining to the different medical, nutrition, and financial subsidies managed by the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
+    "published_at": "2026-06-15",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Analyst/ Curam",
+      "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description: Short Description: The Client is looking for Data analyst with 11 years of experience managing data pertaining to the different medical, nutrition, and financial subsidies managed by the...",
+      "datePosted": "2026-06-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AHU Technologies"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-ai-claude-evangelist-startups-anthropic-worldwide-greenhouse-anthropic-5116927008",
     "slug": "applied-ai-claude-evangelist-startups-anthropic-worldwide-greenhouse-anthropic-5116927008",
     "title": "Applied AI Claude Evangelist, Startups",
@@ -7308,298 +7571,6 @@
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/customer-service/customer-operations-writing-specialist-2090942",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "staff-product-engineer-florianopolis-lawnstarter-worldwide-remotive-2090899",
-    "slug": "staff-product-engineer-florianopolis-lawnstarter-worldwide-remotive-2090899",
-    "title": "Staff Product Engineer (Florianópolis)",
-    "seo_title": "Remote Staff Product Engineer (Florianópolis) Job | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Staff Product Engineer (Florianópolis) job at LawnStarter in Worldwide. Explore RAG, AWS, Airflow, backend and remote AI jobs.",
-    "company": {
-      "name": "LawnStarter",
-      "slug": "lawnstarter",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Brazil",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 100000,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "AWS",
-      "Airflow",
-      "backend",
-      "frontend",
-      "php",
-      "react",
-      "security",
-      "UI/UX",
-      "AI/ML",
-      "jira",
-      "react native"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "This is a remote role for candidates located in Florianópolis, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
-    "apply_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899",
-    "published_at": "2026-05-27",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Staff Product Engineer (Florianópolis)",
-      "description": "This is a remote role for candidates located in Florianópolis, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
-      "datePosted": "2026-05-27",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LawnStarter"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-florianopolis-2090899",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 100000,
-          "maxValue": null,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "staff-product-engineer-belo-horizonte-lawnstarter-worldwide-remotive-2090900",
-    "slug": "staff-product-engineer-belo-horizonte-lawnstarter-worldwide-remotive-2090900",
-    "title": "Staff Product Engineer (Belo Horizonte)",
-    "seo_title": "Remote Staff Product Engineer (Belo Horizonte) Job | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Staff Product Engineer (Belo Horizonte) job at LawnStarter in Worldwide. Explore RAG, AWS, Airflow, backend and remote AI jobs.",
-    "company": {
-      "name": "LawnStarter",
-      "slug": "lawnstarter",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Brazil",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 100000,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "AWS",
-      "Airflow",
-      "backend",
-      "frontend",
-      "php",
-      "react",
-      "security",
-      "UI/UX",
-      "AI/ML",
-      "jira",
-      "react native"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
-    "apply_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900",
-    "published_at": "2026-05-27",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Staff Product Engineer (Belo Horizonte)",
-      "description": "This is a remote role for candidates located in Belo Horizonte, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
-      "datePosted": "2026-05-27",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LawnStarter"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-belo-horizonte-2090900",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 100000,
-          "maxValue": null,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "staff-product-engineer-porto-alegre-lawnstarter-worldwide-remotive-2090901",
-    "slug": "staff-product-engineer-porto-alegre-lawnstarter-worldwide-remotive-2090901",
-    "title": "Staff Product Engineer (Porto Alegre)",
-    "seo_title": "Remote Staff Product Engineer (Porto Alegre) Job | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Staff Product Engineer (Porto Alegre) job at LawnStarter in Worldwide. Explore RAG, AWS, Airflow, backend and remote AI jobs.",
-    "company": {
-      "name": "LawnStarter",
-      "slug": "lawnstarter",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Brazil",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 100000,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "AWS",
-      "Airflow",
-      "backend",
-      "frontend",
-      "php",
-      "react",
-      "security",
-      "UI/UX",
-      "AI/ML",
-      "jira",
-      "react native"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "This is a remote role for candidates located in Porto Alegre, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
-    "apply_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901",
-    "published_at": "2026-05-27",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Staff Product Engineer (Porto Alegre)",
-      "description": "This is a remote role for candidates located in Porto Alegre, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to...",
-      "datePosted": "2026-05-27",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LawnStarter"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-porto-alegre-2090901",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 100000,
-          "maxValue": null,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "staff-product-engineer-campinas-lawnstarter-worldwide-remotive-2090902",
-    "slug": "staff-product-engineer-campinas-lawnstarter-worldwide-remotive-2090902",
-    "title": "Staff Product Engineer (Campinas)",
-    "seo_title": "Remote Staff Product Engineer (Campinas) Job | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Staff Product Engineer (Campinas) job at LawnStarter in Worldwide. Explore RAG, AWS, Airflow, backend and remote AI jobs.",
-    "company": {
-      "name": "LawnStarter",
-      "slug": "lawnstarter",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Brazil",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 100000,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "AWS",
-      "Airflow",
-      "backend",
-      "frontend",
-      "php",
-      "react",
-      "security",
-      "UI/UX",
-      "AI/ML",
-      "jira",
-      "react native"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "This is a remote role for candidates located in Campinas, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become...",
-    "apply_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902",
-    "published_at": "2026-05-26",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Staff Product Engineer (Campinas)",
-      "description": "This is a remote role for candidates located in Campinas, Brazil. About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become...",
-      "datePosted": "2026-05-26",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LawnStarter"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/product/staff-product-engineer-campinas-2090902",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 100000,
-          "maxValue": null,
-          "unitText": "YEAR"
-        }
-      }
     },
     "ai_relevant": true
   },
