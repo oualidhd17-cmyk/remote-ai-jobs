@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 50
+    "jobs_count": 52
   },
   {
     "name": "LawnStarter",
@@ -56,13 +56,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Mongoose",
-    "slug": "mongoose",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "GM",
     "slug": "gm",
     "logo_url": null,
@@ -72,6 +65,13 @@
   {
     "name": "Bright Vision Technologies",
     "slug": "bright-vision-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "New Engen",
+    "slug": "new-engen",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -240,13 +240,6 @@
   {
     "name": "N4 StudioÂ®",
     "slug": "n4-studioa",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "YO IT Consulting",
-    "slug": "yo-it-consulting",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -429,6 +422,13 @@
   {
     "name": "Hospitable",
     "slug": "hospitable",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mongoose",
+    "slug": "mongoose",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

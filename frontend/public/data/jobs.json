@@ -57,6 +57,60 @@
     "ai_relevant": true
   },
   {
+    "id": "art-director-claude-anthropic-worldwide-greenhouse-anthropic-5258579008",
+    "slug": "art-director-claude-anthropic-worldwide-greenhouse-anthropic-5258579008",
+    "title": "Art Director, Claude",
+    "seo_title": "Remote Art Director, Claude Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Art Director, Claude job at anthropic in Worldwide. Explore RAG, AWS, Marketing & Brand, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Marketing & Brand",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5258579008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5258579008",
+    "published_at": "2026-06-25",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Art Director, Claude",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-25",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5258579008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "commercial-counsel-sparc-anthropic-worldwide-greenhouse-anthropic-5275765008",
     "slug": "commercial-counsel-sparc-anthropic-worldwide-greenhouse-anthropic-5275765008",
     "title": "Commercial Counsel, SPARC",
@@ -475,6 +529,73 @@
     "ai_relevant": true
   },
   {
+    "id": "lead-creative-strategist-new-engen-usa-remoteok-1134063",
+    "slug": "lead-creative-strategist-new-engen-usa-remoteok-1134063",
+    "title": "Lead Creative Strategist",
+    "seo_title": "Remote Lead Creative Strategist Job in USA | MLOps Jobs",
+    "seo_description": "Apply for a remote Lead Creative Strategist job at New Engen in USA. Explore RAG, virtual assistant, sys admin, infosec and remote AI jobs.",
+    "company": {
+      "name": "New Engen",
+      "slug": "new-engen",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "New York, New York, New York, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "virtual assistant",
+      "sys admin",
+      "infosec",
+      "education",
+      "technical",
+      "customer support",
+      "transcribing",
+      "dev",
+      "marketing",
+      "voip",
+      "payroll"
+    ],
+    "category": "MLOps",
+    "description_summary": "WHY DONUT STUDIOS? At New Engen, we help brands grow, not just bigger, but smarter. Weâre a digital marketing agency that drives meaningful impact across the entire customer journey by integrating media, creative, analytics, influencer, and retail...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-lead-creative-strategist-new-engen-1134063",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134063",
+    "published_at": "2026-06-24",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Lead Creative Strategist",
+      "description": "WHY DONUT STUDIOS? At New Engen, we help brands grow, not just bigger, but smarter. Weâre a digital marketing agency that drives meaningful impact across the entire customer journey by integrating media, creative, analytics, influencer, and retail...",
+      "datePosted": "2026-06-24",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "New Engen"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134063",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "chief-of-staff-the-ceo-valiantys-usa-remoteok-1134069",
     "slug": "chief-of-staff-the-ceo-valiantys-usa-remoteok-1134069",
     "title": "Chief of Staff the CEO",
@@ -579,7 +700,7 @@
       "content writing"
     ],
     "category": "AI Engineering",
-    "description_summary": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMTcyLjE4Mi4yMjQuMTk3 when applying to show you...",
+    "description_summary": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMjAuNTcuNzcuMTk3 when applying to show you read...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-work-force-nexus-1133994",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1133994",
@@ -591,7 +712,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Junior Business Analyst",
-      "description": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMTcyLjE4Mi4yMjQuMTk3 when applying to show you...",
+      "description": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMjAuNTcuNzcuMTk3 when applying to show you read...",
       "datePosted": "2026-06-24",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -2380,73 +2501,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-analyst-excel-yo-it-consulting-australia-remoteok-1134019",
-    "slug": "data-analyst-excel-yo-it-consulting-australia-remoteok-1134019",
-    "title": "Data Analyst Excel",
-    "seo_title": "Remote Data Analyst Excel Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Analyst Excel job at YO IT Consulting in Australia. Explore consulting, infosec, education, transcribing and remote AI jobs.",
-    "company": {
-      "name": "YO IT Consulting",
-      "slug": "yo-it-consulting",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Sydney, New South Wales, Australia",
-    "location_label": "Remote - Australia",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "consulting",
-      "infosec",
-      "education",
-      "transcribing",
-      "speech",
-      "engineer",
-      "analyst",
-      "technical",
-      "customer support",
-      "microsoft",
-      "exec",
-      "data science"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Job Description Job Title: Data Analyst Excel Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-yo-it-consulting-1134019",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134019",
-    "published_at": "2026-06-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Analyst Excel",
-      "description": "Job Description Job Title: Data Analyst Excel Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality,...",
-      "datePosted": "2026-06-23",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "YO IT Consulting"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134019",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-quality-engineer-florianopolis-lawnstarter-worldwide-remotive-2090994",
     "slug": "senior-quality-engineer-florianopolis-lawnstarter-worldwide-remotive-2090994",
     "title": "Senior Quality Engineer (Florianópolis)",
@@ -4050,65 +4104,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Remote - Australia",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "title": "Contracts Manager, APAC",
@@ -4163,6 +4158,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Singapore"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
       }
     },
     "ai_relevant": true
@@ -4281,6 +4335,62 @@
         "@type": "Country",
         "name": "USA"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
+    "slug": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
+    "title": "Data Scientist, Safeguards",
+    "seo_title": "Remote Data Scientist, Safeguards Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Safeguards job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "AWS",
+      "Safeguards (Trust & Safety)"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Safeguards",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6259,60 +6369,6 @@
     "ai_relevant": true
   },
   {
-    "id": "product-support-specialist-mongoose-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mongoose-product-support-specialist",
-    "slug": "product-support-specialist-mongoose-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mongoose-product-support-specialist",
-    "title": "Product Support Specialist",
-    "seo_title": "Remote Product Support Specialist Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Product Support Specialist job at Mongoose in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Mongoose",
-      "slug": "mongoose",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Buffalo / Atlanta / Austin / Chicago / Boston / Denver / Los Angeles / San Francisco / Philadelphia At Mongoose, we believe every conversation matters. We’re on a mission to change lives by making conversation intelligence accessible to all in...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/mongoose-product-support-specialist",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/mongoose-product-support-specialist",
-    "published_at": "2026-06-16",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Support Specialist",
-      "description": "Headquarters: Buffalo / Atlanta / Austin / Chicago / Boston / Denver / Los Angeles / San Francisco / Philadelphia At Mongoose, we believe every conversation matters. We’re on a mission to change lives by making conversation intelligence accessible to all in...",
-      "datePosted": "2026-06-16",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Mongoose"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/mongoose-product-support-specialist",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "staff-ui-ux-product-designer-usa-emea-remote-hospitable-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hospitable-staff-ui-ux-product-designer-us",
     "slug": "staff-ui-ux-product-designer-usa-emea-remote-hospitable-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hospitable-staff-ui-ux-product-designer-us",
     "title": "Staff UI/UX Product Designer (USA/EMEA - Remote)",
@@ -7037,7 +7093,7 @@
     "source_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
     "published_at": "2026-06-11",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
