@@ -21,6 +21,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Perle",
+    "slug": "perle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "EverAI",
     "slug": "everai",
     "logo_url": null,
@@ -56,6 +63,13 @@
     "jobs_count": 2
   },
   {
+    "name": "La Vena Creativa",
+    "slug": "la-vena-creativa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "GM",
     "slug": "gm",
     "logo_url": null,
@@ -72,6 +86,13 @@
   {
     "name": "New Engen",
     "slug": "new-engen",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Panoramic Health",
+    "slug": "panoramic-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -231,20 +252,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Slate Brands",
-    "slug": "slate-brands",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "N4 StudioÂ®",
-    "slug": "n4-studioa",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Remote Talent Cloud",
     "slug": "remote-talent-cloud",
     "logo_url": null,
@@ -254,13 +261,6 @@
   {
     "name": "MapTiler",
     "slug": "maptiler",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "NOPE",
-    "slug": "nope",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
