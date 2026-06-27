@@ -110,6 +110,69 @@
     "ai_relevant": true
   },
   {
+    "id": "user-researcher-ministry-of-housing-communities-and-local-government-worldwide-remoteok-1134178",
+    "slug": "user-researcher-ministry-of-housing-communities-and-local-government-worldwide-remoteok-1134178",
+    "title": "User Researcher",
+    "seo_title": "Remote User Researcher Job | Robotics Jobs",
+    "seo_description": "Apply for a remote User Researcher job at Ministry of Housing, Communities and Local Government in Worldwide. Explore design, embedded, sys admin, infosec...",
+    "company": {
+      "name": "Ministry of Housing, Communities and Local Government",
+      "slug": "ministry-of-housing-communities-and-local-government",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Wolverhampton,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "design",
+      "embedded",
+      "sys admin",
+      "infosec",
+      "technical",
+      "customer support",
+      "testing",
+      "dev",
+      "scheme",
+      "seo",
+      "exec",
+      "senior"
+    ],
+    "category": "Robotics",
+    "description_summary": "Bristol, Darlington, Manchester, Wolverhampton Job Summary We are MHCLG At the Ministry of Housing, Communities and Local Government (MHCLG), we work on things that make a real difference to peopleâs lives. We have over 3,500 staff who are based in 20...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-user-researcher-ministry-of-housing-communities-and-local-government-1134178",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134178",
+    "published_at": "2026-06-26",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "User Researcher",
+      "description": "Bristol, Darlington, Manchester, Wolverhampton Job Summary We are MHCLG At the Ministry of Housing, Communities and Local Government (MHCLG), we work on things that make a real difference to peopleâs lives. We have over 3,500 staff who are based in 20...",
+      "datePosted": "2026-06-26",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Ministry of Housing, Communities and Local Government"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134178",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "collections-manager-national-service-bureau-usa-remoteok-1134155",
     "slug": "collections-manager-national-service-bureau-usa-remoteok-1134155",
     "title": "Collections Manager",
@@ -1236,146 +1299,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-devops-engineer-lemon-io-worldwide-remoteok-1134015",
-    "slug": "senior-devops-engineer-lemon-io-worldwide-remoteok-1134015",
-    "title": "Senior DevOps Engineer",
-    "seo_title": "Remote Senior DevOps Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior DevOps Engineer job at Lemon.io in Worldwide. Explore Python, SQL, Machine Learning, LLM and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": 50000,
-    "salary_max": 150000,
-    "salary_currency": "USD",
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "LLM",
-      "MLOps",
-      "Kubernetes",
-      "AWS",
-      "GCP",
-      "Azure",
-      "dev",
-      "devops",
-      "engineer"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1134015",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134015",
-    "published_at": "2026-06-24",
-    "expires_at": null,
-    "quality_score": 100,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior DevOps Engineer",
-      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
-      "datePosted": "2026-06-24",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134015",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 50000,
-          "maxValue": 150000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remoteok-1134014",
-    "slug": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remoteok-1134014",
-    "title": "Mid Senior AI Cinematic Video Editor",
-    "seo_title": "Remote Mid Senior AI Cinematic Video Editor Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Mid Senior AI Cinematic Video Editor job at EverAI in Worldwide. Explore LLM, AWS, design, ai and remote AI jobs.",
-    "company": {
-      "name": "EverAI",
-      "slug": "everai",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 30000,
-    "salary_max": 100000,
-    "salary_currency": "USD",
-    "skills": [
-      "LLM",
-      "AWS",
-      "design",
-      "ai",
-      "other",
-      "art direction"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Our Vision & Products ð EverAI â Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years â Help Us Reach 100M first, 500M next AtÂ EverAI , weâre shaping what it means...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-mid-senior-ai-cinematic-video-editor-everai-1134014",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134014",
-    "published_at": "2026-06-24",
-    "expires_at": null,
-    "quality_score": 100,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Mid Senior AI Cinematic Video Editor",
-      "description": "Our Vision & Products ð EverAI â Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years â Help Us Reach 100M first, 500M next AtÂ EverAI , weâre shaping what it means...",
-      "datePosted": "2026-06-24",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EverAI"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134014",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 30000,
-          "maxValue": 100000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remotive-2091035",
     "slug": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remotive-2091035",
     "title": "Mid/Senior AI Cinematic Video Editor",
@@ -1755,73 +1678,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "junior-business-analyst-work-force-nexus-uk-remoteok-1133994",
-    "slug": "junior-business-analyst-work-force-nexus-uk-remoteok-1133994",
-    "title": "Junior Business Analyst",
-    "seo_title": "Remote Junior Business Analyst Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Junior Business Analyst job at Work Force Nexus in UK. Explore RAG, finance, non tech, customer support and remote AI jobs.",
-    "company": {
-      "name": "Work Force Nexus",
-      "slug": "work-force-nexus",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "United Kingdom,",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "entry",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "finance",
-      "non tech",
-      "customer support",
-      "marketing",
-      "c",
-      "exec",
-      "excel",
-      "legal",
-      "medical",
-      "speech",
-      "content writing"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMjAuMTI3LjIzOS4yNDM= when applying to show you...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-junior-business-analyst-work-force-nexus-1133994",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1133994",
-    "published_at": "2026-06-24",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Junior Business Analyst",
-      "description": "Posted 1:40:52 PM. Location: United Kingdom (Remote)Employment Type: Full-TimeExperience: 0â1 YearAbout The RoleWe areâ¦See this and similar jobs on LinkedIn. Please mention the word **ENCOURAGE** and tag RMjAuMTI3LjIzOS4yNDM= when applying to show you...",
-      "datePosted": "2026-06-24",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Work Force Nexus"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1133994",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
       }
     },
     "ai_relevant": true

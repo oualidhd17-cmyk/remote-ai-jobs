@@ -14,13 +14,6 @@
     "jobs_count": 11
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Travel Planning Professionals",
     "slug": "travel-planning-professionals",
     "logo_url": null,
@@ -28,8 +21,8 @@
     "jobs_count": 3
   },
   {
-    "name": "EverAI",
-    "slug": "everai",
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -44,6 +37,13 @@
   {
     "name": "Perle",
     "slug": "perle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "EverAI",
+    "slug": "everai",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -75,6 +75,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Ministry of Housing, Communities and Local Government",
+    "slug": "ministry-of-housing-communities-and-local-government",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "National Service Bureau",
@@ -156,13 +163,6 @@
   {
     "name": "Valiantys",
     "slug": "valiantys",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Work Force Nexus",
-    "slug": "work-force-nexus",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
