@@ -77,8 +77,29 @@
     "jobs_count": 2
   },
   {
+    "name": "SAN Creatives Agency",
+    "slug": "san-creatives-agency",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Ministry of Housing, Communities and Local Government",
     "slug": "ministry-of-housing-communities-and-local-government",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Office of Energy & Sustainability",
+    "slug": "office-of-energy-sustainability",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "VulnCheck",
+    "slug": "vulncheck",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -149,20 +170,6 @@
   {
     "name": "New Engen",
     "slug": "new-engen",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Panoramic Health",
-    "slug": "panoramic-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Valiantys",
-    "slug": "valiantys",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -408,6 +415,13 @@
   {
     "name": "Mitre Media",
     "slug": "mitre-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Abstract",
+    "slug": "abstract",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
