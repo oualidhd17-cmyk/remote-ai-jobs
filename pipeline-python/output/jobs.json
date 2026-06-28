@@ -679,6 +679,69 @@
     "ai_relevant": true
   },
   {
+    "id": "sales-assistant-endureed-by-global-innovation-usa-remotive-2091038",
+    "slug": "sales-assistant-endureed-by-global-innovation-usa-remotive-2091038",
+    "title": "Sales Assistant",
+    "seo_title": "Remote Sales Assistant Job in USA | MLOps Jobs",
+    "seo_description": "Apply for a remote Sales Assistant job at Endureed by Global Innovation in USA. Explore RAG, research, CRM, onboarding and remote AI jobs.",
+    "company": {
+      "name": "Endureed by Global Innovation",
+      "slug": "endureed-by-global-innovation",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "USA",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "research",
+      "CRM",
+      "onboarding",
+      "data entry",
+      "travel",
+      "Sales",
+      "full_time"
+    ],
+    "category": "MLOps",
+    "description_summary": "This role may require you to be on site at times - please check with the employer first. Job Title: Sales Assistant Company: Endureed Location: Lake City, FL / Remote eligible Reports to: VP of Global Sales ABOUT THE ROLE The Sales Assistant is the...",
+    "apply_url": "https://remotive.com/remote-jobs/sales/sales-assistant-2091038",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/sales/sales-assistant-2091038",
+    "published_at": "2026-06-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Sales Assistant",
+      "description": "This role may require you to be on site at times - please check with the employer first. Job Title: Sales Assistant Company: Endureed Location: Lake City, FL / Remote eligible Reports to: VP of Global Sales ABOUT THE ROLE The Sales Assistant is the...",
+      "datePosted": "2026-06-26",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Endureed by Global Innovation"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/sales/sales-assistant-2091038",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "operations-manager-hybrid85-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hybrid85-operations-manager",
     "slug": "operations-manager-hybrid85-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hybrid85-operations-manager",
     "title": "Operations Manager",
@@ -1673,73 +1736,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/bright-vision-technologies-site-reliability-engineer-sre",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "lead-creative-strategist-new-engen-usa-remoteok-1134063",
-    "slug": "lead-creative-strategist-new-engen-usa-remoteok-1134063",
-    "title": "Lead Creative Strategist",
-    "seo_title": "Remote Lead Creative Strategist Job in USA | MLOps Jobs",
-    "seo_description": "Apply for a remote Lead Creative Strategist job at New Engen in USA. Explore RAG, virtual assistant, sys admin, infosec and remote AI jobs.",
-    "company": {
-      "name": "New Engen",
-      "slug": "new-engen",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "New York, New York, New York, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "virtual assistant",
-      "sys admin",
-      "infosec",
-      "education",
-      "technical",
-      "customer support",
-      "transcribing",
-      "dev",
-      "marketing",
-      "voip",
-      "payroll"
-    ],
-    "category": "MLOps",
-    "description_summary": "WHY DONUT STUDIOS? At New Engen, we help brands grow, not just bigger, but smarter. Weâre a digital marketing agency that drives meaningful impact across the entire customer journey by integrating media, creative, analytics, influencer, and retail...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-lead-creative-strategist-new-engen-1134063",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134063",
-    "published_at": "2026-06-24",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Lead Creative Strategist",
-      "description": "WHY DONUT STUDIOS? At New Engen, we help brands grow, not just bigger, but smarter. Weâre a digital marketing agency that drives meaningful impact across the entire customer journey by integrating media, creative, analytics, influencer, and retail...",
-      "datePosted": "2026-06-24",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "New Engen"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134063",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   },
@@ -5045,61 +5041,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Singapore",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "title": "Commercial Counsel, APAC",
@@ -5151,6 +5092,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Singapore",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
     },
     "ai_relevant": true
   },
