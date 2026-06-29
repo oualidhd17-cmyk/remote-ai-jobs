@@ -118,6 +118,69 @@
     "ai_relevant": true
   },
   {
+    "id": "ai-filmmaker-foxelli-group-worldwide-remoteok-1134232",
+    "slug": "ai-filmmaker-foxelli-group-worldwide-remoteok-1134232",
+    "title": "AI Filmmaker",
+    "seo_title": "Remote AI Filmmaker Job | Data Science Jobs",
+    "seo_description": "Apply for a remote AI Filmmaker job at Foxelli Group in Worldwide. Explore Python, Prompt Engineering, amazon, sys admin and remote AI jobs.",
+    "company": {
+      "name": "Foxelli Group",
+      "slug": "foxelli-group",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Praha, Praha, HlavnÃ­ mÄsto Praha, Äesko",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Prompt Engineering",
+      "amazon",
+      "sys admin",
+      "consulting",
+      "customer support",
+      "marketing",
+      "dev",
+      "finance",
+      "ops",
+      "stats",
+      "sales"
+    ],
+    "category": "Data Science",
+    "description_summary": "Please be informed that Foxelli Group hires exclusively in-house and doesn't work with any external recruitment agencies. Any company or individual claiming to recruit on behalf of Foxelli Group is not affiliated with us. At Foxelli, weâre building more...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-filmmaker-foxelli-group-1134232",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134232",
+    "published_at": "2026-06-27",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI Filmmaker",
+      "description": "Please be informed that Foxelli Group hires exclusively in-house and doesn't work with any external recruitment agencies. Any company or individual claiming to recruit on behalf of Foxelli Group is not affiliated with us. At Foxelli, weâre building more...",
+      "datePosted": "2026-06-27",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Foxelli Group"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134232",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "freelance-designer-san-creatives-agency-worldwide-remoteok-1134185",
     "slug": "freelance-designer-san-creatives-agency-worldwide-remoteok-1134185",
     "title": "Freelance Designer",
@@ -677,7 +740,7 @@
     "id": "entry-level-scheduling-coordinating-reservations-online-destination-careers-usa-remoteok-1134224",
     "slug": "entry-level-scheduling-coordinating-reservations-online-destination-careers-usa-remoteok-1134224",
     "title": "Entry Level Scheduling & Coordinating Reservations Online",
-    "seo_title": "Remote Entry Level Scheduling & Coordinating Reservations Online Job in USA | Robotics Jobs",
+    "seo_title": "Remote Entry Level Scheduling & Coordinating Reservations Online Job in USA | AI Engineering Jobs",
     "seo_description": "Apply for a remote Entry Level Scheduling & Coordinating Reservations Online job at Destination Careers in USA. Explore RAG, art direction, exec,...",
     "company": {
       "name": "Destination Careers",
@@ -710,7 +773,7 @@
       "copywriting",
       "speech"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "About Us We are a client coordination and services company that supports individuals and organizations with scheduling, reservations, and service-related logistics. We focus on clear communication, organized workflows, and delivering a consistent,...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1134224",
     "source": "remoteok",
@@ -811,7 +874,7 @@
     "id": "file-clerk-recruit-lytics-hiring-worldwide-remoteok-1134157",
     "slug": "file-clerk-recruit-lytics-hiring-worldwide-remoteok-1134157",
     "title": "File Clerk",
-    "seo_title": "Remote File Clerk Job | Robotics Jobs",
+    "seo_title": "Remote File Clerk Job | AI Engineering Jobs",
     "seo_description": "Apply for a remote File Clerk job at Recruit Lytics Hiring in Worldwide. Explore RAG, jira, hr, customer support and remote AI jobs.",
     "company": {
       "name": "Recruit Lytics Hiring",
@@ -842,7 +905,7 @@
       "ops",
       "legal"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "As a Remote File Clerk, youâll keep digital and scanned records accurate, organized, searchable, and compliant. Youâll support multiple teams by receiving documents, validating completeness, applying naming conventions, classifying files into the correct...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruit-lytics-hiring-1134157",
     "source": "remoteok",
@@ -1344,7 +1407,7 @@
     "id": "scheduling-coordinator-entry-level-no-experience-needed-travel-planning-professionals-usa-remoteok-1134108",
     "slug": "scheduling-coordinator-entry-level-no-experience-needed-travel-planning-professionals-usa-remoteok-1134108",
     "title": "Scheduling Coordinator Entry Level No Experience Needed",
-    "seo_title": "Remote Scheduling Coordinator Entry Level No Experience Needed Job in USA | Robotics Jobs",
+    "seo_title": "Remote Scheduling Coordinator Entry Level No Experience Needed Job in USA | AI Engineering Jobs",
     "seo_description": "Apply for a remote Scheduling Coordinator Entry Level No Experience Needed job at Travel Planning Professionals in USA. Explore RAG, travel, coordinator,...",
     "company": {
       "name": "Travel Planning Professionals",
@@ -1372,7 +1435,7 @@
       "recruiter",
       "non tech"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Position Overview We are seeking a highly organized and detail-oriented Remote Scheduling Coordinator to support appointment setting, reservation coordination, and general scheduling activities in a remote environment. This position focuses on accuracy,...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-scheduling-coordinator-entry-level-no-experience-needed-travel-planning-professionals-1134108",
     "source": "remoteok",
@@ -1473,7 +1536,7 @@
     "id": "entry-level-online-scheduling-coordinator-travel-planning-professionals-usa-remoteok-1134109",
     "slug": "entry-level-online-scheduling-coordinator-travel-planning-professionals-usa-remoteok-1134109",
     "title": "Entry Level Online Scheduling Coordinator",
-    "seo_title": "Remote Entry Level Online Scheduling Coordinator Job in USA | Robotics Jobs",
+    "seo_title": "Remote Entry Level Online Scheduling Coordinator Job in USA | AI Engineering Jobs",
     "seo_description": "Apply for a remote Entry Level Online Scheduling Coordinator job at Travel Planning Professionals in USA. Explore RAG, travel, coordinator, customer...",
     "company": {
       "name": "Travel Planning Professionals",
@@ -1503,7 +1566,7 @@
       "education",
       "exec"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Position Overview We are seeking a reliable and detail-oriented Remote Scheduling Coordinator to support client coordination and scheduling activities. This entry-level role focuses on managing requests, organizing key details, and ensuring a smooth and...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-entry-level-online-scheduling-coordinator-travel-planning-professionals-1134109",
     "source": "remoteok",
@@ -5241,61 +5304,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Singapore",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "title": "Commercial Counsel, APAC",
@@ -5347,6 +5355,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Singapore",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
     },
     "ai_relevant": true
   },
