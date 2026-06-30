@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 49
+    "jobs_count": 51
   },
   {
     "name": "LawnStarter",
@@ -19,13 +19,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
-  },
-  {
-    "name": "Hospitable",
-    "slug": "hospitable",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
   },
   {
     "name": "Impact Clients",
@@ -68,6 +61,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Marchay",
+    "slug": "marchay",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Toptal",
@@ -149,27 +149,6 @@
   {
     "name": "Recruit Lytics Hiring",
     "slug": "recruit-lytics-hiring",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Awesomehues",
-    "slug": "awesomehues",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "OnlineJobs.PH",
-    "slug": "onlinejobs-ph",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "DTLA Benefits",
-    "slug": "dtla-benefits",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -387,6 +366,13 @@
   {
     "name": "Quinncia Inc",
     "slug": "quinncia-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hospitable",
+    "slug": "hospitable",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
