@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 51
+    "jobs_count": 49
   },
   {
     "name": "LawnStarter",
@@ -63,18 +63,18 @@
     "jobs_count": 2
   },
   {
-    "name": "EY Studio+ Nederland",
-    "slug": "ey-studio-nederland",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "HugeInc",
     "slug": "hugeinc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Energy Vault",
@@ -266,6 +266,13 @@
     "jobs_count": 1
   },
   {
+    "name": "EY Studio+ Nederland",
+    "slug": "ey-studio-nederland",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Atcom",
     "slug": "atcom",
     "logo_url": null,
@@ -275,13 +282,6 @@
   {
     "name": "KAI Partners",
     "slug": "kai-partners",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Palo Alto Networks",
-    "slug": "palo-alto-networks",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -303,13 +303,6 @@
   {
     "name": "Docsumo",
     "slug": "docsumo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "IRE",
-    "slug": "ire",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
