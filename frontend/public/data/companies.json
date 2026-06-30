@@ -14,13 +14,6 @@
     "jobs_count": 11
   },
   {
-    "name": "Travel Planning Professionals",
-    "slug": "travel-planning-professionals",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -72,6 +65,13 @@
   {
     "name": "Toptal",
     "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Img.creators",
+    "slug": "img-creators",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -385,22 +385,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Mirantis",
-    "slug": "mirantis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Hospitable",
     "slug": "hospitable",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mongoose",
-    "slug": "mongoose",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -422,6 +408,20 @@
   {
     "name": "Mitre Media",
     "slug": "mitre-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Aguru UK Ltd",
+    "slug": "aguru-uk-ltd",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nearcut",
+    "slug": "nearcut",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
