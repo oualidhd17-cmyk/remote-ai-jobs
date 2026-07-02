@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 51
+    "jobs_count": 44
   },
   {
     "name": "LawnStarter",
@@ -51,6 +51,13 @@
   {
     "name": "7 Figure Leap",
     "slug": "7-figure-leap",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pete & Gerry's Organics, LLC",
+    "slug": "pete-gerry-s-organics-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -226,13 +233,6 @@
   {
     "name": "VulnCheck",
     "slug": "vulncheck",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Atlas Search",
-    "slug": "atlas-search",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
