@@ -42,6 +42,13 @@
     "jobs_count": 2
   },
   {
+    "name": "hey contact heroes GmbH",
+    "slug": "hey-contact-heroes-gmbh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "7 Figure Leap",
     "slug": "7-figure-leap",
     "logo_url": null,
@@ -357,13 +364,6 @@
     "jobs_count": 1
   },
   {
-    "name": "TKD Solutions",
-    "slug": "tkd-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Liquibase",
     "slug": "liquibase",
     "logo_url": null,
@@ -478,13 +478,6 @@
   {
     "name": "The Land Geek",
     "slug": "the-land-geek",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Clerky, Inc.",
-    "slug": "clerky-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
