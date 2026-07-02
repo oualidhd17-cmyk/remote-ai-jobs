@@ -825,62 +825,6 @@
     "ai_relevant": true
   },
   {
-    "id": "staff-product-designer-jerry-ai-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jerry-ai-staff-product-designer",
-    "slug": "staff-product-designer-jerry-ai-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jerry-ai-staff-product-designer",
-    "title": "Staff Product Designer",
-    "seo_title": "Remote Staff Product Designer Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Staff Product Designer job at jerry.ai in Worldwide. Explore Machine Learning, RAG, AWS, Full-Stack Programming and remote AI jobs.",
-    "company": {
-      "name": "jerry.ai",
-      "slug": "jerry-ai",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "part-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Palo Alto, California You could work anywhere. Why join Jerry? Jerry is building the first AI-powered assistant for car ownership , making it easy and affordable for the 80% of Americans who rely on their cars every day. From buying and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/jerry-ai-staff-product-designer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/jerry-ai-staff-product-designer",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Staff Product Designer",
-      "description": "Headquarters: Palo Alto, California You could work anywhere. Why join Jerry? Jerry is building the first AI-powered assistant for car ownership , making it easy and affordable for the 80% of Americans who rely on their cars every day. From buying and...",
-      "datePosted": "2026-06-30",
-      "employmentType": "PART_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "jerry.ai"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/jerry-ai-staff-product-designer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "remote-customer-support-agent-p-c-jerry-ai-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jerry-ai-remote-customer-support-agent-p-c",
     "slug": "remote-customer-support-agent-p-c-jerry-ai-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jerry-ai-remote-customer-support-agent-p-c",
     "title": "Remote Customer Support Agent (P&C)",
@@ -1374,61 +1318,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "title": "Commercial Counsel, EMEA",
@@ -1480,6 +1369,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -2797,6 +2741,60 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5275765008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-scientist-marketing-anthropic-worldwide-greenhouse-anthropic-5161402008",
+    "slug": "data-scientist-marketing-anthropic-worldwide-greenhouse-anthropic-5161402008",
+    "title": "Data Scientist, Marketing",
+    "seo_title": "Remote Data Scientist, Marketing Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Marketing job at anthropic in Worldwide. Explore RAG, AWS, Data Science & Analytics, San Francisco, CA and remote AI...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA",
+    "location_label": "New York City, NY | Seattle, WA; San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Data Science & Analytics",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+    "published_at": "2026-06-25",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Marketing",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-25",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008"
     },
     "ai_relevant": true
   },
@@ -6420,6 +6418,60 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/hugeinc-qa-lead",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "vodafonethree-technical-design-authority-vodafone-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vodafone-vodafonethree-technical-design-authorit",
+    "slug": "vodafonethree-technical-design-authority-vodafone-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vodafone-vodafonethree-technical-design-authorit",
+    "title": "VodafoneThree - Technical Design Authority",
+    "seo_title": "Remote VodafoneThree - Technical Design Authority Job | Robotics Jobs",
+    "seo_description": "Apply for a remote VodafoneThree - Technical Design Authority job at Vodafone in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "Vodafone",
+      "slug": "vodafone",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: United Kingdom URL: http://vodafone.com Location: Homebased Salary: Excellent basic salary plus bonus and Vodafone benefits Working Hours: Full time 37.5 hours per week – Monday to Friday Homebased Our homebased working means you’ll work from...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/vodafone-vodafonethree-technical-design-authority",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/vodafone-vodafonethree-technical-design-authority",
+    "published_at": "2026-06-15",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "VodafoneThree - Technical Design Authority",
+      "description": "Headquarters: United Kingdom URL: http://vodafone.com Location: Homebased Salary: Excellent basic salary plus bonus and Vodafone benefits Working Hours: Full time 37.5 hours per week – Monday to Friday Homebased Our homebased working means you’ll work from...",
+      "datePosted": "2026-06-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Vodafone"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/vodafone-vodafonethree-technical-design-authority",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true

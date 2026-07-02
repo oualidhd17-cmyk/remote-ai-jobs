@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 44
+    "jobs_count": 45
   },
   {
     "name": "LawnStarter",
@@ -19,13 +19,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
-  },
-  {
-    "name": "jerry.ai",
-    "slug": "jerry-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
   },
   {
     "name": "Office of Energy & Sustainability",
@@ -128,6 +121,13 @@
   {
     "name": "Holepunch",
     "slug": "holepunch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "jerry.ai",
+    "slug": "jerry-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,6 +443,13 @@
   {
     "name": "HugeInc",
     "slug": "hugeinc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vodafone",
+    "slug": "vodafone",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
