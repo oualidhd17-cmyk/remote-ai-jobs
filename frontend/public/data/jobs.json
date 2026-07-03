@@ -1,5 +1,72 @@
 [
   {
+    "id": "creative-the-elites-uk-remoteok-1134415",
+    "slug": "creative-the-elites-uk-remoteok-1134415",
+    "title": "Creative",
+    "seo_title": "Remote Creative Job in UK | Robotics Jobs",
+    "seo_description": "Apply for a remote Creative job at The Elites in UK. Explore RAG, design, react, consulting and remote AI jobs.",
+    "company": {
+      "name": "The Elites",
+      "slug": "the-elites",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London,",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "design",
+      "react",
+      "consulting",
+      "technical",
+      "dev",
+      "web dev",
+      "javascript",
+      "css",
+      "html",
+      "exec",
+      "senior"
+    ],
+    "category": "Robotics",
+    "description_summary": "We are Wiser, a global, award-winning Employer Brand agency. We build employer brands to guide the best in the biz into their dream career with our clients. Weâre a home for people who think big and expect more. We transform a companyâs employer brand...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-creative-the-elites-1134415",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134415",
+    "published_at": "2026-07-02",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Creative",
+      "description": "We are Wiser, a global, award-winning Employer Brand agency. We build employer brands to guide the best in the biz into their dream career with our clients. Weâre a home for people who think big and expect more. We transform a companyâs employer brand...",
+      "datePosted": "2026-07-02",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "The Elites"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134415",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "executive-director-motivational-interviewing-network-of-trainers-incorporated-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-motivational-intervi",
     "slug": "executive-director-motivational-interviewing-network-of-trainers-incorporated-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-motivational-intervi",
     "title": "Executive Director",
@@ -481,67 +548,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/7-figure-leap-relational-sales-lead",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-service-representative-nestla-health-science-worldwide-remoteok-1134401",
-    "slug": "customer-service-representative-nestla-health-science-worldwide-remoteok-1134401",
-    "title": "Customer Service Representative",
-    "seo_title": "Remote Customer Service Representative Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Customer Service Representative job at NestlÃ© Health Science in Worldwide. Explore RAG, salesforce, education, customer support and...",
-    "company": {
-      "name": "NestlÃ© Health Science",
-      "slug": "nestla-health-science",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Bridgewater,",
-    "location_label": "Bridgewater,",
-    "remote_type": "unknown",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "salesforce",
-      "education",
-      "customer support",
-      "marketing",
-      "finance",
-      "microsoft",
-      "exec",
-      "excel",
-      "medical",
-      "recruiter"
-    ],
-    "category": "Robotics",
-    "description_summary": "At NestlÃ© Health Science, we believe that nutrition, science, and wellness must merge, not collide. Here, we embrace the intrinsic connections of these three pillars, harnessing their collective strength to empower healthier lives. Our broad product...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-nestle-health-science-1134401",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134401",
-    "published_at": "2026-07-01",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Service Representative",
-      "description": "At NestlÃ© Health Science, we believe that nutrition, science, and wellness must merge, not collide. Here, we embrace the intrinsic connections of these three pillars, harnessing their collective strength to empower healthier lives. Our broad product...",
-      "datePosted": "2026-07-01",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NestlÃ© Health Science"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134401"
     },
     "ai_relevant": true
   },
@@ -4661,67 +4667,6 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-software-engineer-mercury-insurance-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mercury-insurance-services-senior-software-eng",
-    "slug": "senior-software-engineer-mercury-insurance-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mercury-insurance-services-senior-software-eng",
-    "title": "Senior Software Engineer",
-    "seo_title": "Remote Senior Software Engineer Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Software Engineer job at Mercury Insurance Services in Worldwide. Explore Python, SQL, RAG, Docker and remote AI jobs.",
-    "company": {
-      "name": "Mercury Insurance Services",
-      "slug": "mercury-insurance-services",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "entry",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "RAG",
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Product",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote, United States URL: http://mercuryinsurance.com Overview Join an amazing team that is consistently recognized for our achievements and culture, including our most recent Forbes award of being one of America's Best Midsize Employers for...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/mercury-insurance-services-senior-software-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/mercury-insurance-services-senior-software-engineer",
-    "published_at": "2026-06-19",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Software Engineer",
-      "description": "Headquarters: Remote, United States URL: http://mercuryinsurance.com Overview Join an amazing team that is consistently recognized for our achievements and culture, including our most recent Forbes award of being one of America's Best Midsize Employers for...",
-      "datePosted": "2026-06-19",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Mercury Insurance Services"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/mercury-insurance-services-senior-software-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
