@@ -1,5 +1,78 @@
 [
   {
+    "id": "senior-quality-engineer-tellent-worldwide-remoteok-1134436",
+    "slug": "senior-quality-engineer-tellent-worldwide-remoteok-1134436",
+    "title": "Senior Quality Engineer",
+    "seo_title": "Remote Senior Quality Engineer Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Senior Quality Engineer job at Tellent in Worldwide. Explore RAG, design, graphql, hr and remote AI jobs.",
+    "company": {
+      "name": "Tellent",
+      "slug": "tellent",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 200000,
+    "salary_max": 225000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "design",
+      "graphql",
+      "hr",
+      "sys admin",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "web dev",
+      "quality assurance",
+      "api"
+    ],
+    "category": "Robotics",
+    "description_summary": "About the Role As a Senior Quality Engineer you'll own and grow the quality of Tellent HR alongside our existing QE team. You'll drive our test automation strategy, expand end-to-end coverage in Playwright, and raise the bar for backend testing. This is a...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134436",
+    "published_at": "2026-07-03",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Quality Engineer",
+      "description": "About the Role As a Senior Quality Engineer you'll own and grow the quality of Tellent HR alongside our existing QE team. You'll drive our test automation strategy, expand end-to-end coverage in Playwright, and raise the bar for backend testing. This is a...",
+      "datePosted": "2026-07-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Tellent"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134436",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 200000,
+          "maxValue": 225000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "chief-executive-officer-community-healthcare-association-of-the-dakotas-worldwide-remoteok-1134449",
     "slug": "chief-executive-officer-community-healthcare-association-of-the-dakotas-worldwide-remoteok-1134449",
     "title": "Chief Executive Officer",
@@ -203,6 +276,71 @@
     "ai_relevant": true
   },
   {
+    "id": "temp-hr-coordinator-people-operations-headspace-usa-remoteok-1134475",
+    "slug": "temp-hr-coordinator-people-operations-headspace-usa-remoteok-1134475",
+    "title": "Temp HR Coordinator People Operations",
+    "seo_title": "Remote Temp HR Coordinator People Operations Job in USA | Robotics Jobs",
+    "seo_description": "Apply for a remote Temp HR Coordinator People Operations job at Headspace in USA. Explore RAG, AWS, hr, education and remote AI jobs.",
+    "company": {
+      "name": "Headspace",
+      "slug": "headspace",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Austin, Austin, Texas, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "hr",
+      "education",
+      "coordinator",
+      "customer support",
+      "exec",
+      "content writing",
+      "ops",
+      "medical"
+    ],
+    "category": "Robotics",
+    "description_summary": "About the Temp HR Coordinator, People Operations Â at Headspace: The Temp HR Coordinator is a foundational member of the People Operations team, providing tactical and operational support across the employee lifecycle. This role works closely with and...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-temp-hr-coordinator-people-operations-headspace-1134475",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134475",
+    "published_at": "2026-07-02",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Temp HR Coordinator People Operations",
+      "description": "About the Temp HR Coordinator, People Operations Â at Headspace: The Temp HR Coordinator is a foundational member of the People Operations team, providing tactical and operational support across the employee lifecycle. This role works closely with and...",
+      "datePosted": "2026-07-02",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Headspace"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134475",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "peer-specialist-maternal-health-canopie-usa-remoteok-1134450",
     "slug": "peer-specialist-maternal-health-canopie-usa-remoteok-1134450",
     "title": "Peer Specialist Maternal Health",
@@ -400,6 +538,69 @@
         "@type": "Country",
         "name": "USA"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "associate-accounts-payable-expert-capgemini-worldwide-remoteok-1134474",
+    "slug": "associate-accounts-payable-expert-capgemini-worldwide-remoteok-1134474",
+    "title": "Associate Accounts Payable Expert",
+    "seo_title": "Remote Associate Accounts Payable Expert Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Associate Accounts Payable Expert job at Capgemini in Worldwide. Explore RAG, design, vfx, designer and remote AI jobs.",
+    "company": {
+      "name": "Capgemini",
+      "slug": "capgemini",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Greater Kolkata Area,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "design",
+      "vfx",
+      "designer",
+      "technical",
+      "dev",
+      "marketing",
+      "exec",
+      "medical",
+      "engineer",
+      "digital nomad",
+      "virtual assistant"
+    ],
+    "category": "Robotics",
+    "description_summary": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way youâd like, where youâll be supported and inspired byâ¯a collaborative community of colleagues around the world, and where youâll be able to...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-associate-accounts-payable-expert-capgemini-1134474",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134474",
+    "published_at": "2026-07-02",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Associate Accounts Payable Expert",
+      "description": "Choosing Capgemini means choosing a company where you will be empowered to shape your career in the way youâd like, where youâll be supported and inspired byâ¯a collaborative community of colleagues around the world, and where youâll be able to...",
+      "datePosted": "2026-07-02",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Capgemini"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134474",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -1261,69 +1462,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "designer-cats-protection-worldwide-remoteok-1134430",
-    "slug": "designer-cats-protection-worldwide-remoteok-1134430",
-    "title": "Designer",
-    "seo_title": "Remote Designer Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Designer job at Cats Protection in Worldwide. Explore analyst, customer support, marketing, travel and remote AI jobs.",
-    "company": {
-      "name": "Cats Protection",
-      "slug": "cats-protection",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Chelwood Gate,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "entry",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "analyst",
-      "customer support",
-      "marketing",
-      "travel",
-      "speech",
-      "math",
-      "microsoft",
-      "exec",
-      "data science",
-      "junior",
-      "ops",
-      "excel"
-    ],
-    "category": "Data Science",
-    "description_summary": "Team: â¯Brand & Marketing Location: â¯Remotely, in the UK onlyâ¯ Work pattern: â¯35 hours per week, Monday to Friday Salary: â¯Up to Â£36,327 per annum Contract: â¯Permanent Weâre looking for a Designer to deliver standout creative that strengthens...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-designer-cats-protection-1134430",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134430",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Designer",
-      "description": "Team: â¯Brand & Marketing Location: â¯Remotely, in the UK onlyâ¯ Work pattern: â¯35 hours per week, Monday to Friday Salary: â¯Up to Â£36,327 per annum Contract: â¯Permanent Weâre looking for a Designer to deliver standout creative that strengthens...",
-      "datePosted": "2026-06-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Cats Protection"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134430",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
