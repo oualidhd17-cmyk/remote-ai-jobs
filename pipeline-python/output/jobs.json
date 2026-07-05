@@ -1,5 +1,66 @@
 [
   {
+    "id": "file-clerk-recruitlytics-hiring-worldwide-remoteok-1134495",
+    "slug": "file-clerk-recruitlytics-hiring-worldwide-remoteok-1134495",
+    "title": "File Clerk",
+    "seo_title": "Remote File Clerk Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote File Clerk job at Recruitlytics Hiring in Worldwide. Explore RAG, jira, hr, customer support and remote AI jobs.",
+    "company": {
+      "name": "Recruitlytics Hiring",
+      "slug": "recruitlytics-hiring",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Hong Kong, Hong Kong, Hong Kong SAR",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "jira",
+      "hr",
+      "customer support",
+      "finance",
+      "cloud",
+      "admin",
+      "exec",
+      "ops",
+      "legal"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "As a Remote File Clerk, youâll keep digital and scanned records accurate, organized, searchable, and compliant. Youâll support multiple teams by receiving documents, validating completeness, applying naming conventions, classifying files into the correct...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytics-hiring-1134495",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134495",
+    "published_at": "2026-07-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "File Clerk",
+      "description": "As a Remote File Clerk, youâll keep digital and scanned records accurate, organized, searchable, and compliant. Youâll support multiple teams by receiving documents, validating completeness, applying naming conventions, classifying files into the correct...",
+      "datePosted": "2026-07-04",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Recruitlytics Hiring"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134495",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-quality-engineer-tellent-worldwide-remoteok-1134436",
     "slug": "senior-quality-engineer-tellent-worldwide-remoteok-1134436",
     "title": "Senior Quality Engineer",
@@ -1519,61 +1580,6 @@
     "ai_relevant": true
   },
   {
-    "id": "product-manager-ii-financial-systems-kraken-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-kraken-product-manager-ii-financial-systems",
-    "slug": "product-manager-ii-financial-systems-kraken-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-kraken-product-manager-ii-financial-systems",
-    "title": "Product Manager II - Financial Systems",
-    "seo_title": "Remote Product Manager II - Financial Systems Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Product Manager II - Financial Systems job at Kraken in Worldwide. Explore RAG, AWS, Management and Finance, Remote and remote AI jobs.",
-    "company": {
-      "name": "Kraken",
-      "slug": "kraken",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: United States Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology. What makes us different? Kraken is a...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/kraken-product-manager-ii-financial-systems",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/kraken-product-manager-ii-financial-systems",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Manager II - Financial Systems",
-      "description": "Headquarters: United States Building the Future of Crypto Our Krakenites are a world-class team with crypto conviction, united by our desire to discover and unlock the potential of crypto and blockchain technology. What makes us different? Kraken is a...",
-      "datePosted": "2026-06-30",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Kraken"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/kraken-product-manager-ii-financial-systems",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "product-marketing-agents-elevenlabs-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-elevenlabs-product-marketing-agents",
     "slug": "product-marketing-agents-elevenlabs-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-elevenlabs-product-marketing-agents",
     "title": "Product Marketing - Agents",
@@ -1681,14 +1687,14 @@
     "ai_relevant": true
   },
   {
-    "id": "staff-product-designer-jerry-ai-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jerry-ai-staff-product-designer",
-    "slug": "staff-product-designer-jerry-ai-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jerry-ai-staff-product-designer",
-    "title": "Staff Product Designer",
-    "seo_title": "Remote Staff Product Designer Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Staff Product Designer job at jerry.ai in Worldwide. Explore Machine Learning, RAG, AWS, Full-Stack Programming and remote AI jobs.",
+    "id": "product-manager-qa-analyst-full-time-remote-contractor-khibraty-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-khibraty-product-manager-qa-analys",
+    "slug": "product-manager-qa-analyst-full-time-remote-contractor-khibraty-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-khibraty-product-manager-qa-analys",
+    "title": "Product Manager / QA Analyst (Full-Time Remote Contractor)",
+    "seo_title": "Remote Product Manager / QA Analyst (Full-Time Remote Contractor) Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Product Manager / QA Analyst (Full-Time Remote Contractor) job at Khibraty in Worldwide. Explore RAG, Full-Stack Programming, Remote...",
     "company": {
-      "name": "jerry.ai",
-      "slug": "jerry-ai",
+      "name": "Khibraty",
+      "slug": "khibraty",
       "logo_url": null,
       "website": null
     },
@@ -1697,24 +1703,22 @@
     "location": "Remote",
     "location_label": "Remote - Worldwide",
     "remote_type": "remote",
-    "employment_type": "part-time",
-    "experience_level": "mid",
+    "employment_type": "full-time",
+    "experience_level": "senior",
     "visa_sponsorship": false,
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "skills": [
-      "Machine Learning",
       "RAG",
-      "AWS",
       "Full-Stack Programming",
       "Remote"
     ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Palo Alto, California You could work anywhere. Why join Jerry? Jerry is building the first AI-powered assistant for car ownership , making it easy and affordable for the 80% of Americans who rely on their cars every day. From buying and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/jerry-ai-staff-product-designer",
+    "category": "Robotics",
+    "description_summary": "Headquarters: Amman, Amman Governorate, Jordan Our client is looking for a versatile, detail-oriented Product Manager / QA Analyst to join us as a full-time remote contractor in a dual role that shapes the future of the product while ensuring its reliability....",
+    "apply_url": "https://weworkremotely.com/remote-jobs/khibraty-product-manager-qa-analyst-full-time-remote-contractor",
     "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/jerry-ai-staff-product-designer",
+    "source_url": "https://weworkremotely.com/remote-jobs/khibraty-product-manager-qa-analyst-full-time-remote-contractor",
     "published_at": "2026-06-30",
     "expires_at": null,
     "quality_score": 85,
@@ -1722,16 +1726,16 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Staff Product Designer",
-      "description": "Headquarters: Palo Alto, California You could work anywhere. Why join Jerry? Jerry is building the first AI-powered assistant for car ownership , making it easy and affordable for the 80% of Americans who rely on their cars every day. From buying and...",
+      "title": "Product Manager / QA Analyst (Full-Time Remote Contractor)",
+      "description": "Headquarters: Amman, Amman Governorate, Jordan Our client is looking for a versatile, detail-oriented Product Manager / QA Analyst to join us as a full-time remote contractor in a dual role that shapes the future of the product while ensuring its reliability....",
       "datePosted": "2026-06-30",
-      "employmentType": "PART_TIME",
+      "employmentType": "FULL_TIME",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "jerry.ai"
+        "name": "Khibraty"
       },
       "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/jerry-ai-staff-product-designer",
+      "url": "https://weworkremotely.com/remote-jobs/khibraty-product-manager-qa-analyst-full-time-remote-contractor",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5830,6 +5834,62 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/vodafone-vodafonethree-technical-design-authority",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-analyst-curam-ahu-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ahu-technologies-data-analyst-curam",
+    "slug": "data-analyst-curam-ahu-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ahu-technologies-data-analyst-curam",
+    "title": "Data Analyst/ Curam",
+    "seo_title": "Remote Data Analyst/ Curam Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Data Analyst/ Curam job at AHU Technologies in Worldwide. Explore RAG, Tableau, Statistics, Front-End Programming and remote AI jobs.",
+    "company": {
+      "name": "AHU Technologies",
+      "slug": "ahu-technologies",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Tableau",
+      "Statistics",
+      "Front-End Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description: Short Description: The Client is looking for Data analyst with 11 years of experience managing data pertaining to the different medical, nutrition, and financial subsidies managed by the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
+    "published_at": "2026-06-15",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Analyst/ Curam",
+      "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description: Short Description: The Client is looking for Data analyst with 11 years of experience managing data pertaining to the different medical, nutrition, and financial subsidies managed by the...",
+      "datePosted": "2026-06-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AHU Technologies"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
