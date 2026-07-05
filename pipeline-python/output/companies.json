@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 32
+    "jobs_count": 28
   },
   {
     "name": "LawnStarter",
@@ -37,6 +37,13 @@
   {
     "name": "Tellent",
     "slug": "tellent",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "LinkedIn",
+    "slug": "linkedin",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -149,13 +156,6 @@
   {
     "name": "7 Figure Leap",
     "slug": "7-figure-leap",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pete & Gerry's Organics, LLC",
-    "slug": "pete-gerry-s-organics-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -436,13 +436,6 @@
   {
     "name": "Vodafone",
     "slug": "vodafone",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "AHU Technologies",
-    "slug": "ahu-technologies",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
