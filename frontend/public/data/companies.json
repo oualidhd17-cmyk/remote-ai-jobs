@@ -28,18 +28,18 @@
     "jobs_count": 3
   },
   {
-    "name": "EverAI",
-    "slug": "everai",
+    "name": "Recruitlytics Hiring",
+    "slug": "recruitlytics-hiring",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Recruitlytics Hiring",
-    "slug": "recruitlytics-hiring",
+    "name": "EverAI",
+    "slug": "everai",
     "logo_url": null,
     "website": null,
-    "jobs_count": 1
+    "jobs_count": 2
   },
   {
     "name": "Tellent",
@@ -51,6 +51,13 @@
   {
     "name": "LinkedIn",
     "slug": "linkedin",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "TextUs",
+    "slug": "textus",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -455,6 +462,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Abstract",
+    "slug": "abstract",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "nooro",
     "slug": "nooro",
     "logo_url": null,
@@ -464,13 +478,6 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "The Land Geek",
-    "slug": "the-land-geek",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
