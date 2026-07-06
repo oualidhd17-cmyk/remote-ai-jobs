@@ -1,5 +1,68 @@
 [
   {
+    "id": "human-resources-generalist-coberonchronos-worldwide-remoteok-1134499",
+    "slug": "human-resources-generalist-coberonchronos-worldwide-remoteok-1134499",
+    "title": "Human Resources Generalist",
+    "seo_title": "Remote Human Resources Generalist Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Human Resources Generalist job at CoberonChronos in Worldwide. Explore LLM, AWS, design, hr and remote AI jobs.",
+    "company": {
+      "name": "CoberonChronos",
+      "slug": "coberonchronos",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City Metropolitan Area",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "AWS",
+      "design",
+      "hr",
+      "sys admin",
+      "customer support",
+      "dev",
+      "payroll",
+      "education",
+      "exec",
+      "ops",
+      "medical"
+    ],
+    "category": "MLOps",
+    "description_summary": "Our client is a medical technology company that develops, manufactures, sells, and services state-of-the-art nuclear medicine imaging systems. Their digital imaging platforms are used by healthcare sites worldwide and serve as the foundation for...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-coberonchronos-1134499",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134499",
+    "published_at": "2026-07-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Human Resources Generalist",
+      "description": "Our client is a medical technology company that develops, manufactures, sells, and services state-of-the-art nuclear medicine imaging systems. Their digital imaging platforms are used by healthcare sites worldwide and serve as the foundation for...",
+      "datePosted": "2026-07-04",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "CoberonChronos"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134499",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "founder-ghostwriter-for-a-u-s-based-google-ads-agency-paired-uk-remoteok-1134487",
     "slug": "founder-ghostwriter-for-a-u-s-based-google-ads-agency-paired-uk-remoteok-1134487",
     "title": "Founder Ghostwriter for a U.S. based Google Ads Agency",
@@ -70,7 +133,7 @@
     "id": "administrative-data-entry-file-clerk-recruitlytics-hiring-canada-remoteok-1134498",
     "slug": "administrative-data-entry-file-clerk-recruitlytics-hiring-canada-remoteok-1134498",
     "title": "Administrative Data Entry File Clerk",
-    "seo_title": "Remote Administrative Data Entry File Clerk Job in Canada | Robotics Jobs",
+    "seo_title": "Remote Administrative Data Entry File Clerk Job in Canada | AI Engineering Jobs",
     "seo_description": "Apply for a remote Administrative Data Entry File Clerk job at Recruitlytics Hiring in Canada. Explore RAG, design, saas, embedded and remote AI jobs.",
     "company": {
       "name": "Recruitlytics Hiring",
@@ -103,7 +166,7 @@
       "stats",
       "sales"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Dedicated to delivering exceptional service and maintaining organized business operations, our company is seeking a detail-oriented Administrative Data Entry File Clerk to join our team. If you excel at managing records, entering data accurately, and working...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-recruitlytics-hiring-1134498",
     "source": "remoteok",
@@ -137,7 +200,7 @@
     "id": "file-clerk-recruitlytics-hiring-worldwide-remoteok-1134495",
     "slug": "file-clerk-recruitlytics-hiring-worldwide-remoteok-1134495",
     "title": "File Clerk",
-    "seo_title": "Remote File Clerk Job | Robotics Jobs",
+    "seo_title": "Remote File Clerk Job | AI Engineering Jobs",
     "seo_description": "Apply for a remote File Clerk job at Recruitlytics Hiring in Worldwide. Explore RAG, jira, hr, customer support and remote AI jobs.",
     "company": {
       "name": "Recruitlytics Hiring",
@@ -168,7 +231,7 @@
       "ops",
       "legal"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "As a Remote File Clerk, youâll keep digital and scanned records accurate, organized, searchable, and compliant. Youâll support multiple teams by receiving documents, validating completeness, applying naming conventions, classifying files into the correct...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-file-clerk-recruitlytics-hiring-1134495",
     "source": "remoteok",
@@ -402,6 +465,65 @@
     "ai_relevant": true
   },
   {
+    "id": "supply-chain-executive-pharmanovia-worldwide-remoteok-1134515",
+    "slug": "supply-chain-executive-pharmanovia-worldwide-remoteok-1134515",
+    "title": "Supply Chain Executive",
+    "seo_title": "Remote Supply Chain Executive Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Supply Chain Executive job at Pharmanovia in Worldwide. Explore RAG, sys admin, education, customer support and remote AI jobs.",
+    "company": {
+      "name": "Pharmanovia",
+      "slug": "pharmanovia",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Kawasan Sekitar Kuala Lumpur,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "sys admin",
+      "education",
+      "customer support",
+      "marketing",
+      "exec",
+      "excel",
+      "medical"
+    ],
+    "category": "Data Science",
+    "description_summary": "Supply Chain Executive â Full Time â Remote â Based in Malaysia About The Company Pharmanovia is a dynamic, fast-growing international pharmaceutical company with a portfolio of over 20 brands across more than 140 markets. Our mission is to improve...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-supply-chain-executive-pharmanovia-1134515",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134515",
+    "published_at": "2026-07-03",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Supply Chain Executive",
+      "description": "Supply Chain Executive â Full Time â Remote â Based in Malaysia About The Company Pharmanovia is a dynamic, fast-growing international pharmaceutical company with a portfolio of over 20 brands across more than 140 markets. Our mission is to improve...",
+      "datePosted": "2026-07-03",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Pharmanovia"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134515",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "chief-executive-officer-community-healthcare-association-of-the-dakotas-worldwide-remoteok-1134449",
     "slug": "chief-executive-officer-community-healthcare-association-of-the-dakotas-worldwide-remoteok-1134449",
     "title": "Chief Executive Officer",
@@ -541,7 +663,7 @@
     "id": "full-stack-developer-first-uk-better-futures-multi-academy-trust-worldwide-remoteok-1134395",
     "slug": "full-stack-developer-first-uk-better-futures-multi-academy-trust-worldwide-remoteok-1134395",
     "title": "Full Stack Developer first UK",
-    "seo_title": "Remote Full Stack Developer first UK Job | Robotics Jobs",
+    "seo_title": "Remote Full Stack Developer first UK Job | AI Engineering Jobs",
     "seo_description": "Apply for a remote Full Stack Developer first UK job at Better Futures Multi Academy Trust in Worldwide. Explore RAG, dev, ruby, full stack and remote AI...",
     "company": {
       "name": "Better Futures Multi Academy Trust",
@@ -568,7 +690,7 @@
       "react native",
       "mobile"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Â£25,200âÂ£30,000 (3 days per week, pro-rata from Â£42,000âÂ£50,000 FTE) Remote with UK Midlands in-person days | Better Futures Multi-Academy TrustÂ Most developer roles give you a stack to maintain. This one gives you a product to shape.Â We are Better...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-first-uk-better-futures-multi-academy-trust-1134395",
     "source": "remoteok",
@@ -1427,7 +1549,7 @@
     "id": "event-planning-assistant-professional-travel-planners-llc-usa-remoteok-1134361",
     "slug": "event-planning-assistant-professional-travel-planners-llc-usa-remoteok-1134361",
     "title": "Event Planning Assistant",
-    "seo_title": "Remote Event Planning Assistant Job in USA | Robotics Jobs",
+    "seo_title": "Remote Event Planning Assistant Job in USA | AI Engineering Jobs",
     "seo_description": "Apply for a remote Event Planning Assistant job at Professional Travel Planners LLC in USA. Explore RAG, design, customer support, dev and remote AI jobs.",
     "company": {
       "name": "Professional Travel Planners LLC",
@@ -1460,7 +1582,7 @@
       "medical",
       "ads"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Position Overview We are looking for a highly organized and detail-oriented Event Planning Assistant to support the coordination of events and related arrangements. This role involves assisting with planning logistics, managing schedules, and ensuring all...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-event-planning-assistant-professional-travel-planners-llc-1134361",
     "source": "remoteok",
@@ -1482,71 +1604,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1134361",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "designer-forbes-usa-remoteok-1134352",
-    "slug": "designer-forbes-usa-remoteok-1134352",
-    "title": "Designer",
-    "seo_title": "Remote Designer Job in USA | Data Science Jobs",
-    "seo_description": "Apply for a remote Designer job at Forbes in USA. Explore RAG, design, designer, marketing and remote AI jobs.",
-    "company": {
-      "name": "Forbes",
-      "slug": "forbes",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Jersey City, Jersey City, New Jersey, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "design",
-      "designer",
-      "marketing",
-      "video",
-      "education",
-      "exec",
-      "content writing",
-      "ops",
-      "digital nomad"
-    ],
-    "category": "Data Science",
-    "description_summary": "Forbes is an iconic global media brand that has symbolized success for over a century. Fueled by journalism that informs and inspires, Forbes spotlights the doers and doings shaping industries, achieving success and making an impact on the world. Forbes...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-designer-forbes-1134352",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134352",
-    "published_at": "2026-07-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Designer",
-      "description": "Forbes is an iconic global media brand that has symbolized success for over a century. Fueled by journalism that informs and inspires, Forbes spotlights the doers and doings shaping industries, achieving success and making an impact on the world. Forbes...",
-      "datePosted": "2026-07-01",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Forbes"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134352",
       "jobLocationType": "TELECOMMUTE",
       "applicantLocationRequirements": {
         "@type": "Country",
@@ -1883,60 +1940,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/holepunch-product-technical-project-manager-100-remote-worldwide",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "product-manager-qa-analyst-full-time-remote-contractor-khibraty-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-khibraty-product-manager-qa-analys",
-    "slug": "product-manager-qa-analyst-full-time-remote-contractor-khibraty-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-khibraty-product-manager-qa-analys",
-    "title": "Product Manager / QA Analyst (Full-Time Remote Contractor)",
-    "seo_title": "Remote Product Manager / QA Analyst (Full-Time Remote Contractor) Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Product Manager / QA Analyst (Full-Time Remote Contractor) job at Khibraty in Worldwide. Explore RAG, Full-Stack Programming, Remote...",
-    "company": {
-      "name": "Khibraty",
-      "slug": "khibraty",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Amman, Amman Governorate, Jordan Our client is looking for a versatile, detail-oriented Product Manager / QA Analyst to join us as a full-time remote contractor in a dual role that shapes the future of the product while ensuring its reliability....",
-    "apply_url": "https://weworkremotely.com/remote-jobs/khibraty-product-manager-qa-analyst-full-time-remote-contractor",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/khibraty-product-manager-qa-analyst-full-time-remote-contractor",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Manager / QA Analyst (Full-Time Remote Contractor)",
-      "description": "Headquarters: Amman, Amman Governorate, Jordan Our client is looking for a versatile, detail-oriented Product Manager / QA Analyst to join us as a full-time remote contractor in a dual role that shapes the future of the product while ensuring its reliability....",
-      "datePosted": "2026-06-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Khibraty"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/khibraty-product-manager-qa-analyst-full-time-remote-contractor",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -4999,65 +5002,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -5112,6 +5056,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -6427,59 +6430,6 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "support-engineer-level-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-level-support-engineer",
-    "slug": "support-engineer-level-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-level-support-engineer",
-    "title": "Support Engineer",
-    "seo_title": "Remote Support Engineer Job | Prompt Engineering Jobs",
-    "seo_description": "Apply for a remote Support Engineer job at Level in Worldwide. Explore Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Level",
-      "slug": "level",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "Prompt Engineering",
-    "description_summary": "Headquarters: Asheville, NC URL: https://level.io S u p p o r t E n g i n e e r We're building the future of RMM, and the people who deploy it for our customers are mission critical. This is not a traditional support role. You'll close hard tickets, onboard...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/level-support-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/level-support-engineer",
-    "published_at": "2026-06-05",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Support Engineer",
-      "description": "Headquarters: Asheville, NC URL: https://level.io S u p p o r t E n g i n e e r We're building the future of RMM, and the people who deploy it for our customers are mission critical. This is not a traditional support role. You'll close hard tickets, onboard...",
-      "datePosted": "2026-06-05",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Level"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/level-support-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
