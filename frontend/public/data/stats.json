@@ -2,14 +2,14 @@
   "raw_count": 268,
   "processed_count": 268,
   "published_count": 110,
-  "ai_relevant_count": 177,
-  "remote_count": 86,
-  "visa_count": 32,
+  "ai_relevant_count": 176,
+  "remote_count": 85,
+  "visa_count": 33,
   "salary_count": 9,
   "status_counts": {
-    "rejected": 91,
+    "rejected": 92,
+    "pending": 52,
     "published": 110,
-    "pending": 53,
     "expired": 14
   },
   "source_counts": {

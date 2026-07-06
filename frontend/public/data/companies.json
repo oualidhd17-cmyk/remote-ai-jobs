@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 31
   },
   {
     "name": "LawnStarter",
@@ -191,20 +191,6 @@
   {
     "name": "Rutherford MP",
     "slug": "rutherford-mp",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Elevenlabs",
-    "slug": "elevenlabs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Holepunch",
-    "slug": "holepunch",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -471,6 +457,13 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Toggl",
+    "slug": "toggl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

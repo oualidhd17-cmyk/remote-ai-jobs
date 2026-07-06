@@ -108,6 +108,60 @@
     "ai_relevant": true
   },
   {
+    "id": "customer-program-manager-executive-briefing-center-anthropic-worldwide-greenhouse-anthropic-5251699008",
+    "slug": "customer-program-manager-executive-briefing-center-anthropic-worldwide-greenhouse-anthropic-5251699008",
+    "title": "Customer Program Manager, Executive Briefing Center",
+    "seo_title": "Remote Customer Program Manager, Executive Briefing Center Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Program Manager, Executive Briefing Center job at anthropic in Worldwide. Explore RAG, AWS, Marketing & Brand, San Francisco,...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Marketing & Brand",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5251699008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5251699008",
+    "published_at": "2026-07-06",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Program Manager, Executive Briefing Center",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-06",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5251699008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "supply-chain-analyst-diva-canada-remoteok-1134516",
     "slug": "supply-chain-analyst-diva-canada-remoteok-1134516",
     "title": "Supply Chain Analyst",
@@ -1879,113 +1933,6 @@
     "ai_relevant": true
   },
   {
-    "id": "product-marketing-agents-elevenlabs-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-elevenlabs-product-marketing-agents",
-    "slug": "product-marketing-agents-elevenlabs-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-elevenlabs-product-marketing-agents",
-    "title": "Product Marketing - Agents",
-    "seo_title": "Remote Product Marketing - Agents Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Product Marketing - Agents job at Elevenlabs in Worldwide. Explore Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Elevenlabs",
-      "slug": "elevenlabs",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: United Kingdom About ElevenLabs ElevenLabs is a research and product company defining the frontier of audio AI. Millions of people use our technology to read articles, voice over videos, and restore voices lost to disability. Leading developers...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/elevenlabs-product-marketing-agents",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/elevenlabs-product-marketing-agents",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Marketing - Agents",
-      "description": "Headquarters: United Kingdom About ElevenLabs ElevenLabs is a research and product company defining the frontier of audio AI. Millions of people use our technology to read articles, voice over videos, and restore voices lost to disability. Leading developers...",
-      "datePosted": "2026-06-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Elevenlabs"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/elevenlabs-product-marketing-agents",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "product-technical-project-manager-100-remote-worldwide-holepunch-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-holepunch-product-technical-proje",
-    "slug": "product-technical-project-manager-100-remote-worldwide-holepunch-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-holepunch-product-technical-proje",
-    "title": "Product / Technical Project Manager (100% Remote, Worldwide)",
-    "seo_title": "Remote Product / Technical Project Manager (100% Remote, Worldwide) Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Product / Technical Project Manager (100% Remote, Worldwide) job at Holepunch in Worldwide. Explore RAG, Full-Stack Programming, Remote...",
-    "company": {
-      "name": "Holepunch",
-      "slug": "holepunch",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Milan, 25, Italy Job description At Holepunch, we are not just developing software; we are redefining the internet's architecture. Our pioneering P2P development platform, built on our open-source technology stack, Pear, eliminates the need for...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/holepunch-product-technical-project-manager-100-remote-worldwide",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/holepunch-product-technical-project-manager-100-remote-worldwide",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product / Technical Project Manager (100% Remote, Worldwide)",
-      "description": "Headquarters: Milan, 25, Italy Job description At Holepunch, we are not just developing software; we are redefining the internet's architecture. Our pioneering P2P development platform, built on our open-source technology stack, Pear, eliminates the need for...",
-      "datePosted": "2026-06-30",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Holepunch"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/holepunch-product-technical-project-manager-100-remote-worldwide",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "federal-bim-design-associate-olsson-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-olsson-federal-bim-design-associate",
     "slug": "federal-bim-design-associate-olsson-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-olsson-federal-bim-design-associate",
     "title": "Federal BIM Design Associate",
@@ -2314,61 +2261,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "title": "Commercial Counsel, EMEA",
@@ -2420,6 +2312,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -6470,6 +6417,60 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-product-manager-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-product-manager-4",
+    "slug": "senior-product-manager-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-product-manager-4",
+    "title": "Senior Product Manager",
+    "seo_title": "Remote Senior Product Manager Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Product Manager job at Toggl in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
+    "company": {
+      "name": "Toggl",
+      "slug": "toggl",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Product",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Product Manager to join one of our Product Tribes , the cross-functional units that own the end-to-end experience for a specific Toggl user role. You own your Tribe's...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
+    "published_at": "2026-06-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Product Manager",
+      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Product Manager to join one of our Product Tribes , the cross-functional units that own the end-to-end experience for a specific Toggl user role. You own your Tribe's...",
+      "datePosted": "2026-06-03",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Toggl"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
