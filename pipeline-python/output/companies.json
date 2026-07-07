@@ -14,6 +14,13 @@
     "jobs_count": 6
   },
   {
+    "name": "Vidalytics",
+    "slug": "vidalytics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -212,6 +219,13 @@
   {
     "name": "Qualifyze",
     "slug": "qualifyze",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -450,13 +464,6 @@
   {
     "name": "Toggl",
     "slug": "toggl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ignition, Inc.",
-    "slug": "ignition-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
