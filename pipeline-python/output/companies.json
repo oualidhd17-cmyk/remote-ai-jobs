@@ -49,6 +49,13 @@
     "jobs_count": 2
   },
   {
+    "name": "sofatutor",
+    "slug": "sofatutor",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Creative Force",
     "slug": "creative-force",
     "logo_url": null,
@@ -142,13 +149,6 @@
   {
     "name": "Capgemini",
     "slug": "capgemini",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "The Elites",
-    "slug": "the-elites",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -408,13 +408,6 @@
   {
     "name": "HugeInc",
     "slug": "hugeinc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Vodafone",
-    "slug": "vodafone",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

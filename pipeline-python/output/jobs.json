@@ -1,5 +1,180 @@
 [
   {
+    "id": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
+    "slug": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
+    "title": "Data Scientist, Safeguards",
+    "seo_title": "Remote Data Scientist, Safeguards Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Safeguards job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "AWS",
+      "Data Science & Analytics"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+    "published_at": "2026-07-07",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Safeguards",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "channel-account-manager-anthropic-worldwide-greenhouse-anthropic-5291731008",
+    "slug": "channel-account-manager-anthropic-worldwide-greenhouse-anthropic-5291731008",
+    "title": "Channel Account Manager",
+    "seo_title": "Remote Channel Account Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Channel Account Manager job at anthropic in Worldwide. Explore RAG, AWS, Sales, Tokyo, Japan and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Tokyo, Japan",
+    "location_label": "Tokyo, Japan",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Tokyo, Japan"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5291731008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5291731008",
+    "published_at": "2026-07-07",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Channel Account Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5291731008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "cro-specialist-sofatutor-worldwide-remoteok-1134522",
+    "slug": "cro-specialist-sofatutor-worldwide-remoteok-1134522",
+    "title": "CRO specialist",
+    "seo_title": "Remote CRO specialist Job | Data Science Jobs",
+    "seo_description": "Apply for a remote CRO specialist job at sofatutor in Worldwide. Explore RAG, Power BI, testing, marketing and remote AI jobs.",
+    "company": {
+      "name": "sofatutor",
+      "slug": "sofatutor",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": 60000,
+    "salary_max": 70000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "Power BI",
+      "testing",
+      "marketing"
+    ],
+    "category": "Data Science",
+    "description_summary": "Design and run A/B tests that directly impact subscription growth for one of Europe's leading EdTech platforms â 1M+ users, real experiments, measurable results. Weâre looking for aÂ Conversion Rate Optimization (CRO) Specialist (gn) Â to join our Product...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-cro-specialist-sofatutor-1134522",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134522",
+    "published_at": "2026-07-06",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "CRO specialist",
+      "description": "Design and run A/B tests that directly impact subscription growth for one of Europe's leading EdTech platforms â 1M+ users, real experiments, measurable results. Weâre looking for aÂ Conversion Rate Optimization (CRO) Specialist (gn) Â to join our Product...",
+      "datePosted": "2026-07-06",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "sofatutor"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134522",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 60000,
+          "maxValue": 70000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "saas-product-support-jedi-remote-emea-creative-force-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-creative-force-saas-product-support-jedi-remo",
     "slug": "saas-product-support-jedi-remote-emea-creative-force-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-creative-force-saas-product-support-jedi-remo",
     "title": "SaaS Product Support Jedi – Remote, EMEA",
@@ -1285,73 +1460,6 @@
     "ai_relevant": true
   },
   {
-    "id": "creative-the-elites-uk-remoteok-1134415",
-    "slug": "creative-the-elites-uk-remoteok-1134415",
-    "title": "Creative",
-    "seo_title": "Remote Creative Job in UK | Robotics Jobs",
-    "seo_description": "Apply for a remote Creative job at The Elites in UK. Explore RAG, design, react, consulting and remote AI jobs.",
-    "company": {
-      "name": "The Elites",
-      "slug": "the-elites",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London,",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "design",
-      "react",
-      "consulting",
-      "technical",
-      "dev",
-      "web dev",
-      "javascript",
-      "css",
-      "html",
-      "exec",
-      "senior"
-    ],
-    "category": "Robotics",
-    "description_summary": "We are Wiser, a global, award-winning Employer Brand agency. We build employer brands to guide the best in the biz into their dream career with our clients. Weâre a home for people who think big and expect more. We transform a companyâs employer brand...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-creative-the-elites-1134415",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134415",
-    "published_at": "2026-07-02",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Creative",
-      "description": "We are Wiser, a global, award-winning Employer Brand agency. We build employer brands to guide the best in the biz into their dream career with our clients. Weâre a home for people who think big and expect more. We transform a companyâs employer brand...",
-      "datePosted": "2026-07-02",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "The Elites"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134415",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-ai-engineer-lemon-io-usa-remotive-2090986",
     "slug": "senior-ai-engineer-lemon-io-usa-remotive-2090986",
     "title": "Senior AI Engineer",
@@ -1390,9 +1498,9 @@
     ],
     "category": "AI Engineering",
     "description_summary": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-ai-engineer-2090986",
+    "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
     "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/senior-ai-engineer-2090986",
+    "source_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
     "published_at": "2026-07-02",
     "expires_at": null,
     "quality_score": 85,
@@ -1409,7 +1517,7 @@
         "name": "Lemon.io"
       },
       "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/senior-ai-engineer-2090986",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2090986",
       "jobLocationType": "TELECOMMUTE",
       "applicantLocationRequirements": {
         "@type": "Country",
@@ -2300,63 +2408,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-scientist-supply-anthropic-worldwide-greenhouse-anthropic-5212119008",
-    "slug": "data-scientist-supply-anthropic-worldwide-greenhouse-anthropic-5212119008",
-    "title": "Data Scientist, Supply",
-    "seo_title": "Remote Data Scientist, Supply Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Scientist, Supply job at anthropic in Worldwide. Explore Python, SQL, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Data Science & Analytics",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Scientist, Supply",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008"
     },
     "ai_relevant": true
   },
@@ -4760,65 +4811,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -4873,6 +4865,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -4991,62 +5042,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
-    "slug": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
-    "title": "Data Scientist, Safeguards",
-    "seo_title": "Remote Data Scientist, Safeguards Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Scientist, Safeguards job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "RAG",
-      "AWS",
-      "Safeguards (Trust & Safety)"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Scientist, Safeguards",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5742,60 +5737,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/hugeinc-qa-lead",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "vodafonethree-technical-design-authority-vodafone-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vodafone-vodafonethree-technical-design-authorit",
-    "slug": "vodafonethree-technical-design-authority-vodafone-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vodafone-vodafonethree-technical-design-authorit",
-    "title": "VodafoneThree - Technical Design Authority",
-    "seo_title": "Remote VodafoneThree - Technical Design Authority Job | Robotics Jobs",
-    "seo_description": "Apply for a remote VodafoneThree - Technical Design Authority job at Vodafone in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "Vodafone",
-      "slug": "vodafone",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: United Kingdom URL: http://vodafone.com Location: Homebased Salary: Excellent basic salary plus bonus and Vodafone benefits Working Hours: Full time 37.5 hours per week – Monday to Friday Homebased Our homebased working means you’ll work from...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/vodafone-vodafonethree-technical-design-authority",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/vodafone-vodafonethree-technical-design-authority",
-    "published_at": "2026-06-15",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "VodafoneThree - Technical Design Authority",
-      "description": "Headquarters: United Kingdom URL: http://vodafone.com Location: Homebased Salary: Excellent basic salary plus bonus and Vodafone benefits Working Hours: Full time 37.5 hours per week – Monday to Friday Homebased Our homebased working means you’ll work from...",
-      "datePosted": "2026-06-15",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Vodafone"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/vodafone-vodafonethree-technical-design-authority",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
