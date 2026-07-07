@@ -1641,73 +1641,6 @@
     "ai_relevant": true
   },
   {
-    "id": "clinical-proofreader-editor-4-corner-resources-usa-remoteok-1134406",
-    "slug": "clinical-proofreader-editor-4-corner-resources-usa-remoteok-1134406",
-    "title": "Clinical Proofreader Editor",
-    "seo_title": "Remote Clinical Proofreader Editor Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Clinical Proofreader Editor job at 4 Corner Resources in USA. Explore RAG, salesforce, education, customer support and remote AI jobs.",
-    "company": {
-      "name": "4 Corner Resources",
-      "slug": "4-corner-resources",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "New York, New York, New York, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "salesforce",
-      "education",
-      "customer support",
-      "marketing",
-      "finance",
-      "microsoft",
-      "exec",
-      "excel",
-      "medical",
-      "recruiter",
-      "analyst"
-    ],
-    "category": "Robotics",
-    "description_summary": "Clinical Writer/Editor Role Overview: 4 Corner Resources is currently seeking a detail-oriented Clinical Proofreader/Editor to ensure compliance, accuracy, and quality in member and provider correspondence. This position involves reviewing clinical system...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-clinical-proofreader-editor-4-corner-resources-1134406",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134406",
-    "published_at": "2026-07-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Clinical Proofreader Editor",
-      "description": "Clinical Writer/Editor Role Overview: 4 Corner Resources is currently seeking a detail-oriented Clinical Proofreader/Editor to ensure compliance, accuracy, and quality in member and provider correspondence. This position involves reviewing clinical system...",
-      "datePosted": "2026-07-01",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "4 Corner Resources"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134406",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "relational-sales-lead-7-figure-leap-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-7-figure-leap-relational-sales-lead",
     "slug": "relational-sales-lead-7-figure-leap-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-7-figure-leap-relational-sales-lead",
     "title": "Relational Sales Lead",
@@ -2261,61 +2194,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
     "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
     "title": "Commercial Counsel, EMEA",
@@ -2367,6 +2245,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
     },
     "ai_relevant": true
   },
@@ -4460,7 +4393,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/snap-finance-manager-credit-card-business-strategy-remote",
     "published_at": "2026-06-22",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4514,7 +4447,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/ey-studio-nederland-oracle-services-oracle-cloud-finance-manager-tech-cons",
     "published_at": "2026-06-22",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4570,7 +4503,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/atcom-senior-net-web-developer",
     "published_at": "2026-06-22",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4624,7 +4557,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/mindrift-freelance-web-designer",
     "published_at": "2026-06-22",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4683,7 +4616,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer",
     "published_at": "2026-06-22",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4699,168 +4632,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "account-executive-nonprofits-higher-education-apac-anthropic-australia-greenhouse-anthropic-5274711008",
-    "slug": "account-executive-nonprofits-higher-education-apac-anthropic-australia-greenhouse-anthropic-5274711008",
-    "title": "Account Executive, Nonprofits & Higher Education - APAC",
-    "seo_title": "Remote Account Executive, Nonprofits & Higher Education - APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Account Executive, Nonprofits & Higher Education - APAC job at anthropic in Australia. Explore RAG, AWS, Sales, Sydney, Australia and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5274711008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5274711008",
-    "published_at": "2026-06-22",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Nonprofits & Higher Education - APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-22",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5274711008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "compute-infrastructure-counsel-security-compliance-anthropic-worldwide-greenhouse-anthropic-5205894008",
-    "slug": "compute-infrastructure-counsel-security-compliance-anthropic-worldwide-greenhouse-anthropic-5205894008",
-    "title": "Compute & Infrastructure Counsel, Security & Compliance",
-    "seo_title": "Remote Compute & Infrastructure Counsel, Security & Compliance Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Compute & Infrastructure Counsel, Security & Compliance job at anthropic in Worldwide. Explore RAG, AWS, Legal, San Francisco, CA and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
-    "location_label": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205894008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205894008",
-    "published_at": "2026-06-22",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Compute & Infrastructure Counsel, Security & Compliance",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-22",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205894008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "corporate-legal-specialist-anthropic-worldwide-greenhouse-anthropic-5194899008",
-    "slug": "corporate-legal-specialist-anthropic-worldwide-greenhouse-anthropic-5194899008",
-    "title": "Corporate Legal Specialist",
-    "seo_title": "Remote Corporate Legal Specialist Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Corporate Legal Specialist job at anthropic in Worldwide. Explore RAG, AWS, Legal, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "San Francisco, CA",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5194899008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5194899008",
-    "published_at": "2026-06-22",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Corporate Legal Specialist",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-22",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5194899008"
     },
     "ai_relevant": true
   },
@@ -6471,6 +6242,59 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "mac-msp-help-desk-guru-work-from-home-ignition-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ignition-inc-mac-msp-help-desk-guru-work-from-h",
+    "slug": "mac-msp-help-desk-guru-work-from-home-ignition-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ignition-inc-mac-msp-help-desk-guru-work-from-h",
+    "title": "Mac MSP Help Desk Guru (work from home)",
+    "seo_title": "Remote Mac MSP Help Desk Guru (work from home) Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Mac MSP Help Desk Guru (work from home) job at Ignition, Inc. in Worldwide. Explore DevOps and Sysadmin, Remote and remote AI jobs.",
+    "company": {
+      "name": "Ignition, Inc.",
+      "slug": "ignition-inc",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first TL;DR ignitionit.com is a seasoned, Apple-first MSP — in...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
+    "published_at": "2026-05-28",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Mac MSP Help Desk Guru (work from home)",
+      "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first TL;DR ignitionit.com is a seasoned, Apple-first MSP — in...",
+      "datePosted": "2026-05-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Ignition, Inc."
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
