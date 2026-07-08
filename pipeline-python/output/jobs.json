@@ -1,5 +1,61 @@
 [
   {
+    "id": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
+    "slug": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
+    "title": "Data Scientist, Safeguards",
+    "seo_title": "Remote Data Scientist, Safeguards Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Safeguards job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "AWS",
+      "Data Science & Analytics"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+    "published_at": "2026-07-07",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Safeguards",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "ai-automation-engineer-in-house-martech-video-saas-vidalytics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vidalytics-ai-automation-engineer-in",
     "slug": "ai-automation-engineer-in-house-martech-video-saas-vidalytics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vidalytics-ai-automation-engineer-in",
     "title": "AI Automation Engineer, In-House MarTech Video SaaS",
@@ -449,6 +505,72 @@
           "maxValue": 70000,
           "unitText": "YEAR"
         }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "operations-supervisor-healthcare-south-georgia-belle-usa-remoteok-1134553",
+    "slug": "operations-supervisor-healthcare-south-georgia-belle-usa-remoteok-1134553",
+    "title": "Operations Supervisor Healthcare South Georgia",
+    "seo_title": "Remote Operations Supervisor Healthcare South Georgia Job in USA | Data Science Jobs",
+    "seo_description": "Apply for a remote Operations Supervisor Healthcare South Georgia job at Belle in USA. Explore LLM, hr, education, supervisor and remote AI jobs.",
+    "company": {
+      "name": "Belle",
+      "slug": "belle",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Fairburn, Fairburn, Georgia, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "hr",
+      "education",
+      "supervisor",
+      "customer support",
+      "marketing",
+      "travel",
+      "exec",
+      "ops",
+      "medical",
+      "recruiter"
+    ],
+    "category": "Data Science",
+    "description_summary": "Belle is a fast-growing healthcare company revolutionizing in-home care â starting from the feet up. More than 25 million U.S. seniors can no longer safely care for their feet, contributing to over $38 billion in avoidable medical costs each year. Belle...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-operations-supervisor-healthcare-south-georgia-belle-1134553",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134553",
+    "published_at": "2026-07-06",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Operations Supervisor Healthcare South Georgia",
+      "description": "Belle is a fast-growing healthcare company revolutionizing in-home care â starting from the feet up. More than 25 million U.S. seniors can no longer safely care for their feet, contributing to over $38 billion in avoidable medical costs each year. Belle...",
+      "datePosted": "2026-07-06",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Belle"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134553",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
       }
     },
     "ai_relevant": true
@@ -1532,73 +1654,6 @@
     "ai_relevant": true
   },
   {
-    "id": "operations-supervisor-healthcare-atlanta-belle-usa-remoteok-1134404",
-    "slug": "operations-supervisor-healthcare-atlanta-belle-usa-remoteok-1134404",
-    "title": "Operations Supervisor Healthcare Atlanta",
-    "seo_title": "Remote Operations Supervisor Healthcare Atlanta Job in USA | Data Science Jobs",
-    "seo_description": "Apply for a remote Operations Supervisor Healthcare Atlanta job at Belle in USA. Explore LLM, salesforce, education, customer support and remote AI jobs.",
-    "company": {
-      "name": "Belle",
-      "slug": "belle",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Atlanta, Atlanta, Georgia, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "salesforce",
-      "education",
-      "customer support",
-      "marketing",
-      "finance",
-      "microsoft",
-      "exec",
-      "excel",
-      "medical",
-      "recruiter",
-      "analyst"
-    ],
-    "category": "Data Science",
-    "description_summary": "Belle is a fast-growing healthcare company revolutionizing in-home care â starting from the feet up. More than 25 million U.S. seniors can no longer safely care for their feet, contributing to over $38 billion in avoidable medical costs each year. Belle...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-operations-supervisor-healthcare-atlanta-belle-1134404",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134404",
-    "published_at": "2026-07-02",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Operations Supervisor Healthcare Atlanta",
-      "description": "Belle is a fast-growing healthcare company revolutionizing in-home care â starting from the feet up. More than 25 million U.S. seniors can no longer safely care for their feet, contributing to over $38 billion in avoidable medical costs each year. Belle...",
-      "datePosted": "2026-07-02",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Belle"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134404",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-ai-engineer-lemon-io-usa-remotive-2090986",
     "slug": "senior-ai-engineer-lemon-io-usa-remotive-2090986",
     "title": "Senior AI Engineer",
@@ -2441,61 +2496,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "title": "Commercial Counsel, EMEA",
@@ -2547,6 +2547,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -4042,7 +4097,7 @@
     "source_url": "https://remotive.com/remote-jobs/product/staff-product-engineer-sao-paulo-2091000",
     "published_at": "2026-06-23",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4115,7 +4170,7 @@
     "source_url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-florianopolis-2090994",
     "published_at": "2026-06-23",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4178,7 +4233,7 @@
     "source_url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-sao-paulo-2090995",
     "published_at": "2026-06-23",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4241,7 +4296,7 @@
     "source_url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-belo-horizonte-2090996",
     "published_at": "2026-06-23",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4304,7 +4359,7 @@
     "source_url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-campinas-2090998",
     "published_at": "2026-06-23",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4367,7 +4422,7 @@
     "source_url": "https://remotive.com/remote-jobs/qa/senior-quality-engineer-porto-alegre-2090997",
     "published_at": "2026-06-23",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4421,7 +4476,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/maptiler-developer-relations-customer-success-manager-maps-platform-remote-in-europe",
     "published_at": "2026-06-23",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4437,171 +4492,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/maptiler-developer-relations-customer-success-manager-maps-platform-remote-in-europe",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-5204086008",
-    "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-5204086008",
-    "title": "Applied AI Architect, Industries",
-    "seo_title": "Remote Applied AI Architect, Industries Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Zürich, CH",
-    "location_label": "Zürich, CH",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Zürich, CH"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5204086008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5204086008",
-    "published_at": "2026-06-23",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Industries",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-23",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5204086008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "communications-lead-infrastructure-and-engineering-anthropic-worldwide-greenhouse-anthropic-5239391008",
-    "slug": "communications-lead-infrastructure-and-engineering-anthropic-worldwide-greenhouse-anthropic-5239391008",
-    "title": "Communications Lead, Infrastructure and Engineering",
-    "seo_title": "Remote Communications Lead, Infrastructure and Engineering Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Communications Lead, Infrastructure and Engineering job at anthropic in Worldwide. Explore RAG, AWS, Communications, San Francisco, CA...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "location_label": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Communications",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5239391008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5239391008",
-    "published_at": "2026-06-23",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Communications Lead, Infrastructure and Engineering",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-23",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5239391008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "communications-specialist-product-anthropic-worldwide-greenhouse-anthropic-5239403008",
-    "slug": "communications-specialist-product-anthropic-worldwide-greenhouse-anthropic-5239403008",
-    "title": "Communications Specialist, Product",
-    "seo_title": "Remote Communications Specialist, Product Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Communications Specialist, Product job at anthropic in Worldwide. Explore RAG, AWS, Communications, San Francisco, CA and remote AI...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Communications",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5239403008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5239403008",
-    "published_at": "2026-06-23",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Communications Specialist, Product",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-23",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5239403008"
     },
     "ai_relevant": true
   },

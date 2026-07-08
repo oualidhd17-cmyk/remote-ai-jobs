@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
+    "jobs_count": 27
   },
   {
     "name": "LawnStarter",
@@ -58,6 +58,13 @@
   {
     "name": "sofatutor",
     "slug": "sofatutor",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Belle",
+    "slug": "belle",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -142,13 +149,6 @@
   {
     "name": "Bluecore Residential",
     "slug": "bluecore-residential",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Belle",
-    "slug": "belle",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
