@@ -35,6 +35,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Mindrift",
+    "slug": "mindrift",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Paired",
     "slug": "paired",
     "logo_url": null,
@@ -54,6 +61,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "RETR",
+    "slug": "retr",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Guild Garage Group",
+    "slug": "guild-garage-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Arabian Private Holdings",
+    "slug": "arabian-private-holdings",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Digitex Technologies",
@@ -140,13 +168,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Headspace",
-    "slug": "headspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Clerky, Inc.",
     "slug": "clerky-inc",
     "logo_url": null,
@@ -205,13 +226,6 @@
   {
     "name": "Qualifyze",
     "slug": "qualifyze",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -303,13 +317,6 @@
   {
     "name": "Atcom",
     "slug": "atcom",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mindrift",
-    "slug": "mindrift",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,6 +450,13 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Select Saunas",
+    "slug": "select-saunas",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

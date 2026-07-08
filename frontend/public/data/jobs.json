@@ -1,5 +1,117 @@
 [
   {
+    "id": "senior-software-engineer-retr-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-retr-senior-software-engineer",
+    "slug": "senior-software-engineer-retr-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-retr-senior-software-engineer",
+    "title": "Senior Software Engineer",
+    "seo_title": "Remote Senior Software Engineer Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer job at RETR in Worldwide. Explore SQL, RAG, Azure, Full-Stack Programming and remote AI jobs.",
+    "company": {
+      "name": "RETR",
+      "slug": "retr",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Azure",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote URL: https://retr.app/ Why this role matters right now As a product-led company, engineering is directly connected to company growth. We're looking for someone who takes ownership, moves with urgency, helps teammates succeed, and chooses...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/retr-senior-software-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/retr-senior-software-engineer",
+    "published_at": "2026-07-08",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Engineer",
+      "description": "Headquarters: Remote URL: https://retr.app/ Why this role matters right now As a product-led company, engineering is directly connected to company growth. We're looking for someone who takes ownership, moves with urgency, helps teammates succeed, and chooses...",
+      "datePosted": "2026-07-08",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RETR"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/retr-senior-software-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-software-engineer-ai-agent-evaluation-mindrift-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mindrift-senior-software-engineer-ai-agent-e",
+    "slug": "senior-software-engineer-ai-agent-evaluation-mindrift-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mindrift-senior-software-engineer-ai-agent-e",
+    "title": "Senior Software Engineer - AI Agent Evaluation",
+    "seo_title": "Remote Senior Software Engineer - AI Agent Evaluation Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer - AI Agent Evaluation job at Mindrift in Worldwide. Explore Python, Docker, Prompt Engineering, All Other...",
+    "company": {
+      "name": "Mindrift",
+      "slug": "mindrift",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Docker",
+      "Prompt Engineering",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Canada URL: https://mindrift.ai/ Please submit your CV in English and indicate your level of English proficiency. Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/mindrift-senior-software-engineer-ai-agent-evaluation",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/mindrift-senior-software-engineer-ai-agent-evaluation",
+    "published_at": "2026-07-08",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Engineer - AI Agent Evaluation",
+      "description": "Headquarters: Canada URL: https://mindrift.ai/ Please submit your CV in English and indicate your level of English proficiency. Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and...",
+      "datePosted": "2026-07-08",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Mindrift"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/mindrift-senior-software-engineer-ai-agent-evaluation",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
     "slug": "data-scientist-safeguards-anthropic-worldwide-greenhouse-anthropic-5209196008",
     "title": "Data Scientist, Safeguards",
@@ -52,6 +164,140 @@
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "regional-training-supervisor-guild-garage-group-usa-remoteok-1134586",
+    "slug": "regional-training-supervisor-guild-garage-group-usa-remoteok-1134586",
+    "title": "Regional Training Supervisor",
+    "seo_title": "Remote Regional Training Supervisor Job in USA | Robotics Jobs",
+    "seo_description": "Apply for a remote Regional Training Supervisor job at Guild Garage Group in USA. Explore RAG, exec, education, strategy and remote AI jobs.",
+    "company": {
+      "name": "Guild Garage Group",
+      "slug": "guild-garage-group",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Orlando, Orlando, Florida, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "exec",
+      "education",
+      "strategy",
+      "customer support",
+      "copywriting",
+      "marketing",
+      "travel",
+      "speech",
+      "video",
+      "mobile",
+      "content writing"
+    ],
+    "category": "Robotics",
+    "description_summary": "Position Title: Regional Training Supervisor Location: Remote Department: Training & Development Reports to: VP, Training & Development Location: 100% Remote with 25% Travel Pay: $70,000-80,000 annually About Guild Garage Group At Guild, training is not a...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-regional-training-supervisor-guild-garage-group-1134586",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134586",
+    "published_at": "2026-07-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Regional Training Supervisor",
+      "description": "Position Title: Regional Training Supervisor Location: Remote Department: Training & Development Reports to: VP, Training & Development Location: 100% Remote with 25% Travel Pay: $70,000-80,000 annually About Guild Garage Group At Guild, training is not a...",
+      "datePosted": "2026-07-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Guild Garage Group"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134586",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "associate-data-analyst-arabian-private-holdings-uk-remoteok-1134566",
+    "slug": "associate-data-analyst-arabian-private-holdings-uk-remoteok-1134566",
+    "title": "Associate Data Analyst",
+    "seo_title": "Remote Associate Data Analyst Job in UK | Data Science Jobs",
+    "seo_description": "Apply for a remote Associate Data Analyst job at Arabian Private Holdings in UK. Explore RAG, marketing, linguistics, education and remote AI jobs.",
+    "company": {
+      "name": "Arabian Private Holdings",
+      "slug": "arabian-private-holdings",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "Manchester, Manchester, England, United Kingdom",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "marketing",
+      "linguistics",
+      "education",
+      "content writing",
+      "non tech",
+      "video",
+      "illustrator",
+      "finance",
+      "c",
+      "designer",
+      "analyst"
+    ],
+    "category": "Data Science",
+    "description_summary": "About the role The Associate Data Analyst role exists to translate complex datasets into clear, defensible logic for our firm and its clients. You will provide the quantitative foundation for our advice, specifically supporting an ongoing mandate with a...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-associate-data-analyst-arabian-private-holdings-1134566",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134566",
+    "published_at": "2026-07-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Associate Data Analyst",
+      "description": "About the role The Associate Data Analyst role exists to translate complex datasets into clear, defensible logic for our firm and its clients. You will provide the quantitative foundation for our advice, specifically supporting an ongoing mandate with a...",
+      "datePosted": "2026-07-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Arabian Private Holdings"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134566",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
+      }
     },
     "ai_relevant": true
   },
@@ -1512,71 +1758,6 @@
     "ai_relevant": true
   },
   {
-    "id": "temp-hr-coordinator-people-operations-headspace-usa-remoteok-1134475",
-    "slug": "temp-hr-coordinator-people-operations-headspace-usa-remoteok-1134475",
-    "title": "Temp HR Coordinator People Operations",
-    "seo_title": "Remote Temp HR Coordinator People Operations Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Temp HR Coordinator People Operations job at Headspace in USA. Explore RAG, AWS, hr, education and remote AI jobs.",
-    "company": {
-      "name": "Headspace",
-      "slug": "headspace",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Austin, Austin, Texas, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "hr",
-      "education",
-      "coordinator",
-      "customer support",
-      "exec",
-      "content writing",
-      "ops",
-      "medical"
-    ],
-    "category": "Robotics",
-    "description_summary": "About the Temp HR Coordinator, People Operations Â at Headspace: The Temp HR Coordinator is a foundational member of the People Operations team, providing tactical and operational support across the employee lifecycle. This role works closely with and...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-temp-hr-coordinator-people-operations-headspace-1134475",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134475",
-    "published_at": "2026-07-02",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Temp HR Coordinator People Operations",
-      "description": "About the Temp HR Coordinator, People Operations Â at Headspace: The Temp HR Coordinator is a foundational member of the People Operations team, providing tactical and operational support across the employee lifecycle. This role works closely with and...",
-      "datePosted": "2026-07-02",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Headspace"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134475",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-ai-engineer-lemon-io-usa-remotive-2090986",
     "slug": "senior-ai-engineer-lemon-io-usa-remotive-2090986",
     "title": "Senior AI Engineer",
@@ -2419,61 +2600,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "title": "Commercial Counsel, EMEA",
@@ -2525,6 +2651,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -2602,64 +2783,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "ai-engineers-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-ai-engineers",
-    "slug": "ai-engineers-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-ai-engineers",
-    "title": "AI Engineers",
-    "seo_title": "Remote AI Engineers Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AI Engineers job at Toptal in Worldwide. Explore Python, LLM, LangChain, RAG and remote AI jobs.",
-    "company": {
-      "name": "Toptal",
-      "slug": "toptal",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "LLM",
-      "LangChain",
-      "RAG",
-      "Prompt Engineering",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote URL: https://www.toptal.com/ Summary: We are looking for an AI Engineer to help design, build, and improve AI-powered applications and agentic systems. This role is broad and best suited for engineers who have hands-on experience working...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineers",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineers",
-    "published_at": "2026-06-29",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Engineers",
-      "description": "Headquarters: Remote URL: https://www.toptal.com/ Summary: We are looking for an AI Engineer to help design, build, and improve AI-powered applications and agentic systems. This role is broad and best suited for engineers who have hands-on experience working...",
-      "datePosted": "2026-06-29",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Toptal"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/toptal-ai-engineers",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6139,6 +6262,60 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "customer-support-specialist-select-saunas-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-select-saunas-customer-support-specialist",
+    "slug": "customer-support-specialist-select-saunas-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-select-saunas-customer-support-specialist",
+    "title": "Customer Support Specialist",
+    "seo_title": "Remote Customer Support Specialist Job | NLP Jobs",
+    "seo_description": "Apply for a remote Customer Support Specialist job at Select Saunas in Worldwide. Explore LLM, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "Select Saunas",
+      "slug": "select-saunas",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "NLP",
+    "description_summary": "Headquarters: Casper, WY URL: https://selectsaunas.com Fully Remote Customer Support, Order Management for Online Sauna Retailer Company: Select Saunas (selectsaunas.com) Location: Fully remote Type: Full-time About the role Do you want to help people become...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
+    "published_at": "2026-06-08",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Support Specialist",
+      "description": "Headquarters: Casper, WY URL: https://selectsaunas.com Fully Remote Customer Support, Order Management for Online Sauna Retailer Company: Select Saunas (selectsaunas.com) Location: Fully remote Type: Full-time About the role Do you want to help people become...",
+      "datePosted": "2026-06-08",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Select Saunas"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
