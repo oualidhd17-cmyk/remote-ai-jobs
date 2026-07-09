@@ -1739,213 +1739,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-quality-engineer-tellent-worldwide-remoteok-1134436",
-    "slug": "senior-quality-engineer-tellent-worldwide-remoteok-1134436",
-    "title": "Senior Quality Engineer",
-    "seo_title": "Remote Senior Quality Engineer Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Quality Engineer job at Tellent in Worldwide. Explore RAG, design, graphql, hr and remote AI jobs.",
-    "company": {
-      "name": "Tellent",
-      "slug": "tellent",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 200000,
-    "salary_max": 225000,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "design",
-      "graphql",
-      "hr",
-      "sys admin",
-      "technical",
-      "customer support",
-      "dev",
-      "testing",
-      "web dev",
-      "quality assurance",
-      "api"
-    ],
-    "category": "Robotics",
-    "description_summary": "About the Role As a Senior Quality Engineer you'll own and grow the quality of Tellent HR alongside our existing QE team. You'll drive our test automation strategy, expand end-to-end coverage in Playwright, and raise the bar for backend testing. This is a...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134436",
-    "published_at": "2026-07-03",
-    "expires_at": null,
-    "quality_score": 100,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Quality Engineer",
-      "description": "About the Role As a Senior Quality Engineer you'll own and grow the quality of Tellent HR alongside our existing QE team. You'll drive our test automation strategy, expand end-to-end coverage in Playwright, and raise the bar for backend testing. This is a...",
-      "datePosted": "2026-07-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Tellent"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134436",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 200000,
-          "maxValue": 225000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "manager-hr-business-partner-linkedin-usa-remoteok-1134451",
-    "slug": "manager-hr-business-partner-linkedin-usa-remoteok-1134451",
-    "title": "Manager HR Business Partner",
-    "seo_title": "Remote Manager HR Business Partner Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Manager HR Business Partner job at LinkedIn in USA. Explore RAG, design, consulting, exec and remote AI jobs.",
-    "company": {
-      "name": "LinkedIn",
-      "slug": "linkedin",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Mountain View, Mountain View, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "design",
-      "consulting",
-      "exec",
-      "customer support",
-      "testing",
-      "marketing",
-      "web dev",
-      "video",
-      "education",
-      "seo",
-      "content writing"
-    ],
-    "category": "Robotics",
-    "description_summary": "LinkedIn is the world's largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-manager-hr-business-partner-linkedin-1134451",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134451",
-    "published_at": "2026-07-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Manager HR Business Partner",
-      "description": "LinkedIn is the world's largest professional network, built to create economic opportunity for every member of the global workforce. Our products help people make powerful connections, discover exciting opportunities, build necessary skills, and gain valuable...",
-      "datePosted": "2026-07-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LinkedIn"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134451",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "business-operations-analyst-textus-usa-remoteok-1134500",
-    "slug": "business-operations-analyst-textus-usa-remoteok-1134500",
-    "title": "Business Operations Analyst",
-    "seo_title": "Remote Business Operations Analyst Job in USA | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Business Operations Analyst job at TextUs in USA. Explore RAG, design, hr, sys admin and remote AI jobs.",
-    "company": {
-      "name": "TextUs",
-      "slug": "textus",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Denver, Denver, Colorado, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "design",
-      "hr",
-      "sys admin",
-      "customer support",
-      "dev",
-      "payroll",
-      "education",
-      "exec",
-      "ops",
-      "medical",
-      "recruiter"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "WHY TEXTUS TextUs on a mission to revolutionize business communication by enabling seamless and impactful engagement between workers and consumers. With a focus on innovation, ease of use, and delivering measurable results, our strategy is rooted in creating...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-business-operations-analyst-textus-1134500",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134500",
-    "published_at": "2026-07-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Business Operations Analyst",
-      "description": "WHY TEXTUS TextUs on a mission to revolutionize business communication by enabling seamless and impactful engagement between workers and consumers. With a focus on innovation, ease of use, and delivering measurable results, our strategy is rooted in creating...",
-      "datePosted": "2026-07-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "TextUs"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134500",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-ai-engineer-lemon-io-usa-remotive-2090986",
     "slug": "senior-ai-engineer-lemon-io-usa-remotive-2090986",
     "title": "Senior AI Engineer",
@@ -2460,60 +2253,6 @@
     "ai_relevant": true
   },
   {
-    "id": "federal-bim-design-associate-olsson-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-olsson-federal-bim-design-associate",
-    "slug": "federal-bim-design-associate-olsson-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-olsson-federal-bim-design-associate",
-    "title": "Federal BIM Design Associate",
-    "seo_title": "Remote Federal BIM Design Associate Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Federal BIM Design Associate job at Olsson in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Olsson",
-      "slug": "olsson",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "entry",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Oklahoma - Remote Company Description We are Olsson. We engineer and design solutions that improve the world around us. As a company, we promise to always be responsive, transparent, and focused on results – for our people, our clients, and our...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/olsson-federal-bim-design-associate",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/olsson-federal-bim-design-associate",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Federal BIM Design Associate",
-      "description": "Headquarters: Oklahoma - Remote Company Description We are Olsson. We engineer and design solutions that improve the world around us. As a company, we promise to always be responsive, transparent, and focused on results – for our people, our clients, and our...",
-      "datePosted": "2026-06-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Olsson"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/olsson-federal-bim-design-associate",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "product-manager-climate-services-accuweather-careers-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-accuweather-careers-product-manager-climate-s",
     "slug": "product-manager-climate-services-accuweather-careers-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-accuweather-careers-product-manager-climate-s",
     "title": "Product Manager, Climate Services",
@@ -2563,6 +2302,60 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/accuweather-careers-product-manager-climate-services",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "amazon-product-researcher-for-us-based-company-remote-paired-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-paired-amazon-product-researcher-for",
+    "slug": "amazon-product-researcher-for-us-based-company-remote-paired-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-paired-amazon-product-researcher-for",
+    "title": "Amazon Product Researcher for US-Based company ( Remote )",
+    "seo_title": "Remote Amazon Product Researcher for US-Based company ( Remote ) Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Amazon Product Researcher for US-Based company ( Remote ) job at Paired in Worldwide. Explore RAG, All Other Remote, Remote and remote...",
+    "company": {
+      "name": "Paired",
+      "slug": "paired",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Brazil Paired is a leading staffing and recruiting agency that connects talented individuals with fantastic remote job opportunities. Our mission is to match qualified professionals with dynamic companies, allowing for a productive and...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/paired-amazon-product-researcher-for-us-based-company-remote",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/paired-amazon-product-researcher-for-us-based-company-remote",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Amazon Product Researcher for US-Based company ( Remote )",
+      "description": "Headquarters: Brazil Paired is a leading staffing and recruiting agency that connects talented individuals with fantastic remote job opportunities. Our mission is to match qualified professionals with dynamic companies, allowing for a productive and...",
+      "datePosted": "2026-06-30",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Paired"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/paired-amazon-product-researcher-for-us-based-company-remote",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6176,64 +5969,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
-    "slug": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
-    "title": "Inside Sales Contractor",
-    "seo_title": "Remote Inside Sales Contractor Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Inside Sales Contractor job at Credit Wellness, LLC in Worldwide. Explore RAG, CRM, google sheets, financial services and remote AI...",
-    "company": {
-      "name": "Credit Wellness, LLC",
-      "slug": "credit-wellness-llc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Worldwide",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "CRM",
-      "google sheets",
-      "financial services",
-      "Inside Sales",
-      "Sales",
-      "full_time"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive...",
-    "apply_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-    "published_at": "2026-06-08",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Inside Sales Contractor",
-      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive...",
-      "datePosted": "2026-06-08",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Credit Wellness, LLC"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },

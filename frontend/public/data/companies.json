@@ -42,6 +42,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Paired",
+    "slug": "paired",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Recruitlytics Hiring",
     "slug": "recruitlytics-hiring",
     "logo_url": null,
@@ -147,34 +154,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Paired",
-    "slug": "paired",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tellent",
-    "slug": "tellent",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LinkedIn",
-    "slug": "linkedin",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "TextUs",
-    "slug": "textus",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Clerky, Inc.",
     "slug": "clerky-inc",
     "logo_url": null,
@@ -205,13 +184,6 @@
   {
     "name": "Rutherford MP",
     "slug": "rutherford-mp",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Olsson",
-    "slug": "olsson",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,13 +415,6 @@
   {
     "name": "nooro",
     "slug": "nooro",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Credit Wellness, LLC",
-    "slug": "credit-wellness-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
