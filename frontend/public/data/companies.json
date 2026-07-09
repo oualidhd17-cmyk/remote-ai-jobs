@@ -7,6 +7,13 @@
     "jobs_count": 26
   },
   {
+    "name": "Vidalytics",
+    "slug": "vidalytics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 7
+  },
+  {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
@@ -19,20 +26,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 4
-  },
-  {
-    "name": "Vidalytics",
-    "slug": "vidalytics",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
-    "name": "Impact Clients",
-    "slug": "impact-clients",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
   },
   {
     "name": "Mindrift",
@@ -49,8 +42,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Recruitlytics Hiring",
-    "slug": "recruitlytics-hiring",
+    "name": "Impact Clients",
+    "slug": "impact-clients",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -61,6 +54,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "UBT",
+    "slug": "ubt",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Woodard & Curran",
@@ -170,13 +170,6 @@
   {
     "name": "hey contact heroes GmbH",
     "slug": "hey-contact-heroes-gmbh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "7 Figure Leap",
-    "slug": "7-figure-leap",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
