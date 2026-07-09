@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 27
+    "jobs_count": 26
   },
   {
     "name": "LawnStarter",
@@ -42,13 +42,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Paired",
-    "slug": "paired",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Recruitlytics Hiring",
     "slug": "recruitlytics-hiring",
     "logo_url": null,
@@ -63,8 +56,22 @@
     "jobs_count": 2
   },
   {
+    "name": "Woodard & Curran",
+    "slug": "woodard-curran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "RETR",
     "slug": "retr",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Crypto.com",
+    "slug": "crypto-com",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -140,6 +147,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Paired",
+    "slug": "paired",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Tellent",
     "slug": "tellent",
     "logo_url": null,
@@ -156,20 +170,6 @@
   {
     "name": "TextUs",
     "slug": "textus",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pharmanovia",
-    "slug": "pharmanovia",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Community HealthCare Association of the Dakotas",
-    "slug": "community-healthcare-association-of-the-dakotas",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -296,13 +296,6 @@
   {
     "name": "Agilent Technologies",
     "slug": "agilent-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "MapTiler",
-    "slug": "maptiler",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
