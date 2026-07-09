@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 26
+    "jobs_count": 25
   },
   {
     "name": "Vidalytics",
@@ -30,13 +30,6 @@
   {
     "name": "Mindrift",
     "slug": "mindrift",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Paired",
-    "slug": "paired",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,20 +133,6 @@
     "jobs_count": 1
   },
   {
-    "name": "DIVA",
-    "slug": "diva",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CoberonChronos",
-    "slug": "coberonchronos",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Clerky, Inc.",
     "slug": "clerky-inc",
     "logo_url": null,
@@ -184,6 +163,13 @@
   {
     "name": "Accuweather Careers",
     "slug": "accuweather-careers",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Paired",
+    "slug": "paired",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
