@@ -1,5 +1,62 @@
 [
   {
+    "id": "data-scientist-supply-anthropic-worldwide-greenhouse-anthropic-5212119008",
+    "slug": "data-scientist-supply-anthropic-worldwide-greenhouse-anthropic-5212119008",
+    "title": "Data Scientist, Supply",
+    "seo_title": "Remote Data Scientist, Supply Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Supply job at anthropic in Worldwide. Explore Python, SQL, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Data Science & Analytics",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
+    "published_at": "2026-07-10",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Supply",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-10",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "ai-native-creative-strategist-full-funnels-ownership-from-ads-to-ltv-vidalytics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vidalytics-ai-nati",
     "slug": "ai-native-creative-strategist-full-funnels-ownership-from-ads-to-ltv-vidalytics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vidalytics-ai-nati",
     "title": "AI Native Creative Strategist (Full Funnels Ownership from Ads to LTV)",
@@ -2303,61 +2360,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "title": "Commercial Counsel, EMEA",
@@ -2413,42 +2415,40 @@
     "ai_relevant": true
   },
   {
-    "id": "data-scientist-supply-anthropic-worldwide-greenhouse-anthropic-5212119008",
-    "slug": "data-scientist-supply-anthropic-worldwide-greenhouse-anthropic-5212119008",
-    "title": "Data Scientist, Supply",
-    "seo_title": "Remote Data Scientist, Supply Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Scientist, Supply job at anthropic in Worldwide. Explore Python, SQL, LLM, RAG and remote AI jobs.",
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Worldwide",
+    "country": "Ireland",
     "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
     "remote_type": "hybrid",
-    "employment_type": "internship",
+    "employment_type": "contract",
     "experience_level": "intern",
     "visa_sponsorship": true,
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "skills": [
-      "Python",
-      "SQL",
-      "LLM",
+      "Machine Learning",
       "RAG",
       "AWS",
-      "Data Science & Analytics",
-      "San Francisco, CA"
+      "Legal",
+      "Dublin, IE"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
     "published_at": "2026-06-30",
     "expires_at": null,
     "quality_score": 75,
@@ -2456,16 +2456,16 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Data Scientist, Supply",
+      "title": "Commercial Counsel, EMEA",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-06-30",
-      "employmentType": "INTERN",
+      "employmentType": "CONTRACTOR",
       "hiringOrganization": {
         "@type": "Organization",
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
