@@ -1,5 +1,59 @@
 [
   {
+    "id": "technical-customer-support-specialist-qase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-qase-technical-customer-support-specialist",
+    "slug": "technical-customer-support-specialist-qase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-qase-technical-customer-support-specialist",
+    "title": "Technical Customer Support Specialist",
+    "seo_title": "Remote Technical Customer Support Specialist Job | Prompt Engineering Jobs",
+    "seo_description": "Apply for a remote Technical Customer Support Specialist job at Qase in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "Qase",
+      "slug": "qase",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "Prompt Engineering",
+    "description_summary": "Headquarters: Delaware, USA URL: https://qase.io/ Hey there! Qase is a modern, all-in-one test-management platform used by QA engineers to ship better software, faster. Customers love us for two things: our clean product and a support experience that...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/qase-technical-customer-support-specialist",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/qase-technical-customer-support-specialist",
+    "published_at": "2026-07-10",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Technical Customer Support Specialist",
+      "description": "Headquarters: Delaware, USA URL: https://qase.io/ Hey there! Qase is a modern, all-in-one test-management platform used by QA engineers to ship better software, faster. Customers love us for two things: our clean product and a support experience that...",
+      "datePosted": "2026-07-10",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Qase"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/qase-technical-customer-support-specialist",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "data-scientist-supply-anthropic-worldwide-greenhouse-anthropic-5212119008",
     "slug": "data-scientist-supply-anthropic-worldwide-greenhouse-anthropic-5212119008",
     "title": "Data Scientist, Supply",
@@ -53,6 +107,141 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5212119008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "product-sales-specialist-pet-health-tribe-wellness-usa-remotive-2091048",
+    "slug": "product-sales-specialist-pet-health-tribe-wellness-usa-remotive-2091048",
+    "title": "Product Sales Specialist - Pet Health",
+    "seo_title": "Remote Product Sales Specialist - Pet Health Job in USA | Robotics Jobs",
+    "seo_description": "Apply for a remote Product Sales Specialist - Pet Health job at Tribe Wellness in USA. Explore RAG, Spark, excel, salesforce and remote AI jobs.",
+    "company": {
+      "name": "Tribe Wellness",
+      "slug": "tribe-wellness",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "USA, CST (UTC-6)",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 100000,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "Spark",
+      "excel",
+      "salesforce",
+      "video",
+      "Sales",
+      "full_time"
+    ],
+    "category": "Robotics",
+    "description_summary": "Must Love Dogs!! At Tribe Wellness, we're more than just a tribe – we're a movement. Rooted in courage, empowerment, and integrity, we've pioneered solutions that transform the world's wellness brands into revenue-generating machines. We bridge the gap...",
+    "apply_url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-2091048",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-2091048",
+    "published_at": "2026-07-09",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Product Sales Specialist - Pet Health",
+      "description": "Must Love Dogs!! At Tribe Wellness, we're more than just a tribe – we're a movement. Rooted in courage, empowerment, and integrity, we've pioneered solutions that transform the world's wellness brands into revenue-generating machines. We bridge the gap...",
+      "datePosted": "2026-07-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Tribe Wellness"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/sales/product-sales-specialist-pet-health-2091048",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 100000,
+          "maxValue": null,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "non-usa-new-relic-worldwide-remoteok-1134671",
+    "slug": "non-usa-new-relic-worldwide-remoteok-1134671",
+    "title": "Non USA",
+    "seo_title": "Remote Non USA Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Non USA job at New Relic in Worldwide. Explore RAG, infosec, dev, photoshop and remote AI jobs.",
+    "company": {
+      "name": "New Relic",
+      "slug": "new-relic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Hyderabad,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "infosec",
+      "dev",
+      "photoshop",
+      "digital nomad",
+      "education",
+      "customer support",
+      "marketing",
+      "exec",
+      "finance",
+      "ops",
+      "medical"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "We are a global team of innovators and pioneers dedicated to shaping the future of observability. At New Relic, we build an intelligent platform that empowers companies to thrive in an AI-first world by giving them unparalleled insight into their complex...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-non-usa-new-relic-1134671",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134671",
+    "published_at": "2026-07-09",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Non USA",
+      "description": "We are a global team of innovators and pioneers dedicated to shaping the future of observability. At New Relic, we build an intelligent platform that empowers companies to thrive in an AI-first world by giving them unparalleled insight into their complex...",
+      "datePosted": "2026-07-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "New Relic"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134671",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -456,6 +645,64 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1134569",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
+    "slug": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
+    "title": "Inside Sales Contractor",
+    "seo_title": "Remote Inside Sales Contractor Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Inside Sales Contractor job at Credit Wellness, LLC in Worldwide. Explore RAG, CRM, google sheets, financial services and remote AI...",
+    "company": {
+      "name": "Credit Wellness, LLC",
+      "slug": "credit-wellness-llc",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Worldwide",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "CRM",
+      "google sheets",
+      "financial services",
+      "Inside Sales",
+      "Sales",
+      "full_time"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive...",
+    "apply_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
+    "published_at": "2026-07-08",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Inside Sales Contractor",
+      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive...",
+      "datePosted": "2026-07-08",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Credit Wellness, LLC"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -1399,72 +1646,6 @@
     "ai_relevant": true
   },
   {
-    "id": "operations-supervisor-healthcare-south-georgia-belle-usa-remoteok-1134553",
-    "slug": "operations-supervisor-healthcare-south-georgia-belle-usa-remoteok-1134553",
-    "title": "Operations Supervisor Healthcare South Georgia",
-    "seo_title": "Remote Operations Supervisor Healthcare South Georgia Job in USA | Data Science Jobs",
-    "seo_description": "Apply for a remote Operations Supervisor Healthcare South Georgia job at Belle in USA. Explore LLM, hr, education, supervisor and remote AI jobs.",
-    "company": {
-      "name": "Belle",
-      "slug": "belle",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Fairburn, Fairburn, Georgia, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "hr",
-      "education",
-      "supervisor",
-      "customer support",
-      "marketing",
-      "travel",
-      "exec",
-      "ops",
-      "medical",
-      "recruiter"
-    ],
-    "category": "Data Science",
-    "description_summary": "Belle is a fast-growing healthcare company revolutionizing in-home care â starting from the feet up. More than 25 million U.S. seniors can no longer safely care for their feet, contributing to over $38 billion in avoidable medical costs each year. Belle...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-operations-supervisor-healthcare-south-georgia-belle-1134553",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134553",
-    "published_at": "2026-07-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Operations Supervisor Healthcare South Georgia",
-      "description": "Belle is a fast-growing healthcare company revolutionizing in-home care â starting from the feet up. More than 25 million U.S. seniors can no longer safely care for their feet, contributing to over $38 billion in avoidable medical costs each year. Belle...",
-      "datePosted": "2026-07-06",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Belle"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134553",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "saas-product-support-jedi-remote-emea-creative-force-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-creative-force-saas-product-support-jedi-remo",
     "slug": "saas-product-support-jedi-remote-emea-creative-force-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-creative-force-saas-product-support-jedi-remo",
     "title": "SaaS Product Support Jedi – Remote, EMEA",
@@ -2360,61 +2541,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
     "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
     "title": "Commercial Counsel, EMEA",
@@ -2466,6 +2592,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
     },
     "ai_relevant": true
   },
@@ -4153,65 +4334,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -4266,6 +4388,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -5337,83 +5518,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/abstract-full-stack-web-developer-remote-contractor",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "ios-developer-nooro-usa-remotive-1956455",
-    "slug": "ios-developer-nooro-usa-remotive-1956455",
-    "title": "iOS Developer",
-    "seo_title": "Remote iOS Developer Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote iOS Developer job at nooro in USA. Explore RAG, api, backend, git and remote AI jobs.",
-    "company": {
-      "name": "nooro",
-      "slug": "nooro",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "USA",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": 130000,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "api",
-      "backend",
-      "git",
-      "ios",
-      "security",
-      "swift",
-      "UI/UX",
-      "Figma",
-      "agile",
-      "healthcare",
-      "startup"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "WHO ARE WE? At nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home. We're on a mission to make wellness more accessible and effective through technology. Check our website...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
-    "published_at": "2026-06-09",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "iOS Developer",
-      "description": "WHO ARE WE? At nooro, we're revolutionizing pain management for seniors. Our platform is transforming how older adults engage with pain management at home. We're on a mission to make wellness more accessible and effective through technology. Check our website...",
-      "datePosted": "2026-06-09",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "nooro"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/ios-developer-1956455",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      },
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 130000,
-          "maxValue": null,
-          "unitText": "YEAR"
-        }
-      }
     },
     "ai_relevant": true
   },
