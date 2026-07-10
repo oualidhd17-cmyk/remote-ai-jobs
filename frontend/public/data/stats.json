@@ -3,8 +3,8 @@
   "processed_count": 270,
   "published_count": 96,
   "ai_relevant_count": 168,
-  "remote_count": 81,
-  "visa_count": 25,
+  "remote_count": 79,
+  "visa_count": 27,
   "salary_count": 6,
   "status_counts": {
     "pending": 59,
@@ -20,9 +20,9 @@
   },
   "category_counts": {
     "Prompt Engineering": 2,
-    "AI Engineering": 40,
+    "AI Engineering": 41,
     "Robotics": 16,
-    "NLP": 9,
+    "NLP": 8,
     "Data Science": 14,
     "Data Analytics": 3,
     "MLOps": 8,
@@ -34,7 +34,7 @@
     "UK": 4,
     "Ireland": 1,
     "Germany": 1,
-    "Australia": 1,
-    "Singapore": 1
+    "Singapore": 1,
+    "Australia": 1
   }
 }
