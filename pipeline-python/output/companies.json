@@ -7,18 +7,18 @@
     "jobs_count": 22
   },
   {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 17
+  },
+  {
     "name": "Vidalytics",
     "slug": "vidalytics",
     "logo_url": null,
     "website": null,
     "jobs_count": 7
-  },
-  {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 6
   },
   {
     "name": "Lemon.io",
@@ -86,13 +86,6 @@
   {
     "name": "UBT",
     "slug": "ubt",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Woodard & Curran",
-    "slug": "woodard-curran",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -359,6 +352,13 @@
   {
     "name": "Abstract",
     "slug": "abstract",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Select Saunas",
+    "slug": "select-saunas",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
