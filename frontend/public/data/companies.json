@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 24
+    "jobs_count": 22
   },
   {
     "name": "Vidalytics",
@@ -28,6 +28,13 @@
     "jobs_count": 4
   },
   {
+    "name": "Qase",
+    "slug": "qase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Mindrift",
     "slug": "mindrift",
     "logo_url": null,
@@ -49,8 +56,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Qase",
-    "slug": "qase",
+    "name": "Magic Memories",
+    "slug": "magic-memories",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -119,15 +126,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Arabian Private Holdings",
-    "slug": "arabian-private-holdings",
+    "name": "PointClickCare",
+    "slug": "pointclickcare",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Digitex Technologies",
-    "slug": "digitex-technologies",
+    "name": "Arabian Private Holdings",
+    "slug": "arabian-private-holdings",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -156,13 +163,6 @@
   {
     "name": "hey contact heroes GmbH",
     "slug": "hey-contact-heroes-gmbh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Rutherford MP",
-    "slug": "rutherford-mp",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -1,5 +1,181 @@
 [
   {
+    "id": "country-lead-data-center-security-anthropic-australia-greenhouse-anthropic-5311686008",
+    "slug": "country-lead-data-center-security-anthropic-australia-greenhouse-anthropic-5311686008",
+    "title": "Country Lead, Data Center Security",
+    "seo_title": "Remote Country Lead, Data Center Security Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Country Lead, Data Center Security job at anthropic in Australia. Explore RAG, AWS, Security, Sydney, Australia and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5311686008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5311686008",
+    "published_at": "2026-07-10",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Country Lead, Data Center Security",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-10",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5311686008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "support-technician-level-1-2-magic-memories-worldwide-remoteok-1134650",
+    "slug": "support-technician-level-1-2-magic-memories-worldwide-remoteok-1134650",
+    "title": "Support Technician Level 1 2",
+    "seo_title": "Remote Support Technician Level 1 2 Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Support Technician Level 1 2 job at Magic Memories in Worldwide. Explore RAG, design, hr, sys admin and remote AI jobs.",
+    "company": {
+      "name": "Magic Memories",
+      "slug": "magic-memories",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Orlando,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "design",
+      "hr",
+      "sys admin",
+      "infosec",
+      "teaching",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "marketing",
+      "travel"
+    ],
+    "category": "Robotics",
+    "description_summary": "Job Details Description WE MAKE PEOPLE SMILE Magic Memories is a company that delights and amazes guests on the simple but universal concept of making people smile, and has driven that concept into its product, service, and innovation philosophy. Magic...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-support-technician-level-1-2-magic-memories-1134650",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134650",
+    "published_at": "2026-07-10",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Support Technician Level 1 2",
+      "description": "Job Details Description WE MAKE PEOPLE SMILE Magic Memories is a company that delights and amazes guests on the simple but universal concept of making people smile, and has driven that concept into its product, service, and innovation philosophy. Magic...",
+      "datePosted": "2026-07-10",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Magic Memories"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134650",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "developer-advocate-qase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-qase-developer-advocate",
+    "slug": "developer-advocate-qase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-qase-developer-advocate",
+    "title": "Developer Advocate",
+    "seo_title": "Remote Developer Advocate Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Developer Advocate job at Qase in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Qase",
+      "slug": "qase",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Delaware, USA URL: https://qase.io/ About the role Developers are shipping AI-generated code faster than anyone can review it. Quality is the new bottleneck and AI-generated-code governance is increasingly necessary. Qase is how engineering...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/qase-developer-advocate",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/qase-developer-advocate",
+    "published_at": "2026-07-10",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Developer Advocate",
+      "description": "Headquarters: Delaware, USA URL: https://qase.io/ About the role Developers are shipping AI-generated code faster than anyone can review it. Quality is the new bottleneck and AI-generated-code governance is increasingly necessary. Qase is how engineering...",
+      "datePosted": "2026-07-10",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Qase"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/qase-developer-advocate",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "technical-customer-support-specialist-qase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-qase-technical-customer-support-specialist",
     "slug": "technical-customer-support-specialist-qase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-qase-technical-customer-support-specialist",
     "title": "Technical Customer Support Specialist",
@@ -1304,6 +1480,73 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-vice-president-general-manager-senior-living-pointclickcare-canada-remoteok-1134686",
+    "slug": "senior-vice-president-general-manager-senior-living-pointclickcare-canada-remoteok-1134686",
+    "title": "Senior Vice President & General Manager Senior Living",
+    "seo_title": "Remote Senior Vice President & General Manager Senior Living Job in Canada | MLOps Jobs",
+    "seo_description": "Apply for a remote Senior Vice President & General Manager Senior Living job at PointClickCare in Canada. Explore RAG, customer support, exec, saas and...",
+    "company": {
+      "name": "PointClickCare",
+      "slug": "pointclickcare",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "Mississauga, Mississauga, Ontario, Canada",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "customer support",
+      "exec",
+      "saas",
+      "dev",
+      "content writing",
+      "marketing",
+      "excel",
+      "legal",
+      "medical",
+      "ecommerce",
+      "shopify"
+    ],
+    "category": "MLOps",
+    "description_summary": "Job Title: Senior Vice President & General Manager, Senior Living Location: Mississauga-Hybrid / Canada-Remote Travel to Office expectations** For Remote Roles : If this role is remote, there will be in-office events that will require travel to and from the...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-vice-president-amp-general-manager-senior-living-pointclickcare-1134686",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134686",
+    "published_at": "2026-07-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Vice President & General Manager Senior Living",
+      "description": "Job Title: Senior Vice President & General Manager, Senior Living Location: Mississauga-Hybrid / Canada-Remote Travel to Office expectations** For Remote Roles : If this role is remote, there will be in-office events that will require travel to and from the...",
+      "datePosted": "2026-07-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "PointClickCare"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134686",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "associate-data-analyst-arabian-private-holdings-uk-remoteok-1134566",
     "slug": "associate-data-analyst-arabian-private-holdings-uk-remoteok-1134566",
     "title": "Associate Data Analyst",
@@ -1367,63 +1610,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "online-bidder-digitex-technologies-worldwide-remoteok-1134567",
-    "slug": "online-bidder-digitex-technologies-worldwide-remoteok-1134567",
-    "title": "Online Bidder",
-    "seo_title": "Remote Online Bidder Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Online Bidder job at Digitex Technologies in Worldwide. Explore RAG, hr, web dev, mobile and remote AI jobs.",
-    "company": {
-      "name": "Digitex Technologies",
-      "slug": "digitex-technologies",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Greater Kolkata Area,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "hr",
-      "web dev",
-      "mobile",
-      "marketing",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "We are hiring for UPWORK BIDDERS who can work from home-Full time with the following qualifications- Job Description - 1.5 - 2 yrs Key Responsibilities : Manage and optimize our official Upwork profile for maximum visibility and credibility. Identify and bid...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-online-bidder-digitex-technologies-1134567",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134567",
-    "published_at": "2026-07-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Online Bidder",
-      "description": "We are hiring for UPWORK BIDDERS who can work from home-Full time with the following qualifications- Job Description - 1.5 - 2 yrs Key Responsibilities : Manage and optimize our official Upwork profile for maximum visibility and credibility. Identify and bid...",
-      "datePosted": "2026-07-07",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Digitex Technologies"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134567",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -2330,59 +2516,6 @@
     "ai_relevant": true
   },
   {
-    "id": "campaign-coordinator-rutherford-mp-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-rutherford-mp-campaign-coordinator",
-    "slug": "campaign-coordinator-rutherford-mp-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-rutherford-mp-campaign-coordinator",
-    "title": "Campaign Coordinator",
-    "seo_title": "Remote Campaign Coordinator Job | Prompt Engineering Jobs",
-    "seo_description": "Apply for a remote Campaign Coordinator job at Rutherford MP in Worldwide. Explore All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Rutherford MP",
-      "slug": "rutherford-mp",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Prompt Engineering",
-    "description_summary": "Headquarters: Las Vegas URL: http://rutherfordmp.com Campaign Coordinator The role in one line You're the execution engine behind every campaign. Creators hear from you. Brands hear from you. Campaigns ship on time because you make them ship. What you'll own...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/rutherford-mp-campaign-coordinator",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/rutherford-mp-campaign-coordinator",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Campaign Coordinator",
-      "description": "Headquarters: Las Vegas URL: http://rutherfordmp.com Campaign Coordinator The role in one line You're the execution engine behind every campaign. Creators hear from you. Brands hear from you. Campaigns ship on time because you make them ship. What you'll own...",
-      "datePosted": "2026-06-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Rutherford MP"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/rutherford-mp-campaign-coordinator",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "product-manager-climate-services-accuweather-careers-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-accuweather-careers-product-manager-climate-s",
     "slug": "product-manager-climate-services-accuweather-careers-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-accuweather-careers-product-manager-climate-s",
     "title": "Product Manager, Climate Services",
@@ -2884,7 +3017,7 @@
     "source_url": "https://remotive.com/remote-jobs/sales/sales-assistant-2091038",
     "published_at": "2026-06-26",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -2942,7 +3075,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/hybrid85-operations-manager",
     "published_at": "2026-06-26",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -2958,116 +3091,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/hybrid85-operations-manager",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-applied-ai-digital-natives-business-anthropic-germany-greenhouse-anthropic-5226862008",
-    "slug": "applied-ai-architect-applied-ai-digital-natives-business-anthropic-germany-greenhouse-anthropic-5226862008",
-    "title": "Applied AI Architect, Applied AI (Digital Natives Business)",
-    "seo_title": "Remote Applied AI Architect, Applied AI (Digital Natives Business) Job in Germany | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Applied AI (Digital Natives Business) job at anthropic in Germany. Explore Python, Machine Learning, LLM, RAG and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Germany",
-    "city": null,
-    "location": "Munich, Germany",
-    "location_label": "Munich, Germany",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Munich, Germany"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008",
-    "published_at": "2026-06-26",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Applied AI (Digital Natives Business)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-26",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "community-executive-escalations-program-manager-anthropic-worldwide-greenhouse-anthropic-5207565008",
-    "slug": "community-executive-escalations-program-manager-anthropic-worldwide-greenhouse-anthropic-5207565008",
-    "title": "Community & Executive Escalations Program Manager",
-    "seo_title": "Remote Community & Executive Escalations Program Manager Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Community & Executive Escalations Program Manager job at anthropic in Worldwide. Explore RAG, AWS, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5207565008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5207565008",
-    "published_at": "2026-06-26",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Community & Executive Escalations Program Manager",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-26",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5207565008"
     },
     "ai_relevant": true
   },
@@ -5580,69 +5603,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/abstract-full-stack-web-developer-remote-contractor",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-fellows-program-the-anthropic-institute-economics-policy-anthropic-usa-greenhouse-anthropic-5183053008",
-    "slug": "anthropic-fellows-program-the-anthropic-institute-economics-policy-anthropic-usa-greenhouse-anthropic-5183053008",
-    "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
-    "seo_title": "Remote Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) job at anthropic in USA. Explore Python, RAG, AWS, AI Research...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "AWS",
-      "AI Research & Engineering",
-      "British Columbia, CA",
-      "London, UK",
-      "Ontario, CA",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
-    "published_at": "2026-05-26",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-05-26",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   }
