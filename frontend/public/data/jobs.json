@@ -6208,6 +6208,63 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-qa-engineer-cortes-23-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cortes-23-senior-qa-engineer-2",
+    "slug": "senior-qa-engineer-cortes-23-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cortes-23-senior-qa-engineer-2",
+    "title": "Senior QA Engineer",
+    "seo_title": "Remote Senior QA Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior QA Engineer job at Cortes 23 in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
+    "company": {
+      "name": "Cortes 23",
+      "slug": "cortes-23",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote URL: https://cortes23.com Are you an experienced QA engineer with a proven record of success, looking for a new and exciting challenge? Do you want to be part of an industry disruptor? If so, we could have the opportunity for you. The...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+    "published_at": "2026-06-11",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior QA Engineer",
+      "description": "Headquarters: Remote URL: https://cortes23.com Are you an experienced QA engineer with a proven record of success, looking for a new and exciting challenge? Do you want to be part of an industry disruptor? If so, we could have the opportunity for you. The...",
+      "datePosted": "2026-06-11",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Cortes 23"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "customer-support-specialist-select-saunas-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-select-saunas-customer-support-specialist",
     "slug": "customer-support-specialist-select-saunas-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-select-saunas-customer-support-specialist",
     "title": "Customer Support Specialist",
