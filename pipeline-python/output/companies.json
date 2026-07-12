@@ -63,6 +63,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Sinica Education",
+    "slug": "sinica-education",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Magic Memories",
     "slug": "magic-memories",
     "logo_url": null,
@@ -350,13 +357,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Abstract",
-    "slug": "abstract",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Cortes 23",
     "slug": "cortes-23",
     "logo_url": null,
@@ -366,6 +366,13 @@
   {
     "name": "Select Saunas",
     "slug": "select-saunas",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Toggl",
+    "slug": "toggl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
