@@ -1,5 +1,302 @@
 [
   {
+    "id": "senior-java-backend-developer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-java-backend-developer",
+    "slug": "senior-java-backend-developer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-java-backend-developer",
+    "title": "Senior Java Backend Developer",
+    "seo_title": "Remote Senior Java Backend Developer Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Senior Java Backend Developer job at Proxify AB in Worldwide. Explore SQL, RAG, Docker, Kubernetes and remote AI jobs.",
+    "company": {
+      "name": "Proxify AB",
+      "slug": "proxify-ab",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Docker",
+      "Kubernetes",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Java Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
+    "published_at": "2026-07-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Java Backend Developer",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Java Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop...",
+      "datePosted": "2026-07-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Proxify AB"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-fullstack-developer-react-js-node-js-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-fullstack-developer-react",
+    "slug": "senior-fullstack-developer-react-js-node-js-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-fullstack-developer-react",
+    "title": "Senior Fullstack Developer (React.js / Node.js)",
+    "seo_title": "Remote Senior Fullstack Developer (React.js / Node.js) Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Senior Fullstack Developer (React.js / Node.js) job at Proxify AB in Worldwide. Explore SQL, RAG, Full-Stack Programming, Remote and...",
+    "company": {
+      "name": "Proxify AB",
+      "slug": "proxify-ab",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+    "published_at": "2026-07-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy...",
+      "datePosted": "2026-07-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Proxify AB"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-data-engineer-python-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-data-engineer-python",
+    "slug": "senior-data-engineer-python-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-data-engineer-python",
+    "title": "Senior Data Engineer (Python)",
+    "seo_title": "Remote Senior Data Engineer (Python) Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Data Engineer (Python) job at Proxify AB in Worldwide. Explore Python, SQL, Pandas, LLM and remote AI jobs.",
+    "company": {
+      "name": "Proxify AB",
+      "slug": "proxify-ab",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Pandas",
+      "LLM",
+      "RAG",
+      "Docker",
+      "AWS",
+      "Spark",
+      "Airflow",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Data Engineer to architect and scale the data foundations for one of our high-growth client products. The ideal candidate is a Python expert who treats data...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-python",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-python",
+    "published_at": "2026-07-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Data Engineer (Python)",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Data Engineer to architect and scale the data foundations for one of our high-growth client products. The ideal candidate is a Python expert who treats data...",
+      "datePosted": "2026-07-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Proxify AB"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-data-engineer-python",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-python-ai-engineer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-python-ai-engineer-4",
+    "slug": "senior-python-ai-engineer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-python-ai-engineer-4",
+    "title": "Senior Python AI Engineer",
+    "seo_title": "Remote Senior Python AI Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Python AI Engineer job at Proxify AB in Worldwide. Explore Python, SQL, Deep Learning, TensorFlow and remote AI jobs.",
+    "company": {
+      "name": "Proxify AB",
+      "slug": "proxify-ab",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "LLM",
+      "LangChain",
+      "OpenAI",
+      "RAG",
+      "Docker",
+      "Kubernetes",
+      "AWS"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Python AI Engineer to join our fast-growing Network, who will design and develop backend systems and APIs for AI-powered applications. You will play a key role in...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-python-ai-engineer-4",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-python-ai-engineer-4",
+    "published_at": "2026-07-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Python AI Engineer",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Python AI Engineer to join our fast-growing Network, who will design and develop backend systems and APIs for AI-powered applications. You will play a key role in...",
+      "datePosted": "2026-07-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Proxify AB"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-python-ai-engineer-4",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-backend-developer-python-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-backend-developer-python-8",
+    "slug": "senior-backend-developer-python-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-backend-developer-python-8",
+    "title": "Senior Backend Developer (Python)",
+    "seo_title": "Remote Senior Backend Developer (Python) Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Senior Backend Developer (Python) job at Proxify AB in Worldwide. Explore Python, SQL, RAG, Docker and remote AI jobs.",
+    "company": {
+      "name": "Proxify AB",
+      "slug": "proxify-ab",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+    "published_at": "2026-07-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Backend Developer (Python)",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop...",
+      "datePosted": "2026-07-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Proxify AB"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "inbound-sales-closer-express-chipping-inc-worldwide-remoteok-1134726",
     "slug": "inbound-sales-closer-express-chipping-inc-worldwide-remoteok-1134726",
     "title": "Inbound Sales Closer",
@@ -203,7 +500,7 @@
       "data science"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RNTIuMjQwLjE3Ni4xNjM= when applying to show you read...",
+    "description_summary": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RNTIuMTc2LjEyNS4xMTk= when applying to show you read...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1134707",
@@ -215,7 +512,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Graduate Data Scientist",
-      "description": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RNTIuMjQwLjE3Ni4xNjM= when applying to show you read...",
+      "description": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RNTIuMTc2LjEyNS4xMTk= when applying to show you read...",
       "datePosted": "2026-07-11",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -2693,61 +2990,6 @@
     "ai_relevant": true
   },
   {
-    "id": "europe-only-ai-native-performance-marketing-manager-in-house-martech-video-saas-vidalytics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vidalyt",
-    "slug": "europe-only-ai-native-performance-marketing-manager-in-house-martech-video-saas-vidalytics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vidalyt",
-    "title": "[EUROPE ONLY] AI Native Performance Marketing Manager – In-House MarTech Video SaaS",
-    "seo_title": "Remote [EUROPE ONLY] AI Native Performance Marketing Manager – In-House MarTech Video SaaS Job | NLP Jobs",
-    "seo_description": "Apply for a remote [EUROPE ONLY] AI Native Performance Marketing Manager – In-House MarTech Video SaaS job at Vidalytics in Worldwide. Explore LLM, RAG,...",
-    "company": {
-      "name": "Vidalytics",
-      "slug": "vidalytics",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Austin, TX URL: https://vidalytics.com If you love running ads, scaling winners, and turning tiny tests into explosive results — and you want to do that at a SaaS company built for performance marketers — keep reading. We’re Vidalytics.com, a...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-ai-native-performance-marketing-manager-in-house-martech-video-saas",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-ai-native-performance-marketing-manager-in-house-martech-video-saas",
-    "published_at": "2026-07-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "[EUROPE ONLY] AI Native Performance Marketing Manager – In-House MarTech Video SaaS",
-      "description": "Headquarters: Austin, TX URL: https://vidalytics.com If you love running ads, scaling winners, and turning tiny tests into explosive results — and you want to do that at a SaaS company built for performance marketers — keep reading. We’re Vidalytics.com, a...",
-      "datePosted": "2026-07-07",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Vidalytics"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/vidalytics-europe-only-ai-native-performance-marketing-manager-in-house-martech-video-saas",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5300430008",
     "slug": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5300430008",
     "title": "Applied AI Architect, Partnerships",
@@ -3203,61 +3445,6 @@
     "ai_relevant": true
   },
   {
-    "id": "executive-director-motivational-interviewing-network-of-trainers-incorporated-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-motivational-intervi",
-    "slug": "executive-director-motivational-interviewing-network-of-trainers-incorporated-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-motivational-intervi",
-    "title": "Executive Director",
-    "seo_title": "Remote Executive Director Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Executive Director job at Motivational Interviewing Network of Trainers, Incorporated in Worldwide. Explore RAG, AWS, All Other Remote,...",
-    "company": {
-      "name": "Motivational Interviewing Network of Trainers, Incorporated",
-      "slug": "motivational-interviewing-network-of-trainers-incorporated",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: United States URL: https://motivationalinterviewing.org/ Job Title : Executive Director (ED) Employer: Motivational Interviewing Network of Trainers Inc. (MINT) Reports to: MINT Board Chair Required Start Date : 12 October 2026 Work Location(s)...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/motivational-interviewing-network-of-trainers-incorporated-executive-director",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/motivational-interviewing-network-of-trainers-incorporated-executive-director",
-    "published_at": "2026-07-02",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Executive Director",
-      "description": "Headquarters: United States URL: https://motivationalinterviewing.org/ Job Title : Executive Director (ED) Employer: Motivational Interviewing Network of Trainers Inc. (MINT) Reports to: MINT Board Chair Required Start Date : 12 October 2026 Work Location(s)...",
-      "datePosted": "2026-07-02",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Motivational Interviewing Network of Trainers, Incorporated"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/motivational-interviewing-network-of-trainers-incorporated-executive-director",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "freelancer-im-inbound-customer-service-innerhalb-der-eu-100-remote-deutsch-c1-c2-hey-contact-heroes-gmbh-worldwide-weworkremotely-https-weworkremotely-com-remot",
     "slug": "freelancer-im-inbound-customer-service-innerhalb-der-eu-100-remote-deutsch-c1-c2-hey-contact-heroes-gmbh-worldwide-weworkremotely-https-weworkremotely-com-remot",
     "title": "Freelancer im Inbound Customer Service - innerhalb der EU - 100% Remote - Deutsch C1/C2",
@@ -3649,61 +3836,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "title": "Commercial Counsel, EMEA",
@@ -3755,6 +3887,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -5332,65 +5519,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Remote - Australia",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "title": "Contracts Manager, APAC",
@@ -5445,6 +5573,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Singapore"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "published_at": "2026-06-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
       }
     },
     "ai_relevant": true
@@ -5851,61 +6038,6 @@
     "ai_relevant": true
   },
   {
-    "id": "web-developer-remote-mrioa-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mrioa-web-developer-remote",
-    "slug": "web-developer-remote-mrioa-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mrioa-web-developer-remote",
-    "title": "Web Developer (Remote)",
-    "seo_title": "Remote Web Developer (Remote) Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Web Developer (Remote) job at MRIoA in Worldwide. Explore Python, RAG, Back-End Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "MRIoA",
-      "slug": "mrioa",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "Back-End Programming",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Salt Lake City, Utah, United States URL: http://mrioa.com Who We Are - Motivated by Purpose. Powered by Clinical Expertise. Founded in 1983, we’re a clinically driven, tech-enabled utilization management company offering expert clinical reviews,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/mrioa-web-developer-remote",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/mrioa-web-developer-remote",
-    "published_at": "2026-06-18",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Web Developer (Remote)",
-      "description": "Headquarters: Salt Lake City, Utah, United States URL: http://mrioa.com Who We Are - Motivated by Purpose. Powered by Clinical Expertise. Founded in 1983, we’re a clinically driven, tech-enabled utilization management company offering expert clinical reviews,...",
-      "datePosted": "2026-06-18",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "MRIoA"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/mrioa-web-developer-remote",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "eit-civil-anchorage-ak-kuna-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-kuna-eit-civil-anchorage-ak",
     "slug": "eit-civil-anchorage-ak-kuna-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-kuna-eit-civil-anchorage-ak",
     "title": "EIT - Civil - Anchorage, AK",
@@ -6263,62 +6395,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-analyst-curam-ahu-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ahu-technologies-data-analyst-curam",
-    "slug": "data-analyst-curam-ahu-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ahu-technologies-data-analyst-curam",
-    "title": "Data Analyst/ Curam",
-    "seo_title": "Remote Data Analyst/ Curam Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Data Analyst/ Curam job at AHU Technologies in Worldwide. Explore RAG, Tableau, Statistics, Front-End Programming and remote AI jobs.",
-    "company": {
-      "name": "AHU Technologies",
-      "slug": "ahu-technologies",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Tableau",
-      "Statistics",
-      "Front-End Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description: Short Description: The Client is looking for Data analyst with 11 years of experience managing data pertaining to the different medical, nutrition, and financial subsidies managed by the...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
-    "published_at": "2026-06-15",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Analyst/ Curam",
-      "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description: Short Description: The Client is looking for Data analyst with 11 years of experience managing data pertaining to the different medical, nutrition, and financial subsidies managed by the...",
-      "datePosted": "2026-06-15",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "AHU Technologies"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
     "slug": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
     "title": "Tech Lead Full-Stack Rails Engineer",
@@ -6392,238 +6468,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-data-scientist-lemon-io-usa-remotive-2090982",
-    "slug": "senior-data-scientist-lemon-io-usa-remotive-2090982",
-    "title": "Senior Data Scientist",
-    "seo_title": "Remote Senior Data Scientist Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Data Scientist job at Lemon.io in USA. Explore Python, Machine Learning, Pandas, NumPy and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Americas, Europe, Asia, Oceania",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "Pandas",
-      "NumPy",
-      "LLM",
-      "MLOps",
-      "AWS",
-      "GCP",
-      "Azure",
-      "android",
-      "C++",
-      "data science"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-    "apply_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
-    "published_at": "2026-06-11",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Data Scientist",
-      "description": "Are you a talented Senior Data Scientist looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-      "datePosted": "2026-06-11",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-qa-engineer-cortes-23-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cortes-23-senior-qa-engineer-2",
-    "slug": "senior-qa-engineer-cortes-23-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cortes-23-senior-qa-engineer-2",
-    "title": "Senior QA Engineer",
-    "seo_title": "Remote Senior QA Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior QA Engineer job at Cortes 23 in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
-    "company": {
-      "name": "Cortes 23",
-      "slug": "cortes-23",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote URL: https://cortes23.com Are you an experienced QA engineer with a proven record of success, looking for a new and exciting challenge? Do you want to be part of an industry disruptor? If so, we could have the opportunity for you. The...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
-    "published_at": "2026-06-11",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior QA Engineer",
-      "description": "Headquarters: Remote URL: https://cortes23.com Are you an experienced QA engineer with a proven record of success, looking for a new and exciting challenge? Do you want to be part of an industry disruptor? If so, we could have the opportunity for you. The...",
-      "datePosted": "2026-06-11",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Cortes 23"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-support-specialist-select-saunas-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-select-saunas-customer-support-specialist",
-    "slug": "customer-support-specialist-select-saunas-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-select-saunas-customer-support-specialist",
-    "title": "Customer Support Specialist",
-    "seo_title": "Remote Customer Support Specialist Job | NLP Jobs",
-    "seo_description": "Apply for a remote Customer Support Specialist job at Select Saunas in Worldwide. Explore LLM, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Select Saunas",
-      "slug": "select-saunas",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Casper, WY URL: https://selectsaunas.com Fully Remote Customer Support, Order Management for Online Sauna Retailer Company: Select Saunas (selectsaunas.com) Location: Fully remote Type: Full-time About the role Do you want to help people become...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
-    "published_at": "2026-06-08",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Support Specialist",
-      "description": "Headquarters: Casper, WY URL: https://selectsaunas.com Fully Remote Customer Support, Order Management for Online Sauna Retailer Company: Select Saunas (selectsaunas.com) Location: Fully remote Type: Full-time About the role Do you want to help people become...",
-      "datePosted": "2026-06-08",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Select Saunas"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-product-manager-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-product-manager-4",
-    "slug": "senior-product-manager-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-product-manager-4",
-    "title": "Senior Product Manager",
-    "seo_title": "Remote Senior Product Manager Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Product Manager job at Toggl in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
-    "company": {
-      "name": "Toggl",
-      "slug": "toggl",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Product",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Product Manager to join one of our Product Tribes , the cross-functional units that own the end-to-end experience for a specific Toggl user role. You own your Tribe's...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-    "published_at": "2026-06-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Product Manager",
-      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Product Manager to join one of our Product Tribes , the cross-functional units that own the end-to-end experience for a specific Toggl user role. You own your Tribe's...",
-      "datePosted": "2026-06-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Toggl"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-product-manager-4",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   }
