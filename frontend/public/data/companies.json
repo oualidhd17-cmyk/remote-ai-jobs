@@ -14,18 +14,25 @@
     "jobs_count": 17
   },
   {
-    "name": "Vidalytics",
-    "slug": "vidalytics",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 6
-  },
-  {
     "name": "Proxify AB",
     "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 5
+  },
+  {
+    "name": "Vidalytics",
+    "slug": "vidalytics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
   },
   {
     "name": "Recruitlytixs Hirings",
@@ -49,13 +56,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Mindrift",
-    "slug": "mindrift",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Impact Clients",
     "slug": "impact-clients",
     "logo_url": null,
@@ -68,6 +68,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Artefacts / Asteria ART",
+    "slug": "artefacts-asteria-art",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Express Chipping Inc",
@@ -84,8 +91,22 @@
     "jobs_count": 1
   },
   {
+    "name": "Grow the Roses",
+    "slug": "grow-the-roses",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Hunt Remotely",
     "slug": "hunt-remotely",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Palerto Studio",
+    "slug": "palerto-studio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -121,13 +142,6 @@
   {
     "name": "Lingraphica",
     "slug": "lingraphica",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Magic Memories",
-    "slug": "magic-memories",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -275,6 +289,13 @@
   {
     "name": "Atcom",
     "slug": "atcom",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mindrift",
+    "slug": "mindrift",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
