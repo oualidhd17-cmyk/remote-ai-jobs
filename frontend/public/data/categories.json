@@ -5,14 +5,14 @@
     "jobs_count": 41
   },
   {
-    "name": "Robotics",
-    "slug": "robotics",
-    "jobs_count": 17
-  },
-  {
     "name": "Data Science",
     "slug": "data-science",
     "jobs_count": 17
+  },
+  {
+    "name": "Robotics",
+    "slug": "robotics",
+    "jobs_count": 16
   },
   {
     "name": "Data Analytics",
@@ -27,7 +27,7 @@
   {
     "name": "NLP",
     "slug": "nlp",
-    "jobs_count": 6
+    "jobs_count": 5
   },
   {
     "name": "Machine Learning",

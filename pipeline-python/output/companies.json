@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 21
+    "jobs_count": 22
   },
   {
     "name": "LawnStarter",
@@ -21,13 +21,6 @@
     "jobs_count": 5
   },
   {
-    "name": "Vidalytics",
-    "slug": "vidalytics",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 5
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -35,11 +28,11 @@
     "jobs_count": 4
   },
   {
-    "name": "Recruitlytixs Hirings",
-    "slug": "recruitlytixs-hirings",
+    "name": "Vidalytics",
+    "slug": "vidalytics",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 4
   },
   {
     "name": "Lemon.io",
@@ -68,6 +61,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "ReLytics Hires",
+    "slug": "relytics-hires",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Artefacts / Asteria ART",
