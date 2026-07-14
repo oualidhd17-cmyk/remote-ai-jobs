@@ -32,7 +32,7 @@
     "slug": "vidalytics",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "Lemon.io",
@@ -40,6 +40,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "JobsInMass.com",
+    "slug": "jobsinmass-com",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Qase",
@@ -70,6 +77,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Clipster",
+    "slug": "clipster",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Artefacts / Asteria ART",
     "slug": "artefacts-asteria-art",
     "logo_url": null,
@@ -79,13 +93,6 @@
   {
     "name": "Express Chipping Inc",
     "slug": "express-chipping-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "JobsInMass.com",
-    "slug": "jobsinmass-com",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -394,6 +401,13 @@
   {
     "name": "Mitre Media",
     "slug": "mitre-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cortes 23",
+    "slug": "cortes-23",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

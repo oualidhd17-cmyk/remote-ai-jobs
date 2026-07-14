@@ -65,6 +65,69 @@
     "ai_relevant": true
   },
   {
+    "id": "data-analyst-excel-jobsinmass-com-worldwide-remoteok-1134777",
+    "slug": "data-analyst-excel-jobsinmass-com-worldwide-remoteok-1134777",
+    "title": "Data Analyst Excel",
+    "seo_title": "Remote Data Analyst Excel Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Analyst Excel job at JobsInMass.com in Worldwide. Explore coordinator, ops, exec, social media and remote AI jobs.",
+    "company": {
+      "name": "JobsInMass.com",
+      "slug": "jobsinmass-com",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Boston,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "coordinator",
+      "ops",
+      "exec",
+      "social media",
+      "sys admin",
+      "education",
+      "technical",
+      "customer support",
+      "medical",
+      "analyst",
+      "microsoft",
+      "data science"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Job Description Job Title: Data Analyst Excel Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-analyst-excel-jobsinmass-com-1134777",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134777",
+    "published_at": "2026-07-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Analyst Excel",
+      "description": "Job Description Job Title: Data Analyst Excel Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality,...",
+      "datePosted": "2026-07-13",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "JobsInMass.com"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134777",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "administrative-data-entry-file-clerk-relytics-hires-canada-remoteok-1134761",
     "slug": "administrative-data-entry-file-clerk-relytics-hires-canada-remoteok-1134761",
     "title": "Administrative Data Entry File Clerk",
@@ -127,6 +190,73 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Canada"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-product-engineer-fullstack-clipster-germany-remotive-2091062",
+    "slug": "senior-product-engineer-fullstack-clipster-germany-remotive-2091062",
+    "title": "Senior Product Engineer (Fullstack)",
+    "seo_title": "Remote Senior Product Engineer (Fullstack) Job in Germany | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Product Engineer (Fullstack) job at Clipster in Germany. Explore SQL, RAG, GCP, backend and remote AI jobs.",
+    "company": {
+      "name": "Clipster",
+      "slug": "clipster",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Germany",
+    "city": null,
+    "location": "Europe, UK, Germany, France, European timezones",
+    "location_label": "Remote - Germany",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "GCP",
+      "backend",
+      "frontend",
+      "fullstack",
+      "golang",
+      "postgresql",
+      "react",
+      "AI/ML",
+      "documentation",
+      "youtube"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Clipster Clipster is where brands and creators connect to turn views into profits. Clippers (Creators) clip, remix, and post branded content on TikTok, YouTube, Instagram, X, and beyond — earning money for every view they deliver. Brands get a...",
+    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+    "published_at": "2026-07-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Product Engineer (Fullstack)",
+      "description": "About Clipster Clipster is where brands and creators connect to turn views into profits. Clippers (Creators) clip, remix, and post branded content on TikTok, YouTube, Instagram, X, and beyond — earning money for every view they deliver. Brands get a...",
+      "datePosted": "2026-07-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Clipster"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Germany"
       }
     },
     "ai_relevant": true
@@ -1046,7 +1176,7 @@
       "data science"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RNTIuMTgyLjE3MS44Mw== when applying to show you read...",
+    "description_summary": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RMjAuMTY4LjEzNy4z when applying to show you read the...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1134707",
@@ -1058,7 +1188,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Graduate Data Scientist",
-      "description": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RNTIuMTgyLjE3MS44Mw== when applying to show you read...",
+      "description": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RMjAuMTY4LjEzNy4z when applying to show you read the...",
       "datePosted": "2026-07-11",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -2605,61 +2735,6 @@
     "ai_relevant": true
   },
   {
-    "id": "ai-native-performance-marketing-manager-in-house-martech-video-saas-vidalytics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vidalytics-ai-nativ",
-    "slug": "ai-native-performance-marketing-manager-in-house-martech-video-saas-vidalytics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vidalytics-ai-nativ",
-    "title": "AI Native Performance Marketing Manager – In-House MarTech Video SaaS",
-    "seo_title": "Remote AI Native Performance Marketing Manager – In-House MarTech Video SaaS Job | NLP Jobs",
-    "seo_description": "Apply for a remote AI Native Performance Marketing Manager – In-House MarTech Video SaaS job at Vidalytics in Worldwide. Explore LLM, RAG, Sales and...",
-    "company": {
-      "name": "Vidalytics",
-      "slug": "vidalytics",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Austin, TX URL: https://vidalytics.com If you love running ads, scaling winners, and turning tiny tests into explosive results — and you want to do that at a SaaS company built for performance marketers — keep reading. We’re Vidalytics.com, a...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-native-performance-marketing-manager-in-house-martech-video-saas",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-native-performance-marketing-manager-in-house-martech-video-saas",
-    "published_at": "2026-07-09",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Native Performance Marketing Manager – In-House MarTech Video SaaS",
-      "description": "Headquarters: Austin, TX URL: https://vidalytics.com If you love running ads, scaling winners, and turning tiny tests into explosive results — and you want to do that at a SaaS company built for performance marketers — keep reading. We’re Vidalytics.com, a...",
-      "datePosted": "2026-07-09",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Vidalytics"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-native-performance-marketing-manager-in-house-martech-video-saas",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-enterprise-tech-anthropic-worldwide-greenhouse-anthropic-5065835008",
     "slug": "applied-ai-architect-enterprise-tech-anthropic-worldwide-greenhouse-anthropic-5065835008",
     "title": "Applied AI Architect, Enterprise Tech",
@@ -3961,61 +4036,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-06-30",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "title": "Commercial Counsel, EMEA",
@@ -4067,6 +4087,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-06-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-06-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -6593,6 +6668,63 @@
           "unitText": "YEAR"
         }
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-qa-engineer-cortes-23-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cortes-23-senior-qa-engineer-2",
+    "slug": "senior-qa-engineer-cortes-23-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cortes-23-senior-qa-engineer-2",
+    "title": "Senior QA Engineer",
+    "seo_title": "Remote Senior QA Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior QA Engineer job at Cortes 23 in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
+    "company": {
+      "name": "Cortes 23",
+      "slug": "cortes-23",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote URL: https://cortes23.com Are you an experienced QA engineer with a proven record of success, looking for a new and exciting challenge? Do you want to be part of an industry disruptor? If so, we could have the opportunity for you. The...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+    "published_at": "2026-06-11",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior QA Engineer",
+      "description": "Headquarters: Remote URL: https://cortes23.com Are you an experienced QA engineer with a proven record of success, looking for a new and exciting challenge? Do you want to be part of an industry disruptor? If so, we could have the opportunity for you. The...",
+      "datePosted": "2026-06-11",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Cortes 23"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   }
