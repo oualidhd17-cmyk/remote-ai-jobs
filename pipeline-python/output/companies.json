@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 22
+    "jobs_count": 27
   },
   {
     "name": "LawnStarter",
@@ -28,13 +28,6 @@
     "jobs_count": 4
   },
   {
-    "name": "Vidalytics",
-    "slug": "vidalytics",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -56,6 +49,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Vidalytics",
+    "slug": "vidalytics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Impact Clients",
     "slug": "impact-clients",
     "logo_url": null,
@@ -68,6 +68,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "The Reed Corporation",
+    "slug": "the-reed-corporation",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "ReLytics Hires",
@@ -219,13 +226,6 @@
   {
     "name": "Endureed by Global Innovation",
     "slug": "endureed-by-global-innovation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hybrid85",
-    "slug": "hybrid85",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -408,6 +408,13 @@
   {
     "name": "Cortes 23",
     "slug": "cortes-23",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Select Saunas",
+    "slug": "select-saunas",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
