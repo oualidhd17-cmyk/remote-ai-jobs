@@ -14,13 +14,6 @@
     "jobs_count": 17
   },
   {
-    "name": "Proxify AB",
-    "slug": "proxify-ab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 5
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -28,11 +21,11 @@
     "jobs_count": 4
   },
   {
-    "name": "JobsInMass.com",
-    "slug": "jobsinmass-com",
+    "name": "Proxify AB",
+    "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 4
   },
   {
     "name": "Lemon.io",
@@ -42,8 +35,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Qase",
-    "slug": "qase",
+    "name": "JobsInMass.com",
+    "slug": "jobsinmass-com",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -68,6 +61,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "garden3d",
+    "slug": "garden3d",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PointClickCare",
+    "slug": "pointclickcare",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Pragmatike",
@@ -133,8 +140,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Palerto Studio",
-    "slug": "palerto-studio",
+    "name": "Qase",
+    "slug": "qase",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -170,13 +177,6 @@
   {
     "name": "Clerky, Inc.",
     "slug": "clerky-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "hey contact heroes GmbH",
-    "slug": "hey-contact-heroes-gmbh",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -366,6 +366,13 @@
   {
     "name": "HugeInc",
     "slug": "hugeinc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Zapiet",
+    "slug": "zapiet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
