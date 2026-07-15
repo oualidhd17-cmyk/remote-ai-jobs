@@ -1,5 +1,120 @@
 [
   {
+    "id": "data-center-architect-csa-anthropic-usa-greenhouse-anthropic-5339199008",
+    "slug": "data-center-architect-csa-anthropic-usa-greenhouse-anthropic-5339199008",
+    "title": "Data Center Architect, CSA",
+    "seo_title": "Remote Data Center Architect, CSA Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Center Architect, CSA job at anthropic in USA. Explore RAG, AWS, Compute and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Remote-Friendly, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5339199008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5339199008",
+    "published_at": "2026-07-15",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Center Architect, CSA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-15",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5339199008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-scientist-marketing-anthropic-worldwide-greenhouse-anthropic-5161402008",
+    "slug": "data-scientist-marketing-anthropic-worldwide-greenhouse-anthropic-5161402008",
+    "title": "Data Scientist, Marketing",
+    "seo_title": "Remote Data Scientist, Marketing Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Scientist, Marketing job at anthropic in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY | Seattle, WA; San Francisco, CA",
+    "location_label": "New York City, NY | Seattle, WA; San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Data Science & Analytics",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
+    "published_at": "2026-07-15",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Scientist, Marketing",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-15",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
     "slug": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
     "title": "Anthropic Fellows Program",
@@ -442,65 +557,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -555,6 +611,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -843,6 +958,136 @@
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223916008",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "motion-designer-pragmatike-worldwide-remoteok-1134793",
+    "slug": "motion-designer-pragmatike-worldwide-remoteok-1134793",
+    "title": "Motion Designer",
+    "seo_title": "Remote Motion Designer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Motion Designer job at Pragmatike in Worldwide. Explore RAG, customer support, exec, ops and remote AI jobs.",
+    "company": {
+      "name": "Pragmatike",
+      "slug": "pragmatike",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "entry",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "customer support",
+      "exec",
+      "ops",
+      "medical",
+      "writer",
+      "content writing",
+      "junior",
+      "design",
+      "travel",
+      "video",
+      "senior"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Posted 7:54:32 PM. Location: Fully RemoteStart Date: ASAPLanguage: Fluent English requiredType: Full-timeâ¦See this and similar jobs on LinkedIn. Please mention the word **LUCKY** and tag RMjAuNTUuNDYuMTY4 when applying to show you read the job post...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134793",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Motion Designer",
+      "description": "Posted 7:54:32 PM. Location: Fully RemoteStart Date: ASAPLanguage: Fluent English requiredType: Full-timeâ¦See this and similar jobs on LinkedIn. Please mention the word **LUCKY** and tag RMjAuNTUuNDYuMTY4 when applying to show you read the job post...",
+      "datePosted": "2026-07-14",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Pragmatike"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134793",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-entry-clerk-data-entry-specialist-burjline-builders-usa-remoteok-1134805",
+    "slug": "data-entry-clerk-data-entry-specialist-burjline-builders-usa-remoteok-1134805",
+    "title": "Data Entry Clerk Data Entry Specialist",
+    "seo_title": "Remote Data Entry Clerk Data Entry Specialist Job in USA | Robotics Jobs",
+    "seo_description": "Apply for a remote Data Entry Clerk Data Entry Specialist job at Burjline Builders in USA. Explore RAG, analyst, design, sys admin and remote AI jobs.",
+    "company": {
+      "name": "Burjline Builders",
+      "slug": "burjline-builders",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "New York, New York, New York, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "analyst",
+      "design",
+      "sys admin",
+      "architecture",
+      "technical",
+      "recruiter",
+      "testing",
+      "finance",
+      "api",
+      "exec",
+      "ops"
+    ],
+    "category": "Robotics",
+    "description_summary": ", remote position Position: Data Entry Clerk / Data Entry Specialist (Remote) Company Overview: Skillerszone LLC is a fast-growing company that provides innovative solutions for businesses of all sizes. We specialize in helping companies streamline their data...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-clerk-data-entry-specialist-burjline-builders-1134805",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134805",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Entry Clerk Data Entry Specialist",
+      "description": ", remote position Position: Data Entry Clerk / Data Entry Specialist (Remote) Company Overview: Skillerszone LLC is a fast-growing company that provides innovative solutions for businesses of all sizes. We specialize in helping companies streamline their data...",
+      "datePosted": "2026-07-14",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Burjline Builders"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134805",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
     },
     "ai_relevant": true
   },
@@ -2298,61 +2543,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Singapore",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "title": "Commercial Counsel, APAC",
@@ -2408,21 +2598,21 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "UK",
+    "country": "Singapore",
     "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
+    "location": "Singapore",
+    "location_label": "Singapore",
     "remote_type": "hybrid",
     "employment_type": "contract",
     "experience_level": "intern",
@@ -2435,13 +2625,13 @@
       "RAG",
       "AWS",
       "Legal",
-      "London, UK"
+      "Singapore"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
     "published_at": "2026-07-14",
     "expires_at": null,
     "quality_score": 75,
@@ -2449,7 +2639,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
+      "title": "Commercial Counsel, APAC",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-07-14",
       "employmentType": "CONTRACTOR",
@@ -2458,7 +2648,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
     },
     "ai_relevant": true
   },
@@ -2514,6 +2704,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
     },
     "ai_relevant": true
   },
@@ -3608,60 +3853,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
-    "slug": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
-    "title": "Data Center Electrical Engineer",
-    "seo_title": "Remote Data Center Electrical Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Center Electrical Engineer job at anthropic in Worldwide. Explore RAG, AWS, Compute, Tokyo, Japan and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Tokyo, Japan",
-    "location_label": "Tokyo, Japan",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute",
-      "Tokyo, Japan"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Center Electrical Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
     "slug": "data-center-electrical-engineer-anthropic-australia-greenhouse-anthropic-5227411008",
     "title": "Data Center Electrical Engineer",
@@ -3712,6 +3903,60 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227411008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
+    "slug": "data-center-electrical-engineer-anthropic-worldwide-greenhouse-anthropic-5227415008",
+    "title": "Data Center Electrical Engineer",
+    "seo_title": "Remote Data Center Electrical Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Center Electrical Engineer job at anthropic in Worldwide. Explore RAG, AWS, Compute, Tokyo, Japan and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Tokyo, Japan",
+    "location_label": "Tokyo, Japan",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute",
+      "Tokyo, Japan"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Center Electrical Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227415008"
     },
     "ai_relevant": true
   },
@@ -4223,60 +4468,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-scientist-marketing-anthropic-worldwide-greenhouse-anthropic-5161402008",
-    "slug": "data-scientist-marketing-anthropic-worldwide-greenhouse-anthropic-5161402008",
-    "title": "Data Scientist, Marketing",
-    "seo_title": "Remote Data Scientist, Marketing Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Scientist, Marketing job at anthropic in Worldwide. Explore RAG, AWS, Data Science & Analytics, San Francisco, CA and remote AI...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY | Seattle, WA; San Francisco, CA",
-    "location_label": "New York City, NY | Seattle, WA; San Francisco, CA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Data Science & Analytics",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Scientist, Marketing",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5161402008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "data-scientist-policy-anthropic-worldwide-greenhouse-anthropic-5232055008",
     "slug": "data-scientist-policy-anthropic-worldwide-greenhouse-anthropic-5232055008",
     "title": "Data Scientist, Policy",
@@ -4446,62 +4637,6 @@
     "ai_relevant": true
   },
   {
-    "id": "director-compute-infrastructure-procurement-operations-anthropic-worldwide-greenhouse-anthropic-5234538008",
-    "slug": "director-compute-infrastructure-procurement-operations-anthropic-worldwide-greenhouse-anthropic-5234538008",
-    "title": "Director, Compute Infrastructure Procurement Operations",
-    "seo_title": "Remote Director, Compute Infrastructure Procurement Operations Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Director, Compute Infrastructure Procurement Operations job at anthropic in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Finance",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Director, Compute Infrastructure Procurement Operations",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "apply-for-our-future-openings-baltic-assist-worldwide-remoteok-1134822",
     "slug": "apply-for-our-future-openings-baltic-assist-worldwide-remoteok-1134822",
     "title": "Apply for our future openings",
@@ -4599,7 +4734,7 @@
       "data science"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 7:00:00 AM. This is a remote position.About the roleOur ideal candidate will make clients feel taken care ofâ¦See this and similar jobs on LinkedIn. Please mention the word **ELITE** and tag RMjAuMTYxLjY3LjIwOA== when applying to show you read the job...",
+    "description_summary": "Posted 7:00:00 AM. This is a remote position.About the roleOur ideal candidate will make clients feel taken care ofâ¦See this and similar jobs on LinkedIn. Please mention the word **ELITE** and tag RMjAuNTUuNDYuMTY4 when applying to show you read the job...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-client-success-manager-nyc-fully-the-reed-corporation-1134779",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1134779",
@@ -4611,7 +4746,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Client Success Manager NYC Fully",
-      "description": "Posted 7:00:00 AM. This is a remote position.About the roleOur ideal candidate will make clients feel taken care ofâ¦See this and similar jobs on LinkedIn. Please mention the word **ELITE** and tag RMjAuMTYxLjY3LjIwOA== when applying to show you read the job...",
+      "description": "Posted 7:00:00 AM. This is a remote position.About the roleOur ideal candidate will make clients feel taken care ofâ¦See this and similar jobs on LinkedIn. Please mention the word **ELITE** and tag RMjAuNTUuNDYuMTY4 when applying to show you read the job...",
       "datePosted": "2026-07-13",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -5673,7 +5808,7 @@
       "data science"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RMjAuMTYxLjY3LjIwOA== when applying to show you read...",
+    "description_summary": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RMjAuNTUuNDYuMTY4 when applying to show you read the...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-graduate-data-scientist-work-force-nexus-1134707",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1134707",
@@ -5685,7 +5820,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Graduate Data Scientist",
-      "description": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RMjAuMTYxLjY3LjIwOA== when applying to show you read...",
+      "description": "Posted 12:58:07 PM. Job Title: Graduate Data ScientistLocation: Australia (Remote)Employment Type: Full-TimeExperience:â¦See this and similar jobs on LinkedIn. Please mention the word **STATELY** and tag RMjAuNTUuNDYuMTY4 when applying to show you read the...",
       "datePosted": "2026-07-11",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -5698,135 +5833,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "social-media-coordinator-digital-style-house-usa-remoteok-1134743",
-    "slug": "social-media-coordinator-digital-style-house-usa-remoteok-1134743",
-    "title": "Social Media Coordinator",
-    "seo_title": "Remote Social Media Coordinator Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Social Media Coordinator job at Digital Style House in USA. Explore RAG, c, music, game dev and remote AI jobs.",
-    "company": {
-      "name": "Digital Style House",
-      "slug": "digital-style-house",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Los Angeles County, Los Angeles County, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "c",
-      "music",
-      "game dev",
-      "dev",
-      "video",
-      "content writing",
-      "ops",
-      "marketing",
-      "internship",
-      "non tech",
-      "digital nomad"
-    ],
-    "category": "Robotics",
-    "description_summary": "Company Description Digital Style House (DSH) is an Inc. 5000-ranked social media marketing agency based in Los Angeles, serving over 100 active clients and 1,100+ brands. Founded in 2016, DSH operates like an in-house content team for mid-market brands...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-social-media-coordinator-digital-style-house-1134743",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134743",
-    "published_at": "2026-07-10",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Social Media Coordinator",
-      "description": "Company Description Digital Style House (DSH) is an Inc. 5000-ranked social media marketing agency based in Los Angeles, serving over 100 active clients and 1,100+ brands. Founded in 2016, DSH operates like an in-house content team for mid-market brands...",
-      "datePosted": "2026-07-10",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Digital Style House"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134743",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "and-academic-specialist-all-subjects-sinica-education-canada-remoteok-1134717",
-    "slug": "and-academic-specialist-all-subjects-sinica-education-canada-remoteok-1134717",
-    "title": "and Academic Specialist All Subjects",
-    "seo_title": "Remote and Academic Specialist All Subjects Job in Canada | AI Engineering Jobs",
-    "seo_description": "Apply for a remote and Academic Specialist All Subjects job at Sinica Education in Canada. Explore RAG, content writing, social media, non tech and remote...",
-    "company": {
-      "name": "Sinica Education",
-      "slug": "sinica-education",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Canada",
-    "city": null,
-    "location": "Greater Toronto Area, Greater Toronto Area, Canada",
-    "location_label": "Remote - Canada",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "content writing",
-      "social media",
-      "non tech",
-      "teaching",
-      "customer support",
-      "education"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "What do we do? Co-founded by Harvard graduates, Sinica Education provides online educational content to international students in middle/high school and college. Using online tools, we provide short online courses, academic counseling, one-on-one teaching,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-and-academic-specialist-all-subjects-sinica-education-1134717",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134717",
-    "published_at": "2026-07-10",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "and Academic Specialist All Subjects",
-      "description": "What do we do? Co-founded by Harvard graduates, Sinica Education provides online educational content to international students in middle/high school and college. Using online tools, we provide short online courses, academic counseling, one-on-one teaching,...",
-      "datePosted": "2026-07-10",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Sinica Education"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134717",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Canada"
       }
     },
     "ai_relevant": true
