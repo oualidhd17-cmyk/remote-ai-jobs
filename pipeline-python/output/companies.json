@@ -182,6 +182,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Intelligent Change",
+    "slug": "intelligent-change",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "PointClickCare",
     "slug": "pointclickcare",
     "logo_url": null,
@@ -198,6 +205,20 @@
   {
     "name": "Burjline Builders",
     "slug": "burjline-builders",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bursting Silver",
+    "slug": "bursting-silver",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "City of Greater Sudbury",
+    "slug": "city-of-greater-sudbury",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -233,20 +254,6 @@
   {
     "name": "Clipster",
     "slug": "clipster",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Artefacts / Asteria ART",
-    "slug": "artefacts-asteria-art",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Express Chipping Inc",
-    "slug": "express-chipping-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
