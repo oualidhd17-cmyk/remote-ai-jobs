@@ -117,65 +117,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-support-agent-umaez-llc-worldwide-remoteok-1134825",
-    "slug": "customer-support-agent-umaez-llc-worldwide-remoteok-1134825",
-    "title": "Customer Support Agent",
-    "seo_title": "Remote Customer Support Agent Job | NLP Jobs",
-    "seo_description": "Apply for a remote Customer Support Agent job at UMAEZ LLC in Worldwide. Explore LLM, RAG, customer support, sys admin and remote AI jobs.",
-    "company": {
-      "name": "UMAEZ LLC",
-      "slug": "umaez-llc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "customer support",
-      "sys admin",
-      "marketing",
-      "exec",
-      "ops",
-      "ecommerce"
-    ],
-    "category": "NLP",
-    "description_summary": "About Goda We are Goda, a fast-growing DTC brand in the fragrance and skincare space, selling across the US and globally. Our hero products built a loyal customer base across our markets, and we're scaling fast. We run paid social at high volume, which means...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-support-agent-umaez-llc-1134825",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134825",
-    "published_at": "2026-07-15",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Support Agent",
-      "description": "About Goda We are Goda, a fast-growing DTC brand in the fragrance and skincare space, selling across the US and globally. Our hero products built a loyal customer base across our markets, and we're scaling fast. We run paid social at high volume, which means...",
-      "datePosted": "2026-07-15",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "UMAEZ LLC"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134825",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "personalbetreuer-m-w-d-richard-h-gruber-consulting-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-richard-h-gruber-consulting-personalbetreuer-m",
     "slug": "personalbetreuer-m-w-d-richard-h-gruber-consulting-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-richard-h-gruber-consulting-personalbetreuer-m",
     "title": "Personalbetreuer(m/w/d)",
@@ -1286,6 +1227,83 @@
     "ai_relevant": true
   },
   {
+    "id": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
+    "slug": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "seo_title": "Remote Tech Lead Full-Stack Rails Engineer Job in USA | Data Science Jobs",
+    "seo_description": "Apply for a remote Tech Lead Full-Stack Rails Engineer job at Mitre Media in USA. Explore SQL, LLM, LangChain, RAG and remote AI jobs.",
+    "company": {
+      "name": "Mitre Media",
+      "slug": "mitre-media",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "USA, Canada, USA timezones",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 170000,
+    "salary_max": 200000,
+    "salary_currency": "USD",
+    "skills": [
+      "SQL",
+      "LLM",
+      "LangChain",
+      "RAG",
+      "NLP",
+      "Docker",
+      "Kubernetes",
+      "api",
+      "CSS",
+      "elasticsearch",
+      "fullstack",
+      "html"
+    ],
+    "category": "Data Science",
+    "description_summary": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over...",
+    "apply_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over...",
+      "datePosted": "2026-07-14",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Mitre Media"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 170000,
+          "maxValue": 200000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
     "slug": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
     "title": "Anthropic Fellows Program",
@@ -2371,7 +2389,7 @@
       "senior"
     ],
     "category": "AI Engineering",
-    "description_summary": "Posted 7:54:32 PM. Location: Fully RemoteStart Date: ASAPLanguage: Fluent English requiredType: Full-timeâ¦See this and similar jobs on LinkedIn. Please mention the word **LUCKY** and tag RNzQuMjM1LjcwLjIyNg== when applying to show you read the job post...",
+    "description_summary": "Posted 7:54:32 PM. Location: Fully RemoteStart Date: ASAPLanguage: Fluent English requiredType: Full-timeâ¦See this and similar jobs on LinkedIn. Please mention the word **LUCKY** and tag RMTcyLjE4NC4yMTEuMzU= when applying to show you read the job post...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-motion-designer-pragmatike-1134793",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1134793",
@@ -2383,7 +2401,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Motion Designer",
-      "description": "Posted 7:54:32 PM. Location: Fully RemoteStart Date: ASAPLanguage: Fluent English requiredType: Full-timeâ¦See this and similar jobs on LinkedIn. Please mention the word **LUCKY** and tag RNzQuMjM1LjcwLjIyNg== when applying to show you read the job post...",
+      "description": "Posted 7:54:32 PM. Location: Fully RemoteStart Date: ASAPLanguage: Fluent English requiredType: Full-timeâ¦See this and similar jobs on LinkedIn. Please mention the word **LUCKY** and tag RMTcyLjE4NC4yMTEuMzU= when applying to show you read the job post...",
       "datePosted": "2026-07-14",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -2455,6 +2473,73 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1134805",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-devops-engineer-lemon-io-usa-remotive-2091067",
+    "slug": "senior-devops-engineer-lemon-io-usa-remotive-2091067",
+    "title": "Senior DevOps Engineer",
+    "seo_title": "Remote Senior DevOps Engineer Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior DevOps Engineer job at Lemon.io in USA. Explore Python, SQL, Machine Learning, LLM and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Americas, Europe, Asia, Africa, Oceania",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      ".Net",
+      "android",
+      "C"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
+    "apply_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior DevOps Engineer",
+      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
+      "datePosted": "2026-07-14",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/devops/senior-devops-engineer-2091067",
       "jobLocationType": "TELECOMMUTE",
       "applicantLocationRequirements": {
         "@type": "Country",
@@ -2965,6 +3050,63 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
+    "slug": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
+    "title": "Applied AI Architect, Industries",
+    "seo_title": "Remote Applied AI Architect, Industries Job in Germany | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Germany. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Germany",
+    "city": null,
+    "location": "Munich, Germany",
+    "location_label": "Munich, Germany",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Munich, Germany"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Industries",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4461444008",
     "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4461444008",
     "title": "Applied AI Architect, Industries",
@@ -3020,63 +3162,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
-    "slug": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
-    "title": "Applied AI Architect, Industries",
-    "seo_title": "Remote Applied AI Architect, Industries Job in Germany | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Germany. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Germany",
-    "city": null,
-    "location": "Munich, Germany",
-    "location_label": "Munich, Germany",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Munich, Germany"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Industries",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
     },
     "ai_relevant": true
   },
@@ -3191,62 +3276,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-lead-emea-commercial-anthropic-ireland-greenhouse-anthropic-5201715008",
-    "slug": "applied-ai-architect-lead-emea-commercial-anthropic-ireland-greenhouse-anthropic-5201715008",
-    "title": "Applied AI Architect Lead, EMEA Commercial",
-    "seo_title": "Remote Applied AI Architect Lead, EMEA Commercial Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect Lead, EMEA Commercial job at anthropic in Ireland. Explore LLM, RAG, AWS, Prompt Engineering and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Prompt Engineering",
-      "Applied AI",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5201715008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5201715008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect Lead, EMEA Commercial",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5201715008"
     },
     "ai_relevant": true
   },
@@ -3860,61 +3889,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Singapore",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "title": "Commercial Counsel, APAC",
@@ -3966,6 +3940,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Singapore",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
     },
     "ai_relevant": true
   },
@@ -5900,6 +5929,62 @@
     "ai_relevant": true
   },
   {
+    "id": "director-compute-infrastructure-procurement-operations-anthropic-worldwide-greenhouse-anthropic-5234538008",
+    "slug": "director-compute-infrastructure-procurement-operations-anthropic-worldwide-greenhouse-anthropic-5234538008",
+    "title": "Director, Compute Infrastructure Procurement Operations",
+    "seo_title": "Remote Director, Compute Infrastructure Procurement Operations Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Director, Compute Infrastructure Procurement Operations job at anthropic in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Finance",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, Compute Infrastructure Procurement Operations",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5234538008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "manager-people-culture-bursting-silver-canada-remoteok-1134906",
     "slug": "manager-people-culture-bursting-silver-canada-remoteok-1134906",
     "title": "Manager People & Culture",
@@ -6127,7 +6212,7 @@
       "data science"
     ],
     "category": "Data Science",
-    "description_summary": "Posted 7:00:00 AM. This is a remote position.About the roleOur ideal candidate will make clients feel taken care ofâ¦See this and similar jobs on LinkedIn. Please mention the word **ELITE** and tag RNzQuMjM1LjcwLjIyNg== when applying to show you read the job...",
+    "description_summary": "Posted 7:00:00 AM. This is a remote position.About the roleOur ideal candidate will make clients feel taken care ofâ¦See this and similar jobs on LinkedIn. Please mention the word **ELITE** and tag RMTcyLjE4NC4yMTEuMzU= when applying to show you read the job...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-client-success-manager-nyc-fully-the-reed-corporation-1134779",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1134779",
@@ -6139,7 +6224,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Client Success Manager NYC Fully",
-      "description": "Posted 7:00:00 AM. This is a remote position.About the roleOur ideal candidate will make clients feel taken care ofâ¦See this and similar jobs on LinkedIn. Please mention the word **ELITE** and tag RNzQuMjM1LjcwLjIyNg== when applying to show you read the job...",
+      "description": "Posted 7:00:00 AM. This is a remote position.About the roleOur ideal candidate will make clients feel taken care ofâ¦See this and similar jobs on LinkedIn. Please mention the word **ELITE** and tag RMTcyLjE4NC4yMTEuMzU= when applying to show you read the job...",
       "datePosted": "2026-07-13",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6212,73 +6297,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1134777",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "administrative-data-entry-file-clerk-relytics-hires-canada-remoteok-1134761",
-    "slug": "administrative-data-entry-file-clerk-relytics-hires-canada-remoteok-1134761",
-    "title": "Administrative Data Entry File Clerk",
-    "seo_title": "Remote Administrative Data Entry File Clerk Job in Canada | Robotics Jobs",
-    "seo_description": "Apply for a remote Administrative Data Entry File Clerk job at ReLytics Hires in Canada. Explore RAG, virtual assistant, education, customer support and...",
-    "company": {
-      "name": "ReLytics Hires",
-      "slug": "relytics-hires",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Canada",
-    "city": null,
-    "location": "Alberta, Alberta, Canada",
-    "location_label": "Remote - Canada",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "virtual assistant",
-      "education",
-      "customer support",
-      "marketing",
-      "video",
-      "microsoft",
-      "exec",
-      "ops",
-      "excel",
-      "data entry",
-      "jira"
-    ],
-    "category": "Robotics",
-    "description_summary": "Dedicated to delivering exceptional service and maintaining organized business operations, our company is seeking a detail-oriented Administrative Data Entry File Clerk to join our team. If you excel at managing records, entering data accurately, and working...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-administrative-data-entry-file-clerk-relytics-hires-1134761",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134761",
-    "published_at": "2026-07-13",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Administrative Data Entry File Clerk",
-      "description": "Dedicated to delivering exceptional service and maintaining organized business operations, our company is seeking a detail-oriented Administrative Data Entry File Clerk to join our team. If you excel at managing records, entering data accurately, and working...",
-      "datePosted": "2026-07-13",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "ReLytics Hires"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134761",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Canada"
-      }
     },
     "ai_relevant": true
   },
@@ -6406,60 +6424,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/toptal-ai-platform-engineer-aws-bedrock-agentcore",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "qa-automation-engineer-ui-api-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-qa-automation-engineer-ui-api",
-    "slug": "qa-automation-engineer-ui-api-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-qa-automation-engineer-ui-api",
-    "title": "QA Automation Engineer — UI & API",
-    "seo_title": "Remote QA Automation Engineer — UI & API Job | MLOps Jobs",
-    "seo_description": "Apply for a remote QA Automation Engineer — UI & API job at Toptal in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Toptal",
-      "slug": "toptal",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote URL: https://www.toptal.com/ About the Role Join a global company as a QA Engineer specializing in UI and API test automation. You'll be the safety net for a fast-moving development team — building and maintaining the automated tests that...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-ui-api",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-ui-api",
-    "published_at": "2026-07-13",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "QA Automation Engineer — UI & API",
-      "description": "Headquarters: Remote URL: https://www.toptal.com/ About the Role Join a global company as a QA Engineer specializing in UI and API test automation. You'll be the safety net for a fast-moving development team — building and maintaining the automated tests that...",
-      "datePosted": "2026-07-13",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Toptal"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-ui-api",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -8356,61 +8320,6 @@
     "ai_relevant": true
   },
   {
-    "id": "producer-human-interface-design-gm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gm-producer-human-interface-design",
-    "slug": "producer-human-interface-design-gm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gm-producer-human-interface-design",
-    "title": "Producer - Human Interface Design",
-    "seo_title": "Remote Producer - Human Interface Design Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Producer - Human Interface Design job at GM in Worldwide. Explore RAG, AWS, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "GM",
-      "slug": "gm",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Design",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: GM Global Technical Center - Sloan Engineering Center URL: http://gm.com Job Description Sponsorship: GM DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE. DO NOT APPLY FOR THIS ROLE IF YOU WILL NEED GM IMMIGRATION SPONSORSHIP...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/gm-producer-human-interface-design",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/gm-producer-human-interface-design",
-    "published_at": "2026-06-24",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Producer - Human Interface Design",
-      "description": "Headquarters: GM Global Technical Center - Sloan Engineering Center URL: http://gm.com Job Description Sponsorship: GM DOES NOT PROVIDE IMMIGRATION-RELATED SPONSORSHIP FOR THIS ROLE. DO NOT APPLY FOR THIS ROLE IF YOU WILL NEED GM IMMIGRATION SPONSORSHIP...",
-      "datePosted": "2026-06-24",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "GM"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/gm-producer-human-interface-design",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "site-reliability-engineer-sre-bright-vision-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bright-vision-technologies-site-reliabili",
     "slug": "site-reliability-engineer-sre-bright-vision-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bright-vision-technologies-site-reliabili",
     "title": "Site Reliability Engineer (SRE)",
@@ -9721,82 +9630,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-independent-ai-engineer-architect-a-team-usa-remotive-1919266",
-    "slug": "senior-independent-ai-engineer-architect-a-team-usa-remotive-1919266",
-    "title": "Senior Independent AI Engineer / Architect",
-    "seo_title": "Remote Senior Independent AI Engineer / Architect Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Independent AI Engineer / Architect job at A.Team in USA. Explore Machine Learning, LLM, go, UI/UX and remote AI jobs.",
-    "company": {
-      "name": "A.Team",
-      "slug": "a-team",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Americas, Europe, Israel",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": 120000,
-    "salary_max": 170000,
-    "salary_currency": "USD",
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "go",
-      "UI/UX",
-      "wordpress",
-      "chat",
-      "apple",
-      "testing",
-      "catalyst",
-      "Software Development",
-      "contract"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-    "published_at": "2026-06-16",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Independent AI Engineer / Architect",
-      "description": "Senior Independent AI Engineer / Architect Remote | Americas, Europe, or Israel Most AI engineers can find work. Finding work worth doing is harder. A.Team is an invite-only network of senior AI engineers, ML engineers, and AI architects building production...",
-      "datePosted": "2026-06-16",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "A.Team"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      },
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 120000,
-          "maxValue": 170000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "frontend-developer-quinncia-inc-worldwide-remotive-2090991",
     "slug": "frontend-developer-quinncia-inc-worldwide-remotive-2090991",
     "title": "Frontend Developer",
@@ -9855,6 +9688,60 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "staff-ui-ux-product-designer-usa-emea-remote-hospitable-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hospitable-staff-ui-ux-product-designer-us",
+    "slug": "staff-ui-ux-product-designer-usa-emea-remote-hospitable-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hospitable-staff-ui-ux-product-designer-us",
+    "title": "Staff UI/UX Product Designer (USA/EMEA - Remote)",
+    "seo_title": "Remote Staff UI/UX Product Designer (USA/EMEA - Remote) Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Staff UI/UX Product Designer (USA/EMEA - Remote) job at Hospitable in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "Hospitable",
+      "slug": "hospitable",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: United States URL: https://hospitable.com/careers TLDR; We build software for Airbnbs to rent themselves, with a state-of-the-art product and user experience. We have crafted an Applicant Handbook, which we highly recommend you check out, where...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/hospitable-staff-ui-ux-product-designer-usa-emea-remote-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/hospitable-staff-ui-ux-product-designer-usa-emea-remote-1",
+    "published_at": "2026-06-16",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Staff UI/UX Product Designer (USA/EMEA - Remote)",
+      "description": "Headquarters: United States URL: https://hospitable.com/careers TLDR; We build software for Airbnbs to rent themselves, with a state-of-the-art product and user experience. We have crafted an Applicant Handbook, which we highly recommend you check out, where...",
+      "datePosted": "2026-06-16",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Hospitable"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/hospitable-staff-ui-ux-product-designer-usa-emea-remote-1",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
