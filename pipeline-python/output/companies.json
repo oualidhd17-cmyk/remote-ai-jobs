@@ -1,6 +1,6 @@
 [
   {
-    "name": "Anthropic",
+    "name": "anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
@@ -21,6 +21,13 @@
     "jobs_count": 4
   },
   {
+    "name": "garden3d",
+    "slug": "garden3d",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "TE Connectivity",
     "slug": "te-connectivity",
     "logo_url": null,
@@ -33,13 +40,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
-  },
-  {
-    "name": "garden3d",
-    "slug": "garden3d",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
   },
   {
     "name": "ICF",
@@ -322,13 +322,6 @@
     "jobs_count": 1
   },
   {
-    "name": "JLL",
-    "slug": "jll",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mitre Media",
     "slug": "mitre-media",
     "logo_url": null,
@@ -345,20 +338,6 @@
   {
     "name": "Pubgenius Inc.",
     "slug": "pubgenius-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PointClickCare",
-    "slug": "pointclickcare",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pragmatike",
-    "slug": "pragmatike",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -457,6 +436,13 @@
   {
     "name": "Mindrift",
     "slug": "mindrift",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "KAI Partners",
+    "slug": "kai-partners",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
