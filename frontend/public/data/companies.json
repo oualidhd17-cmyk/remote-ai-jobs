@@ -1,10 +1,10 @@
 [
   {
-    "name": "anthropic",
+    "name": "Anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 80
+    "jobs_count": 81
   },
   {
     "name": "LawnStarter",
@@ -56,20 +56,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Abbott",
-    "slug": "abbott",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "JLL",
-    "slug": "jll",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Vidalytics",
     "slug": "vidalytics",
     "logo_url": null,
@@ -89,6 +75,41 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Snapscale",
+    "slug": "snapscale",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Aethos",
+    "slug": "aethos",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "BeiGene",
+    "slug": "beigene",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Jobgether",
+    "slug": "jobgether",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Education Sub Saharan Africa",
+    "slug": "education-sub-saharan-africa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Clover Labs AI",
@@ -210,6 +231,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Zirtual",
+    "slug": "zirtual",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "peopleworth",
     "slug": "peopleworth",
     "logo_url": null,
@@ -273,8 +301,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Innovapptive",
-    "slug": "innovapptive",
+    "name": "JLL",
+    "slug": "jll",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -338,27 +366,6 @@
   {
     "name": "City of Greater Sudbury",
     "slug": "city-of-greater-sudbury",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Baltic Assist",
-    "slug": "baltic-assist",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Covisian Credit Management",
-    "slug": "covisian-credit-management",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "The Reed Corporation",
-    "slug": "the-reed-corporation",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -450,20 +457,6 @@
   {
     "name": "Mindrift",
     "slug": "mindrift",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "KAI Partners",
-    "slug": "kai-partners",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mercury Insurance Services",
-    "slug": "mercury-insurance-services",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
