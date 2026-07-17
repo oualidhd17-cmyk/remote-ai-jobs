@@ -231,6 +231,13 @@
     "jobs_count": 1
   },
   {
+    "name": "The Coca-Cola Company",
+    "slug": "the-coca-cola-company",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Zirtual",
     "slug": "zirtual",
     "logo_url": null,
@@ -254,13 +261,6 @@
   {
     "name": "EB IT-Dienstleistungen",
     "slug": "eb-it-dienstleistungen",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Akkodis Germany Tech Experts",
-    "slug": "akkodis-germany-tech-experts",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -352,20 +352,6 @@
   {
     "name": "Burjline Builders",
     "slug": "burjline-builders",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Bursting Silver",
-    "slug": "bursting-silver",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "City of Greater Sudbury",
-    "slug": "city-of-greater-sudbury",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
