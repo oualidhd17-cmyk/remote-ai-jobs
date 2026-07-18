@@ -7,9 +7,9 @@
   "visa_count": 82,
   "salary_count": 19,
   "status_counts": {
-    "published": 178,
+    "pending": 10,
     "rejected": 93,
-    "pending": 10
+    "published": 178
   },
   "source_counts": {
     "remoteok": 80,
@@ -19,17 +19,17 @@
   },
   "category_counts": {
     "MLOps": 11,
+    "NLP": 6,
     "Robotics": 21,
     "Machine Learning": 6,
-    "Data Science": 18,
+    "Data Science": 17,
     "AI Engineering": 101,
-    "NLP": 5,
     "Prompt Engineering": 1,
     "Data Analytics": 15
   },
   "country_counts": {
-    "Worldwide": 132,
-    "USA": 21,
+    "Worldwide": 133,
+    "USA": 20,
     "Australia": 9,
     "UK": 8,
     "Canada": 1,

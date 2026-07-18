@@ -49,13 +49,6 @@
     "jobs_count": 2
   },
   {
-    "name": "CELSIUS",
-    "slug": "celsius",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Vidalytics",
     "slug": "vidalytics",
     "logo_url": null,
@@ -79,6 +72,13 @@
   {
     "name": "Home Market Foods",
     "slug": "home-market-foods",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "KitaLulus",
+    "slug": "kitalulus",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -310,6 +310,13 @@
   {
     "name": "Zirtual",
     "slug": "zirtual",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CELSIUS",
+    "slug": "celsius",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
