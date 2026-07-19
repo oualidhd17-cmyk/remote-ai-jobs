@@ -21,13 +21,6 @@
     "jobs_count": 4
   },
   {
-    "name": "garden3d",
-    "slug": "garden3d",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "TE Connectivity",
     "slug": "te-connectivity",
     "logo_url": null,
@@ -40,6 +33,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "garden3d",
+    "slug": "garden3d",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "ICF",
@@ -483,8 +483,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Mercury Insurance Services",
-    "slug": "mercury-insurance-services",
+    "name": "Hospitable",
+    "slug": "hospitable",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
