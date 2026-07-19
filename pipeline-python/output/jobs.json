@@ -63,6 +63,72 @@
     "ai_relevant": true
   },
   {
+    "id": "react-native-engineer-helpbnk-worldwide-remoteok-1135014",
+    "slug": "react-native-engineer-helpbnk-worldwide-remoteok-1135014",
+    "title": "React Native Engineer",
+    "seo_title": "Remote React Native Engineer Job | MLOps Jobs",
+    "seo_description": "Apply for a remote React Native Engineer job at HelpBnk in Worldwide. Explore RAG, dev, react native, mobile and remote AI jobs.",
+    "company": {
+      "name": "HelpBnk",
+      "slug": "helpbnk",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Worldwide",
+    "remote_type": "unknown",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 60000,
+    "salary_max": 80000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "dev",
+      "react native",
+      "mobile",
+      "iOS",
+      "android"
+    ],
+    "category": "MLOps",
+    "description_summary": "About us At HelpBnk, we donât just build software; we build infrastructure for a future where everyone has the agency to follow their dreams. Co-founded by Simon Squibb, we are on a mission to Free Humanity from the trap of unfulfilling work and the looming...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-react-native-engineer-helpbnk-1135014",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135014",
+    "published_at": "2026-07-18",
+    "expires_at": null,
+    "quality_score": 80,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "React Native Engineer",
+      "description": "About us At HelpBnk, we donât just build software; we build infrastructure for a future where everyone has the agency to follow their dreams. Co-founded by Simon Squibb, we are on a mission to Free Humanity from the trap of unfulfilling work and the looming...",
+      "datePosted": "2026-07-18",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "HelpBnk"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135014",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 60000,
+          "maxValue": 80000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "national-account-manager-foodservice-sales-required-home-market-foods-worldwide-remoteok-1134940",
     "slug": "national-account-manager-foodservice-sales-required-home-market-foods-worldwide-remoteok-1134940",
     "title": "National Account Manager Foodservice Sales Required",
@@ -1440,69 +1506,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "date-posted-optn-inc-worldwide-remoteok-1134954",
-    "slug": "date-posted-optn-inc-worldwide-remoteok-1134954",
-    "title": "Date Posted",
-    "seo_title": "Remote Date Posted Job | NLP Jobs",
-    "seo_description": "Apply for a remote Date Posted job at OptN Inc in Worldwide. Explore LLM, exec, design, amazon and remote AI jobs.",
-    "company": {
-      "name": "OptN Inc",
-      "slug": "optn-inc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Frisco,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "exec",
-      "design",
-      "amazon",
-      "customer support",
-      "marketing",
-      "travel",
-      "speech",
-      "video",
-      "ads",
-      "content writing",
-      "ops"
-    ],
-    "category": "NLP",
-    "description_summary": "Home Careers Chief Executive Officer Chief Executive Officer Executive Leadership Remote/Frisco TX Expiration date: 18 Oct 2025 Date Posted 18 May 2025 Expiration date 18 Oct 2025 Offered Salary (month) Generous Equity Experience 5 year exp Type Full Time...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-date-posted-optn-inc-1134954",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134954",
-    "published_at": "2026-07-16",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Date Posted",
-      "description": "Home Careers Chief Executive Officer Chief Executive Officer Executive Leadership Remote/Frisco TX Expiration date: 18 Oct 2025 Date Posted 18 May 2025 Expiration date 18 Oct 2025 Offered Salary (month) Generous Equity Experience 5 year exp Type Full Time...",
-      "datePosted": "2026-07-16",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "OptN Inc"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134954",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -3115,60 +3118,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-account-executive-mid-market-uki-hubspot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hubspot-senior-account-executive-mid-market-uki",
-    "slug": "senior-account-executive-mid-market-uki-hubspot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hubspot-senior-account-executive-mid-market-uki",
-    "title": "Senior Account Executive, Mid-Market UKI",
-    "seo_title": "Remote Senior Account Executive, Mid-Market UKI Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Account Executive, Mid-Market UKI job at HubSpot in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "HubSpot",
-      "slug": "hubspot",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote - United Kingdom URL: http://hubspot.com What will you get to do in this Senior Account Executive, Mid-Market UKI role? As a Senior Account Executive at HubSpot, you will leverage both inbound and outbound selling strategies to identify...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/hubspot-senior-account-executive-mid-market-uki",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/hubspot-senior-account-executive-mid-market-uki",
-    "published_at": "2026-07-15",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Account Executive, Mid-Market UKI",
-      "description": "Headquarters: Remote - United Kingdom URL: http://hubspot.com What will you get to do in this Senior Account Executive, Mid-Market UKI role? As a Senior Account Executive at HubSpot, you will leverage both inbound and outbound selling strategies to identify...",
-      "datePosted": "2026-07-15",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "HubSpot"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/hubspot-senior-account-executive-mid-market-uki",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -10640,6 +10589,67 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-software-engineer-mercury-insurance-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mercury-insurance-services-senior-software-eng",
+    "slug": "senior-software-engineer-mercury-insurance-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mercury-insurance-services-senior-software-eng",
+    "title": "Senior Software Engineer",
+    "seo_title": "Remote Senior Software Engineer Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer job at Mercury Insurance Services in Worldwide. Explore Python, SQL, RAG, Docker and remote AI jobs.",
+    "company": {
+      "name": "Mercury Insurance Services",
+      "slug": "mercury-insurance-services",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "entry",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Product",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Remote, United States URL: http://mercuryinsurance.com Overview Join an amazing team that is consistently recognized for our achievements and culture, including our most recent Forbes award of being one of America's Best Midsize Employers for...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/mercury-insurance-services-senior-software-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/mercury-insurance-services-senior-software-engineer",
+    "published_at": "2026-06-19",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Engineer",
+      "description": "Headquarters: Remote, United States URL: http://mercuryinsurance.com Overview Join an amazing team that is consistently recognized for our achievements and culture, including our most recent Forbes award of being one of America's Best Midsize Employers for...",
+      "datePosted": "2026-06-19",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Mercury Insurance Services"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/mercury-insurance-services-senior-software-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
