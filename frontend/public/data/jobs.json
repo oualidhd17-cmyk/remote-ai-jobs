@@ -66,6 +66,73 @@
     "ai_relevant": true
   },
   {
+    "id": "care-specialist-empathy-usa-remoteok-1134999",
+    "slug": "care-specialist-empathy-usa-remoteok-1134999",
+    "title": "Care Specialist",
+    "seo_title": "Remote Care Specialist Job in USA | Robotics Jobs",
+    "seo_description": "Apply for a remote Care Specialist job at Empathy in USA. Explore RAG, education, customer support, marketing and remote AI jobs.",
+    "company": {
+      "name": "Empathy",
+      "slug": "empathy",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "San Francisco, San Francisco, California, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "education",
+      "customer support",
+      "marketing",
+      "speech",
+      "finance",
+      "c",
+      "exec",
+      "senior",
+      "ops",
+      "excel",
+      "medical"
+    ],
+    "category": "Robotics",
+    "description_summary": "About Empathy Empathy is transforming the way families navigate lifeâs most difficult times - from the loss of a loved one to other major life transitions. By combining technology with compassionate human care, we bring clarity, comfort, and peace of mind...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-care-specialist-empathy-1134999",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1134999",
+    "published_at": "2026-07-17",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Care Specialist",
+      "description": "About Empathy Empathy is transforming the way families navigate lifeâs most difficult times - from the loss of a loved one to other major life transitions. By combining technology with compassionate human care, we bring clarity, comfort, and peace of mind...",
+      "datePosted": "2026-07-17",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Empathy"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1134999",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "voice-actor-gritter-francona-usa-remoteok-1134994",
     "slug": "voice-actor-gritter-francona-usa-remoteok-1134994",
     "title": "Voice Actor",
@@ -2985,69 +3052,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "associate-customer-engagement-the-coca-cola-company-worldwide-remoteok-1134955",
-    "slug": "associate-customer-engagement-the-coca-cola-company-worldwide-remoteok-1134955",
-    "title": "Associate Customer Engagement",
-    "seo_title": "Remote Associate Customer Engagement Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Associate Customer Engagement job at The Coca-Cola Company in Worldwide. Explore RAG, AWS, exec, design and remote AI jobs.",
-    "company": {
-      "name": "The Coca-Cola Company",
-      "slug": "the-coca-cola-company",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Atlanta,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "exec",
-      "design",
-      "amazon",
-      "customer support",
-      "marketing",
-      "travel",
-      "speech",
-      "video",
-      "ads",
-      "content writing"
-    ],
-    "category": "Robotics",
-    "description_summary": "This role requires the ability to work from the Atlanta office as business needs require. At The CocaâCola Company, every interaction with our customers is an opportunity to create value and strengthen relationships. Guided by our purpose to refresh the...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-associate-customer-engagement-the-coca-cola-company-1134955",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1134955",
-    "published_at": "2026-07-15",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Associate Customer Engagement",
-      "description": "This role requires the ability to work from the Atlanta office as business needs require. At The CocaâCola Company, every interaction with our customers is an opportunity to create value and strengthen relationships. Guided by our purpose to refresh the...",
-      "datePosted": "2026-07-15",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "The Coca-Cola Company"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1134955",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },

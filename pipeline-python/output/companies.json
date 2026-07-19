@@ -77,6 +77,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Empathy",
+    "slug": "empathy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Gritter Francona",
     "slug": "gritter-francona",
     "logo_url": null,
@@ -324,13 +331,6 @@
   {
     "name": "Bright Vision Technologies",
     "slug": "bright-vision-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "The Coca-Cola Company",
-    "slug": "the-coca-cola-company",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
