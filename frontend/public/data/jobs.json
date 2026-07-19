@@ -1,5 +1,68 @@
 [
   {
+    "id": "patient-scheduler-arstrat-worldwide-remoteok-1135015",
+    "slug": "patient-scheduler-arstrat-worldwide-remoteok-1135015",
+    "title": "Patient Scheduler",
+    "seo_title": "Remote Patient Scheduler Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Patient Scheduler job at ARStrat in Worldwide. Explore RAG, AWS, sys admin, supervisor and remote AI jobs.",
+    "company": {
+      "name": "ARStrat",
+      "slug": "arstrat",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Greater Houston,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "sys admin",
+      "supervisor",
+      "customer support",
+      "testing",
+      "finance",
+      "education",
+      "microsoft",
+      "exec",
+      "ops",
+      "golang"
+    ],
+    "category": "Robotics",
+    "description_summary": "1, foreach: errors()\" style=\"display: none;\"> Post Patient Scheduler (Remote) Job Category : Administrative/Support Requisition Number : PATIE002005 Apply now Posting Details Posted: July 7, 2026 Full-Time Remote Locations Showing 1 location Sugarland 14141...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-patient-scheduler-arstrat-1135015",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135015",
+    "published_at": "2026-07-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Patient Scheduler",
+      "description": "1, foreach: errors()\" style=\"display: none;\"> Post Patient Scheduler (Remote) Job Category : Administrative/Support Requisition Number : PATIE002005 Apply now Posting Details Posted: July 7, 2026 Full-Time Remote Locations Showing 1 location Sugarland 14141...",
+      "datePosted": "2026-07-18",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "ARStrat"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135015",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "national-account-manager-foodservice-sales-required-home-market-foods-worldwide-remoteok-1134940",
     "slug": "national-account-manager-foodservice-sales-required-home-market-foods-worldwide-remoteok-1134940",
     "title": "National Account Manager Foodservice Sales Required",
