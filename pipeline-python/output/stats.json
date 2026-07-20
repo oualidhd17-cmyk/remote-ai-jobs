@@ -1,15 +1,15 @@
 {
   "raw_count": 282,
   "processed_count": 282,
-  "published_count": 179,
+  "published_count": 180,
   "ai_relevant_count": 192,
-  "remote_count": 112,
+  "remote_count": 113,
   "visa_count": 82,
   "salary_count": 21,
   "status_counts": {
+    "pending": 12,
     "rejected": 90,
-    "pending": 13,
-    "published": 179
+    "published": 180
   },
   "source_counts": {
     "remoteok": 80,
@@ -18,7 +18,7 @@
     "greenhouse": 80
   },
   "category_counts": {
-    "Robotics": 24,
+    "Robotics": 25,
     "MLOps": 12,
     "AI Engineering": 102,
     "NLP": 5,
@@ -30,8 +30,8 @@
   "country_counts": {
     "Worldwide": 133,
     "USA": 23,
+    "UK": 8,
     "Australia": 9,
-    "UK": 7,
     "Singapore": 2,
     "Ireland": 2,
     "Germany": 3

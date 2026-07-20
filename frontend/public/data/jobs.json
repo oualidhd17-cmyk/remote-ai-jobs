@@ -396,6 +396,72 @@
     "ai_relevant": true
   },
   {
+    "id": "business-operations-associate-obelisk-support-uk-remoteok-1135078",
+    "slug": "business-operations-associate-obelisk-support-uk-remoteok-1135078",
+    "title": "Business Operations Associate",
+    "seo_title": "Remote Business Operations Associate Job in UK | Robotics Jobs",
+    "seo_description": "Apply for a remote Business Operations Associate job at Obelisk Support in UK. Explore RAG, sys admin, exec, customer support and remote AI jobs.",
+    "company": {
+      "name": "Obelisk Support",
+      "slug": "obelisk-support",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London Area, London Area, United Kingdom",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "part-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "sys admin",
+      "exec",
+      "customer support",
+      "admin",
+      "microsoft",
+      "senior",
+      "ops",
+      "legal",
+      "recruiter",
+      "part time"
+    ],
+    "category": "Robotics",
+    "description_summary": "Fully Remote Part-time (3 days p/week) September start About the Role We're looking for a Business Operations Associate to help keep Obelisk running smoothly as we grow. This is a role for someone who genuinely enjoys the \"behind the scenes\" work that makes a...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-business-operations-associate-obelisk-support-1135078",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135078",
+    "published_at": "2026-07-17",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Operations Associate",
+      "description": "Fully Remote Part-time (3 days p/week) September start About the Role We're looking for a Business Operations Associate to help keep Obelisk running smoothly as we grow. This is a role for someone who genuinely enjoys the \"behind the scenes\" work that makes a...",
+      "datePosted": "2026-07-17",
+      "employmentType": "PART_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Obelisk Support"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135078",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "digital-media-specialist-rose-klein-marias-usa-remoteok-1134989",
     "slug": "digital-media-specialist-rose-klein-marias-usa-remoteok-1134989",
     "title": "Digital Media Specialist",
