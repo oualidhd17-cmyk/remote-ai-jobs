@@ -7,8 +7,8 @@
   "visa_count": 82,
   "salary_count": 21,
   "status_counts": {
-    "pending": 12,
     "rejected": 90,
+    "pending": 12,
     "published": 180
   },
   "source_counts": {
@@ -28,9 +28,9 @@
     "Data Analytics": 15
   },
   "country_counts": {
-    "Worldwide": 133,
+    "Worldwide": 134,
     "USA": 23,
-    "UK": 8,
+    "UK": 7,
     "Australia": 9,
     "Singapore": 2,
     "Ireland": 2,
