@@ -1,14 +1,14 @@
 {
   "raw_count": 282,
   "processed_count": 282,
-  "published_count": 185,
-  "ai_relevant_count": 196,
-  "remote_count": 118,
+  "published_count": 182,
+  "ai_relevant_count": 193,
+  "remote_count": 115,
   "visa_count": 83,
-  "salary_count": 21,
+  "salary_count": 20,
   "status_counts": {
-    "rejected": 86,
-    "published": 185,
+    "rejected": 89,
+    "published": 182,
     "pending": 11
   },
   "source_counts": {
@@ -21,16 +21,16 @@
     "Data Science": 14,
     "NLP": 6,
     "AI Engineering": 103,
-    "Robotics": 28,
-    "MLOps": 12,
+    "Robotics": 26,
+    "MLOps": 11,
     "Machine Learning": 6,
     "Prompt Engineering": 1,
     "Data Analytics": 15
   },
   "country_counts": {
-    "Worldwide": 141,
+    "Worldwide": 139,
     "Germany": 3,
-    "USA": 22,
+    "USA": 21,
     "UK": 6,
     "Australia": 9,
     "Singapore": 2,

@@ -49,13 +49,6 @@
     "jobs_count": 2
   },
   {
-    "name": "ICF",
-    "slug": "icf",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Vidalytics",
     "slug": "vidalytics",
     "logo_url": null,
@@ -93,13 +86,6 @@
   {
     "name": "HelpBnk",
     "slug": "helpbnk",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Home Market Foods",
-    "slug": "home-market-foods",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -184,13 +170,6 @@
   {
     "name": "A.Team",
     "slug": "a-team",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pacifica Beauty",
-    "slug": "pacifica-beauty",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,6 +261,13 @@
   {
     "name": "WME",
     "slug": "wme",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ICF",
+    "slug": "icf",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
