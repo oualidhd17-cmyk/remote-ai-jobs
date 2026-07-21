@@ -1,5 +1,65 @@
 [
   {
+    "id": "designer-simon-and-schuster-books-worldwide-remoteok-1135107",
+    "slug": "designer-simon-and-schuster-books-worldwide-remoteok-1135107",
+    "title": "Designer",
+    "seo_title": "Remote Designer Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Designer job at Simon and Schuster Books in Worldwide. Explore RAG, design, education, designer and remote AI jobs.",
+    "company": {
+      "name": "Simon and Schuster Books",
+      "slug": "simon-and-schuster-books",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "design",
+      "education",
+      "designer",
+      "adult",
+      "exec",
+      "photoshop",
+      "illustrator",
+      "digital nomad"
+    ],
+    "category": "Robotics",
+    "description_summary": "Simon & Schuster was named to Forbes magazine list of America's Best Mid-Size Employers 2022. Simon & Schuster is a global leader in general interest publishing, dedicated to providing the best in fiction and nonfiction for readers of all ages, and in all...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-designer-simon-and-schuster-books-1135107",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135107",
+    "published_at": "2026-07-20",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Designer",
+      "description": "Simon & Schuster was named to Forbes magazine list of America's Best Mid-Size Employers 2022. Simon & Schuster is a global leader in general interest publishing, dedicated to providing the best in fiction and nonfiction for readers of all ages, and in all...",
+      "datePosted": "2026-07-20",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Simon and Schuster Books"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135107",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-product-manager-pricing-lawnstarter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lawnstarter-senior-product-manager-pricing",
     "slug": "senior-product-manager-pricing-lawnstarter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lawnstarter-senior-product-manager-pricing",
     "title": "Senior Product Manager, Pricing",
@@ -9346,62 +9406,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-lead-product-manager-agentic-ai-platform-qventus-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-qventus-senior-lead-product-manager-agenti",
-    "slug": "senior-lead-product-manager-agentic-ai-platform-qventus-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-qventus-senior-lead-product-manager-agenti",
-    "title": "Senior/Lead Product Manager, Agentic AI Platform",
-    "seo_title": "Remote Senior/Lead Product Manager, Agentic AI Platform Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior/Lead Product Manager, Agentic AI Platform job at Qventus in Worldwide. Explore Machine Learning, LLM, Generative AI, Product and...",
-    "company": {
-      "name": "Qventus",
-      "slug": "qventus",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "Generative AI",
-      "Product",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote, United States On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/qventus-senior-lead-product-manager-agentic-ai-platform",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/qventus-senior-lead-product-manager-agentic-ai-platform",
-    "published_at": "2026-06-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior/Lead Product Manager, Agentic AI Platform",
-      "description": "Headquarters: Remote, United States On this journey for over 12 years, Qventus is leading the transformation of healthcare. We enable hospitals to focus on what matters most: patient care. Our innovative solutions harness the power of machine learning,...",
-      "datePosted": "2026-06-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Qventus"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/qventus-senior-lead-product-manager-agentic-ai-platform",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "client-success-coach-csm-impact-clients-usa-remotive-2091039",
     "slug": "client-success-coach-csm-impact-clients-usa-remotive-2091039",
     "title": "Client Success Coach (CSM)",
@@ -10512,69 +10516,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/kai-partners-technical-solutions-engineer-web-developer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remotive-2090887",
-    "slug": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remotive-2090887",
-    "title": "Mid/Senior AI Cinematic Video Editor",
-    "seo_title": "Remote Mid/Senior AI Cinematic Video Editor Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Mid/Senior AI Cinematic Video Editor job at EverAI in Worldwide. Explore LLM, AWS, excel, video and remote AI jobs.",
-    "company": {
-      "name": "EverAI",
-      "slug": "everai",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Worldwide",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "AWS",
-      "excel",
-      "video",
-      "AI/ML",
-      "customer acquisition",
-      "graphic design",
-      "video production",
-      "after effects",
-      "editing",
-      "SOLID",
-      "REST"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect...",
-    "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
-    "published_at": "2026-06-19",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "description": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect...",
-      "datePosted": "2026-06-19",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EverAI"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2090887",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
