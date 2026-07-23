@@ -18,7 +18,7 @@
     "slug": "twilio",
     "logo_url": null,
     "website": null,
-    "jobs_count": 24
+    "jobs_count": 23
   },
   {
     "name": "Coinbase",
@@ -40,6 +40,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Tribe Wellness",
+    "slug": "tribe-wellness",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Re Lytics Hire",
+    "slug": "re-lytics-hire",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "LifeStance Health",
@@ -98,22 +112,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Bizee",
-    "slug": "bizee",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jacobs",
-    "slug": "jacobs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Freestar",
-    "slug": "freestar",
+    "name": "Owl.co",
+    "slug": "owl-co",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -142,13 +142,6 @@
   {
     "name": "Clipster",
     "slug": "clipster",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tribe Wellness",
-    "slug": "tribe-wellness",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
