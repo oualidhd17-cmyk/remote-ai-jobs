@@ -14,13 +14,6 @@
     "jobs_count": 19
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 11
-  },
-  {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
@@ -35,11 +28,18 @@
     "jobs_count": 10
   },
   {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 10
+  },
+  {
     "name": "Dropbox",
     "slug": "dropbox",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
+    "jobs_count": 7
   },
   {
     "name": "Datadog",
@@ -54,6 +54,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "LifeStance Health",
+    "slug": "lifestance-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Project On Government Oversight",
@@ -154,6 +161,27 @@
     "jobs_count": 1
   },
   {
+    "name": "Nymbus",
+    "slug": "nymbus",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Insight Global",
+    "slug": "insight-global",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Call 4 Health",
+    "slug": "call-4-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Wing",
     "slug": "wing",
     "logo_url": null,
@@ -198,13 +226,6 @@
   {
     "name": "Freestar",
     "slug": "freestar",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Prime Intellect",
-    "slug": "prime-intellect",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
