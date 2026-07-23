@@ -7,11 +7,25 @@
     "jobs_count": 80
   },
   {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 25
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 24
+  },
+  {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 19
+    "jobs_count": 22
   },
   {
     "name": "LawnStarter",
@@ -19,34 +33,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 11
-  },
-  {
-    "name": "Twilio",
-    "slug": "twilio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 10
-  },
-  {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 10
-  },
-  {
-    "name": "Dropbox",
-    "slug": "dropbox",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 7
-  },
-  {
-    "name": "Datadog",
-    "slug": "datadog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
   },
   {
     "name": "Lemon.io",
@@ -63,13 +49,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Project On Government Oversight",
-    "slug": "project-on-government-oversight",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Ameris Bank",
     "slug": "ameris-bank",
     "logo_url": null,
@@ -79,83 +58,6 @@
   {
     "name": "Flagstar Bank",
     "slug": "flagstar-bank",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Humana",
-    "slug": "humana",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Highmark Health",
-    "slug": "highmark-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "BrightOrder",
-    "slug": "brightorder",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "SailPoint",
-    "slug": "sailpoint",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PPG",
-    "slug": "ppg",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Coders Brain Technology",
-    "slug": "coders-brain-technology",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Müller`s Solutions",
-    "slug": "muller-s-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Abbott",
-    "slug": "abbott",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "HighLevel",
-    "slug": "highlevel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "10 Ancestry.com Operations",
-    "slug": "10-ancestry-com-operations",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Gusto, Inc.",
-    "slug": "gusto-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -205,20 +107,6 @@
   {
     "name": "Jacobs",
     "slug": "jacobs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CHANEL",
-    "slug": "chanel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Simon and Schuster Books",
-    "slug": "simon-and-schuster-books",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
