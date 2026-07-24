@@ -18,14 +18,14 @@
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 18
+    "jobs_count": 17
   },
   {
     "name": "Twilio",
     "slug": "twilio",
     "logo_url": null,
     "website": null,
-    "jobs_count": 14
+    "jobs_count": 13
   },
   {
     "name": "LawnStarter",
@@ -65,6 +65,13 @@
   {
     "name": "Medtronic",
     "slug": "medtronic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nuuly",
+    "slug": "nuuly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,6 +175,13 @@
     "jobs_count": 1
   },
   {
+    "name": "LifeMD",
+    "slug": "lifemd",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Re Lytics Hire",
     "slug": "re-lytics-hire",
     "logo_url": null,
@@ -203,22 +217,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Wing",
-    "slug": "wing",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Abamedia",
-    "slug": "abamedia",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Owl.co",
-    "slug": "owl-co",
+    "name": "ð© ð ð¥ ð§ ð¥ ð ð¢",
+    "slug": "company",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
