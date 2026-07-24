@@ -28,22 +28,22 @@
     "jobs_count": 7
   },
   {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
     "name": "Twilio",
     "slug": "twilio",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 4
   },
   {
     "name": "Hightouch",
     "slug": "hightouch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -140,6 +140,20 @@
     "jobs_count": 1
   },
   {
+    "name": "OnTheGoSystems",
+    "slug": "onthegosystems",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Yoko Co",
+    "slug": "yoko-co",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Fivetran",
     "slug": "fivetran",
     "logo_url": null,
@@ -168,15 +182,15 @@
     "jobs_count": 1
   },
   {
-    "name": "GitLab",
-    "slug": "gitlab",
+    "name": "Medtronic",
+    "slug": "medtronic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Medtronic",
-    "slug": "medtronic",
+    "name": "Phillips Corporation",
+    "slug": "phillips-corporation",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -205,13 +219,6 @@
   {
     "name": "GM",
     "slug": "gm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Foundever",
-    "slug": "foundever",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -275,13 +282,6 @@
   {
     "name": "Re Lytics Hire",
     "slug": "re-lytics-hire",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LifeStance Health",
-    "slug": "lifestance-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
