@@ -182,6 +182,13 @@
     "jobs_count": 1
   },
   {
+    "name": "UFC GYM",
+    "slug": "ufc-gym",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Verra Mobility",
     "slug": "verra-mobility",
     "logo_url": null,
@@ -252,6 +259,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Ministry of Housing, Communities and Local Government",
+    "slug": "ministry-of-housing-communities-and-local-government",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "LifeMD",
     "slug": "lifemd",
     "logo_url": null,
@@ -268,27 +282,6 @@
   {
     "name": "LifeStance Health",
     "slug": "lifestance-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Nymbus",
-    "slug": "nymbus",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Insight Global",
-    "slug": "insight-global",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Call 4 Health",
-    "slug": "call-4-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -345,13 +338,6 @@
   {
     "name": "Endureed by Global Innovation",
     "slug": "endureed-by-global-innovation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EverAI",
-    "slug": "everai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -1938,6 +1938,73 @@
     "ai_relevant": true
   },
   {
+    "id": "ufc-gym-jurnior-graphic-designer-ufc-gym-usa-remoteok-1135299",
+    "slug": "ufc-gym-jurnior-graphic-designer-ufc-gym-usa-remoteok-1135299",
+    "title": "UFC GYM Jurnior Graphic Designer",
+    "seo_title": "Remote UFC GYM Jurnior Graphic Designer Job in USA | Robotics Jobs",
+    "seo_description": "Apply for a remote UFC GYM Jurnior Graphic Designer job at UFC GYM in USA. Explore RAG, design, sys admin, education and remote AI jobs.",
+    "company": {
+      "name": "UFC GYM",
+      "slug": "ufc-gym",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Hollywood, Hollywood, Florida, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "design",
+      "sys admin",
+      "education",
+      "designer",
+      "customer support",
+      "marketing",
+      "web dev",
+      "video",
+      "cloud",
+      "exec",
+      "content writing"
+    ],
+    "category": "Robotics",
+    "description_summary": "Benefits: Health insurance Opportunity for advancement Paid time off Vision insurance Wellness resources Employee discounts About UFC GYM UFC GYM is the first major brand extension of UFC, the world's premier mixed martial arts organization. As the pioneer of...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-ufc-gym-jurnior-graphic-designer-ufc-gym-1135299",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135299",
+    "published_at": "2026-07-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "UFC GYM Jurnior Graphic Designer",
+      "description": "Benefits: Health insurance Opportunity for advancement Paid time off Vision insurance Wellness resources Employee discounts About UFC GYM UFC GYM is the first major brand extension of UFC, the world's premier mixed martial arts organization. As the pioneer of...",
+      "datePosted": "2026-07-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "UFC GYM"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135299",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "vice-president-field-services-verra-mobility-usa-remoteok-1135301",
     "slug": "vice-president-field-services-verra-mobility-usa-remoteok-1135301",
     "title": "Vice President Field Services",
@@ -3624,6 +3691,73 @@
     "ai_relevant": true
   },
   {
+    "id": "performance-analyst-ministry-of-housing-communities-and-local-government-uk-remoteok-1135348",
+    "slug": "performance-analyst-ministry-of-housing-communities-and-local-government-uk-remoteok-1135348",
+    "title": "Performance Analyst",
+    "seo_title": "Remote Performance Analyst Job in UK | Data Science Jobs",
+    "seo_description": "Apply for a remote Performance Analyst job at Ministry of Housing, Communities and Local Government in UK. Explore Statistics, analyst, design, embedded...",
+    "company": {
+      "name": "Ministry of Housing, Communities and Local Government",
+      "slug": "ministry-of-housing-communities-and-local-government",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London,",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Statistics",
+      "analyst",
+      "design",
+      "embedded",
+      "infosec",
+      "technical",
+      "customer support",
+      "testing",
+      "dev",
+      "scheme",
+      "exec",
+      "content writing"
+    ],
+    "category": "Data Science",
+    "description_summary": "Bristol, Darlington, London, Manchester, Wolverhampton Job Summary We are MHCLG Here at the Ministry of Housing, Communities & Local Government (MHCLG), we work on things that make a real difference to peopleâs lives. Whether it's through the homes we live...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-performance-analyst-ministry-of-housing-communities-and-local-government-1135348",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135348",
+    "published_at": "2026-07-22",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Performance Analyst",
+      "description": "Bristol, Darlington, London, Manchester, Wolverhampton Job Summary We are MHCLG Here at the Ministry of Housing, Communities & Local Government (MHCLG), we work on things that make a real difference to peopleâs lives. Whether it's through the homes we live...",
+      "datePosted": "2026-07-22",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Ministry of Housing, Communities and Local Government"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135348",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "director-of-customer-experience-lifemd-usa-remoteok-1135238",
     "slug": "director-of-customer-experience-lifemd-usa-remoteok-1135238",
     "title": "Director of Customer Experience",
@@ -3923,203 +4057,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5140403008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "enterprise-it-support-specialist-nymbus-usa-remoteok-1135194",
-    "slug": "enterprise-it-support-specialist-nymbus-usa-remoteok-1135194",
-    "title": "Enterprise IT Support Specialist",
-    "seo_title": "Remote Enterprise IT Support Specialist Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Enterprise IT Support Specialist job at Nymbus in USA. Explore Python, RAG, design, sys admin and remote AI jobs.",
-    "company": {
-      "name": "Nymbus",
-      "slug": "nymbus",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Jacksonville, Jacksonville, Florida, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "design",
-      "sys admin",
-      "recruiter",
-      "marketing",
-      "exec",
-      "senior",
-      "ops",
-      "stats",
-      "medical",
-      "full time"
-    ],
-    "category": "Robotics",
-    "description_summary": "Nymbus (https://nymbus.com/) isn't just a leader in fintech; we're a community of innovators passionate about reimagining banking. Our award-winning modern core platform and cloud-based technology serve as the backbone for financial institutions eager to...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-enterprise-it-support-specialist-nymbus-1135194",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1135194",
-    "published_at": "2026-07-21",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Enterprise IT Support Specialist",
-      "description": "Nymbus (https://nymbus.com/) isn't just a leader in fintech; we're a community of innovators passionate about reimagining banking. Our award-winning modern core platform and cloud-based technology serve as the backbone for financial institutions eager to...",
-      "datePosted": "2026-07-21",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Nymbus"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1135194",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "human-resources-generalist-insight-global-usa-remoteok-1135202",
-    "slug": "human-resources-generalist-insight-global-usa-remoteok-1135202",
-    "title": "Human Resources Generalist",
-    "seo_title": "Remote Human Resources Generalist Job in USA | MLOps Jobs",
-    "seo_description": "Apply for a remote Human Resources Generalist job at Insight Global in USA. Explore Python, LLM, AWS, design and remote AI jobs.",
-    "company": {
-      "name": "Insight Global",
-      "slug": "insight-global",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Washington, Washington, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "entry",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "LLM",
-      "AWS",
-      "design",
-      "sys admin",
-      "recruiter",
-      "marketing",
-      "exec",
-      "senior",
-      "ops",
-      "stats",
-      "medical"
-    ],
-    "category": "MLOps",
-    "description_summary": "Title: HR Generalist/Recruiter Location: Remote (Washington State preferred) 6 month contract to hire Pay: $30-32/hr Required Skills & Experience Qualifications: - 3+ years of experience in Human Resources, Talent Acquisition, or a combined HR/Recruiting...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-human-resources-generalist-insight-global-1135202",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1135202",
-    "published_at": "2026-07-21",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Human Resources Generalist",
-      "description": "Title: HR Generalist/Recruiter Location: Remote (Washington State preferred) 6 month contract to hire Pay: $30-32/hr Required Skills & Experience Qualifications: - 3+ years of experience in Human Resources, Talent Acquisition, or a combined HR/Recruiting...",
-      "datePosted": "2026-07-21",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Insight Global"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1135202",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "nurse-manager-call-4-health-worldwide-remoteok-1135204",
-    "slug": "nurse-manager-call-4-health-worldwide-remoteok-1135204",
-    "title": "Nurse Manager",
-    "seo_title": "Remote Nurse Manager Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Nurse Manager job at Call 4 Health in Worldwide. Explore Python, RAG, design, sys admin and remote AI jobs.",
-    "company": {
-      "name": "Call 4 Health",
-      "slug": "call-4-health",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Florida,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "design",
-      "sys admin",
-      "recruiter",
-      "marketing",
-      "exec",
-      "senior",
-      "ops",
-      "stats",
-      "medical",
-      "full time"
-    ],
-    "category": "Robotics",
-    "description_summary": "Job Details Description Job Summary The Nurse Manager at Call 4 Health will oversee the daily operations of the Nurse Triage team, ensuring the highest quality of patient care, compliance with healthcare regulations, and optimal staff performance. This...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-nurse-manager-call-4-health-1135204",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1135204",
-    "published_at": "2026-07-21",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Nurse Manager",
-      "description": "Job Details Description Job Summary The Nurse Manager at Call 4 Health will oversee the daily operations of the Nurse Triage team, ensuring the highest quality of patient care, compliance with healthcare regulations, and optimal staff performance. This...",
-      "datePosted": "2026-07-21",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Call 4 Health"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1135204",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5393,65 +5330,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -5506,6 +5384,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -6315,63 +6252,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-industries-anthropic-uk-greenhouse-anthropic-5278230008",
-    "slug": "applied-ai-architect-industries-anthropic-uk-greenhouse-anthropic-5278230008",
-    "title": "Applied AI Architect, Industries",
-    "seo_title": "Remote Applied AI Architect, Industries Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in UK. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Industries",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-5204086008",
     "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-5204086008",
     "title": "Applied AI Architect, Industries",
@@ -6425,6 +6305,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5204086008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-industries-anthropic-uk-greenhouse-anthropic-5278230008",
+    "slug": "applied-ai-architect-industries-anthropic-uk-greenhouse-anthropic-5278230008",
+    "title": "Applied AI Architect, Industries",
+    "seo_title": "Remote Applied AI Architect, Industries Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in UK. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Industries",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008"
     },
     "ai_relevant": true
   },
@@ -6869,61 +6806,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "published_at": "2026-07-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-14",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "title": "Commercial Counsel, APAC",
@@ -6975,6 +6857,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
+    "published_at": "2026-07-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-07-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
     },
     "ai_relevant": true
   },
@@ -10058,79 +9995,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remotive-2091035",
-    "slug": "mid-senior-ai-cinematic-video-editor-everai-worldwide-remotive-2091035",
-    "title": "Mid/Senior AI Cinematic Video Editor",
-    "seo_title": "Remote Mid/Senior AI Cinematic Video Editor Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Mid/Senior AI Cinematic Video Editor job at EverAI in Worldwide. Explore LLM, AWS, excel, video and remote AI jobs.",
-    "company": {
-      "name": "EverAI",
-      "slug": "everai",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Worldwide",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 100000,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "skills": [
-      "LLM",
-      "AWS",
-      "excel",
-      "video",
-      "AI/ML",
-      "customer acquisition",
-      "graphic design",
-      "video production",
-      "after effects",
-      "editing",
-      "SOLID",
-      "REST"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect...",
-    "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
-    "published_at": "2026-06-24",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Mid/Senior AI Cinematic Video Editor",
-      "description": "Our Vision & Products 🚀 EverAI — Building the Future of AI Companionship One of the Top 15 Largest & Fastest-Growing AI Companies in the World 50 Million Users in 2 years — Help Us Reach 100M first, 500M next At EverAI , we’re shaping what it means to connect...",
-      "datePosted": "2026-06-24",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EverAI"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/artificial-intelligence/mid-senior-ai-cinematic-video-editor-2091035",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 100000,
-          "maxValue": null,
-          "unitText": "YEAR"
-        }
       }
     },
     "ai_relevant": true
