@@ -7,32 +7,39 @@
     "jobs_count": 80
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 19
+    "jobs_count": 11
   },
   {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 17
+    "jobs_count": 10
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 7
   },
   {
     "name": "Twilio",
     "slug": "twilio",
     "logo_url": null,
     "website": null,
-    "jobs_count": 13
+    "jobs_count": 5
   },
   {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
+    "name": "Hightouch",
+    "slug": "hightouch",
     "logo_url": null,
     "website": null,
-    "jobs_count": 11
+    "jobs_count": 3
   },
   {
     "name": "Lemon.io",
@@ -42,6 +49,83 @@
     "jobs_count": 3
   },
   {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Tebra",
+    "slug": "tebra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Everpure",
+    "slug": "everpure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Abnormal",
+    "slug": "abnormal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Mercury",
+    "slug": "mercury",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
@@ -49,15 +133,43 @@
     "jobs_count": 2
   },
   {
-    "name": "Solventum",
-    "slug": "solventum",
+    "name": "JetBrains",
+    "slug": "jetbrains",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Palo Alto Networks",
-    "slug": "palo-alto-networks",
+    "name": "Fivetran",
+    "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bybit",
+    "slug": "bybit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -65,6 +177,13 @@
   {
     "name": "Medtronic",
     "slug": "medtronic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Verra Mobility",
+    "slug": "verra-mobility",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -91,13 +210,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Vorest Ag",
-    "slug": "vorest-ag",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "PerkinElmer",
     "slug": "perkinelmer",
     "logo_url": null,
@@ -119,27 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Mindrift",
-    "slug": "mindrift",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jobgether",
-    "slug": "jobgether",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ESM",
-    "slug": "esm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "REDspace",
     "slug": "redspace",
     "logo_url": null,
@@ -154,22 +245,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Penn Interactive",
-    "slug": "penn-interactive",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Common Room",
     "slug": "common-room",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hightouch",
-    "slug": "hightouch",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -212,13 +289,6 @@
   {
     "name": "Call 4 Health",
     "slug": "call-4-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ð© ð ð¥ ð§ ð¥ ð ð¢",
-    "slug": "company",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
