@@ -56,6 +56,69 @@
     "ai_relevant": true
   },
   {
+    "id": "paralegal-giga-energy-worldwide-remoteok-1135386",
+    "slug": "paralegal-giga-energy-worldwide-remoteok-1135386",
+    "title": "Paralegal",
+    "seo_title": "Remote Paralegal Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Paralegal job at Giga Energy in Worldwide. Explore RAG, AWS, saas, salesforce and remote AI jobs.",
+    "company": {
+      "name": "Giga Energy",
+      "slug": "giga-energy",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Greater Houston,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "saas",
+      "salesforce",
+      "hr",
+      "recruiter",
+      "customer support",
+      "dev",
+      "exec",
+      "ops",
+      "stats",
+      "medical"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Why join Giga The Pace: We're building at a speed most companies talk about but never actually operate at. If you've been bored somewhere else, you won't be here. The Impact: Every person at Giga touches the work that matters. No layers, no waiting for...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-paralegal-giga-energy-1135386",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135386",
+    "published_at": "2026-07-24",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Paralegal",
+      "description": "Why join Giga The Pace: We're building at a speed most companies talk about but never actually operate at. If you've been bored somewhere else, you won't be here. The Impact: Every person at Giga touches the work that matters. No layers, no waiting for...",
+      "datePosted": "2026-07-24",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Giga Energy"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135386",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "executive-assistant-ritual-adsa-usa-remoteok-1135344",
     "slug": "executive-assistant-ritual-adsa-usa-remoteok-1135344",
     "title": "Executive Assistant",
@@ -4189,73 +4252,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5240422008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "performance-analyst-ministry-of-housing-communities-and-local-government-uk-remoteok-1135348",
-    "slug": "performance-analyst-ministry-of-housing-communities-and-local-government-uk-remoteok-1135348",
-    "title": "Performance Analyst",
-    "seo_title": "Remote Performance Analyst Job in UK | Data Science Jobs",
-    "seo_description": "Apply for a remote Performance Analyst job at Ministry of Housing, Communities and Local Government in UK. Explore Statistics, analyst, design, embedded...",
-    "company": {
-      "name": "Ministry of Housing, Communities and Local Government",
-      "slug": "ministry-of-housing-communities-and-local-government",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London,",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Statistics",
-      "analyst",
-      "design",
-      "embedded",
-      "infosec",
-      "technical",
-      "customer support",
-      "testing",
-      "dev",
-      "scheme",
-      "exec",
-      "content writing"
-    ],
-    "category": "Data Science",
-    "description_summary": "Bristol, Darlington, London, Manchester, Wolverhampton Job Summary We are MHCLG Here at the Ministry of Housing, Communities & Local Government (MHCLG), we work on things that make a real difference to peopleâs lives. Whether it's through the homes we live...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-performance-analyst-ministry-of-housing-communities-and-local-government-1135348",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1135348",
-    "published_at": "2026-07-22",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Performance Analyst",
-      "description": "Bristol, Darlington, London, Manchester, Wolverhampton Job Summary We are MHCLG Here at the Ministry of Housing, Communities & Local Government (MHCLG), we work on things that make a real difference to peopleâs lives. Whether it's through the homes we live...",
-      "datePosted": "2026-07-22",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Ministry of Housing, Communities and Local Government"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1135348",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
-      }
     },
     "ai_relevant": true
   },
