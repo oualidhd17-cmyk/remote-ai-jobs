@@ -28,15 +28,15 @@
     "jobs_count": 7
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Twilio",
     "slug": "twilio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -124,6 +124,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "EverAI",
+    "slug": "everai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "JetBrains",
@@ -217,6 +224,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Outsite",
+    "slug": "outsite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Medtronic",
     "slug": "medtronic",
     "logo_url": null,
@@ -266,13 +280,6 @@
     "jobs_count": 1
   },
   {
-    "name": "GM",
-    "slug": "gm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "PerkinElmer",
     "slug": "perkinelmer",
     "logo_url": null,
@@ -310,13 +317,6 @@
   {
     "name": "Common Room",
     "slug": "common-room",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LifeMD",
-    "slug": "lifemd",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
