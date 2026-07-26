@@ -126,6 +126,13 @@
     "jobs_count": 2
   },
   {
+    "name": "MyVA Support (MyVAS)",
+    "slug": "myva-support-myvas",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "EverAI",
     "slug": "everai",
     "logo_url": null,
@@ -149,6 +156,20 @@
   {
     "name": "CELSIUS",
     "slug": "celsius",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "DAZN",
+    "slug": "dazn",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "SkyWest Airlines",
+    "slug": "skywest-airlines",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -268,13 +289,6 @@
   {
     "name": "Phillips Corporation",
     "slug": "phillips-corporation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "UFC GYM",
-    "slug": "ufc-gym",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
