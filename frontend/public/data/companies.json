@@ -84,6 +84,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Everpure",
+    "slug": "everpure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Collibra",
     "slug": "collibra",
     "logo_url": null,
@@ -210,13 +217,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Otterly.ai",
-    "slug": "otterly-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "OnTheGoSystems",
     "slug": "onthegosystems",
     "logo_url": null,
@@ -233,13 +233,6 @@
   {
     "name": "Fivetran",
     "slug": "fivetran",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Everpure",
-    "slug": "everpure",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -275,27 +268,6 @@
   {
     "name": "Medtronic",
     "slug": "medtronic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "INNERGY",
-    "slug": "innergy",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Rose, Klein & Marias",
-    "slug": "rose-klein-marias",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Phillips Corporation",
-    "slug": "phillips-corporation",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
