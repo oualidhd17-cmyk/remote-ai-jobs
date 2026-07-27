@@ -18,18 +18,11 @@
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 10
+    "jobs_count": 8
   },
   {
     "name": "Stripe",
     "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 7
-  },
-  {
-    "name": "Twilio",
-    "slug": "twilio",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -56,36 +49,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Jumio",
-    "slug": "jumio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Webflow",
-    "slug": "webflow",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Tebra",
-    "slug": "tebra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Smartsheet",
     "slug": "smartsheet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Everpure",
-    "slug": "everpure",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -126,11 +91,95 @@
     "jobs_count": 2
   },
   {
+    "name": "Twilio",
+    "slug": "twilio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "BetMGM",
+    "slug": "betmgm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Newfold Digital",
+    "slug": "newfold-digital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bavarian Nordic",
+    "slug": "bavarian-nordic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pepperl+Fuchs",
+    "slug": "pepperl-fuchs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "DCX",
+    "slug": "dcx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Gartner",
+    "slug": "gartner",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tarkett",
+    "slug": "tarkett",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "REGEX SEO",
+    "slug": "regex-seo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "DexCom",
+    "slug": "dexcom",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Otterly.ai",
+    "slug": "otterly-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Revlytic",
+    "slug": "revlytic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Radiant Industries",
@@ -203,13 +252,6 @@
     "jobs_count": 1
   },
   {
-    "name": "e.l.f. Beauty",
-    "slug": "e-l-f-beauty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -231,8 +273,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Fivetran",
-    "slug": "fivetran",
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
