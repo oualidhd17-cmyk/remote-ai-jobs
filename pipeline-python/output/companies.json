@@ -21,8 +21,8 @@
     "jobs_count": 8
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
+    "name": "Smartsheet",
+    "slug": "smartsheet",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -42,11 +42,25 @@
     "jobs_count": 3
   },
   {
-    "name": "Hightouch",
-    "slug": "hightouch",
+    "name": "Twilio",
+    "slug": "twilio",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Celonis",
+    "slug": "celonis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Dropbox",
@@ -56,15 +70,15 @@
     "jobs_count": 2
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
+    "name": "Collibra",
+    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
+    "name": "Hightouch",
+    "slug": "hightouch",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -84,22 +98,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Mercury",
     "slug": "mercury",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Twilio",
-    "slug": "twilio",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -114,6 +114,13 @@
   {
     "name": "BetMGM",
     "slug": "betmgm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Huzzle",
+    "slug": "huzzle",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -175,13 +182,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Otterly.ai",
-    "slug": "otterly-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Revlytic",
     "slug": "revlytic",
     "logo_url": null,
@@ -217,50 +217,8 @@
     "jobs_count": 1
   },
   {
-    "name": "CoâStar",
-    "slug": "coastar",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CELSIUS",
-    "slug": "celsius",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "DAZN",
-    "slug": "dazn",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Here Now Films",
-    "slug": "here-now-films",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "OnTheGoSystems",
-    "slug": "onthegosystems",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Yoko Co",
     "slug": "yoko-co",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,6 +247,13 @@
   {
     "name": "Bybit",
     "slug": "bybit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
