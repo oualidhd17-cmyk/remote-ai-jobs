@@ -28,13 +28,6 @@
     "jobs_count": 4
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -58,6 +51,13 @@
   {
     "name": "Celonis",
     "slug": "celonis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -114,6 +114,34 @@
   {
     "name": "BetMGM",
     "slug": "betmgm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Blend",
+    "slug": "blend",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ajaia | AI Consultancy",
+    "slug": "ajaia-ai-consultancy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bjak",
+    "slug": "bjak",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mongoose",
+    "slug": "mongoose",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -184,13 +212,6 @@
   {
     "name": "Revlytic",
     "slug": "revlytic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Radiant Industries",
-    "slug": "radiant-industries",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
