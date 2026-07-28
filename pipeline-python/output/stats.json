@@ -18,10 +18,10 @@
     "greenhouse": 80
   },
   "category_counts": {
-    "Data Analytics": 13,
-    "AI Engineering": 109,
-    "Data Science": 17,
-    "Robotics": 19,
+    "Data Analytics": 14,
+    "AI Engineering": 108,
+    "Data Science": 16,
+    "Robotics": 20,
     "MLOps": 10,
     "NLP": 3,
     "Machine Learning": 2,
@@ -30,9 +30,9 @@
   "country_counts": {
     "Worldwide": 137,
     "Australia": 7,
-    "USA": 19,
+    "USA": 18,
+    "UK": 6,
     "Germany": 3,
-    "UK": 5,
     "Singapore": 2,
     "Ireland": 2
   }
