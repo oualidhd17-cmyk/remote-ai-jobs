@@ -4,14 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 80
+    "jobs_count": 30
   },
   {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
-    "jobs_count": 13
+    "jobs_count": 11
   },
   {
     "name": "Coinbase",
@@ -21,11 +21,18 @@
     "jobs_count": 8
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Smartsheet",
     "slug": "smartsheet",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "Lemon.io",
@@ -42,22 +49,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Celonis",
     "slug": "celonis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -72,13 +65,6 @@
   {
     "name": "Collibra",
     "slug": "collibra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Hightouch",
-    "slug": "hightouch",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -105,6 +91,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
@@ -114,6 +107,13 @@
   {
     "name": "BetMGM",
     "slug": "betmgm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "RemoteFront",
+    "slug": "remotefront",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -149,13 +149,6 @@
   {
     "name": "Huzzle",
     "slug": "huzzle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Newfold Digital",
-    "slug": "newfold-digital",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,13 +203,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Revlytic",
-    "slug": "revlytic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "EverAI",
     "slug": "everai",
     "logo_url": null,
@@ -261,6 +247,13 @@
   {
     "name": "Bybit",
     "slug": "bybit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hightouch",
+    "slug": "hightouch",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
