@@ -18,14 +18,7 @@
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 8
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
+    "jobs_count": 6
   },
   {
     "name": "Smartsheet",
@@ -49,6 +42,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Remote",
+    "slug": "remote",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Celonis",
     "slug": "celonis",
     "logo_url": null,
@@ -56,8 +56,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Dropbox",
-    "slug": "dropbox",
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -65,6 +65,13 @@
   {
     "name": "Collibra",
     "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Hightouch",
+    "slug": "hightouch",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -91,18 +98,25 @@
     "jobs_count": 2
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "CertifyOS",
+    "slug": "certifyos",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "YO AI Labs",
+    "slug": "yo-ai-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "BetMGM",
@@ -224,6 +238,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Webflow",
     "slug": "webflow",
     "logo_url": null,
@@ -252,15 +273,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Hightouch",
-    "slug": "hightouch",
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
+    "name": "GitLab",
+    "slug": "gitlab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -324,6 +345,13 @@
   {
     "name": "Common Room",
     "slug": "common-room",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
