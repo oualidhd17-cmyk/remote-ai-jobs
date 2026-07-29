@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 31
   },
   {
     "name": "LawnStarter",
@@ -21,15 +21,15 @@
     "jobs_count": 6
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -70,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Hightouch",
-    "slug": "hightouch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Sezzle",
     "slug": "sezzle",
     "logo_url": null,
@@ -98,6 +91,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
@@ -105,8 +105,29 @@
     "jobs_count": 2
   },
   {
+    "name": "RETR",
+    "slug": "retr",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "TestGorilla",
     "slug": "testgorilla",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ROAR Organic",
+    "slug": "roar-organic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hustler Marketing",
+    "slug": "hustler-marketing",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -121,13 +142,6 @@
   {
     "name": "YO AI Labs",
     "slug": "yo-ai-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "BetMGM",
-    "slug": "betmgm",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -163,13 +177,6 @@
   {
     "name": "Mongoose",
     "slug": "mongoose",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Huzzle",
-    "slug": "huzzle",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -280,6 +287,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Hightouch",
+    "slug": "hightouch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Reddit",
     "slug": "reddit",
     "logo_url": null,
@@ -352,13 +366,6 @@
   {
     "name": "Common Room",
     "slug": "common-room",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Stripe",
-    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
