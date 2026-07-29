@@ -105,6 +105,13 @@
     "jobs_count": 2
   },
   {
+    "name": "TestGorilla",
+    "slug": "testgorilla",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "CertifyOS",
     "slug": "certifyos",
     "logo_url": null,
@@ -394,13 +401,6 @@
   {
     "name": "Clerky, Inc.",
     "slug": "clerky-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Impact Clients",
-    "slug": "impact-clients",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

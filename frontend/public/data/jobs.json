@@ -1,5 +1,62 @@
 [
   {
+    "id": "senior-demand-generation-manager-testgorilla-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-testgorilla-senior-demand-generation-manager",
+    "slug": "senior-demand-generation-manager-testgorilla-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-testgorilla-senior-demand-generation-manager",
+    "title": "Senior Demand Generation Manager",
+    "seo_title": "Remote Senior Demand Generation Manager Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Demand Generation Manager job at TestGorilla in Worldwide. Explore SQL, LLM, RAG, Statistics and remote AI jobs.",
+    "company": {
+      "name": "TestGorilla",
+      "slug": "testgorilla",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "LLM",
+      "RAG",
+      "Statistics",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Netherlands URL: https://www.testgorilla.com/careers ✨ Where do we hire from? Find out if we're hiring in your location from hiring at TestGorilla Hi there, I'm Mehak , interim Head of Marketing at TestGorilla. We’re excited to share more about...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/testgorilla-senior-demand-generation-manager",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/testgorilla-senior-demand-generation-manager",
+    "published_at": "2026-07-29",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Demand Generation Manager",
+      "description": "Headquarters: Netherlands URL: https://www.testgorilla.com/careers ✨ Where do we hire from? Find out if we're hiring in your location from hiring at TestGorilla Hi there, I'm Mehak , interim Head of Marketing at TestGorilla. We’re excited to share more about...",
+      "datePosted": "2026-07-29",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "TestGorilla"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/testgorilla-senior-demand-generation-manager",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "accountant-remote-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-accountant-1",
     "slug": "accountant-remote-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-accountant-1",
     "title": "Accountant",
@@ -6918,83 +6975,6 @@
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/customer-service/customer-operations-writing-specialist-2090942",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "client-success-coach-csm-impact-clients-usa-remotive-2091039",
-    "slug": "client-success-coach-csm-impact-clients-usa-remotive-2091039",
-    "title": "Client Success Coach (CSM)",
-    "seo_title": "Remote Client Success Coach (CSM) Job in USA | NLP Jobs",
-    "seo_description": "Apply for a remote Client Success Coach (CSM) job at Impact Clients in USA. Explore LLM, RAG, backend, video and remote AI jobs.",
-    "company": {
-      "name": "Impact Clients",
-      "slug": "impact-clients",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Northern America, Europe, South Africa",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 120000,
-    "salary_max": 220000,
-    "salary_currency": "USD",
-    "skills": [
-      "LLM",
-      "RAG",
-      "backend",
-      "video",
-      "CRM",
-      "youtube",
-      "organic marketing",
-      "onboarding",
-      "spreadsheets",
-      "gsuite",
-      "Customer Service",
-      "full_time"
-    ],
-    "category": "NLP",
-    "description_summary": "We’re looking for a full-time Client Success Coach to join our fast-growing team at Richard Yu’s online education company. Our mission is simple: help everyday people launch impactful online digital arbitrage businesses that transform lives—starting with...",
-    "apply_url": "https://remotive.com/remote-jobs/customer-service/client-success-coach-csm-2091039",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/customer-service/client-success-coach-csm-2091039",
-    "published_at": "2026-06-29",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Client Success Coach (CSM)",
-      "description": "We’re looking for a full-time Client Success Coach to join our fast-growing team at Richard Yu’s online education company. Our mission is simple: help everyday people launch impactful online digital arbitrage businesses that transform lives—starting with...",
-      "datePosted": "2026-06-29",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Impact Clients"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/customer-service/client-success-coach-csm-2091039",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      },
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 120000,
-          "maxValue": 220000,
-          "unitText": "YEAR"
-        }
-      }
     },
     "ai_relevant": true
   }
