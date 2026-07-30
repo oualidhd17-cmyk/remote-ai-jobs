@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 31
   },
   {
     "name": "LawnStarter",
@@ -25,7 +25,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 5
   },
   {
     "name": "Customer.io",
@@ -44,6 +44,13 @@
   {
     "name": "Maven Clinic",
     "slug": "maven-clinic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "TestGorilla",
+    "slug": "testgorilla",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -105,8 +112,15 @@
     "jobs_count": 1
   },
   {
-    "name": "TestGorilla",
-    "slug": "testgorilla",
+    "name": "Oula",
+    "slug": "oula",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "HiredBuddy",
+    "slug": "hiredbuddy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -149,27 +163,6 @@
   {
     "name": "RemoteFront",
     "slug": "remotefront",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Blend",
-    "slug": "blend",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ajaia | AI Consultancy",
-    "slug": "ajaia-ai-consultancy",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Bjak",
-    "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,13 +212,6 @@
   {
     "name": "DexCom",
     "slug": "dexcom",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EverAI",
-    "slug": "everai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
