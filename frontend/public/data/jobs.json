@@ -1,5 +1,62 @@
 [
   {
+    "id": "senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote-hygraph-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hygraph-senior-fullstack-en",
+    "slug": "senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote-hygraph-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hygraph-senior-fullstack-en",
+    "title": "Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
+    "seo_title": "Remote Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote job at Hygraph in Worldwide. Explore SQL, RAG, AWS, GCP and remote...",
+    "company": {
+      "name": "Hygraph",
+      "slug": "hygraph",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "AWS",
+      "GCP",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Dircksenstraße 47, 10178 Berlin, Germany URL: https://hygraph.com How will you make an impact? As a Senior Full Stack Engineer, you'll work at the intersection of engineering and product to shape how our users build with Hygraph. You'll ship...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
+    "published_at": "2026-07-31",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
+      "description": "Headquarters: Dircksenstraße 47, 10178 Berlin, Germany URL: https://hygraph.com How will you make an impact? As a Senior Full Stack Engineer, you'll work at the intersection of engineering and product to shape how our users build with Hygraph. You'll ship...",
+      "datePosted": "2026-07-31",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Hygraph"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "group-product-manager-argentina-ebanx-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ebanx-group-product-manager-argentina",
     "slug": "group-product-manager-argentina-ebanx-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ebanx-group-product-manager-argentina",
     "title": "Group Product Manager | Argentina",
@@ -1790,69 +1847,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1135575",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "ai-intern-certifyos-worldwide-remoteok-1135555",
-    "slug": "ai-intern-certifyos-worldwide-remoteok-1135555",
-    "title": "AI Intern",
-    "seo_title": "Remote AI Intern Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote AI Intern job at CertifyOS in Worldwide. Explore Python, SQL, Machine Learning, LLM and remote AI jobs.",
-    "company": {
-      "name": "CertifyOS",
-      "slug": "certifyos",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Pune",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "GCP",
-      "MLflow",
-      "design",
-      "sys admin",
-      "technical",
-      "dev",
-      "testing"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare. Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-intern-certifyos-1135555",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1135555",
-    "published_at": "2026-07-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Intern",
-      "description": "About CertifyOS CertifyOS is building the data infrastructure that powers modern healthcare. Today, healthcare organizations rely on fragmented and outdated provider data. This creates unnecessary administrative work, regulatory risk, and higher costs across...",
-      "datePosted": "2026-07-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "CertifyOS"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1135555",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
