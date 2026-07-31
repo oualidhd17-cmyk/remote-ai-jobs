@@ -14,15 +14,15 @@
     "jobs_count": 11
   },
   {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 6
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 5
@@ -103,6 +103,34 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "EBANX",
+    "slug": "ebanx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Amwell",
+    "slug": "amwell",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CLANX",
+    "slug": "clanx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Harvey Nash",
@@ -329,13 +357,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Medtronic",
-    "slug": "medtronic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Nuuly",
     "slug": "nuuly",
     "logo_url": null,
@@ -357,13 +378,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Magellan Health",
-    "slug": "magellan-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "REDspace",
     "slug": "redspace",
     "logo_url": null,
@@ -373,13 +387,6 @@
   {
     "name": "cFive Solutions",
     "slug": "cfive-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Stripe",
-    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
