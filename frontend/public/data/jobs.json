@@ -1,5 +1,135 @@
 [
   {
+    "id": "human-resources-specialist-harvey-nash-usa-remoteok-1135675",
+    "slug": "human-resources-specialist-harvey-nash-usa-remoteok-1135675",
+    "title": "Human Resources Specialist",
+    "seo_title": "Remote Human Resources Specialist Job in USA | Data Science Jobs",
+    "seo_description": "Apply for a remote Human Resources Specialist job at Harvey Nash in USA. Explore Python, testing, education, exec and remote AI jobs.",
+    "company": {
+      "name": "Harvey Nash",
+      "slug": "harvey-nash",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "California, California, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "testing",
+      "education",
+      "exec",
+      "content writing",
+      "marketing",
+      "part time",
+      "design",
+      "technical",
+      "coordinator",
+      "customer support",
+      "travel"
+    ],
+    "category": "Data Science",
+    "description_summary": "Harvey Nash USA has been engaged to find a talented HR Operations Specialist for a leading healthcare organization committed to delivering exceptional employee experiences through operational excellence. Job Title: HR Operations Specialist Location: Remote...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-human-resources-specialist-harvey-nash-1135675",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135675",
+    "published_at": "2026-07-30",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Human Resources Specialist",
+      "description": "Harvey Nash USA has been engaged to find a talented HR Operations Specialist for a leading healthcare organization committed to delivering exceptional employee experiences through operational excellence. Job Title: HR Operations Specialist Location: Remote...",
+      "datePosted": "2026-07-30",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Harvey Nash"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135675",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "traveler-care-specialist-luxury-travel-zicasso-worldwide-remoteok-1135640",
+    "slug": "traveler-care-specialist-luxury-travel-zicasso-worldwide-remoteok-1135640",
+    "title": "Traveler Care Specialist Luxury Travel",
+    "seo_title": "Remote Traveler Care Specialist Luxury Travel Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Traveler Care Specialist Luxury Travel job at Zicasso in Worldwide. Explore RAG, travel, education, transcribing and remote AI jobs.",
+    "company": {
+      "name": "Zicasso",
+      "slug": "zicasso",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "travel",
+      "education",
+      "transcribing",
+      "dev",
+      "marketing",
+      "exec",
+      "video",
+      "ops",
+      "excel",
+      "stats",
+      "sales"
+    ],
+    "category": "Robotics",
+    "description_summary": "Company Overview Established in 2008, Zicasso is the most-reviewed and highest-rated luxury travel company, specializing in immersive custom tours, vacations, and safaris. Our Zicasso travel specialists are the worldâs top 2% of boutique tour operators and...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-traveler-care-specialist-luxury-travel-zicasso-1135640",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135640",
+    "published_at": "2026-07-30",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Traveler Care Specialist Luxury Travel",
+      "description": "Company Overview Established in 2008, Zicasso is the most-reviewed and highest-rated luxury travel company, specializing in immersive custom tours, vacations, and safaris. Our Zicasso travel specialists are the worldâs top 2% of boutique tour operators and...",
+      "datePosted": "2026-07-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Zicasso"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135640",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "director-of-business-development-silverorange-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-silverorange-director-of-business-development",
     "slug": "director-of-business-development-silverorange-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-silverorange-director-of-business-development",
     "title": "Director of Business Development",
@@ -332,6 +462,68 @@
           "maxValue": 100000,
           "unitText": "YEAR"
         }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "copy-editor-missionstaff-usa-remoteok-1135668",
+    "slug": "copy-editor-missionstaff-usa-remoteok-1135668",
+    "title": "Copy Editor",
+    "seo_title": "Remote Copy Editor Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Copy Editor job at MissionStaff in USA. Explore RAG, testing, education, exec and remote AI jobs.",
+    "company": {
+      "name": "MissionStaff",
+      "slug": "missionstaff",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Pennsylvania, Pennsylvania, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "testing",
+      "education",
+      "exec",
+      "content writing",
+      "marketing",
+      "part time"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "We connect top talent in Business Services, Tech, Marketing & Creative with companies of all sizesâoffering flexible, high-touch staffing solutions. We are currently filling the following contract job for our client. Job Title : Copy Editor *30 hours/week...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-copy-editor-missionstaff-1135668",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135668",
+    "published_at": "2026-07-29",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Copy Editor",
+      "description": "We connect top talent in Business Services, Tech, Marketing & Creative with companies of all sizesâoffering flexible, high-touch staffing solutions. We are currently filling the following contract job for our client. Job Title : Copy Editor *30 hours/week...",
+      "datePosted": "2026-07-29",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "MissionStaff"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135668",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
       }
     },
     "ai_relevant": true
@@ -4847,7 +5039,7 @@
     "source_url": "https://remotive.com/remote-jobs/software-development/senior-independent-ai-engineer-architect-1919266",
     "published_at": "2026-07-16",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4915,7 +5107,7 @@
     "source_url": "https://remotive.com/remote-jobs/marketing/head-of-marketing-communications-2091068",
     "published_at": "2026-07-16",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4981,7 +5173,7 @@
     "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
     "published_at": "2026-07-16",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4997,61 +5189,6 @@
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5209196008",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "commercial-counsel-gtm-anthropic-worldwide-greenhouse-anthropic-5074052008",
-    "slug": "commercial-counsel-gtm-anthropic-worldwide-greenhouse-anthropic-5074052008",
-    "title": "Commercial Counsel, GTM",
-    "seo_title": "Remote Commercial Counsel, GTM Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, GTM job at anthropic in Worldwide. Explore RAG, AWS, Legal, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008",
-    "published_at": "2026-07-16",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, GTM",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-07-16",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008"
     },
     "ai_relevant": true
   },
