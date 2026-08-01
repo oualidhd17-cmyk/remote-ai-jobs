@@ -286,6 +286,79 @@
     "ai_relevant": true
   },
   {
+    "id": "genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-worldwide-remoteok-1135735",
+    "slug": "genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-worldwide-remoteok-1135735",
+    "title": "GenAI Engineer AI Builder AI Agent Associate Specialist",
+    "seo_title": "Remote GenAI Engineer AI Builder AI Agent Associate Specialist Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote GenAI Engineer AI Builder AI Agent Associate Specialist job at Magic Compass Limited in Worldwide. Explore Python, Machine Learning,...",
+    "company": {
+      "name": "Magic Compass Limited",
+      "slug": "magic-compass-limited",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 10000,
+    "salary_max": 20000,
+    "salary_currency": "USD",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "LLM",
+      "OpenAI",
+      "RAG",
+      "Spark",
+      "Prompt Engineering",
+      "Generative AI",
+      "ai",
+      "blockchain",
+      "artificial intelligence"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Employment Type: Full-time Contractor, Remote Working Hours: 9:00 AM â 6:00 PM Â Local Time About the Role We are looking for a proactiveÂ GenAI Engineer / AI Builder/ AI Agent Associate / AI Application Specialist to design and build AI-powered workflows...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-genai-engineer-ai-builder-ai-agent-associate-specialist-magic-compass-limited-1135735",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135735",
+    "published_at": "2026-07-31",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "GenAI Engineer AI Builder AI Agent Associate Specialist",
+      "description": "Employment Type: Full-time Contractor, Remote Working Hours: 9:00 AM â 6:00 PM Â Local Time About the Role We are looking for a proactiveÂ GenAI Engineer / AI Builder/ AI Agent Associate / AI Application Specialist to design and build AI-powered workflows...",
+      "datePosted": "2026-07-31",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Magic Compass Limited"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135735",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 10000,
+          "maxValue": 20000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "regional-general-manager-airports-westjet-worldwide-remoteok-1135745",
     "slug": "regional-general-manager-airports-westjet-worldwide-remoteok-1135745",
     "title": "Regional General Manager Airports",
