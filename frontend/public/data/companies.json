@@ -18,7 +18,14 @@
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 8
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
   },
   {
     "name": "Lemon.io",
@@ -35,11 +42,11 @@
     "jobs_count": 3
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
+    "name": "ClickHouse",
+    "slug": "clickhouse",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
     "name": "Maven Clinic",
@@ -65,13 +72,6 @@
   {
     "name": "Celonis",
     "slug": "celonis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Collibra",
-    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -110,6 +110,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Temporal Technologies",
+    "slug": "temporal-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "WestJet",
+    "slug": "westjet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "6 Figure Creative",
@@ -252,20 +266,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Oula",
-    "slug": "oula",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "HiredBuddy",
-    "slug": "hiredbuddy",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -315,15 +315,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Dropbox",
-    "slug": "dropbox",
+    "name": "Webflow",
+    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Webflow",
-    "slug": "webflow",
+    "name": "Collibra",
+    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -338,13 +338,6 @@
   {
     "name": "Bybit",
     "slug": "bybit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hightouch",
-    "slug": "hightouch",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -373,13 +366,6 @@
   {
     "name": "PerkinElmer",
     "slug": "perkinelmer",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PricewaterhouseCoopers",
-    "slug": "pricewaterhousecoopers",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
