@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 25
   },
   {
     "name": "LawnStarter",
@@ -18,7 +18,7 @@
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 7
   },
   {
     "name": "Lemon.io",
@@ -98,11 +98,25 @@
     "jobs_count": 2
   },
   {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "6 Figure Creative",
+    "slug": "6-figure-creative",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Hygraph",
@@ -135,6 +149,20 @@
   {
     "name": "CLANX",
     "slug": "clanx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tremendous",
+    "slug": "tremendous",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "MasterClass",
+    "slug": "masterclass",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -252,20 +280,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Pepperl+Fuchs",
-    "slug": "pepperl-fuchs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "DCX",
-    "slug": "dcx",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Tarkett",
     "slug": "tarkett",
     "logo_url": null,
@@ -373,13 +387,6 @@
   {
     "name": "REDspace",
     "slug": "redspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "cFive Solutions",
-    "slug": "cfive-solutions",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
