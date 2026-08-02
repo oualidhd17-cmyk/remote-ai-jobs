@@ -359,6 +359,73 @@
     "ai_relevant": true
   },
   {
+    "id": "human-resources-coordinator-pacific-health-group-usa-remoteok-1135783",
+    "slug": "human-resources-coordinator-pacific-health-group-usa-remoteok-1135783",
+    "title": "Human Resources Coordinator",
+    "seo_title": "Remote Human Resources Coordinator Job in USA | NLP Jobs",
+    "seo_description": "Apply for a remote Human Resources Coordinator job at Pacific Health Group in USA. Explore LLM, RAG, AWS, hr and remote AI jobs.",
+    "company": {
+      "name": "Pacific Health Group",
+      "slug": "pacific-health-group",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "San Diego, San Diego, California, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "hr",
+      "sys admin",
+      "education",
+      "recruiter",
+      "coordinator",
+      "customer support",
+      "marketing",
+      "exec",
+      "payroll"
+    ],
+    "category": "NLP",
+    "description_summary": "Job Snapshot Location: Remote - California (San Diego or Southern California Preferred) Employment Type: Full-Time Compensation: $28-30 per hour Schedule: Full-Time Work Environment: Remote Reports To: Human Resources Manager About Pacific Health Group At...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-human-resources-coordinator-pacific-health-group-1135783",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1135783",
+    "published_at": "2026-07-31",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Human Resources Coordinator",
+      "description": "Job Snapshot Location: Remote - California (San Diego or Southern California Preferred) Employment Type: Full-Time Compensation: $28-30 per hour Schedule: Full-Time Work Environment: Remote Reports To: Human Resources Manager About Pacific Health Group At...",
+      "datePosted": "2026-07-31",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Pacific Health Group"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1135783",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "regional-general-manager-airports-westjet-worldwide-remoteok-1135745",
     "slug": "regional-general-manager-airports-westjet-worldwide-remoteok-1135745",
     "title": "Regional General Manager Airports",
