@@ -18,7 +18,7 @@
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 8
   },
   {
     "name": "Smartsheet",
@@ -79,13 +79,6 @@
   {
     "name": "Celonis",
     "slug": "celonis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Abnormal",
-    "slug": "abnormal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -245,20 +238,6 @@
     "jobs_count": 1
   },
   {
-    "name": "MissionStaff",
-    "slug": "missionstaff",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ready",
-    "slug": "ready",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "RETR",
     "slug": "retr",
     "logo_url": null,
@@ -268,13 +247,6 @@
   {
     "name": "TestGorilla",
     "slug": "testgorilla",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "NestlÃ©",
-    "slug": "nestla",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -364,6 +336,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Abnormal",
+    "slug": "abnormal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Outsite",
     "slug": "outsite",
     "logo_url": null,
@@ -422,13 +401,6 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Clerky, Inc.",
-    "slug": "clerky-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
