@@ -35,13 +35,6 @@
     "jobs_count": 3
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Platform.sh",
     "slug": "platform-sh",
     "logo_url": null,
@@ -79,6 +72,13 @@
   {
     "name": "Remote",
     "slug": "remote",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -219,20 +219,6 @@
   {
     "name": "MasterClass",
     "slug": "masterclass",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Lyric",
-    "slug": "lyric",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mindrift - Data annotation",
-    "slug": "mindrift-data-annotation",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
