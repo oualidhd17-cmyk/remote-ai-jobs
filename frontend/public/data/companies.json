@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 25
+    "jobs_count": 26
   },
   {
     "name": "LawnStarter",
@@ -14,15 +14,15 @@
     "jobs_count": 11
   },
   {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 7
-  },
-  {
     "name": "Smartsheet",
     "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 5
@@ -77,6 +77,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Celonis",
+    "slug": "celonis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -98,18 +105,18 @@
     "jobs_count": 2
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "The Humane League",
+    "slug": "the-humane-league",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Faire",
@@ -175,13 +182,6 @@
     "jobs_count": 1
   },
   {
-    "name": "WestJet",
-    "slug": "westjet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "6 Figure Creative",
     "slug": "6-figure-creative",
     "logo_url": null,
@@ -205,20 +205,6 @@
   {
     "name": "Amwell",
     "slug": "amwell",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tremendous",
-    "slug": "tremendous",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "MasterClass",
-    "slug": "masterclass",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -359,6 +345,20 @@
   {
     "name": "REDspace",
     "slug": "redspace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "cFive Solutions",
+    "slug": "cfive-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
