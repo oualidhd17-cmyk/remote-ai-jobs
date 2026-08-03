@@ -18,7 +18,7 @@
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 8
+    "jobs_count": 7
   },
   {
     "name": "Smartsheet",
@@ -42,6 +42,20 @@
     "jobs_count": 3
   },
   {
+    "name": "Platform.sh",
+    "slug": "platform-sh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Fin",
+    "slug": "fin",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Doximity",
     "slug": "doximity",
     "logo_url": null,
@@ -63,22 +77,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Remote",
     "slug": "remote",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Celonis",
-    "slug": "celonis",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -110,6 +110,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Faire",
+    "slug": "faire",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PulseMediaNL",
+    "slug": "pulsemedianl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Asana",
@@ -231,6 +245,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Maven Clinic",
+    "slug": "maven-clinic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "RETR",
     "slug": "retr",
     "logo_url": null,
@@ -247,13 +268,6 @@
   {
     "name": "Toptal",
     "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Bavarian Nordic",
-    "slug": "bavarian-nordic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
