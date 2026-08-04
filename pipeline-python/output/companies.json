@@ -18,18 +18,32 @@
     "slug": "smartsheet",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 3
   },
   {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 3
   },
   {
-    "name": "Stability AI",
-    "slug": "stability-ai",
+    "name": "Jobgether",
+    "slug": "jobgether",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Uptalent.io",
+    "slug": "uptalent-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Power Digital",
+    "slug": "power-digital",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -63,13 +77,6 @@
     "jobs_count": 2
   },
   {
-    "name": "EBANX",
-    "slug": "ebanx",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "ClickHouse",
     "slug": "clickhouse",
     "logo_url": null,
@@ -98,20 +105,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Mercury",
-    "slug": "mercury",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Twilio",
-    "slug": "twilio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
@@ -126,8 +119,43 @@
     "jobs_count": 1
   },
   {
+    "name": "CapsLock",
+    "slug": "capslock",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Druva",
+    "slug": "druva",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Truelogic",
+    "slug": "truelogic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "us Haut.AI",
+    "slug": "us-haut-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Prove",
     "slug": "prove",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stability AI",
+    "slug": "stability-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -196,20 +224,6 @@
     "jobs_count": 1
   },
   {
-    "name": "BMWL",
-    "slug": "bmwl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pacific Health Group",
-    "slug": "pacific-health-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "6 Figure Creative",
     "slug": "6-figure-creative",
     "logo_url": null,
@@ -254,41 +268,6 @@
   {
     "name": "TestGorilla",
     "slug": "testgorilla",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Celonis",
-    "slug": "celonis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tarkett",
-    "slug": "tarkett",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "REGEX SEO",
-    "slug": "regex-seo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "DexCom",
-    "slug": "dexcom",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "JetBrains",
-    "slug": "jetbrains",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -373,13 +352,6 @@
   {
     "name": "cFive Solutions",
     "slug": "cfive-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Stripe",
-    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
