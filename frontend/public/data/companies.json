@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 26
+    "jobs_count": 80
   },
   {
     "name": "LawnStarter",
@@ -37,6 +37,13 @@
   {
     "name": "Platform.sh",
     "slug": "platform-sh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -147,6 +154,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Resource Guru",
+    "slug": "resource-guru",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Berni and Mick Ireland",
     "slug": "berni-and-mick-ireland",
     "logo_url": null,
@@ -156,13 +170,6 @@
   {
     "name": "Temporal Technologies",
     "slug": "temporal-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Magic Compass Limited",
-    "slug": "magic-compass-limited",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -233,13 +240,6 @@
   {
     "name": "TestGorilla",
     "slug": "testgorilla",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
