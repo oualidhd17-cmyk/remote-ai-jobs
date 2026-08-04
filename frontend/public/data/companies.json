@@ -91,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Celonis",
-    "slug": "celonis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -135,6 +128,13 @@
   {
     "name": "Prove",
     "slug": "prove",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Digiday",
+    "slug": "digiday",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -224,13 +224,6 @@
     "jobs_count": 1
   },
   {
-    "name": "GitLab",
-    "slug": "gitlab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Amwell",
     "slug": "amwell",
     "logo_url": null,
@@ -261,6 +254,13 @@
   {
     "name": "TestGorilla",
     "slug": "testgorilla",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Celonis",
+    "slug": "celonis",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -373,6 +373,13 @@
   {
     "name": "cFive Solutions",
     "slug": "cfive-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

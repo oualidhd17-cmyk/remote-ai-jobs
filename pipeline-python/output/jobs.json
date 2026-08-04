@@ -719,65 +719,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Remote - Australia",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "title": "Contracts Manager, APAC",
@@ -832,6 +773,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Singapore"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
       }
     },
     "ai_relevant": true
@@ -1294,6 +1294,69 @@
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "marketing-coordinator-partner-programs-digiday-usa-remoteok-1136045",
+    "slug": "marketing-coordinator-partner-programs-digiday-usa-remoteok-1136045",
+    "title": "Marketing Coordinator Partner Programs",
+    "seo_title": "Remote Marketing Coordinator Partner Programs Job in USA | Data Science Jobs",
+    "seo_description": "Apply for a remote Marketing Coordinator Partner Programs job at Digiday in USA. Explore LLM, education, coordinator, marketing and remote AI jobs.",
+    "company": {
+      "name": "Digiday",
+      "slug": "digiday",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "New York, New York, New York, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "education",
+      "coordinator",
+      "marketing",
+      "exec",
+      "content writing",
+      "sales",
+      "medical"
+    ],
+    "category": "Data Science",
+    "description_summary": "Overview Digiday Media is looking for a Marketing Coordinator, Partner Programs to lead the marketing and fulfillment of sponsored programs across four premium media brands. Who you are You have about a year of experience in media and/or growth marketing and...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-coordinator-partner-programs-digiday-1136045",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136045",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Marketing Coordinator Partner Programs",
+      "description": "Overview Digiday Media is looking for a Marketing Coordinator, Partner Programs to lead the marketing and fulfillment of sponsored programs across four premium media brands. Who you are You have about a year of experience in media and/or growth marketing and...",
+      "datePosted": "2026-08-03",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Digiday"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136045",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
     },
     "ai_relevant": true
   },
@@ -2967,61 +3030,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "title": "Commercial Counsel, APAC",
@@ -3077,21 +3085,21 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Ireland",
+    "country": "Australia",
     "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
     "remote_type": "hybrid",
     "employment_type": "contract",
     "experience_level": "intern",
@@ -3104,13 +3112,13 @@
       "RAG",
       "AWS",
       "Legal",
-      "Dublin, IE"
+      "Sydney, Australia"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
     "published_at": "2026-08-03",
     "expires_at": null,
     "quality_score": 75,
@@ -3118,7 +3126,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
+      "title": "Commercial Counsel, APAC",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-08-03",
       "employmentType": "CONTRACTOR",
@@ -3127,7 +3135,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
     },
     "ai_relevant": true
   },
@@ -3183,6 +3191,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -6245,61 +6308,6 @@
     "ai_relevant": true
   },
   {
-    "id": "ai-transformation-owner-marketing-gitlab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gitlab-ai-transformation-owner-marketing",
-    "slug": "ai-transformation-owner-marketing-gitlab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gitlab-ai-transformation-owner-marketing",
-    "title": "AI Transformation Owner, Marketing",
-    "seo_title": "Remote AI Transformation Owner, Marketing Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AI Transformation Owner, Marketing job at GitLab in Worldwide. Explore RAG, Prompt Engineering, All Other Remote, Remote and remote AI...",
-    "company": {
-      "name": "GitLab",
-      "slug": "gitlab",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Prompt Engineering",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote, Canada; Remote, United Kingdom; Remote, US GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-marketing",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-marketing",
-    "published_at": "2026-07-31",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Transformation Owner, Marketing",
-      "description": "Headquarters: Remote, Canada; Remote, United Kingdom; Remote, US GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance...",
-      "datePosted": "2026-07-31",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "GitLab"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-ai-transformation-owner-marketing",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "customer-success-manager-amwell-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-amwell-customer-success-manager",
     "slug": "customer-success-manager-amwell-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-amwell-customer-success-manager",
     "title": "Customer Success Manager",
@@ -6785,60 +6793,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-energy",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "account-executive-automotive-celonis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-celonis-account-executive-automotive",
-    "slug": "account-executive-automotive-celonis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-celonis-account-executive-automotive",
-    "title": "Account Executive - Automotive",
-    "seo_title": "Remote Account Executive - Automotive Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Account Executive - Automotive job at Celonis in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Celonis",
-      "slug": "celonis",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote, US, Michigan Celonis is the global leader in Process Intelligence and the pioneer of Process Mining technology. As one of the world’s fastest-growing enterprise SaaS companies, we are changemakers pushing the boundaries of what’s...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-automotive",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-automotive",
-    "published_at": "2026-07-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive - Automotive",
-      "description": "Headquarters: Remote, US, Michigan Celonis is the global leader in Process Intelligence and the pioneer of Process Mining technology. As one of the world’s fastest-growing enterprise SaaS companies, we are changemakers pushing the boundaries of what’s...",
-      "datePosted": "2026-07-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Celonis"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-automotive",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -8529,6 +8483,61 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/twilio-senior-principal-technical-program-management-research-development",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "user-risk-strategist-ecosystem-risk-strategy-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-user-risk-strategist-ecosystem-risk-str",
+    "slug": "user-risk-strategist-ecosystem-risk-strategy-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-user-risk-strategist-ecosystem-risk-str",
+    "title": "User Risk Strategist, Ecosystem Risk Strategy",
+    "seo_title": "Remote User Risk Strategist, Ecosystem Risk Strategy Job | Data Science Jobs",
+    "seo_description": "Apply for a remote User Risk Strategist, Ecosystem Risk Strategy job at Stripe in Worldwide. Explore SQL, RAG, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "Stripe",
+      "slug": "stripe",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: US-Chicago; US-Atlanta; US-Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/stripe-user-risk-strategist-ecosystem-risk-strategy",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/stripe-user-risk-strategist-ecosystem-risk-strategy",
+    "published_at": "2026-07-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "User Risk Strategist, Ecosystem Risk Strategy",
+      "description": "Headquarters: US-Chicago; US-Atlanta; US-Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow...",
+      "datePosted": "2026-07-23",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Stripe"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/stripe-user-risk-strategist-ecosystem-risk-strategy",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
