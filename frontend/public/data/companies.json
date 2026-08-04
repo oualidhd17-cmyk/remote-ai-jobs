@@ -28,11 +28,11 @@
     "jobs_count": 5
   },
   {
-    "name": "Customer.io",
-    "slug": "customer-io",
+    "name": "Stability AI",
+    "slug": "stability-ai",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
     "name": "Platform.sh",
@@ -72,6 +72,13 @@
   {
     "name": "ClickHouse",
     "slug": "clickhouse",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Customer.io",
+    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -117,6 +124,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Lithic",
+    "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Prove",
+    "slug": "prove",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "The Humane League",
@@ -352,13 +373,6 @@
   {
     "name": "cFive Solutions",
     "slug": "cfive-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Stripe",
-    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
