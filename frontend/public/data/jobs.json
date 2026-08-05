@@ -1,5 +1,63 @@
 [
   {
+    "id": "sr-principal-data-engineer-data-architect-sinclair-broadcast-group-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sinclair-broadcast-group-sr-pri",
+    "slug": "sr-principal-data-engineer-data-architect-sinclair-broadcast-group-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sinclair-broadcast-group-sr-pri",
+    "title": "Sr. Principal Data Engineer / Data Architect",
+    "seo_title": "Remote Sr. Principal Data Engineer / Data Architect Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Sr. Principal Data Engineer / Data Architect job at Sinclair Broadcast Group in Worldwide. Explore Python, SQL, RAG, GCP and remote AI...",
+    "company": {
+      "name": "Sinclair Broadcast Group",
+      "slug": "sinclair-broadcast-group",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "GCP",
+      "Spark",
+      "Design",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Austin, TX, United States URL: http://sbgi.net Description Location: United States (Remote) Reports to: SVP of Tech As the Sr. Principal Data Engineer, you will be the primary architect of Digital Remedy’s next-generation data platform. You...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/sinclair-broadcast-group-sr-principal-data-engineer-data-architect",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/sinclair-broadcast-group-sr-principal-data-engineer-data-architect",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Sr. Principal Data Engineer / Data Architect",
+      "description": "Headquarters: Austin, TX, United States URL: http://sbgi.net Description Location: United States (Remote) Reports to: SVP of Tech As the Sr. Principal Data Engineer, you will be the primary architect of Digital Remedy’s next-generation data platform. You...",
+      "datePosted": "2026-08-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Sinclair Broadcast Group"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/sinclair-broadcast-group-sr-principal-data-engineer-data-architect",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-aml-analyst-lithic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lithic-senior-aml-analyst",
     "slug": "senior-aml-analyst-lithic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lithic-senior-aml-analyst",
     "title": "Senior AML Analyst",
@@ -56,14 +114,232 @@
     "ai_relevant": true
   },
   {
-    "id": "real-estate-photo-editor-jobgether-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jobgether-real-estate-photo-editor-1",
-    "slug": "real-estate-photo-editor-jobgether-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jobgether-real-estate-photo-editor-1",
-    "title": "Real Estate Photo Editor",
-    "seo_title": "Remote Real Estate Photo Editor Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Real Estate Photo Editor job at Jobgether in Worldwide. Explore AWS, Design, Remote and remote AI jobs.",
+    "id": "content-creator-video-producer-porkbun-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-porkbun-content-creator-video-producer",
+    "slug": "content-creator-video-producer-porkbun-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-porkbun-content-creator-video-producer",
+    "title": "Content Creator & Video Producer",
+    "seo_title": "Remote Content Creator & Video Producer Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Content Creator & Video Producer job at Porkbun in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
     "company": {
-      "name": "Jobgether",
-      "slug": "jobgether",
+      "name": "Porkbun",
+      "slug": "porkbun",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Oregon USA URL: https://porkbun.com Content Creator & Video Producer — Full-Time — $60,000/year + Benefits (Location: Remote, U.S.-based; Portland, Oregon preferred) It's time to hire another amazing individual again. You could be the pick of...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/porkbun-content-creator-video-producer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/porkbun-content-creator-video-producer",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Content Creator & Video Producer",
+      "description": "Headquarters: Oregon USA URL: https://porkbun.com Content Creator & Video Producer — Full-Time — $60,000/year + Benefits (Location: Remote, U.S.-based; Portland, Oregon preferred) It's time to hire another amazing individual again. You could be the pick of...",
+      "datePosted": "2026-08-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Porkbun"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/porkbun-content-creator-video-producer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "web-developer-hook-ladder-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hook-ladder-web-developer",
+    "slug": "web-developer-hook-ladder-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hook-ladder-web-developer",
+    "title": "Web Developer",
+    "seo_title": "Remote Web Developer Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Web Developer job at Hook & Ladder in Worldwide. Explore SQL, RAG, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "Hook & Ladder",
+      "slug": "hook-ladder",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Colombia URL: http://hldigital.ca We’re Hiring a Web Developer (Multi-Platform Maintenance) You’ll be the go-to person keeping multiple client websites running smoothly- a versatile Web Developer who thrives on variety, learns fast, and takes...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/hook-ladder-web-developer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/hook-ladder-web-developer",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Web Developer",
+      "description": "Headquarters: Colombia URL: http://hldigital.ca We’re Hiring a Web Developer (Multi-Platform Maintenance) You’ll be the go-to person keeping multiple client websites running smoothly- a versatile Web Developer who thrives on variety, learns fast, and takes...",
+      "datePosted": "2026-08-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Hook & Ladder"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/hook-ladder-web-developer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "full-stack-web-developer-wing-assistant-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-wing-assistant-full-stack-web-developer",
+    "slug": "full-stack-web-developer-wing-assistant-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-wing-assistant-full-stack-web-developer",
+    "title": "Full Stack Web Developer",
+    "seo_title": "Remote Full Stack Web Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Full Stack Web Developer job at Wing Assistant in Worldwide. Explore SQL, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "Wing Assistant",
+      "slug": "wing-assistant",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "Design",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Manila, Philippines / New Delhi, India / Dhaka, Bangladesh URL: http://wingassistant.com Wing Assistant is seeking a Full Stack Web Developer with experience in developing web applications on LAMP Stack. This role will focus on creating a...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-web-developer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-web-developer",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Full Stack Web Developer",
+      "description": "Headquarters: Manila, Philippines / New Delhi, India / Dhaka, Bangladesh URL: http://wingassistant.com Wing Assistant is seeking a Full Stack Web Developer with experience in developing web applications on LAMP Stack. This role will focus on creating a...",
+      "datePosted": "2026-08-04",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Wing Assistant"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/wing-assistant-full-stack-web-developer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "web-developer-charles-technology-africa-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-charles-technology-africa-web-developer",
+    "slug": "web-developer-charles-technology-africa-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-charles-technology-africa-web-developer",
+    "title": "Web Developer",
+    "seo_title": "Remote Web Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Web Developer job at Charles Technology Africa in Worldwide. Explore SQL, RAG, Front-End Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Charles Technology Africa",
+      "slug": "charles-technology-africa",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Front-End Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Accra, Remote, Ghana URL: http://meisterpiece.com JOB DESCRIPTION Charles Technology Africa seeks to hire a Web Developer to independently design, develop, and maintain both external and internal Websites and applications that leverage the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Web Developer",
+      "description": "Headquarters: Accra, Remote, Ghana URL: http://meisterpiece.com JOB DESCRIPTION Charles Technology Africa seeks to hire a Web Developer to independently design, develop, and maintain both external and internal Websites and applications that leverage the...",
+      "datePosted": "2026-08-04",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Charles Technology Africa"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "automation-qa-engineer-lead-algaecal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-algaecal-automation-qa-engineer-lead",
+    "slug": "automation-qa-engineer-lead-algaecal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-algaecal-automation-qa-engineer-lead",
+    "title": "Automation QA Engineer (Lead)",
+    "seo_title": "Remote Automation QA Engineer (Lead) Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Automation QA Engineer (Lead) job at AlgaeCal in Worldwide. Explore Python, RAG, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "AlgaeCal",
+      "slug": "algaecal",
       "logo_url": null,
       "website": null
     },
@@ -79,15 +355,16 @@
     "salary_max": null,
     "salary_currency": null,
     "skills": [
-      "AWS",
+      "Python",
+      "RAG",
       "Design",
       "Remote"
     ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Luxembourg URL: http://jobgether.com This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Real Estate Photo Editor based in Luxembourg. This fully remote opportunity is...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/jobgether-real-estate-photo-editor-1",
+    "category": "MLOps",
+    "description_summary": "Headquarters: Dominican Republic URL: http://algaecal.com Description Bug Squisher Wanted: You’re an expert at making sure websites, storefronts, and backend systems work smoothly before they go live. But you don’t just catch bugs. You build the systems that...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
     "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/jobgether-real-estate-photo-editor-1",
+    "source_url": "https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
     "published_at": "2026-08-04",
     "expires_at": null,
     "quality_score": 85,
@@ -95,16 +372,469 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Real Estate Photo Editor",
-      "description": "Headquarters: Luxembourg URL: http://jobgether.com This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Real Estate Photo Editor based in Luxembourg. This fully remote opportunity is...",
+      "title": "Automation QA Engineer (Lead)",
+      "description": "Headquarters: Dominican Republic URL: http://algaecal.com Description Bug Squisher Wanted: You’re an expert at making sure websites, storefronts, and backend systems work smoothly before they go live. But you don’t just catch bugs. You build the systems that...",
       "datePosted": "2026-08-04",
       "employmentType": "CONTRACTOR",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "Jobgether"
+        "name": "AlgaeCal"
       },
       "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/jobgether-real-estate-photo-editor-1",
+      "url": "https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "technical-leader-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-technical-leader-latin-america",
+    "slug": "technical-leader-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-technical-leader-latin-america",
+    "title": "Technical Leader - Latin America",
+    "seo_title": "Remote Technical Leader - Latin America Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Technical Leader - Latin America job at Azumo in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
+    "company": {
+      "name": "Azumo",
+      "slug": "azumo",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Generative AI",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is looking for a highly motivated Technical Leader to develop and enhance high-performing and scalable software solutions in Python, .NET, Machine Learning Engineering, Data...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Technical Leader - Latin America",
+      "description": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is looking for a highly motivated Technical Leader to develop and enhance high-performing and scalable software solutions in Python, .NET, Machine Learning Engineering, Data...",
+      "datePosted": "2026-08-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Azumo"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/azumo-technical-leader-latin-america",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-engineer-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-data-engineer-latin-america",
+    "slug": "data-engineer-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-data-engineer-latin-america",
+    "title": "Data Engineer - Latin America",
+    "seo_title": "Remote Data Engineer - Latin America Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Engineer - Latin America job at Azumo in Worldwide. Explore SQL, Machine Learning, RAG, Azure and remote AI jobs.",
+    "company": {
+      "name": "Azumo",
+      "slug": "azumo",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "RAG",
+      "Azure",
+      "Spark",
+      "Airflow",
+      "Generative AI",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Engineer - Latin America",
+      "description": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This...",
+      "datePosted": "2026-08-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Azumo"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "java-engineer-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-java-engineer-latin-america",
+    "slug": "java-engineer-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-java-engineer-latin-america",
+    "title": "Java Engineer - Latin America",
+    "seo_title": "Remote Java Engineer - Latin America Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Java Engineer - Latin America job at Azumo in Worldwide. Explore Machine Learning, RAG, Generative AI, Full-Stack Programming and...",
+    "company": {
+      "name": "Azumo",
+      "slug": "azumo",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "Generative AI",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Dominican Republic URL: http://azumo.com Description Azumo is currently looking for highly motivated Java Senior Engineers to develop and enhance high performing and scalable backend infrastructure used by millions of users. The position is...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Java Engineer - Latin America",
+      "description": "Headquarters: Dominican Republic URL: http://azumo.com Description Azumo is currently looking for highly motivated Java Senior Engineers to develop and enhance high performing and scalable backend infrastructure used by millions of users. The position is...",
+      "datePosted": "2026-08-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Azumo"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/azumo-java-engineer-latin-america",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "ai-assisted-software-engineer-web-applications-lmg-staffing-solutions-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lmg-staffing-solutions-ai-as",
+    "slug": "ai-assisted-software-engineer-web-applications-lmg-staffing-solutions-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lmg-staffing-solutions-ai-as",
+    "title": "AI-Assisted Software Engineer, Web Applications",
+    "seo_title": "Remote AI-Assisted Software Engineer, Web Applications Job | MLOps Jobs",
+    "seo_description": "Apply for a remote AI-Assisted Software Engineer, Web Applications job at LMG Staffing Solutions in Worldwide. Explore Python, RAG, Docker, GCP and remote...",
+    "company": {
+      "name": "LMG Staffing Solutions",
+      "slug": "lmg-staffing-solutions",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "RAG",
+      "Docker",
+      "GCP",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Medellín, Medellin, Colombia URL: http://logicalmediagroup.com Description Overview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver high-quality, maintainable solutions using a...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI-Assisted Software Engineer, Web Applications",
+      "description": "Headquarters: Medellín, Medellin, Colombia URL: http://logicalmediagroup.com Description Overview We are looking for a software engineer to build and scale our internal web applications. Your mission is to deliver high-quality, maintainable solutions using a...",
+      "datePosted": "2026-08-04",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "LMG Staffing Solutions"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/lmg-staffing-solutions-ai-assisted-software-engineer-web-applications",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-engineer-databricks-aws-gaming-liveops-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-data-engineer-databricks-aws",
+    "slug": "data-engineer-databricks-aws-gaming-liveops-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-data-engineer-databricks-aws",
+    "title": "Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America",
+    "seo_title": "Remote Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America job at Azumo in Worldwide. Explore Python, SQL, Machine Learning,...",
+    "company": {
+      "name": "Azumo",
+      "slug": "azumo",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Airflow",
+      "Generative AI",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Engineer - Databricks / AWS (Gaming & LiveOps) - Latin America",
+      "description": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This...",
+      "datePosted": "2026-08-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Azumo"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-databricks-aws-gaming-liveops-latin-america",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "electrical-engineer-substation-design-hanson-professional-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hanson-professional-services-el",
+    "slug": "electrical-engineer-substation-design-hanson-professional-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hanson-professional-services-el",
+    "title": "Electrical Engineer - Substation Design",
+    "seo_title": "Remote Electrical Engineer - Substation Design Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Electrical Engineer - Substation Design job at Hanson Professional Services in Worldwide. Explore RAG, Design, Remote and remote AI...",
+    "company": {
+      "name": "Hanson Professional Services",
+      "slug": "hanson-professional-services",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Corpus Christi, TX URL: http://hanson-inc.com Hanson Values Integrity | Commitment | Quality | Relationships | Innovation If you’re looking for a firm that encourages innovative thinking and challenges you every day, with an opportunity to learn...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/hanson-professional-services-electrical-engineer-substation-design",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/hanson-professional-services-electrical-engineer-substation-design",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Electrical Engineer - Substation Design",
+      "description": "Headquarters: Corpus Christi, TX URL: http://hanson-inc.com Hanson Values Integrity | Commitment | Quality | Relationships | Innovation If you’re looking for a firm that encourages innovative thinking and challenges you every day, with an opportunity to learn...",
+      "datePosted": "2026-08-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Hanson Professional Services"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/hanson-professional-services-electrical-engineer-substation-design",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "ux-designer-pressw-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pressw-ux-designer",
+    "slug": "ux-designer-pressw-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pressw-ux-designer",
+    "title": "UX Designer",
+    "seo_title": "Remote UX Designer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote UX Designer job at PressW in Worldwide. Explore Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "PressW",
+      "slug": "pressw",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Design",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote, United States URL: http://pressw.ai About PressW PressW is where some of the world's most ambitious companies come to actually ship AI. We're redefining how businesses harness AI by building real systems for real clients, not just...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/pressw-ux-designer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/pressw-ux-designer",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "UX Designer",
+      "description": "Headquarters: Remote, United States URL: http://pressw.ai About PressW PressW is where some of the world's most ambitious companies come to actually ship AI. We're redefining how businesses harness AI by building real systems for real clients, not just...",
+      "datePosted": "2026-08-04",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "PressW"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/pressw-ux-designer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-people-operations-crb-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-crb-director-people-operations",
+    "slug": "director-people-operations-crb-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-crb-director-people-operations",
+    "title": "Director, People Operations",
+    "seo_title": "Remote Director, People Operations Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Director, People Operations job at CRB in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "CRB",
+      "slug": "crb",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: St. Louis, MO, USA URL: http://crbgroup.com Company Description CRB's nearly 1,200 expert professionals drive innovative, life-changing and life-saving solutions for manufacturers in the life sciences and food and beverage industries. Our...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/crb-director-people-operations",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/crb-director-people-operations",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, People Operations",
+      "description": "Headquarters: St. Louis, MO, USA URL: http://crbgroup.com Company Description CRB's nearly 1,200 expert professionals drive innovative, life-changing and life-saving solutions for manufacturers in the life sciences and food and beverage industries. Our...",
+      "datePosted": "2026-08-04",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "CRB"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/crb-director-people-operations",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -140,10 +870,10 @@
       "Remote"
     ],
     "category": "AI Engineering",
-    "description_summary": "Headquarters: Helsinki, Remote, Finland URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/capslock-generative-ai-pipeline-engineer-tech-lead-1",
+    "description_summary": "Headquarters: Tallinn, Remote, Estonia URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries,...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/capslock-generative-ai-pipeline-engineer-tech-lead-2",
     "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/capslock-generative-ai-pipeline-engineer-tech-lead-1",
+    "source_url": "https://weworkremotely.com/remote-jobs/capslock-generative-ai-pipeline-engineer-tech-lead-2",
     "published_at": "2026-08-04",
     "expires_at": null,
     "quality_score": 85,
@@ -152,7 +882,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Generative AI Pipeline Engineer (Tech Lead)",
-      "description": "Headquarters: Helsinki, Remote, Finland URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries,...",
+      "description": "Headquarters: Tallinn, Remote, Estonia URL: http://capslock.global CapsLock is a global IT marketing company that pioneers unique, scalable customer acquisition solutions for B2C clients. We solve complex sales challenges across a wide range of industries,...",
       "datePosted": "2026-08-04",
       "employmentType": "INTERN",
       "hiringOrganization": {
@@ -160,61 +890,7 @@
         "name": "CapsLock"
       },
       "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/capslock-generative-ai-pipeline-engineer-tech-lead-1",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "freelance-graphic-designer-signage-designer-jobgether-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jobgether-freelance-graphic-designer-signage",
-    "slug": "freelance-graphic-designer-signage-designer-jobgether-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jobgether-freelance-graphic-designer-signage",
-    "title": "Freelance Graphic Designer / Signage Designer",
-    "seo_title": "Remote Freelance Graphic Designer / Signage Designer Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Freelance Graphic Designer / Signage Designer job at Jobgether in Worldwide. Explore AWS, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "Jobgether",
-      "slug": "jobgether",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "AWS",
-      "Design",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Luxembourg URL: http://jobgether.com This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Graphic Designer / Signage Designer based in Luxembourg. This is a...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/jobgether-freelance-graphic-designer-signage-designer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/jobgether-freelance-graphic-designer-signage-designer",
-    "published_at": "2026-08-04",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Freelance Graphic Designer / Signage Designer",
-      "description": "Headquarters: Luxembourg URL: http://jobgether.com This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Freelance Graphic Designer / Signage Designer based in Luxembourg. This is a...",
-      "datePosted": "2026-08-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Jobgether"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/jobgether-freelance-graphic-designer-signage-designer",
+      "url": "https://weworkremotely.com/remote-jobs/capslock-generative-ai-pipeline-engineer-tech-lead-2",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -709,6 +1385,114 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/stability-ai-research-scientist-professional-creative-workflows",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-production-specialist-anthropic-worldwide-greenhouse-anthropic-5379593008",
+    "slug": "av-production-specialist-anthropic-worldwide-greenhouse-anthropic-5379593008",
+    "title": "AV Production Specialist",
+    "seo_title": "Remote AV Production Specialist Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Production Specialist job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5379593008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5379593008",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Production Specialist",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-04",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5379593008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-global-order-to-cash-transformation-anthropic-worldwide-greenhouse-anthropic-5205735008",
+    "slug": "director-global-order-to-cash-transformation-anthropic-worldwide-greenhouse-anthropic-5205735008",
+    "title": "Director, Global Order-to-Cash Transformation",
+    "seo_title": "Remote Director, Global Order-to-Cash Transformation Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Director, Global Order-to-Cash Transformation job at anthropic in Worldwide. Explore RAG, AWS, Finance, San Francisco, CA and remote AI...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Finance",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205735008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205735008",
+    "published_at": "2026-08-04",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, Global Order-to-Cash Transformation",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-04",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205735008"
     },
     "ai_relevant": true
   },
@@ -1208,65 +1992,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Remote - Australia",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "title": "Contracts Manager, APAC",
@@ -1321,6 +2046,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Singapore"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
       }
     },
     "ai_relevant": true
@@ -1732,6 +2516,67 @@
     "ai_relevant": true
   },
   {
+    "id": "student-success-coach-findtutors-uk-remoteok-1136086",
+    "slug": "student-success-coach-findtutors-uk-remoteok-1136086",
+    "title": "Student Success Coach",
+    "seo_title": "Remote Student Success Coach Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Student Success Coach job at FindTutors in UK. Explore RAG, teaching, customer support, marketing and remote AI jobs.",
+    "company": {
+      "name": "FindTutors",
+      "slug": "findtutors",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, London, England, United Kingdom",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "teaching",
+      "customer support",
+      "marketing",
+      "education",
+      "exec"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "FindTutors is one of the leading online education platforms in the UK, connecting students with tutors and mentors who support both academic achievement and personal development. We help learners at all stages of education build confidence, improve...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-student-success-coach-findtutors-1136086",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136086",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Student Success Coach",
+      "description": "FindTutors is one of the leading online education platforms in the UK, connecting students with tutors and mentors who support both academic achievement and personal development. We help learners at all stages of education build confidence, improve...",
+      "datePosted": "2026-08-03",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "FindTutors"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136086",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "marketing-coordinator-partner-programs-digiday-usa-remoteok-1136045",
     "slug": "marketing-coordinator-partner-programs-digiday-usa-remoteok-1136045",
     "title": "Marketing Coordinator Partner Programs",
@@ -1791,6 +2636,69 @@
         "@type": "Country",
         "name": "USA"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "data-entry-administrative-assistant-re-lytics-hires-worldwide-remoteok-1136107",
+    "slug": "data-entry-administrative-assistant-re-lytics-hires-worldwide-remoteok-1136107",
+    "title": "Data Entry & Administrative Assistant",
+    "seo_title": "Remote Data Entry & Administrative Assistant Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Data Entry & Administrative Assistant job at Re Lytics Hires in Worldwide. Explore RAG, data entry, virtual assistant, teaching and...",
+    "company": {
+      "name": "Re Lytics Hires",
+      "slug": "re-lytics-hires",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Ø£Ø¨Ù Ø¸Ø¨Ù, Ø£Ø¨Ù Ø¸Ø¨Ù Ø£Ø¨Ù Ø¸Ø¨Ù Ø§ÙØ¥Ù Ø§Ø±Ø§Øª Ø§ÙØ¹Ø±Ø¨ÙØ© Ø§ÙÙ ØªØ­Ø¯Ø©",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "data entry",
+      "virtual assistant",
+      "teaching",
+      "education",
+      "marketing",
+      "exec",
+      "sys admin",
+      "finance",
+      "sales",
+      "medical",
+      "customer support"
+    ],
+    "category": "Robotics",
+    "description_summary": "We are seeking a reliable Data Entry & Administrative Assistant to provide essential remote support through accurate information management, document handling, and administrative coordination. This position is ideal for individuals who are organised,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-data-entry-amp-administrative-assistant-re-lytics-hires-1136107",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136107",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Data Entry & Administrative Assistant",
+      "description": "We are seeking a reliable Data Entry & Administrative Assistant to provide essential remote support through accurate information management, document handling, and administrative coordination. This position is ideal for individuals who are organised,...",
+      "datePosted": "2026-08-03",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Re Lytics Hires"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136107",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -2573,6 +3481,63 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
+    "slug": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
+    "title": "Applied AI Architect, Industries",
+    "seo_title": "Remote Applied AI Architect, Industries Job in Germany | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Germany. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Germany",
+    "city": null,
+    "location": "Munich, Germany",
+    "location_label": "Munich, Germany",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Zürich, CH"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Industries",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4461444008",
     "slug": "applied-ai-architect-industries-anthropic-worldwide-greenhouse-anthropic-4461444008",
     "title": "Applied AI Architect, Industries",
@@ -2628,63 +3593,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461444008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
-    "slug": "applied-ai-architect-industries-anthropic-germany-greenhouse-anthropic-4977624008",
-    "title": "Applied AI Architect, Industries",
-    "seo_title": "Remote Applied AI Architect, Industries Job in Germany | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Industries job at anthropic in Germany. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Germany",
-    "city": null,
-    "location": "Munich, Germany",
-    "location_label": "Munich, Germany",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Zürich, CH"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Industries",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4977624008"
     },
     "ai_relevant": true
   },
@@ -3464,61 +4372,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Singapore",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
     "title": "Commercial Counsel, APAC",
@@ -3574,21 +4427,21 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Singapore. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Ireland",
+    "country": "Singapore",
     "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
+    "location": "Singapore",
+    "location_label": "Singapore",
     "remote_type": "hybrid",
     "employment_type": "contract",
     "experience_level": "intern",
@@ -3601,13 +4454,13 @@
       "RAG",
       "AWS",
       "Legal",
-      "Dublin, IE"
+      "Singapore"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008",
     "published_at": "2026-08-03",
     "expires_at": null,
     "quality_score": 75,
@@ -3615,7 +4468,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
+      "title": "Commercial Counsel, APAC",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-08-03",
       "employmentType": "CONTRACTOR",
@@ -3624,7 +4477,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270072008"
     },
     "ai_relevant": true
   },
@@ -3680,6 +4533,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -5019,60 +5927,6 @@
     "ai_relevant": true
   },
   {
-    "id": "director-global-order-to-cash-transformation-anthropic-worldwide-greenhouse-anthropic-5205735008",
-    "slug": "director-global-order-to-cash-transformation-anthropic-worldwide-greenhouse-anthropic-5205735008",
-    "title": "Director, Global Order-to-Cash Transformation",
-    "seo_title": "Remote Director, Global Order-to-Cash Transformation Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Director, Global Order-to-Cash Transformation job at anthropic in Worldwide. Explore RAG, AWS, Finance, San Francisco, CA and remote AI...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Finance",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205735008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5205735008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Director, Global Order-to-Cash Transformation",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5205735008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "director-infrastructure-energy-accounting-anthropic-worldwide-greenhouse-anthropic-5196219008",
     "slug": "director-infrastructure-energy-accounting-anthropic-worldwide-greenhouse-anthropic-5196219008",
     "title": "Director, Infrastructure & Energy Accounting",
@@ -5680,60 +6534,6 @@
     "ai_relevant": true
   },
   {
-    "id": "engineering-manager-safeguards-interventions-anthropic-worldwide-greenhouse-anthropic-5322723008",
-    "slug": "engineering-manager-safeguards-interventions-anthropic-worldwide-greenhouse-anthropic-5322723008",
-    "title": "Engineering Manager, Safeguards Interventions",
-    "seo_title": "Remote Engineering Manager, Safeguards Interventions Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Engineering Manager, Safeguards Interventions job at anthropic in Worldwide. Explore RAG, AWS, AI Research & Engineering, San...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "San Francisco, CA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "AI Research & Engineering",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5322723008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5322723008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Engineering Manager, Safeguards Interventions",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5322723008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "data-entry-administrator-pulsemedianl-worldwide-remoteok-1135903",
     "slug": "data-entry-administrator-pulsemedianl-worldwide-remoteok-1135903",
     "title": "Data Entry Administrator",
@@ -6094,67 +6894,6 @@
     "ai_relevant": true
   },
   {
-    "id": "managing-director-berni-and-mick-ireland-australia-remoteok-1135908",
-    "slug": "managing-director-berni-and-mick-ireland-australia-remoteok-1135908",
-    "title": "Managing Director",
-    "seo_title": "Remote Managing Director Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Managing Director job at Berni and Mick Ireland in Australia. Explore RAG, exec, consulting, marketing and remote AI jobs.",
-    "company": {
-      "name": "Berni and Mick Ireland",
-      "slug": "berni-and-mick-ireland",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sunshine Coast, Sunshine Coast, Queensland, Australia",
-    "location_label": "Remote - Australia",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "exec",
-      "consulting",
-      "marketing",
-      "senior",
-      "ops"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Strategic Overview We are identifying a strategic thinker and natural leader âan individual who thrives on solving complex challenges and inspiring others to do the same. This role is designed for a professional with extensive experience as a Managing...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-managing-director-berni-and-mick-ireland-1135908",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1135908",
-    "published_at": "2026-08-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Managing Director",
-      "description": "Strategic Overview We are identifying a strategic thinker and natural leader âan individual who thrives on solving complex challenges and inspiring others to do the same. This role is designed for a professional with extensive experience as a Managing...",
-      "datePosted": "2026-08-01",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Berni and Mick Ireland"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1135908",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-product-engineer-clickstack-clickhouse-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-clickhouse-ai-product-engineer-clickstack-1",
     "slug": "ai-product-engineer-clickstack-clickhouse-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-clickhouse-ai-product-engineer-clickstack-1",
     "title": "AI Product Engineer - ClickStack",
@@ -6325,122 +7064,6 @@
     "ai_relevant": true
   },
   {
-    "id": "ai-product-engineer-clickstack-clickhouse-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-clickhouse-ai-product-engineer-clickstack",
-    "slug": "ai-product-engineer-clickstack-clickhouse-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-clickhouse-ai-product-engineer-clickstack",
-    "title": "AI Product Engineer - ClickStack",
-    "seo_title": "Remote AI Product Engineer - ClickStack Job | MLOps Jobs",
-    "seo_description": "Apply for a remote AI Product Engineer - ClickStack job at ClickHouse in Worldwide. Explore Python, SQL, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "ClickHouse",
-      "slug": "clickhouse",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "LLM",
-      "RAG",
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: United Kingdom (remote) About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack",
-    "published_at": "2026-08-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Product Engineer - ClickStack",
-      "description": "Headquarters: United Kingdom (remote) About ClickHouse Recognized on the 2025 Forbes Cloud 100 list, ClickHouse is one of the most innovative and fast-growing private cloud companies. With more than 4,000 customers and ARR that has grown over 250 percent year...",
-      "datePosted": "2026-08-01",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "ClickHouse"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/clickhouse-ai-product-engineer-clickstack",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "director-gtm-ops-americas-smartsheet-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-smartsheet-director-gtm-ops-americas",
-    "slug": "director-gtm-ops-americas-smartsheet-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-smartsheet-director-gtm-ops-americas",
-    "title": "Director, GTM Ops (Americas)",
-    "seo_title": "Remote Director, GTM Ops (Americas) Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Director, GTM Ops (Americas) job at Smartsheet in Worldwide. Explore RAG, AWS, Tableau, All Other Remote and remote AI jobs.",
-    "company": {
-      "name": "Smartsheet",
-      "slug": "smartsheet",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Tableau",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/smartsheet-director-gtm-ops-americas",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/smartsheet-director-gtm-ops-americas",
-    "published_at": "2026-08-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Director, GTM Ops (Americas)",
-      "description": "Headquarters: -REMOTE, USA- For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best,...",
-      "datePosted": "2026-08-01",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Smartsheet"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/smartsheet-director-gtm-ops-americas",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "remote-high-ticket-closer-6-figure-creative-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-6-figure-creative-remote-high-ticket-closer",
     "slug": "remote-high-ticket-closer-6-figure-creative-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-6-figure-creative-remote-high-ticket-closer",
     "title": "Remote High-Ticket Closer",
@@ -6490,63 +7113,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/6-figure-creative-remote-high-ticket-closer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote-hygraph-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hygraph-senior-fullstack-en",
-    "slug": "senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote-hygraph-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hygraph-senior-fullstack-en",
-    "title": "Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
-    "seo_title": "Remote Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote job at Hygraph in Worldwide. Explore SQL, RAG, AWS, GCP and remote...",
-    "company": {
-      "name": "Hygraph",
-      "slug": "hygraph",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "AWS",
-      "GCP",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Dircksenstraße 47, 10178 Berlin, Germany URL: https://hygraph.com How will you make an impact? As a Senior Full Stack Engineer, you'll work at the intersection of engineering and product to shape how our users build with Hygraph. You'll ship...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
-    "published_at": "2026-07-31",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Fullstack Engineer (f/m/d) - Berlin I Germany, EMEA I Remote",
-      "description": "Headquarters: Dircksenstraße 47, 10178 Berlin, Germany URL: https://hygraph.com How will you make an impact? As a Senior Full Stack Engineer, you'll work at the intersection of engineering and product to shape how our users build with Hygraph. You'll ship...",
-      "datePosted": "2026-07-31",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Hygraph"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/hygraph-senior-fullstack-engineer-f-m-d-berlin-i-germany-emea-i-remote",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6661,60 +7227,6 @@
     "ai_relevant": true
   },
   {
-    "id": "design-lead-consumer-maven-clinic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-maven-clinic-design-lead-consumer",
-    "slug": "design-lead-consumer-maven-clinic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-maven-clinic-design-lead-consumer",
-    "title": "Design Lead, Consumer",
-    "seo_title": "Remote Design Lead, Consumer Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Design Lead, Consumer job at Maven Clinic in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Maven Clinic",
-      "slug": "maven-clinic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "junior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: San Francisco, CA; Remote, US Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/maven-clinic-design-lead-consumer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/maven-clinic-design-lead-consumer",
-    "published_at": "2026-07-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Design Lead, Consumer",
-      "description": "Headquarters: San Francisco, CA; Remote, US Maven Clinic is the world's largest virtual clinic for women and families on a mission to make healthcare work for all of us. Through Maven Enterprise, the company partners with more than 2,300 employers and health...",
-      "datePosted": "2026-07-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Maven Clinic"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/maven-clinic-design-lead-consumer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "customer-success-manager-emea-customer-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-customer-io-customer-success-manager-emea",
     "slug": "customer-success-manager-emea-customer-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-customer-io-customer-success-manager-emea",
     "title": "Customer Success Manager, EMEA",
@@ -6818,63 +7330,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/retr-customer-support-specialist",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-demand-generation-manager-testgorilla-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-testgorilla-senior-demand-generation-manager",
-    "slug": "senior-demand-generation-manager-testgorilla-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-testgorilla-senior-demand-generation-manager",
-    "title": "Senior Demand Generation Manager",
-    "seo_title": "Remote Senior Demand Generation Manager Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Demand Generation Manager job at TestGorilla in Worldwide. Explore SQL, LLM, RAG, Statistics and remote AI jobs.",
-    "company": {
-      "name": "TestGorilla",
-      "slug": "testgorilla",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "LLM",
-      "RAG",
-      "Statistics",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Netherlands URL: https://www.testgorilla.com/careers ✨ Where do we hire from? Find out if we're hiring in your location from hiring at TestGorilla Hi there, I'm Mehak , interim Head of Marketing at TestGorilla. We’re excited to share more about...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/testgorilla-senior-demand-generation-manager",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/testgorilla-senior-demand-generation-manager",
-    "published_at": "2026-07-29",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Demand Generation Manager",
-      "description": "Headquarters: Netherlands URL: https://www.testgorilla.com/careers ✨ Where do we hire from? Find out if we're hiring in your location from hiring at TestGorilla Hi there, I'm Mehak , interim Head of Marketing at TestGorilla. We’re excited to share more about...",
-      "datePosted": "2026-07-29",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "TestGorilla"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/testgorilla-senior-demand-generation-manager",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -7847,170 +8302,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/nuuly-nuuly-senior-software-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-financial-analyst-fp-a-business-partner-onesource-finance-perkinelmer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-perkinelmer-senior-fi",
-    "slug": "senior-financial-analyst-fp-a-business-partner-onesource-finance-perkinelmer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-perkinelmer-senior-fi",
-    "title": "Senior Financial Analyst FP&A – Business Partner, OneSource Finance",
-    "seo_title": "Remote Senior Financial Analyst FP&A – Business Partner, OneSource Finance Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Financial Analyst FP&A – Business Partner, OneSource Finance job at PerkinElmer in Worldwide. Explore RAG, Power BI, Management...",
-    "company": {
-      "name": "PerkinElmer",
-      "slug": "perkinelmer",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Power BI",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Poland - Remote (Home Based) URL: http://perkinelmer.com When joining PerkinElmer, you select an experienced and trusted leader in scientific solutions, with the support of a global service network and distribution centers, providing the right...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
-    "published_at": "2026-07-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Financial Analyst FP&A – Business Partner, OneSource Finance",
-      "description": "Headquarters: Poland - Remote (Home Based) URL: http://perkinelmer.com When joining PerkinElmer, you select an experienced and trusted leader in scientific solutions, with the support of a global service network and distribution centers, providing the right...",
-      "datePosted": "2026-07-23",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "PerkinElmer"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-software-developer-ad-tech-redspace-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-redspace-senior-software-developer-ad-tech",
-    "slug": "senior-software-developer-ad-tech-redspace-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-redspace-senior-software-developer-ad-tech",
-    "title": "Senior Software Developer - Ad Tech",
-    "seo_title": "Remote Senior Software Developer - Ad Tech Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Senior Software Developer - Ad Tech job at REDspace in Worldwide. Explore RAG, Back-End Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "REDspace",
-      "slug": "redspace",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Back-End Programming",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Canada URL: http://redspace.com Description About REDspace At REDspace ( REDspace.com ) we’re a team of passionate innovators building cutting-edge software that powers some of the world’s leading brands. From video delivery and streaming to...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
-    "published_at": "2026-07-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Software Developer - Ad Tech",
-      "description": "Headquarters: Canada URL: http://redspace.com Description About REDspace At REDspace ( REDspace.com ) we’re a team of passionate innovators building cutting-edge software that powers some of the world’s leading brands. From video delivery and streaming to...",
-      "datePosted": "2026-07-23",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "REDspace"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-web-developer-software-engineer-cfive-solutions-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cfive-solutions-senior-web-developer-softwa",
-    "slug": "senior-web-developer-software-engineer-cfive-solutions-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cfive-solutions-senior-web-developer-softwa",
-    "title": "Senior Web Developer/Software Engineer",
-    "seo_title": "Remote Senior Web Developer/Software Engineer Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Web Developer/Software Engineer job at cFive Solutions in Worldwide. Explore SQL, RAG, Back-End Programming, Remote and remote...",
-    "company": {
-      "name": "cFive Solutions",
-      "slug": "cfive-solutions",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "Back-End Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote URL: http://cfive.com cFive Solutions, Inc. (cFive) provides software that aids community supervision agencies in their mission to reduce recidivism, improve lives, and keep communities safe. cFive provides unique, data-driven solutions...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/cfive-solutions-senior-web-developer-software-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/cfive-solutions-senior-web-developer-software-engineer",
-    "published_at": "2026-07-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Web Developer/Software Engineer",
-      "description": "Headquarters: Remote URL: http://cfive.com cFive Solutions, Inc. (cFive) provides software that aids community supervision agencies in their mission to reduce recidivism, improve lives, and keep communities safe. cFive provides unique, data-driven solutions...",
-      "datePosted": "2026-07-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "cFive Solutions"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/cfive-solutions-senior-web-developer-software-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true

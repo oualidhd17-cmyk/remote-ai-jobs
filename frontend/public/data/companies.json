@@ -14,11 +14,11 @@
     "jobs_count": 11
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
+    "name": "Azumo",
+    "slug": "azumo",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 4
   },
   {
     "name": "Coinbase",
@@ -26,13 +26,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
-  },
-  {
-    "name": "Jobgether",
-    "slug": "jobgether",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
   },
   {
     "name": "Uptalent.io",
@@ -77,8 +70,8 @@
     "jobs_count": 2
   },
   {
-    "name": "ClickHouse",
-    "slug": "clickhouse",
+    "name": "Smartsheet",
+    "slug": "smartsheet",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -112,8 +105,78 @@
     "jobs_count": 2
   },
   {
+    "name": "Sinclair Broadcast Group",
+    "slug": "sinclair-broadcast-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Lithic",
     "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Porkbun",
+    "slug": "porkbun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hook & Ladder",
+    "slug": "hook-ladder",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wing Assistant",
+    "slug": "wing-assistant",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Charles Technology Africa",
+    "slug": "charles-technology-africa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "AlgaeCal",
+    "slug": "algaecal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "LMG Staffing Solutions",
+    "slug": "lmg-staffing-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hanson Professional Services",
+    "slug": "hanson-professional-services",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PressW",
+    "slug": "pressw",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CRB",
+    "slug": "crb",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -161,8 +224,22 @@
     "jobs_count": 1
   },
   {
+    "name": "FindTutors",
+    "slug": "findtutors",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Digiday",
     "slug": "digiday",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Re Lytics Hires",
+    "slug": "re-lytics-hires",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,8 +287,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Berni and Mick Ireland",
-    "slug": "berni-and-mick-ireland",
+    "name": "ClickHouse",
+    "slug": "clickhouse",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -231,13 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Hygraph",
-    "slug": "hygraph",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Amwell",
     "slug": "amwell",
     "logo_url": null,
@@ -252,22 +322,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "RETR",
     "slug": "retr",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "TestGorilla",
-    "slug": "testgorilla",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -331,27 +387,6 @@
   {
     "name": "Nuuly",
     "slug": "nuuly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PerkinElmer",
-    "slug": "perkinelmer",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "REDspace",
-    "slug": "redspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "cFive Solutions",
-    "slug": "cfive-solutions",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
