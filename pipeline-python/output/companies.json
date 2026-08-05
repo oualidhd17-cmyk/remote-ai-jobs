@@ -28,6 +28,20 @@
     "jobs_count": 3
   },
   {
+    "name": "Roblox",
+    "slug": "roblox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Instacart",
+    "slug": "instacart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Uptalent.io",
     "slug": "uptalent-io",
     "logo_url": null,
@@ -44,13 +58,6 @@
   {
     "name": "Platform.sh",
     "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -98,11 +105,25 @@
     "jobs_count": 2
   },
   {
+    "name": "Abnormal",
+    "slug": "abnormal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Yooli",
+    "slug": "yooli",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Sinclair Broadcast Group",
@@ -114,6 +135,13 @@
   {
     "name": "Lithic",
     "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Check",
+    "slug": "check",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -245,8 +273,8 @@
     "jobs_count": 1
   },
   {
-    "name": "The Humane League",
-    "slug": "the-humane-league",
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -280,43 +308,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Resource Guru",
-    "slug": "resource-guru",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ClickHouse",
-    "slug": "clickhouse",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Temporal Technologies",
-    "slug": "temporal-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "6 Figure Creative",
     "slug": "6-figure-creative",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Amwell",
-    "slug": "amwell",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "silverorange",
-    "slug": "silverorange",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -366,13 +359,6 @@
   {
     "name": "Reddit",
     "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Abnormal",
-    "slug": "abnormal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
