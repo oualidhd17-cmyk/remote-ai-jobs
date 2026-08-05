@@ -77,13 +77,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Doximity",
-    "slug": "doximity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Smartsheet",
     "slug": "smartsheet",
     "logo_url": null,
@@ -135,6 +128,13 @@
   {
     "name": "Lithic",
     "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Enable Dental",
+    "slug": "enable-dental",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,13 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "RETR",
-    "slug": "retr",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Yoko Co",
     "slug": "yoko-co",
     "logo_url": null,
@@ -359,6 +352,20 @@
   {
     "name": "Outsite",
     "slug": "outsite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nuuly",
+    "slug": "nuuly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PerkinElmer",
+    "slug": "perkinelmer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
