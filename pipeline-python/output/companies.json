@@ -21,6 +21,13 @@
     "jobs_count": 4
   },
   {
+    "name": "Webflow",
+    "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -35,6 +42,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Roblox",
     "slug": "roblox",
     "logo_url": null,
@@ -44,13 +58,6 @@
   {
     "name": "Instacart",
     "slug": "instacart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "GROW10X",
-    "slug": "grow10x",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -84,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Customer.io",
     "slug": "customer-io",
     "logo_url": null,
@@ -117,6 +117,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Tremendous",
+    "slug": "tremendous",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "MemberSpace",
@@ -301,13 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "FindTutors",
-    "slug": "findtutors",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Faire",
     "slug": "faire",
     "logo_url": null,
@@ -322,22 +322,8 @@
     "jobs_count": 1
   },
   {
-    "name": "6 Figure Creative",
-    "slug": "6-figure-creative",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Yoko Co",
     "slug": "yoko-co",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Webflow",
-    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -352,6 +338,13 @@
   {
     "name": "LaunchDarkly",
     "slug": "launchdarkly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -373,13 +366,6 @@
   {
     "name": "Outsite",
     "slug": "outsite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Nuuly",
-    "slug": "nuuly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
