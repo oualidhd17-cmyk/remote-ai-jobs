@@ -56,6 +56,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Creative Force",
+    "slug": "creative-force",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Instacart",
     "slug": "instacart",
     "logo_url": null,
@@ -79,13 +86,6 @@
   {
     "name": "Platform.sh",
     "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Fin",
-    "slug": "fin",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,6 +119,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Performancepixel GmbH",
+    "slug": "performancepixel-gmbh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Capgemini",
+    "slug": "capgemini",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Tremendous",
     "slug": "tremendous",
     "logo_url": null,
@@ -149,48 +163,6 @@
   {
     "name": "Lithic",
     "slug": "lithic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PT. Mastersystem Infotama",
-    "slug": "pt-mastersystem-infotama",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "SEAhub Asia",
-    "slug": "seahub-asia",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Enable Dental",
-    "slug": "enable-dental",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Arabian Private Holdings",
-    "slug": "arabian-private-holdings",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "TIMBERTEK",
-    "slug": "timbertek",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Check",
-    "slug": "check",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -301,15 +273,15 @@
     "jobs_count": 1
   },
   {
-    "name": "PadSplit",
-    "slug": "padsplit",
+    "name": "Faire",
+    "slug": "faire",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Faire",
-    "slug": "faire",
+    "name": "Fin",
+    "slug": "fin",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -366,6 +338,13 @@
   {
     "name": "Outsite",
     "slug": "outsite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nuuly",
+    "slug": "nuuly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
