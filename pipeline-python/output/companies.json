@@ -84,13 +84,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Platform.sh",
-    "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Customer.io",
     "slug": "customer-io",
     "logo_url": null,
@@ -119,6 +112,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Logicstics",
+    "slug": "logicstics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kuno Creative Group, Inc.",
+    "slug": "kuno-creative-group-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Performancepixel GmbH",
     "slug": "performancepixel-gmbh",
     "logo_url": null,
@@ -126,15 +133,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Capgemini",
-    "slug": "capgemini",
+    "name": "Tridant",
+    "slug": "tridant",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Tremendous",
-    "slug": "tremendous",
+    "name": "Capgemini",
+    "slug": "capgemini",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -149,6 +156,13 @@
   {
     "name": "Yooli",
     "slug": "yooli",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Clera",
+    "slug": "clera",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -273,6 +287,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Platform.sh",
+    "slug": "platform-sh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Faire",
     "slug": "faire",
     "logo_url": null,
@@ -338,13 +359,6 @@
   {
     "name": "Outsite",
     "slug": "outsite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Nuuly",
-    "slug": "nuuly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
