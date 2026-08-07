@@ -14,6 +14,13 @@
     "jobs_count": 11
   },
   {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
     "name": "Azumo",
     "slug": "azumo",
     "logo_url": null,
@@ -35,11 +42,11 @@
     "jobs_count": 3
   },
   {
-    "name": "Coinbase",
-    "slug": "coinbase",
+    "name": "Descript",
+    "slug": "descript",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
     "name": "Jumio",
@@ -98,18 +105,25 @@
     "jobs_count": 2
   },
   {
-    "name": "Abnormal",
-    "slug": "abnormal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Kazaar Fragrances",
+    "slug": "kazaar-fragrances",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Grafana Labs",
+    "slug": "grafana-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Logicstics",
@@ -245,13 +259,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Mayflower",
-    "slug": "mayflower",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Druva",
     "slug": "druva",
     "logo_url": null,
@@ -261,13 +268,6 @@
   {
     "name": "Truelogic",
     "slug": "truelogic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "us Haut.AI",
-    "slug": "us-haut-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,20 +289,6 @@
   {
     "name": "Platform.sh",
     "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Faire",
-    "slug": "faire",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Fin",
-    "slug": "fin",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -352,6 +338,13 @@
   {
     "name": "Reddit",
     "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Abnormal",
+    "slug": "abnormal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
