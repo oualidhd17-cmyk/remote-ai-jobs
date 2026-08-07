@@ -42,6 +42,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Reddit",
+    "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Descript",
     "slug": "descript",
     "logo_url": null,
@@ -77,13 +84,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Uptalent.io",
-    "slug": "uptalent-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Power Digital",
     "slug": "power-digital",
     "logo_url": null,
@@ -110,6 +110,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Kazaar Fragrances",
@@ -189,13 +203,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Lithic",
-    "slug": "lithic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Porkbun",
     "slug": "porkbun",
     "logo_url": null,
@@ -259,6 +266,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Uptalent.io",
+    "slug": "uptalent-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Druva",
     "slug": "druva",
     "logo_url": null,
@@ -268,20 +282,6 @@
   {
     "name": "Truelogic",
     "slug": "truelogic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Prove",
-    "slug": "prove",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Stability AI",
-    "slug": "stability-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -331,13 +331,6 @@
   {
     "name": "Bybit",
     "slug": "bybit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
