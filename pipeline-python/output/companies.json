@@ -7,25 +7,11 @@
     "jobs_count": 80
   },
   {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 11
-  },
-  {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
-  },
-  {
-    "name": "Azumo",
-    "slug": "azumo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
+    "jobs_count": 5
   },
   {
     "name": "Webflow",
@@ -42,8 +28,15 @@
     "jobs_count": 3
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
+    "name": "Lattice",
+    "slug": "lattice",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -63,13 +56,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Roblox",
-    "slug": "roblox",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Creative Force",
     "slug": "creative-force",
     "logo_url": null,
@@ -79,6 +65,13 @@
   {
     "name": "Instacart",
     "slug": "instacart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Azumo",
+    "slug": "azumo",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -98,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Remote",
-    "slug": "remote",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Tribe Wellness",
     "slug": "tribe-wellness",
     "logo_url": null,
@@ -112,8 +98,22 @@
     "jobs_count": 2
   },
   {
+    "name": "Fivetran",
+    "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Headway",
     "slug": "headway",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,6 +168,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Roblox",
+    "slug": "roblox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Tridant",
     "slug": "tridant",
     "logo_url": null,
@@ -210,13 +217,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Porkbun",
-    "slug": "porkbun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Hook & Ladder",
     "slug": "hook-ladder",
     "logo_url": null,
@@ -233,13 +233,6 @@
   {
     "name": "AlgaeCal",
     "slug": "algaecal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LMG Staffing Solutions",
-    "slug": "lmg-staffing-solutions",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,6 +301,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Remote",
+    "slug": "remote",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Yoko Co",
     "slug": "yoko-co",
     "logo_url": null,
@@ -352,6 +352,20 @@
   {
     "name": "Outsite",
     "slug": "outsite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nuuly",
+    "slug": "nuuly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PerkinElmer",
+    "slug": "perkinelmer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
