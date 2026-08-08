@@ -5,7 +5,7 @@
   "ai_relevant_count": 166,
   "remote_count": 89,
   "visa_count": 84,
-  "salary_count": 5,
+  "salary_count": 6,
   "status_counts": {
     "rejected": 97,
     "pending": 11,
@@ -19,9 +19,9 @@
   },
   "category_counts": {
     "AI Engineering": 105,
-    "Data Science": 16,
+    "Data Science": 15,
     "Robotics": 12,
-    "MLOps": 16,
+    "MLOps": 17,
     "Machine Learning": 3,
     "Data Analytics": 1,
     "Prompt Engineering": 2
@@ -31,8 +31,8 @@
     "Ireland": 2,
     "Germany": 3,
     "USA": 13,
-    "Singapore": 2,
     "Australia": 6,
+    "Singapore": 2,
     "UK": 4
   }
 }

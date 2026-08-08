@@ -329,6 +329,79 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1136299",
+    "slug": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1136299",
+    "title": "Senior React Full stack Developer",
+    "seo_title": "Remote Senior React Full stack Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior React Full stack Developer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": 50000,
+    "salary_max": 210000,
+    "salary_currency": "USD",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "AWS",
+      "GCP",
+      "Azure",
+      "dev",
+      "engineer",
+      "senior",
+      "full time",
+      "javascript"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136299",
+    "published_at": "2026-08-07",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior React Full stack Developer",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
+      "datePosted": "2026-08-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136299",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 50000,
+          "maxValue": 210000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "director-us-international-tax-anthropic-worldwide-greenhouse-anthropic-5358120008",
     "slug": "director-us-international-tax-anthropic-worldwide-greenhouse-anthropic-5358120008",
     "title": "Director, US International Tax",
@@ -2661,66 +2734,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-engineer-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-data-engineer-latin-america",
-    "slug": "data-engineer-latin-america-azumo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-azumo-data-engineer-latin-america",
-    "title": "Data Engineer - Latin America",
-    "seo_title": "Remote Data Engineer - Latin America Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Engineer - Latin America job at Azumo in Worldwide. Explore SQL, Machine Learning, RAG, Azure and remote AI jobs.",
-    "company": {
-      "name": "Azumo",
-      "slug": "azumo",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "Machine Learning",
-      "RAG",
-      "Azure",
-      "Spark",
-      "Airflow",
-      "Generative AI",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
-    "published_at": "2026-08-04",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Engineer - Latin America",
-      "description": "Headquarters: Buenos Aires, Argentina URL: http://azumo.com Description Azumo is currently looking for a highly motivated Big Data Engineer to develop and enhance data and analytics infrastructure. The position is FULLY REMOTE based in Latin America . This...",
-      "datePosted": "2026-08-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Azumo"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/azumo-data-engineer-latin-america",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "electrical-engineer-substation-design-hanson-professional-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hanson-professional-services-el",
     "slug": "electrical-engineer-substation-design-hanson-professional-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hanson-professional-services-el",
     "title": "Electrical Engineer - Substation Design",
@@ -3707,65 +3720,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -3820,6 +3774,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -7781,60 +7794,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-manager-emea-customer-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-customer-io-account-manager-emea",
-    "slug": "account-manager-emea-customer-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-customer-io-account-manager-emea",
-    "title": "Account Manager, EMEA",
-    "seo_title": "Remote Account Manager, EMEA Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Account Manager, EMEA job at Customer.io in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Customer.io",
-      "slug": "customer-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: EMEA Remote About Customer.io Over 8,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/customer-io-account-manager-emea",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/customer-io-account-manager-emea",
-    "published_at": "2026-07-24",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Manager, EMEA",
-      "description": "Headquarters: EMEA Remote About Customer.io Over 8,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that...",
-      "datePosted": "2026-07-24",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Customer.io"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/customer-io-account-manager-emea",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "blockchain-risk-control-research-intern-bybit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bybit-blockchain-risk-control-research-intern",
     "slug": "blockchain-risk-control-research-intern-bybit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bybit-blockchain-risk-control-research-intern",
     "title": "Blockchain Risk Control Research Intern",
@@ -8302,6 +8261,60 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-software-developer-ad-tech-redspace-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-redspace-senior-software-developer-ad-tech",
+    "slug": "senior-software-developer-ad-tech-redspace-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-redspace-senior-software-developer-ad-tech",
+    "title": "Senior Software Developer - Ad Tech",
+    "seo_title": "Remote Senior Software Developer - Ad Tech Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Senior Software Developer - Ad Tech job at REDspace in Worldwide. Explore RAG, Back-End Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "REDspace",
+      "slug": "redspace",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Canada URL: http://redspace.com Description About REDspace At REDspace ( REDspace.com ) we’re a team of passionate innovators building cutting-edge software that powers some of the world’s leading brands. From video delivery and streaming to...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
+    "published_at": "2026-07-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Developer - Ad Tech",
+      "description": "Headquarters: Canada URL: http://redspace.com Description About REDspace At REDspace ( REDspace.com ) we’re a team of passionate innovators building cutting-edge software that powers some of the world’s leading brands. From video delivery and streaming to...",
+      "datePosted": "2026-07-23",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "REDspace"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/redspace-senior-software-developer-ad-tech",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true

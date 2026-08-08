@@ -14,15 +14,15 @@
     "jobs_count": 5
   },
   {
-    "name": "Webflow",
-    "slug": "webflow",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -70,22 +70,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Azumo",
-    "slug": "azumo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Power Digital",
     "slug": "power-digital",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Customer.io",
-    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -238,6 +224,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Azumo",
+    "slug": "azumo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Hanson Professional Services",
     "slug": "hanson-professional-services",
     "logo_url": null,
@@ -296,6 +289,13 @@
   {
     "name": "Asana",
     "slug": "asana",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Customer.io",
+    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -366,6 +366,13 @@
   {
     "name": "PerkinElmer",
     "slug": "perkinelmer",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "REDspace",
+    "slug": "redspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
