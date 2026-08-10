@@ -14,18 +14,32 @@
     "jobs_count": 5
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Webflow",
     "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Lithic",
+    "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Gusto, Inc.",
@@ -44,13 +58,6 @@
   {
     "name": "Gemini",
     "slug": "gemini",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Descript",
-    "slug": "descript",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -77,6 +84,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Instacart",
+    "slug": "instacart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Amwell",
     "slug": "amwell",
     "logo_url": null,
@@ -86,6 +107,13 @@
   {
     "name": "Iterable",
     "slug": "iterable",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Credit Wellness, LLC",
+    "slug": "credit-wellness-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -112,13 +140,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Airbnb",
-    "slug": "airbnb",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -135,6 +156,13 @@
   {
     "name": "Grafana Labs",
     "slug": "grafana-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Descript",
+    "slug": "descript",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -163,13 +191,6 @@
   {
     "name": "MemberSpace",
     "slug": "memberspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Clera",
-    "slug": "clera",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -266,13 +287,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Customer.io",
-    "slug": "customer-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Remote",
     "slug": "remote",
     "logo_url": null,
@@ -331,20 +345,6 @@
   {
     "name": "Nuuly",
     "slug": "nuuly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PerkinElmer",
-    "slug": "perkinelmer",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "REDspace",
-    "slug": "redspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

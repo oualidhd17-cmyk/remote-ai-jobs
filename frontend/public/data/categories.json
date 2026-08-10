@@ -12,12 +12,12 @@
   {
     "name": "MLOps",
     "slug": "mlops",
-    "jobs_count": 15
+    "jobs_count": 14
   },
   {
     "name": "Robotics",
     "slug": "robotics",
-    "jobs_count": 11
+    "jobs_count": 12
   },
   {
     "name": "Machine Learning",
@@ -25,13 +25,13 @@
     "jobs_count": 3
   },
   {
-    "name": "Prompt Engineering",
-    "slug": "prompt-engineering",
+    "name": "NLP",
+    "slug": "nlp",
     "jobs_count": 2
   },
   {
-    "name": "NLP",
-    "slug": "nlp",
-    "jobs_count": 1
+    "name": "Prompt Engineering",
+    "slug": "prompt-engineering",
+    "jobs_count": 2
   }
 ]
