@@ -7,11 +7,81 @@
     "jobs_count": 80
   },
   {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Remote",
+    "slug": "remote",
+    "logo_url": null,
+    "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Justworks",
+    "slug": "justworks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Pixel One",
+    "slug": "pixel-one",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Lithic",
+    "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Gusto, Inc.",
+    "slug": "gusto-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Lattice",
+    "slug": "lattice",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Descript",
+    "slug": "descript",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Creative Force",
@@ -21,8 +91,64 @@
     "jobs_count": 2
   },
   {
+    "name": "Power Digital",
+    "slug": "power-digital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Harney & Sons Fine Teas",
+    "slug": "harney-sons-fine-teas",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Hunt Remotely",
     "slug": "hunt-remotely",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Food Service Specialties",
+    "slug": "food-service-specialties",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Zoom",
+    "slug": "zoom",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Instacart",
+    "slug": "instacart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Amwell",
+    "slug": "amwell",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Iterable",
+    "slug": "iterable",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -35,8 +161,190 @@
     "jobs_count": 1
   },
   {
+    "name": "Fivetran",
+    "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Headway",
+    "slug": "headway",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kazaar Fragrances",
+    "slug": "kazaar-fragrances",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Grafana Labs",
+    "slug": "grafana-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kuno Creative Group, Inc.",
+    "slug": "kuno-creative-group-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Performancepixel GmbH",
+    "slug": "performancepixel-gmbh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "MemberSpace",
+    "slug": "memberspace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sinclair Broadcast Group",
+    "slug": "sinclair-broadcast-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hook & Ladder",
+    "slug": "hook-ladder",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Charles Technology Africa",
+    "slug": "charles-technology-africa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "AlgaeCal",
+    "slug": "algaecal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hanson Professional Services",
+    "slug": "hanson-professional-services",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Uptalent.io",
+    "slug": "uptalent-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Druva",
+    "slug": "druva",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Truelogic",
+    "slug": "truelogic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Platform.sh",
+    "slug": "platform-sh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Asana",
+    "slug": "asana",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Yoko Co",
+    "slug": "yoko-co",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bybit",
+    "slug": "bybit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Outsite",
     "slug": "outsite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nuuly",
+    "slug": "nuuly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
