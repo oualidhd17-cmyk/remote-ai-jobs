@@ -91,6 +91,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Food Service Specialties",
+    "slug": "food-service-specialties",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Zoom",
     "slug": "zoom",
     "logo_url": null,
@@ -247,13 +254,6 @@
   {
     "name": "CRB",
     "slug": "crb",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CapsLock",
-    "slug": "capslock",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
