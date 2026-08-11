@@ -28,6 +28,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Justworks",
     "slug": "justworks",
     "logo_url": null,
@@ -70,13 +77,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Descript",
-    "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Jumio",
     "slug": "jumio",
     "logo_url": null,
@@ -98,11 +98,11 @@
     "jobs_count": 2
   },
   {
-    "name": "Customer.io",
-    "slug": "customer-io",
+    "name": "Hospitable",
+    "slug": "hospitable",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
   },
   {
     "name": "Harney & Sons Fine Teas",
@@ -177,13 +177,6 @@
   {
     "name": "Reddit",
     "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -294,6 +287,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Yoko Co",
     "slug": "yoko-co",
     "logo_url": null,
@@ -345,6 +345,13 @@
   {
     "name": "Nuuly",
     "slug": "nuuly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PerkinElmer",
+    "slug": "perkinelmer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
