@@ -7,15 +7,15 @@
     "jobs_count": 80
   },
   {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 5
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -33,6 +33,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "SoFi",
+    "slug": "sofi",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Justworks",
@@ -63,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Lattice",
-    "slug": "lattice",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Jumio",
     "slug": "jumio",
     "logo_url": null,
@@ -89,6 +89,41 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Better Proposals",
+    "slug": "better-proposals",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercury",
+    "slug": "mercury",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "DoiT",
+    "slug": "doit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CoverGo",
+    "slug": "covergo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Immutable",
@@ -336,13 +371,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Bybit",
     "slug": "bybit",
     "logo_url": null,
@@ -359,20 +387,6 @@
   {
     "name": "Nuuly",
     "slug": "nuuly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PerkinElmer",
-    "slug": "perkinelmer",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tribe Wellness",
-    "slug": "tribe-wellness",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
