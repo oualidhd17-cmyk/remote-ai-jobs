@@ -21,18 +21,18 @@
     "jobs_count": 4
   },
   {
-    "name": "Remote",
-    "slug": "remote",
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
+    "name": "Remote",
+    "slug": "remote",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 3
   },
   {
     "name": "Justworks",
@@ -65,13 +65,6 @@
   {
     "name": "Lattice",
     "slug": "lattice",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Gemini",
-    "slug": "gemini",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -170,6 +163,20 @@
   {
     "name": "Fivetran",
     "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Utility Supply Corporation",
+    "slug": "utility-supply-corporation",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

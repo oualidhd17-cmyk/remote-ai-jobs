@@ -1,5 +1,59 @@
 [
   {
+    "id": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
+    "slug": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
+    "title": "Customer Success Manager",
+    "seo_title": "Remote Customer Success Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in Worldwide. Explore RAG, AWS, Sales, Tokyo, Japan and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Tokyo, Japan",
+    "location_label": "Tokyo, Japan",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Tokyo, Japan"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "published_at": "2026-08-12",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Success Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-12",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
     "slug": "anthropic-fellows-program-anthropic-usa-greenhouse-anthropic-5023394008",
     "title": "Anthropic Fellows Program",
@@ -2133,60 +2187,6 @@
     "ai_relevant": true
   },
   {
-    "id": "director-fraud-gemini-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gemini-director-fraud",
-    "slug": "director-fraud-gemini-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gemini-director-fraud",
-    "title": "Director, Fraud",
-    "seo_title": "Remote Director, Fraud Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Director, Fraud job at Gemini in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Gemini",
-      "slug": "gemini",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/gemini-director-fraud",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/gemini-director-fraud",
-    "published_at": "2026-08-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Director, Fraud",
-      "description": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to...",
-      "datePosted": "2026-08-08",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Gemini"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/gemini-director-fraud",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "accountant-fivetran-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fivetran-accountant",
     "slug": "accountant-fivetran-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fivetran-accountant",
     "title": "Accountant",
@@ -2535,6 +2535,69 @@
     "ai_relevant": true
   },
   {
+    "id": "labourer-general-manufacturing-utility-supply-corporation-worldwide-remoteok-1136550",
+    "slug": "labourer-general-manufacturing-utility-supply-corporation-worldwide-remoteok-1136550",
+    "title": "labourer general manufacturing",
+    "seo_title": "Remote labourer general manufacturing Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote labourer general manufacturing job at Utility Supply Corporation in Worldwide. Explore RAG, education, supervisor, web dev and remote...",
+    "company": {
+      "name": "Utility Supply Corporation",
+      "slug": "utility-supply-corporation",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Kitchener,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "education",
+      "supervisor",
+      "web dev",
+      "travel",
+      "exec",
+      "sales",
+      "customer support",
+      "recruiter",
+      "marketing",
+      "testing",
+      "technical"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Overview Languages English Education No degree, certificate or diploma Experience 1 year to less than 2 years On site Work must be completed at the physical location. There is no option to work remotely. Benefits Health benefits Dental plan Health care plan...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-labourer-general-manufacturing-utility-supply-corporation-1136550",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136550",
+    "published_at": "2026-08-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "labourer general manufacturing",
+      "description": "Overview Languages English Education No degree, certificate or diploma Experience 1 year to less than 2 years On site Work must be completed at the physical location. There is no option to work remotely. Benefits Health benefits Dental plan Health care plan...",
+      "datePosted": "2026-08-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Utility Supply Corporation"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136550",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-manager-content-community-marketing-headway-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-headway-senior-manager-content-community-market",
     "slug": "senior-manager-content-community-marketing-headway-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-headway-senior-manager-content-community-market",
     "title": "Senior Manager, Content & Community Marketing",
@@ -2639,6 +2702,60 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/reddit-group-product-manager-finance-technology",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "stibo-sr-architect-platform-owner-for-global-fortune-500-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-stibo-sr-architect-platform",
+    "slug": "stibo-sr-architect-platform-owner-for-global-fortune-500-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-stibo-sr-architect-platform",
+    "title": "Stibo Sr. Architect/Platform Owner for Global Fortune 500",
+    "seo_title": "Remote Stibo Sr. Architect/Platform Owner for Global Fortune 500 Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Stibo Sr. Architect/Platform Owner for Global Fortune 500 job at Toptal in Worldwide. Explore RAG, Full-Stack Programming, Remote and...",
+    "company": {
+      "name": "Toptal",
+      "slug": "toptal",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Within the client's Global Information Services (GIS) organization is a team of dedicated resources to build a digital center of excellence. This team is made up of diverse skillsets, roles and unique perspectives that allow us to research,...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500",
+    "published_at": "2026-08-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Stibo Sr. Architect/Platform Owner for Global Fortune 500",
+      "description": "Headquarters: Within the client's Global Information Services (GIS) organization is a team of dedicated resources to build a digital center of excellence. This team is made up of diverse skillsets, roles and unique perspectives that allow us to research,...",
+      "datePosted": "2026-08-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Toptal"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/toptal-stibo-sr-architect-platform-owner-for-global-fortune-500",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5688,61 +5805,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "title": "Commercial Counsel, APAC",
@@ -5798,21 +5860,21 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Ireland",
+    "country": "Australia",
     "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
     "remote_type": "hybrid",
     "employment_type": "contract",
     "experience_level": "intern",
@@ -5825,13 +5887,13 @@
       "RAG",
       "AWS",
       "Legal",
-      "Dublin, IE"
+      "Sydney, Australia"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
     "published_at": "2026-08-03",
     "expires_at": null,
     "quality_score": 75,
@@ -5839,7 +5901,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
+      "title": "Commercial Counsel, APAC",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-08-03",
       "employmentType": "CONTRACTOR",
@@ -5848,7 +5910,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
     },
     "ai_relevant": true
   },
@@ -5904,6 +5966,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -7404,63 +7521,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980335008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "engineering-manager-growth-anthropic-worldwide-greenhouse-anthropic-5361472008",
-    "slug": "engineering-manager-growth-anthropic-worldwide-greenhouse-anthropic-5361472008",
-    "title": "Engineering Manager, Growth",
-    "seo_title": "Remote Engineering Manager, Growth Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Engineering Manager, Growth job at anthropic in Worldwide. Explore Machine Learning, RAG, AWS, Engineering & Design - Product and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Engineering & Design - Product",
-      "New York City, NY",
-      "San Francisco, CA",
-      "Seattle, WA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Engineering Manager, Growth",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008"
     },
     "ai_relevant": true
   },
