@@ -107,56 +107,166 @@
     "ai_relevant": true
   },
   {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "id": "senior-backend-software-engineer-grailed-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-grailed-senior-backend-software-engineer",
+    "slug": "senior-backend-software-engineer-grailed-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-grailed-senior-backend-software-engineer",
+    "title": "Senior Backend Software Engineer",
+    "seo_title": "Remote Senior Backend Software Engineer Job | NLP Jobs",
+    "seo_description": "Apply for a remote Senior Backend Software Engineer job at Grailed in Worldwide. Explore SQL, LLM, AWS, Back-End Programming and remote AI jobs.",
     "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
+      "name": "Grailed",
+      "slug": "grailed",
       "logo_url": null,
       "website": null
     },
     "country": "Worldwide",
     "city": null,
-    "location": "New York City, NY",
+    "location": "Remote",
     "location_label": "Remote - Worldwide",
     "remote_type": "remote",
-    "employment_type": "contract",
+    "employment_type": "internship",
     "experience_level": "intern",
-    "visa_sponsorship": true,
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "LLM",
+      "AWS",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "NLP",
+    "description_summary": "Headquarters: Remote US Role Overview We’re looking for a Senior Software Engineer - Backend, to solve complex problems gracefully, grow scalable systems, and help to shape our technical vision. As a Senior Software Engineer, you’ll take an active role in...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer",
+    "published_at": "2026-08-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Backend Software Engineer",
+      "description": "Headquarters: Remote US Role Overview We’re looking for a Senior Software Engineer - Backend, to solve complex problems gracefully, grow scalable systems, and help to shape our technical vision. As a Senior Software Engineer, you’ll take an active role in...",
+      "datePosted": "2026-08-13",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Grailed"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "associate-customer-success-manager-scale-expel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-expel-associate-customer-success-manager-scale",
+    "slug": "associate-customer-success-manager-scale-expel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-expel-associate-customer-success-manager-scale",
+    "title": "Associate Customer Success Manager, Scale",
+    "seo_title": "Remote Associate Customer Success Manager, Scale Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Associate Customer Success Manager, Scale job at Expel in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "Expel",
+      "slug": "expel",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "junior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote Most CS roles give you a book of accounts and say \"don't lose them.\" This one is different. You're part of a team that collectively owns a segment of customers, not individually assigned accounts. You pick up the next customer who needs...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/expel-associate-customer-success-manager-scale",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/expel-associate-customer-success-manager-scale",
+    "published_at": "2026-08-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Associate Customer Success Manager, Scale",
+      "description": "Headquarters: Remote Most CS roles give you a book of accounts and say \"don't lose them.\" This one is different. You're part of a team that collectively owns a segment of customers, not individually assigned accounts. You pick up the next customer who needs...",
+      "datePosted": "2026-08-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Expel"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/expel-associate-customer-success-manager-scale",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "mortgage-processor-underwriter-remote-knock-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-knock-mortgage-processor-underwriter-remote",
+    "slug": "mortgage-processor-underwriter-remote-knock-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-knock-mortgage-processor-underwriter-remote",
+    "title": "Mortgage Processor/Underwriter - Remote",
+    "seo_title": "Remote Mortgage Processor/Underwriter - Remote Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Mortgage Processor/Underwriter - Remote job at Knock in Worldwide. Explore RAG, AWS, All Other Remote, Remote and remote AI jobs.",
+    "company": {
+      "name": "Knock",
+      "slug": "knock",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "skills": [
       "RAG",
       "AWS",
-      "Security",
-      "New York City, NY"
+      "All Other Remote",
+      "Remote"
     ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-12",
+    "category": "MLOps",
+    "description_summary": "Headquarters: Remote Knock is redefining the home buying and selling experience, and we’re only getting started! We’re a passionate team of industry experts who knew there had to be a better, simpler way for people to navigate the journey between homes. That...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/knock-mortgage-processor-underwriter-remote",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/knock-mortgage-processor-underwriter-remote",
+    "published_at": "2026-08-13",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-12",
-      "employmentType": "CONTRACTOR",
+      "title": "Mortgage Processor/Underwriter - Remote",
+      "description": "Headquarters: Remote Knock is redefining the home buying and selling experience, and we’re only getting started! We’re a passionate team of industry experts who knew there had to be a better, simpler way for people to navigate the journey between homes. That...",
+      "datePosted": "2026-08-13",
+      "employmentType": "FULL_TIME",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "anthropic"
+        "name": "Knock"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "url": "https://weworkremotely.com/remote-jobs/knock-mortgage-processor-underwriter-remote",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -217,6 +327,61 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-12",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-12",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -3440,188 +3605,6 @@
     "ai_relevant": true
   },
   {
-    "id": "accountant-fivetran-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fivetran-accountant",
-    "slug": "accountant-fivetran-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fivetran-accountant",
-    "title": "Accountant",
-    "seo_title": "Remote Accountant Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Accountant job at Fivetran in Worldwide. Explore RAG, Statistics, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Fivetran",
-      "slug": "fivetran",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Statistics",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: SRB - Remote From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/fivetran-accountant",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/fivetran-accountant",
-    "published_at": "2026-08-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Accountant",
-      "description": "Headquarters: SRB - Remote From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no...",
-      "datePosted": "2026-08-08",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Fivetran"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/fivetran-accountant",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "analyst-compliance-investigations-gemini-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gemini-analyst-compliance-investigations",
-    "slug": "analyst-compliance-investigations-gemini-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gemini-analyst-compliance-investigations",
-    "title": "Analyst, Compliance (Investigations)",
-    "seo_title": "Remote Analyst, Compliance (Investigations) Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Analyst, Compliance (Investigations) job at Gemini in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Gemini",
-      "slug": "gemini",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/gemini-analyst-compliance-investigations",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/gemini-analyst-compliance-investigations",
-    "published_at": "2026-08-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Analyst, Compliance (Investigations)",
-      "description": "Headquarters: New York, New York; Miami, Florida; Remote (USA) About the Company Gemini is a global crypto and Web3 platform founded by Cameron and Tyler Winklevoss in 2014, offering a wide range of simple, reliable, and secure crypto products and services to...",
-      "datePosted": "2026-08-08",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Gemini"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/gemini-analyst-compliance-investigations",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1136299",
-    "slug": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1136299",
-    "title": "Senior React Full stack Developer",
-    "seo_title": "Remote Senior React Full stack Developer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior React Full stack Developer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": 50000,
-    "salary_max": 210000,
-    "salary_currency": "USD",
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "MLOps",
-      "AWS",
-      "GCP",
-      "Azure",
-      "dev",
-      "engineer",
-      "senior",
-      "full time",
-      "javascript"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1136299",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1136299",
-    "published_at": "2026-08-07",
-    "expires_at": null,
-    "quality_score": 100,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior React Full stack Developer",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-      "datePosted": "2026-08-07",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1136299",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 50000,
-          "maxValue": 210000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "director-us-international-tax-anthropic-worldwide-greenhouse-anthropic-5358120008",
     "slug": "director-us-international-tax-anthropic-worldwide-greenhouse-anthropic-5358120008",
     "title": "Director, US International Tax",
@@ -6657,61 +6640,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Dublin, IE"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
     "title": "Commercial Counsel, EMEA",
@@ -6763,6 +6691,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -8545,60 +8528,6 @@
     "ai_relevant": true
   },
   {
-    "id": "professional-services-sales-executive-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-professional-services-sales-executive",
-    "slug": "professional-services-sales-executive-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-professional-services-sales-executive",
-    "title": "Professional Services Sales Executive",
-    "seo_title": "Remote Professional Services Sales Executive Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Professional Services Sales Executive job at Collibra in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Collibra",
-      "slug": "collibra",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote, Netherlands Joining Collibra's Professional Services Team Collibra helps organizations take command of data and AI. Our Professional Services team plays a critical role in helping customers realize value faster, accelerate adoption, and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/collibra-professional-services-sales-executive",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/collibra-professional-services-sales-executive",
-    "published_at": "2026-07-24",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Professional Services Sales Executive",
-      "description": "Headquarters: Remote, Netherlands Joining Collibra's Professional Services Team Collibra helps organizations take command of data and AI. Our Professional Services team plays a critical role in helping customers realize value faster, accelerate adoption, and...",
-      "datePosted": "2026-07-24",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Collibra"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/collibra-professional-services-sales-executive",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "backend-engineer-flag-delivery-launchdarkly-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-launchdarkly-backend-engineer-flag-delivery",
     "slug": "backend-engineer-flag-delivery-launchdarkly-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-launchdarkly-backend-engineer-flag-delivery",
     "title": "Backend Engineer, Flag Delivery",
@@ -9017,61 +8946,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-financial-analyst-fp-a-business-partner-onesource-finance-perkinelmer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-perkinelmer-senior-fi",
-    "slug": "senior-financial-analyst-fp-a-business-partner-onesource-finance-perkinelmer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-perkinelmer-senior-fi",
-    "title": "Senior Financial Analyst FP&A – Business Partner, OneSource Finance",
-    "seo_title": "Remote Senior Financial Analyst FP&A – Business Partner, OneSource Finance Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Financial Analyst FP&A – Business Partner, OneSource Finance job at PerkinElmer in Worldwide. Explore RAG, Power BI, Management...",
-    "company": {
-      "name": "PerkinElmer",
-      "slug": "perkinelmer",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Power BI",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Poland - Remote (Home Based) URL: http://perkinelmer.com When joining PerkinElmer, you select an experienced and trusted leader in scientific solutions, with the support of a global service network and distribution centers, providing the right...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
-    "published_at": "2026-07-23",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Financial Analyst FP&A – Business Partner, OneSource Finance",
-      "description": "Headquarters: Poland - Remote (Home Based) URL: http://perkinelmer.com When joining PerkinElmer, you select an experienced and trusted leader in scientific solutions, with the support of a global service network and distribution centers, providing the right...",
-      "datePosted": "2026-07-23",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "PerkinElmer"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-independent-ai-engineer-architect-a-team-usa-remotive-1919266",
     "slug": "senior-independent-ai-engineer-architect-a-team-usa-remotive-1919266",
     "title": "Senior Independent AI Engineer / Architect",
@@ -9351,73 +9225,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-product-engineer-fullstack-clipster-germany-remotive-2091062",
-    "slug": "senior-product-engineer-fullstack-clipster-germany-remotive-2091062",
-    "title": "Senior Product Engineer (Fullstack)",
-    "seo_title": "Remote Senior Product Engineer (Fullstack) Job in Germany | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Product Engineer (Fullstack) job at Clipster in Germany. Explore SQL, RAG, GCP, backend and remote AI jobs.",
-    "company": {
-      "name": "Clipster",
-      "slug": "clipster",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Germany",
-    "city": null,
-    "location": "Europe, UK, Germany, France, European timezones",
-    "location_label": "Remote - Germany",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "GCP",
-      "backend",
-      "frontend",
-      "fullstack",
-      "golang",
-      "postgresql",
-      "react",
-      "AI/ML",
-      "documentation",
-      "youtube"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Clipster Clipster is where brands and creators connect to turn views into profits. Clippers (Creators) clip, remix, and post branded content on TikTok, YouTube, Instagram, X, and beyond — earning money for every view they deliver. Brands get a...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
-    "published_at": "2026-07-13",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Product Engineer (Fullstack)",
-      "description": "About Clipster Clipster is where brands and creators connect to turn views into profits. Clippers (Creators) clip, remix, and post branded content on TikTok, YouTube, Instagram, X, and beyond — earning money for every view they deliver. Brands get a...",
-      "datePosted": "2026-07-13",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Clipster"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/senior-product-engineer-fullstack-2091062",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Germany"
       }
     },
     "ai_relevant": true

@@ -21,13 +21,6 @@
     "jobs_count": 4
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
@@ -42,11 +35,11 @@
     "jobs_count": 3
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 3
   },
   {
     "name": "Webflow",
@@ -96,6 +89,34 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Grailed",
+    "slug": "grailed",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Knock",
+    "slug": "knock",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Evolve",
@@ -226,20 +247,6 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Fivetran",
-    "slug": "fivetran",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Gemini",
-    "slug": "gemini",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -399,13 +406,6 @@
     "jobs_count": 1
   },
   {
-    "name": "PerkinElmer",
-    "slug": "perkinelmer",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "A.Team",
     "slug": "a-team",
     "logo_url": null,
@@ -422,13 +422,6 @@
   {
     "name": "Mitre Media",
     "slug": "mitre-media",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Clipster",
-    "slug": "clipster",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
