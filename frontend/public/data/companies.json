@@ -98,6 +98,13 @@
     "jobs_count": 1
   },
   {
+    "name": "TestGorilla",
+    "slug": "testgorilla",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Grailed",
     "slug": "grailed",
     "logo_url": null,
@@ -114,6 +121,13 @@
   {
     "name": "Knock",
     "slug": "knock",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Adaptive Teams",
+    "slug": "adaptive-teams",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -238,13 +252,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Iterable",
-    "slug": "iterable",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
     "logo_url": null,
@@ -322,13 +329,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Hanson Professional Services",
-    "slug": "hanson-professional-services",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Uptalent.io",
     "slug": "uptalent-io",
     "logo_url": null,
@@ -401,6 +401,13 @@
   {
     "name": "Nuuly",
     "slug": "nuuly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PerkinElmer",
+    "slug": "perkinelmer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -107,6 +107,60 @@
     "ai_relevant": true
   },
   {
+    "id": "manager-smb-sales-testgorilla-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-testgorilla-manager-smb-sales",
+    "slug": "manager-smb-sales-testgorilla-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-testgorilla-manager-smb-sales",
+    "title": "Manager, SMB Sales",
+    "seo_title": "Remote Manager, SMB Sales Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Manager, SMB Sales job at TestGorilla in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "TestGorilla",
+      "slug": "testgorilla",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Fully remote URL: https://www.testgorilla.com/ We’re looking for a hands-on Sales Manager to lead a dynamic team of 6–8 SMB Account Executives, who own the full sales cycle from the initial outreach to close. You’ll own the SMB number, build a...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/testgorilla-manager-smb-sales",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/testgorilla-manager-smb-sales",
+    "published_at": "2026-08-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Manager, SMB Sales",
+      "description": "Headquarters: Fully remote URL: https://www.testgorilla.com/ We’re looking for a hands-on Sales Manager to lead a dynamic team of 6–8 SMB Account Executives, who own the full sales cycle from the initial outreach to close. You’ll own the SMB number, build a...",
+      "datePosted": "2026-08-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "TestGorilla"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/testgorilla-manager-smb-sales",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-backend-software-engineer-grailed-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-grailed-senior-backend-software-engineer",
     "slug": "senior-backend-software-engineer-grailed-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-grailed-senior-backend-software-engineer",
     "title": "Senior Backend Software Engineer",
@@ -381,6 +435,67 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "customer-service-representative-adaptive-teams-worldwide-remoteok-1136566",
+    "slug": "customer-service-representative-adaptive-teams-worldwide-remoteok-1136566",
+    "title": "Customer Service Representative",
+    "seo_title": "Remote Customer Service Representative Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Service Representative job at Adaptive Teams in Worldwide. Explore RAG, hr, sys admin, education and remote AI jobs.",
+    "company": {
+      "name": "Adaptive Teams",
+      "slug": "adaptive-teams",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "hr",
+      "sys admin",
+      "education",
+      "customer support",
+      "video",
+      "finance",
+      "legal",
+      "part time",
+      "non tech"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Confident on the phone and cool under pressure? This part-time role puts you at the center of fast-paced auction activityâmaking critical outbound calls, delivering clear info, and keeping everything on track. About the Company: This is a full time role...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-adaptive-teams-1136566",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136566",
+    "published_at": "2026-08-12",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Service Representative",
+      "description": "Confident on the phone and cool under pressure? This part-time role puts you at the center of fast-paced auction activityâmaking critical outbound calls, delivering clear info, and keeping everything on track. About the Company: This is a full time role...",
+      "datePosted": "2026-08-12",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Adaptive Teams"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136566",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3492,61 +3607,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-enterprise-west-region-iterable-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-iterable-account-executive-enterprise-west-regio",
-    "slug": "account-executive-enterprise-west-region-iterable-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-iterable-account-executive-enterprise-west-regio",
-    "title": "Account Executive (Enterprise) - West Region",
-    "seo_title": "Remote Account Executive (Enterprise) - West Region Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Account Executive (Enterprise) - West Region job at Iterable in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI...",
-    "company": {
-      "name": "Iterable",
-      "slug": "iterable",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: REMOTE - US Iterable is the leading AI-powered customer engagement platform that helps leading brands like Redfin, SeatGeek, Priceline, Calm, and Box create dynamic, individualized experiences at scale. Our platform empowers organizations to...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/iterable-account-executive-enterprise-west-region",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/iterable-account-executive-enterprise-west-region",
-    "published_at": "2026-08-09",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive (Enterprise) - West Region",
-      "description": "Headquarters: REMOTE - US Iterable is the leading AI-powered customer engagement platform that helps leading brands like Redfin, SeatGeek, Priceline, Calm, and Box create dynamic, individualized experiences at scale. Our platform empowers organizations to...",
-      "datePosted": "2026-08-09",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Iterable"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/iterable-account-executive-enterprise-west-region",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
     "slug": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
     "title": "Inside Sales Contractor",
@@ -4847,60 +4907,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "electrical-engineer-substation-design-hanson-professional-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hanson-professional-services-el",
-    "slug": "electrical-engineer-substation-design-hanson-professional-services-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hanson-professional-services-el",
-    "title": "Electrical Engineer - Substation Design",
-    "seo_title": "Remote Electrical Engineer - Substation Design Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Electrical Engineer - Substation Design job at Hanson Professional Services in Worldwide. Explore RAG, Design, Remote and remote AI...",
-    "company": {
-      "name": "Hanson Professional Services",
-      "slug": "hanson-professional-services",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Corpus Christi, TX URL: http://hanson-inc.com Hanson Values Integrity | Commitment | Quality | Relationships | Innovation If you’re looking for a firm that encourages innovative thinking and challenges you every day, with an opportunity to learn...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/hanson-professional-services-electrical-engineer-substation-design",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/hanson-professional-services-electrical-engineer-substation-design",
-    "published_at": "2026-08-04",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Electrical Engineer - Substation Design",
-      "description": "Headquarters: Corpus Christi, TX URL: http://hanson-inc.com Hanson Values Integrity | Commitment | Quality | Relationships | Innovation If you’re looking for a firm that encourages innovative thinking and challenges you every day, with an opportunity to learn...",
-      "datePosted": "2026-08-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Hanson Professional Services"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/hanson-professional-services-electrical-engineer-substation-design",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6640,61 +6646,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
     "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
     "title": "Commercial Counsel, EMEA",
@@ -6746,6 +6697,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
     },
     "ai_relevant": true
   },
@@ -8941,6 +8947,61 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/nuuly-nuuly-senior-software-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-financial-analyst-fp-a-business-partner-onesource-finance-perkinelmer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-perkinelmer-senior-fi",
+    "slug": "senior-financial-analyst-fp-a-business-partner-onesource-finance-perkinelmer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-perkinelmer-senior-fi",
+    "title": "Senior Financial Analyst FP&A – Business Partner, OneSource Finance",
+    "seo_title": "Remote Senior Financial Analyst FP&A – Business Partner, OneSource Finance Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Financial Analyst FP&A – Business Partner, OneSource Finance job at PerkinElmer in Worldwide. Explore RAG, Power BI, Management...",
+    "company": {
+      "name": "PerkinElmer",
+      "slug": "perkinelmer",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Power BI",
+      "Management and Finance",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Poland - Remote (Home Based) URL: http://perkinelmer.com When joining PerkinElmer, you select an experienced and trusted leader in scientific solutions, with the support of a global service network and distribution centers, providing the right...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
+    "published_at": "2026-07-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Financial Analyst FP&A – Business Partner, OneSource Finance",
+      "description": "Headquarters: Poland - Remote (Home Based) URL: http://perkinelmer.com When joining PerkinElmer, you select an experienced and trusted leader in scientific solutions, with the support of a global service network and distribution centers, providing the right...",
+      "datePosted": "2026-07-23",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "PerkinElmer"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
