@@ -63,13 +63,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Justworks",
-    "slug": "justworks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Pixel One",
     "slug": "pixel-one",
     "logo_url": null,
@@ -77,8 +70,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Lithic",
-    "slug": "lithic",
+    "name": "Gusto, Inc.",
+    "slug": "gusto-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -175,6 +168,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Justworks",
+    "slug": "justworks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Lithic",
+    "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Hunt Remotely",
     "slug": "hunt-remotely",
     "logo_url": null,
@@ -198,13 +205,6 @@
   {
     "name": "Instacart",
     "slug": "instacart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Gusto, Inc.",
-    "slug": "gusto-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -238,8 +238,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Headway",
-    "slug": "headway",
+    "name": "Gemini",
+    "slug": "gemini",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -394,6 +394,13 @@
   {
     "name": "Nuuly",
     "slug": "nuuly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PerkinElmer",
+    "slug": "perkinelmer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
