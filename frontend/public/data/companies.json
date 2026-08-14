@@ -21,6 +21,13 @@
     "jobs_count": 6
   },
   {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -30,13 +37,6 @@
   {
     "name": "Coinbase",
     "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -217,13 +217,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Justworks",
-    "slug": "justworks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Lithic",
     "slug": "lithic",
     "logo_url": null,
@@ -380,6 +373,13 @@
   {
     "name": "PerkinElmer",
     "slug": "perkinelmer",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -1,5 +1,64 @@
 [
   {
+    "id": "compute-country-lead-canada-anthropic-canada-greenhouse-anthropic-5385546008",
+    "slug": "compute-country-lead-canada-anthropic-canada-greenhouse-anthropic-5385546008",
+    "title": "Compute Country Lead, Canada",
+    "seo_title": "Remote Compute Country Lead, Canada Job in Canada | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Compute Country Lead, Canada job at anthropic in Canada. Explore RAG, AWS, Compute, British Columbia, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "Remote-Friendly (Travel Required) | Canada",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute",
+      "British Columbia, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
+    "published_at": "2026-08-14",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Compute Country Lead, Canada",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-shopify-developer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-shopify-developer-3",
     "slug": "senior-shopify-developer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-shopify-developer-3",
     "title": "Senior Shopify Developer",
@@ -680,6 +739,79 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-data-engineer-lemon-io-worldwide-remoteok-1136594",
+    "slug": "senior-data-engineer-lemon-io-worldwide-remoteok-1136594",
+    "title": "Senior Data Engineer",
+    "seo_title": "Remote Senior Data Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Data Engineer job at Lemon.io in Worldwide. Explore Python, SQL, Machine Learning, LLM and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": 40000,
+    "salary_max": 180000,
+    "salary_currency": "USD",
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Airflow",
+      "dev",
+      "engineer",
+      "full time"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136594",
+    "published_at": "2026-08-13",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Data Engineer",
+      "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
+      "datePosted": "2026-08-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136594",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 40000,
+          "maxValue": 180000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "director-global-payroll-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-director-global-payroll",
     "slug": "director-global-payroll-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-director-global-payroll",
     "title": "Director, Global Payroll",
@@ -783,65 +915,6 @@
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385653008",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "compute-country-lead-canada-anthropic-canada-greenhouse-anthropic-5385546008",
-    "slug": "compute-country-lead-canada-anthropic-canada-greenhouse-anthropic-5385546008",
-    "title": "Compute Country Lead, Canada",
-    "seo_title": "Remote Compute Country Lead, Canada Job in Canada | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Compute Country Lead, Canada job at anthropic in Canada. Explore RAG, AWS, Compute, British Columbia, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Canada",
-    "city": null,
-    "location": "Remote-Friendly (Travel Required) | Canada",
-    "location_label": "Remote - Canada",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute",
-      "British Columbia, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-    "published_at": "2026-08-13",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Compute Country Lead, Canada",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-13",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Canada"
-      }
     },
     "ai_relevant": true
   },
@@ -3260,61 +3333,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-in-territory-sf-bay-area-ca-justworks-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-justworks-account-executive-in-territory-s",
-    "slug": "account-executive-in-territory-sf-bay-area-ca-justworks-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-justworks-account-executive-in-territory-s",
-    "title": "Account Executive - In-Territory (SF/Bay Area, CA)",
-    "seo_title": "Remote Account Executive - In-Territory (SF/Bay Area, CA) Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Account Executive - In-Territory (SF/Bay Area, CA) job at Justworks in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and...",
-    "company": {
-      "name": "Justworks",
-      "slug": "justworks",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote - U.S.A. Who We Are At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/justworks-account-executive-in-territory-sf-bay-area-ca",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/justworks-account-executive-in-territory-sf-bay-area-ca",
-    "published_at": "2026-08-11",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive - In-Territory (SF/Bay Area, CA)",
-      "description": "Headquarters: Remote - U.S.A. Who We Are At Justworks, you’ll enjoy a welcoming and casual environment, great benefits, wellness program offerings, company retreats, and the ability to interact with and learn from leaders in the startup community. We work...",
-      "datePosted": "2026-08-11",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Justworks"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/justworks-account-executive-in-territory-sf-bay-area-ca",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-visual-designer-pixel-one-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pixel-one-senior-visual-designer",
     "slug": "senior-visual-designer-pixel-one-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pixel-one-senior-visual-designer",
     "title": "Senior Visual designer",
@@ -5602,65 +5620,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Remote - Australia",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
     "title": "Contracts Manager, APAC",
@@ -5715,6 +5674,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Singapore"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Australia. Explore RAG, AWS, Legal, Sydney, Australia and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271063008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
       }
     },
     "ai_relevant": true
@@ -9079,6 +9097,64 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-security-engineer-incident-response-twilio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-twilio-senior-security-engineer-incident-respons",
+    "slug": "senior-security-engineer-incident-response-twilio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-twilio-senior-security-engineer-incident-respons",
+    "title": "Senior Security Engineer, Incident Response",
+    "seo_title": "Remote Senior Security Engineer, Incident Response Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Security Engineer, Incident Response job at Twilio in Worldwide. Explore LLM, RAG, AWS, GCP and remote AI jobs.",
+    "company": {
+      "name": "Twilio",
+      "slug": "twilio",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "GCP",
+      "Generative AI",
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote - US Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
+    "published_at": "2026-07-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Security Engineer, Incident Response",
+      "description": "Headquarters: Remote - US Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft...",
+      "datePosted": "2026-07-23",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Twilio"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
