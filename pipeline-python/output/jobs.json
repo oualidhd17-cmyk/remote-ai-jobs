@@ -1,5 +1,59 @@
 [
   {
+    "id": "customer-programs-manager-co-marketing-measurement-anthropic-worldwide-greenhouse-anthropic-5388726008",
+    "slug": "customer-programs-manager-co-marketing-measurement-anthropic-worldwide-greenhouse-anthropic-5388726008",
+    "title": "Customer Programs Manager, Co-Marketing & Measurement",
+    "seo_title": "Remote Customer Programs Manager, Co-Marketing & Measurement Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Programs Manager, Co-Marketing & Measurement job at anthropic in Worldwide. Explore RAG, AWS, Marketing & Brand, San...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Marketing & Brand",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008",
+    "published_at": "2026-08-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Programs Manager, Co-Marketing & Measurement",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "director-global-payroll-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-director-global-payroll",
     "slug": "director-global-payroll-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-director-global-payroll",
     "title": "Director, Global Payroll",
@@ -103,6 +157,65 @@
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385653008",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "compute-country-lead-canada-anthropic-canada-greenhouse-anthropic-5385546008",
+    "slug": "compute-country-lead-canada-anthropic-canada-greenhouse-anthropic-5385546008",
+    "title": "Compute Country Lead, Canada",
+    "seo_title": "Remote Compute Country Lead, Canada Job in Canada | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Compute Country Lead, Canada job at anthropic in Canada. Explore RAG, AWS, Compute, British Columbia, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "Remote-Friendly (Travel Required) | Canada",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Compute",
+      "British Columbia, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
+    "published_at": "2026-08-13",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Compute Country Lead, Canada",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-13",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
+      }
     },
     "ai_relevant": true
   },
@@ -326,6 +439,61 @@
     "ai_relevant": true
   },
   {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-12",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-12",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer",
@@ -381,61 +549,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-12",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-12",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -1665,6 +1778,69 @@
     "ai_relevant": true
   },
   {
+    "id": "jenni-ai-ai-supermarket-worldwide-remoteok-1136602",
+    "slug": "jenni-ai-ai-supermarket-worldwide-remoteok-1136602",
+    "title": "Jenni AI",
+    "seo_title": "Remote Jenni AI Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Jenni AI job at AI Supermarket in Worldwide. Explore OpenAI, Statistics, dev, digital nomad and remote AI jobs.",
+    "company": {
+      "name": "AI Supermarket",
+      "slug": "ai-supermarket",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Research,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "OpenAI",
+      "Statistics",
+      "dev",
+      "digital nomad",
+      "medical",
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev",
+      "full stack",
+      "writer"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-jenni-ai-ai-supermarket-1136602",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136602",
+    "published_at": "2026-08-11",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Jenni AI",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and...",
+      "datePosted": "2026-08-11",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AI Supermarket"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136602",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "typefully-ai-supermarket-worldwide-remoteok-1136391",
     "slug": "typefully-ai-supermarket-worldwide-remoteok-1136391",
     "title": "Typefully",
@@ -2838,60 +3014,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358148008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "compute-country-lead-canada-anthropic-worldwide-greenhouse-anthropic-5385546008",
-    "slug": "compute-country-lead-canada-anthropic-worldwide-greenhouse-anthropic-5385546008",
-    "title": "Compute Country Lead, Canada",
-    "seo_title": "Remote Compute Country Lead, Canada Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Compute Country Lead, Canada job at anthropic in Worldwide. Explore RAG, AWS, Compute, British Columbia, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "British Columbia, CAN",
-    "location_label": "British Columbia, CAN",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute",
-      "British Columbia, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-    "published_at": "2026-08-11",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Compute Country Lead, Canada",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-11",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008"
     },
     "ai_relevant": true
   },
@@ -5296,65 +5418,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -5409,6 +5472,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -6536,61 +6658,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "title": "Commercial Counsel, APAC",
@@ -6646,21 +6713,21 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Ireland",
+    "country": "Australia",
     "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
     "remote_type": "hybrid",
     "employment_type": "contract",
     "experience_level": "intern",
@@ -6673,13 +6740,13 @@
       "RAG",
       "AWS",
       "Legal",
-      "Dublin, IE"
+      "Sydney, Australia"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
     "published_at": "2026-08-03",
     "expires_at": null,
     "quality_score": 75,
@@ -6687,7 +6754,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
+      "title": "Commercial Counsel, APAC",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-08-03",
       "employmentType": "CONTRACTOR",
@@ -6696,7 +6763,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
     },
     "ai_relevant": true
   },
@@ -6752,6 +6819,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "slug": "commercial-counsel-emea-anthropic-ireland-greenhouse-anthropic-5142971008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "Dublin, IE"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
     },
     "ai_relevant": true
   },
@@ -8141,61 +8263,6 @@
     "ai_relevant": true
   },
   {
-    "id": "engineering-manager-cybersecurity-products-anthropic-worldwide-greenhouse-anthropic-5236531008",
-    "slug": "engineering-manager-cybersecurity-products-anthropic-worldwide-greenhouse-anthropic-5236531008",
-    "title": "Engineering Manager, Cybersecurity Products",
-    "seo_title": "Remote Engineering Manager, Cybersecurity Products Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Engineering Manager, Cybersecurity Products job at anthropic in Worldwide. Explore LLM, RAG, AWS, Engineering & Design - Product and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Engineering & Design - Product",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5236531008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5236531008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Engineering Manager, Cybersecurity Products",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5236531008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-privacy-engineer-asana-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-asana-senior-privacy-engineer",
     "slug": "senior-privacy-engineer-asana-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-asana-senior-privacy-engineer",
     "title": "Senior Privacy Engineer",
@@ -8284,7 +8351,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/customer-io-customer-success-manager-emea",
     "published_at": "2026-07-30",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
