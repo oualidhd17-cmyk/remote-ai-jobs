@@ -14,6 +14,13 @@
     "jobs_count": 7
   },
   {
+    "name": "Proxify AB",
+    "slug": "proxify-ab",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 6
+  },
+  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -25,13 +32,6 @@
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
-  },
-  {
-    "name": "Remote",
-    "slug": "remote",
-    "logo_url": null,
-    "website": null,
     "jobs_count": 3
   },
   {
@@ -40,6 +40,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Cockroach Labs",
+    "slug": "cockroach-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Webflow",
@@ -56,15 +70,15 @@
     "jobs_count": 2
   },
   {
-    "name": "Pixel One",
-    "slug": "pixel-one",
+    "name": "Remote",
+    "slug": "remote",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Gusto, Inc.",
-    "slug": "gusto-inc",
+    "name": "Pixel One",
+    "slug": "pixel-one",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -89,6 +103,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Fin",
+    "slug": "fin",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Collibra",
@@ -196,13 +217,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Harney & Sons Fine Teas",
-    "slug": "harney-sons-fine-teas",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Justworks",
     "slug": "justworks",
     "logo_url": null,
@@ -226,27 +240,6 @@
   {
     "name": "Food Service Specialties",
     "slug": "food-service-specialties",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Zoom",
-    "slug": "zoom",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Instacart",
-    "slug": "instacart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Amwell",
-    "slug": "amwell",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,13 +282,6 @@
   {
     "name": "Performancepixel GmbH",
     "slug": "performancepixel-gmbh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "MemberSpace",
-    "slug": "memberspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -387,13 +373,6 @@
   {
     "name": "Outsite",
     "slug": "outsite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Nuuly",
-    "slug": "nuuly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
