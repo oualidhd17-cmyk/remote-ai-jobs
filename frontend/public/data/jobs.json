@@ -1030,6 +1030,73 @@
     "ai_relevant": true
   },
   {
+    "id": "porter-w-hotels-australia-remoteok-1136724",
+    "slug": "porter-w-hotels-australia-remoteok-1136724",
+    "title": "Porter",
+    "seo_title": "Remote Porter Job in Australia | Robotics Jobs",
+    "seo_description": "Apply for a remote Porter job at W Hotels in Australia. Explore Python, RAG, AWS, Spark and remote AI jobs.",
+    "company": {
+      "name": "W Hotels",
+      "slug": "w-hotels",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney,",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "RAG",
+      "AWS",
+      "Spark",
+      "architecture",
+      "medical",
+      "exec",
+      "education",
+      "customer support",
+      "marketing",
+      "virtual assistant",
+      "ops"
+    ],
+    "category": "Robotics",
+    "description_summary": "Additional Information Job Number 26081073 Job Category Rooms & Guest Services Operations Location 31 Wheat Road, Sydney, New South Wales, Australia, 2000 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management NATURAL TALENT Explore...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-porter-w-hotels-1136724",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136724",
+    "published_at": "2026-08-13",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Porter",
+      "description": "Additional Information Job Number 26081073 Job Category Rooms & Guest Services Operations Location 31 Wheat Road, Sydney, New South Wales, Australia, 2000 VIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management NATURAL TALENT Explore...",
+      "datePosted": "2026-08-13",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "W Hotels"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136724",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "manager-smb-sales-testgorilla-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-testgorilla-manager-smb-sales",
     "slug": "manager-smb-sales-testgorilla-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-testgorilla-manager-smb-sales",
     "title": "Manager, SMB Sales",
@@ -3029,6 +3096,69 @@
     "ai_relevant": true
   },
   {
+    "id": "askyourpdf-ai-supermarket-worldwide-remoteok-1136704",
+    "slug": "askyourpdf-ai-supermarket-worldwide-remoteok-1136704",
+    "title": "AskYourPDF",
+    "seo_title": "Remote AskYourPDF Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AskYourPDF job at AI Supermarket in Worldwide. Explore OpenAI, Statistics, golang, wordpress and remote AI jobs.",
+    "company": {
+      "name": "AI Supermarket",
+      "slug": "ai-supermarket",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Heartâs Content,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "OpenAI",
+      "Statistics",
+      "golang",
+      "wordpress",
+      "vfx",
+      "teaching",
+      "education",
+      "game dev",
+      "full stack",
+      "writer",
+      "transcribing",
+      "dev"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-askyourpdf-ai-supermarket-1136704",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136704",
+    "published_at": "2026-08-11",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AskYourPDF",
+      "description": "Professional forex trading simulator that replays historical market data so traders can practise strategies risk-free. Test and backtest trading systems across years of tick-level data at any speed, then review statistics on win rate, drawdown and...",
+      "datePosted": "2026-08-11",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "AI Supermarket"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136704",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "sales-development-representative-attributea-doit-uk-remoteok-1136379",
     "slug": "sales-development-representative-attributea-doit-uk-remoteok-1136379",
     "title": "Sales Development Representative Attributeâ",
@@ -3875,58 +4005,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5215141008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "general-staff-position-hunt-remotely-worldwide-remoteok-1136362",
-    "slug": "general-staff-position-hunt-remotely-worldwide-remoteok-1136362",
-    "title": "General Staff Position",
-    "seo_title": "Remote General Staff Position Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote General Staff Position job at Hunt Remotely in Worldwide. Explore RAG and remote AI jobs.",
-    "company": {
-      "name": "Hunt Remotely",
-      "slug": "hunt-remotely",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Kharagpur-I,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Compucorp is currently looking for talented individuals to join our team. We frequently add new positions and encourage interested candidates to apply. Application Instructions: To ensure you have read the job post completely, please include the word...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-general-staff-position-hunt-remotely-1136362",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1136362",
-    "published_at": "2026-08-10",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "General Staff Position",
-      "description": "Compucorp is currently looking for talented individuals to join our team. We frequently add new positions and encourage interested candidates to apply. Application Instructions: To ensure you have read the job post completely, please include the word...",
-      "datePosted": "2026-08-10",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Hunt Remotely"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1136362",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6913,61 +6991,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
-    "title": "Commercial Counsel, APAC",
-    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "slug": "commercial-counsel-apac-anthropic-singapore-greenhouse-anthropic-5270072008",
     "title": "Commercial Counsel, APAC",
@@ -7023,21 +7046,21 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
-    "title": "Commercial Counsel, EMEA",
-    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "id": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "slug": "commercial-counsel-apac-anthropic-australia-greenhouse-anthropic-5270065008",
+    "title": "Commercial Counsel, APAC",
+    "seo_title": "Remote Commercial Counsel, APAC Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, APAC job at anthropic in Australia. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "UK",
+    "country": "Australia",
     "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
     "remote_type": "hybrid",
     "employment_type": "contract",
     "experience_level": "intern",
@@ -7050,13 +7073,13 @@
       "RAG",
       "AWS",
       "Legal",
-      "London, UK"
+      "Sydney, Australia"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008",
     "published_at": "2026-08-03",
     "expires_at": null,
     "quality_score": 75,
@@ -7064,7 +7087,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Commercial Counsel, EMEA",
+      "title": "Commercial Counsel, APAC",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-08-03",
       "employmentType": "CONTRACTOR",
@@ -7073,7 +7096,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5270065008"
     },
     "ai_relevant": true
   },
@@ -7129,6 +7152,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142971008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "slug": "commercial-counsel-emea-anthropic-uk-greenhouse-anthropic-5142966008",
+    "title": "Commercial Counsel, EMEA",
+    "seo_title": "Remote Commercial Counsel, EMEA Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, EMEA job at anthropic in UK. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5142966008"
     },
     "ai_relevant": true
   },
