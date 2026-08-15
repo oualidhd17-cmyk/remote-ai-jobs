@@ -21,13 +21,6 @@
     "jobs_count": 6
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -35,11 +28,32 @@
     "jobs_count": 4
   },
   {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Temporal Technologies",
+    "slug": "temporal-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Cockroach Labs",
@@ -65,13 +79,6 @@
   {
     "name": "SoFi",
     "slug": "sofi",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Remote",
-    "slug": "remote",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,15 +126,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
+    "name": "W Hotels",
+    "slug": "w-hotels",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "W Hotels",
-    "slug": "w-hotels",
+    "name": "Booz Allen Hamilton",
+    "slug": "booz-allen-hamilton",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -142,13 +149,6 @@
   {
     "name": "Grailed",
     "slug": "grailed",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Expel",
-    "slug": "expel",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -226,13 +226,6 @@
   {
     "name": "Hospitable",
     "slug": "hospitable",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Lithic",
-    "slug": "lithic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -322,13 +315,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Truelogic",
-    "slug": "truelogic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Platform.sh",
     "slug": "platform-sh",
     "logo_url": null,
@@ -345,6 +331,13 @@
   {
     "name": "Customer.io",
     "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Remote",
+    "slug": "remote",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -394,13 +387,6 @@
   {
     "name": "garden3d",
     "slug": "garden3d",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mitre Media",
-    "slug": "mitre-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
