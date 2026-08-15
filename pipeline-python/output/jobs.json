@@ -59,6 +59,61 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-product-designer-clinical-education-platform-fullscript-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fullscript-senior-product-designer",
+    "slug": "senior-product-designer-clinical-education-platform-fullscript-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fullscript-senior-product-designer",
+    "title": "Senior Product Designer (Clinical Education Platform)",
+    "seo_title": "Remote Senior Product Designer (Clinical Education Platform) Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Product Designer (Clinical Education Platform) job at Fullscript in Worldwide. Explore LLM, AWS, Design, Remote and remote AI...",
+    "company": {
+      "name": "Fullscript",
+      "slug": "fullscript",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "AWS",
+      "Design",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Toronto, ON / Austin, TX / Canada Remote / USA Remote About Fullscript We’re an industry-leading health technology company on a mission to help people get better. We started in 2011 with one simple idea. Make it easier for practitioners to...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/fullscript-senior-product-designer-clinical-education-platform",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/fullscript-senior-product-designer-clinical-education-platform",
+    "published_at": "2026-08-14",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Product Designer (Clinical Education Platform)",
+      "description": "Headquarters: Toronto, ON / Austin, TX / Canada Remote / USA Remote About Fullscript We’re an industry-leading health technology company on a mission to help people get better. We started in 2011 with one simple idea. Make it easier for practitioners to...",
+      "datePosted": "2026-08-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Fullscript"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/fullscript-senior-product-designer-clinical-education-platform",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-shopify-developer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-shopify-developer-3",
     "slug": "senior-shopify-developer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-shopify-developer-3",
     "title": "Senior Shopify Developer",
@@ -681,6 +736,62 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/storyblok-ai-operations-automation-manager-europe-latam",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "ai-operations-engineer-partnerships-anthropic-worldwide-greenhouse-anthropic-5391151008",
+    "slug": "ai-operations-engineer-partnerships-anthropic-worldwide-greenhouse-anthropic-5391151008",
+    "title": "AI Operations Engineer, Partnerships",
+    "seo_title": "Remote AI Operations Engineer, Partnerships Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AI Operations Engineer, Partnerships job at anthropic in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Sales",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008",
+    "published_at": "2026-08-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI Operations Engineer, Partnerships",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391151008"
     },
     "ai_relevant": true
   },
@@ -5013,64 +5124,6 @@
     "ai_relevant": true
   },
   {
-    "id": "sr-principal-data-engineer-data-architect-sinclair-broadcast-group-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sinclair-broadcast-group-sr-pri",
-    "slug": "sr-principal-data-engineer-data-architect-sinclair-broadcast-group-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sinclair-broadcast-group-sr-pri",
-    "title": "Sr. Principal Data Engineer / Data Architect",
-    "seo_title": "Remote Sr. Principal Data Engineer / Data Architect Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Sr. Principal Data Engineer / Data Architect job at Sinclair Broadcast Group in Worldwide. Explore Python, SQL, RAG, GCP and remote AI...",
-    "company": {
-      "name": "Sinclair Broadcast Group",
-      "slug": "sinclair-broadcast-group",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "RAG",
-      "GCP",
-      "Spark",
-      "Design",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Austin, TX, United States URL: http://sbgi.net Description Location: United States (Remote) Reports to: SVP of Tech As the Sr. Principal Data Engineer, you will be the primary architect of Digital Remedy’s next-generation data platform. You...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/sinclair-broadcast-group-sr-principal-data-engineer-data-architect",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/sinclair-broadcast-group-sr-principal-data-engineer-data-architect",
-    "published_at": "2026-08-04",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Sr. Principal Data Engineer / Data Architect",
-      "description": "Headquarters: Austin, TX, United States URL: http://sbgi.net Description Location: United States (Remote) Reports to: SVP of Tech As the Sr. Principal Data Engineer, you will be the primary architect of Digital Remedy’s next-generation data platform. You...",
-      "datePosted": "2026-08-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Sinclair Broadcast Group"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/sinclair-broadcast-group-sr-principal-data-engineer-data-architect",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "web-developer-hook-ladder-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hook-ladder-web-developer",
     "slug": "web-developer-hook-ladder-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hook-ladder-web-developer",
     "title": "Web Developer",
@@ -5620,65 +5673,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -5733,6 +5727,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -8407,60 +8460,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5309805008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "engineering-manager-continuous-deployment-and-change-safety-anthropic-worldwide-greenhouse-anthropic-5301112008",
-    "slug": "engineering-manager-continuous-deployment-and-change-safety-anthropic-worldwide-greenhouse-anthropic-5301112008",
-    "title": "Engineering Manager, Continuous Deployment and Change Safety",
-    "seo_title": "Remote Engineering Manager, Continuous Deployment and Change Safety Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Engineering Manager, Continuous Deployment and Change Safety job at anthropic in Worldwide. Explore RAG, Kubernetes, AWS, San...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Kubernetes",
-      "AWS",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5301112008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5301112008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Engineering Manager, Continuous Deployment and Change Safety",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5301112008"
     },
     "ai_relevant": true
   },
