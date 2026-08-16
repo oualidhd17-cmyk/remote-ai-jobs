@@ -21,13 +21,6 @@
     "jobs_count": 6
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -40,6 +33,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Hightouch",
+    "slug": "hightouch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Temporal Technologies",
@@ -72,6 +79,13 @@
   {
     "name": "Webflow",
     "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -110,6 +124,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Mitre Media",
+    "slug": "mitre-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Fullscript",
@@ -345,27 +366,6 @@
   {
     "name": "PerkinElmer",
     "slug": "perkinelmer",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Twilio",
-    "slug": "twilio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "A.Team",
-    "slug": "a-team",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "garden3d",
-    "slug": "garden3d",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
