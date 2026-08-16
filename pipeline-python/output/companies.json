@@ -21,15 +21,15 @@
     "jobs_count": 6
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Coinbase",
     "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -196,13 +196,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Better Proposals",
-    "slug": "better-proposals",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mercury",
     "slug": "mercury",
     "logo_url": null,
@@ -294,13 +287,6 @@
     "jobs_count": 1
   },
   {
-    "name": "AlgaeCal",
-    "slug": "algaecal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Uptalent.io",
     "slug": "uptalent-io",
     "logo_url": null,
@@ -366,6 +352,13 @@
   {
     "name": "PerkinElmer",
     "slug": "perkinelmer",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -2271,60 +2271,6 @@
     "ai_relevant": true
   },
   {
-    "id": "junior-seo-specialist-better-proposals-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-better-proposals-junior-seo-specialist",
-    "slug": "junior-seo-specialist-better-proposals-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-better-proposals-junior-seo-specialist",
-    "title": "Junior SEO Specialist",
-    "seo_title": "Remote Junior SEO Specialist Job | Prompt Engineering Jobs",
-    "seo_description": "Apply for a remote Junior SEO Specialist job at Better Proposals in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Better Proposals",
-      "slug": "better-proposals",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Prompt Engineering",
-    "description_summary": "Headquarters: Brighton, UK URL: https://betterproposals.io/ Are you “the one”? We're looking for a Junior SEO Specialist to join our growth team. You’ll work directly with the Growth Manager and help with everything SEO related, from keyword research and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/better-proposals-junior-seo-specialist",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/better-proposals-junior-seo-specialist",
-    "published_at": "2026-08-12",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Junior SEO Specialist",
-      "description": "Headquarters: Brighton, UK URL: https://betterproposals.io/ Are you “the one”? We're looking for a Junior SEO Specialist to join our growth team. You’ll work directly with the Growth Manager and help with everything SEO related, from keyword research and...",
-      "datePosted": "2026-08-12",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Better Proposals"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/better-proposals-junior-seo-specialist",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "customer-support-systems-analytics-architect-mercury-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mercury-customer-support-systems-analytics-ar",
     "slug": "customer-support-systems-analytics-architect-mercury-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mercury-customer-support-systems-analytics-ar",
     "title": "Customer Support Systems & Analytics Architect",
@@ -5375,61 +5321,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/charles-technology-africa-web-developer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "automation-qa-engineer-lead-algaecal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-algaecal-automation-qa-engineer-lead",
-    "slug": "automation-qa-engineer-lead-algaecal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-algaecal-automation-qa-engineer-lead",
-    "title": "Automation QA Engineer (Lead)",
-    "seo_title": "Remote Automation QA Engineer (Lead) Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Automation QA Engineer (Lead) job at AlgaeCal in Worldwide. Explore Python, RAG, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "AlgaeCal",
-      "slug": "algaecal",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Dominican Republic URL: http://algaecal.com Description Bug Squisher Wanted: You’re an expert at making sure websites, storefronts, and backend systems work smoothly before they go live. But you don’t just catch bugs. You build the systems that...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
-    "published_at": "2026-08-04",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Automation QA Engineer (Lead)",
-      "description": "Headquarters: Dominican Republic URL: http://algaecal.com Description Bug Squisher Wanted: You’re an expert at making sure websites, storefronts, and backend systems work smoothly before they go live. But you don’t just catch bugs. You build the systems that...",
-      "datePosted": "2026-08-04",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "AlgaeCal"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/algaecal-automation-qa-engineer-lead",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -9183,6 +9074,121 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/perkinelmer-senior-financial-analyst-fp-a-business-partner-onesource-finance",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-security-engineer-incident-response-twilio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-twilio-senior-security-engineer-incident-respons",
+    "slug": "senior-security-engineer-incident-response-twilio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-twilio-senior-security-engineer-incident-respons",
+    "title": "Senior Security Engineer, Incident Response",
+    "seo_title": "Remote Senior Security Engineer, Incident Response Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Security Engineer, Incident Response job at Twilio in Worldwide. Explore LLM, RAG, AWS, GCP and remote AI jobs.",
+    "company": {
+      "name": "Twilio",
+      "slug": "twilio",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "GCP",
+      "Generative AI",
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote - US Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
+    "published_at": "2026-07-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Security Engineer, Incident Response",
+      "description": "Headquarters: Remote - US Who we are At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft...",
+      "datePosted": "2026-07-23",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Twilio"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/twilio-senior-security-engineer-incident-response",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-software-engineer-infrastructure-compute-platform-coinbase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coinbase-senior-software-enginee",
+    "slug": "senior-software-engineer-infrastructure-compute-platform-coinbase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coinbase-senior-software-enginee",
+    "title": "Senior Software Engineer, Infrastructure - Compute Platform",
+    "seo_title": "Remote Senior Software Engineer, Infrastructure - Compute Platform Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer, Infrastructure - Compute Platform job at Coinbase in Worldwide. Explore Kubernetes, AWS, GCP, Generative AI...",
+    "company": {
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Generative AI",
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-infrastructure-compute-platform-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-infrastructure-compute-platform-1",
+    "published_at": "2026-07-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Engineer, Infrastructure - Compute Platform",
+      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for...",
+      "datePosted": "2026-07-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Coinbase"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/coinbase-senior-software-engineer-infrastructure-compute-platform-1",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
