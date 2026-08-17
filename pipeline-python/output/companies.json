@@ -14,11 +14,11 @@
     "jobs_count": 6
   },
   {
-    "name": "AI Supermarket",
-    "slug": "ai-supermarket",
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "Lemon.io",
@@ -77,13 +77,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Cockroach Labs",
-    "slug": "cockroach-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Storyblok",
     "slug": "storyblok",
     "logo_url": null,
@@ -93,13 +86,6 @@
   {
     "name": "Webflow",
     "slug": "webflow",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -131,6 +117,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Samsara",
+    "slug": "samsara",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Thumbtack",
+    "slug": "thumbtack",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "MailerLite",
@@ -203,6 +203,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Cockroach Labs",
+    "slug": "cockroach-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "W Hotels",
     "slug": "w-hotels",
     "logo_url": null,
@@ -247,20 +254,6 @@
   {
     "name": "Mercury",
     "slug": "mercury",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "SoFi",
-    "slug": "sofi",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Netlify",
-    "slug": "netlify",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -401,13 +394,6 @@
   {
     "name": "Outsite",
     "slug": "outsite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PerkinElmer",
-    "slug": "perkinelmer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
