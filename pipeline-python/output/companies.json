@@ -18,13 +18,6 @@
     "slug": "ai-supermarket",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
-  },
-  {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
     "jobs_count": 4
   },
   {
@@ -33,6 +26,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Collaboration.Ai",
+    "slug": "collaboration-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Justworks",
+    "slug": "justworks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Tebra",
+    "slug": "tebra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Vercel",
@@ -91,15 +105,15 @@
     "jobs_count": 2
   },
   {
-    "name": "SoFi",
-    "slug": "sofi",
+    "name": "Pixel One",
+    "slug": "pixel-one",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Pixel One",
-    "slug": "pixel-one",
+    "name": "Coinbase",
+    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,15 +133,29 @@
     "jobs_count": 2
   },
   {
-    "name": "Power Digital",
-    "slug": "power-digital",
+    "name": "MailerLite",
+    "slug": "mailerlite",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "Braze",
+    "slug": "braze",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Pivotal Health",
     "slug": "pivotal-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "A.Team",
+    "slug": "a-team",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -154,6 +182,13 @@
     "jobs_count": 1
   },
   {
+    "name": "garden3d",
+    "slug": "garden3d",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Mitre Media",
     "slug": "mitre-media",
     "logo_url": null,
@@ -168,13 +203,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Fin",
-    "slug": "fin",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "W Hotels",
     "slug": "w-hotels",
     "logo_url": null,
@@ -184,13 +212,6 @@
   {
     "name": "Booz Allen Hamilton",
     "slug": "booz-allen-hamilton",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "TestGorilla",
-    "slug": "testgorilla",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -226,6 +247,13 @@
   {
     "name": "Mercury",
     "slug": "mercury",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "SoFi",
+    "slug": "sofi",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -322,6 +350,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Power Digital",
+    "slug": "power-digital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Druva",
     "slug": "druva",
     "logo_url": null,
@@ -338,13 +373,6 @@
   {
     "name": "Asana",
     "slug": "asana",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Customer.io",
-    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

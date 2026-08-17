@@ -2,12 +2,7 @@
   {
     "name": "AI Engineering",
     "slug": "ai-engineering",
-    "jobs_count": 102
-  },
-  {
-    "name": "Robotics",
-    "slug": "robotics",
-    "jobs_count": 19
+    "jobs_count": 101
   },
   {
     "name": "Data Science",
@@ -15,9 +10,14 @@
     "jobs_count": 19
   },
   {
+    "name": "Robotics",
+    "slug": "robotics",
+    "jobs_count": 19
+  },
+  {
     "name": "MLOps",
     "slug": "mlops",
-    "jobs_count": 13
+    "jobs_count": 16
   },
   {
     "name": "Machine Learning",
