@@ -28,6 +28,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Collaboration.Ai",
     "slug": "collaboration-ai",
     "logo_url": null,
@@ -119,8 +126,29 @@
     "jobs_count": 2
   },
   {
+    "name": "Talkspace",
+    "slug": "talkspace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vonage",
+    "slug": "vonage",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Edfinity",
     "slug": "edfinity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "HighLevel",
+    "slug": "highlevel",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,13 +238,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Cockroach Labs",
-    "slug": "cockroach-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "W Hotels",
     "slug": "w-hotels",
     "logo_url": null,
@@ -233,13 +254,6 @@
   {
     "name": "Grailed",
     "slug": "grailed",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Knock",
-    "slug": "knock",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -343,13 +357,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Druva",
-    "slug": "druva",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Platform.sh",
     "slug": "platform-sh",
     "logo_url": null,
@@ -387,6 +394,13 @@
   {
     "name": "Outsite",
     "slug": "outsite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
