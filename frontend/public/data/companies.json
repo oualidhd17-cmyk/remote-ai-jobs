@@ -11,13 +11,6 @@
     "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
     "jobs_count": 3
   },
   {
@@ -28,15 +21,15 @@
     "jobs_count": 3
   },
   {
-    "name": "Mixpanel",
-    "slug": "mixpanel",
+    "name": "Mechanical Orchard",
+    "slug": "mechanical-orchard",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Collaboration.Ai",
-    "slug": "collaboration-ai",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -56,29 +49,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Vercel",
-    "slug": "vercel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Hightouch",
-    "slug": "hightouch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Temporal Technologies",
     "slug": "temporal-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -91,22 +63,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Webflow",
-    "slug": "webflow",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Pixel One",
     "slug": "pixel-one",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Coinbase",
-    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -126,6 +84,83 @@
     "jobs_count": 2
   },
   {
+    "name": "Clari + Salesloft",
+    "slug": "clari-salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Andela",
+    "slug": "andela",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cohere",
+    "slug": "cohere",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Valsoft Corporation",
+    "slug": "valsoft-corporation",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sur",
+    "slug": "sur",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Versapay",
+    "slug": "versapay",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Payabli",
+    "slug": "payabli",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Zenara Health",
+    "slug": "zenara-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Caspar Health",
+    "slug": "caspar-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Destination Knot",
+    "slug": "destination-knot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Medisca",
+    "slug": "medisca",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Talkspace",
     "slug": "talkspace",
     "logo_url": null,
@@ -140,22 +175,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Edfinity",
-    "slug": "edfinity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "HighLevel",
     "slug": "highlevel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Samsara",
-    "slug": "samsara",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -170,6 +191,13 @@
   {
     "name": "MailerLite",
     "slug": "mailerlite",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Collaboration.Ai",
+    "slug": "collaboration-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -217,8 +245,29 @@
     "jobs_count": 1
   },
   {
+    "name": "Hightouch",
+    "slug": "hightouch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "garden3d",
     "slug": "garden3d",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -254,6 +303,13 @@
   {
     "name": "Grailed",
     "slug": "grailed",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -301,6 +357,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Grafana Labs",
     "slug": "grafana-labs",
     "logo_url": null,
@@ -310,20 +373,6 @@
   {
     "name": "Kuno Creative Group, Inc.",
     "slug": "kuno-creative-group-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Performancepixel GmbH",
-    "slug": "performancepixel-gmbh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hook & Ladder",
-    "slug": "hook-ladder",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -378,22 +427,8 @@
     "jobs_count": 1
   },
   {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Outsite",
     "slug": "outsite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Twilio",
-    "slug": "twilio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
