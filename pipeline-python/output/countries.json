@@ -7,31 +7,31 @@
   {
     "name": "USA",
     "slug": "usa",
-    "jobs_count": 10
-  },
-  {
-    "name": "UK",
-    "slug": "uk",
-    "jobs_count": 3
-  },
-  {
-    "name": "Germany",
-    "slug": "germany",
-    "jobs_count": 3
+    "jobs_count": 11
   },
   {
     "name": "Australia",
     "slug": "australia",
-    "jobs_count": 3
+    "jobs_count": 4
+  },
+  {
+    "name": "UK",
+    "slug": "uk",
+    "jobs_count": 4
+  },
+  {
+    "name": "Germany",
+    "slug": "germany",
+    "jobs_count": 4
+  },
+  {
+    "name": "Canada",
+    "slug": "canada",
+    "jobs_count": 2
   },
   {
     "name": "Singapore",
     "slug": "singapore",
     "jobs_count": 2
-  },
-  {
-    "name": "Canada",
-    "slug": "canada",
-    "jobs_count": 1
   }
 ]
