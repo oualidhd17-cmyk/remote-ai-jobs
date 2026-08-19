@@ -4,7 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 44
+    "jobs_count": 45
+  },
+  {
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Proxify AB",
@@ -21,15 +28,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Mechanical Orchard",
-    "slug": "mechanical-orchard",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Mixpanel",
-    "slug": "mixpanel",
+    "name": "Postscript",
+    "slug": "postscript",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -56,22 +56,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Pixel One",
     "slug": "pixel-one",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -84,8 +70,22 @@
     "jobs_count": 2
   },
   {
+    "name": "Benchling",
+    "slug": "benchling",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Clari + Salesloft",
     "slug": "clari-salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mechanical Orchard",
+    "slug": "mechanical-orchard",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -287,6 +287,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "W Hotels",
     "slug": "w-hotels",
     "logo_url": null,
@@ -296,13 +303,6 @@
   {
     "name": "Booz Allen Hamilton",
     "slug": "booz-allen-hamilton",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Grailed",
-    "slug": "grailed",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -378,6 +378,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Charles Technology Africa",
     "slug": "charles-technology-africa",
     "logo_url": null,
@@ -408,13 +415,6 @@
   {
     "name": "Asana",
     "slug": "asana",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Remote",
-    "slug": "remote",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

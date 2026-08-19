@@ -1,5 +1,169 @@
 [
   {
+    "id": "director-email-deliverability-postscript-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-postscript-director-email-deliverability",
+    "slug": "director-email-deliverability-postscript-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-postscript-director-email-deliverability",
+    "title": "Director, Email Deliverability",
+    "seo_title": "Remote Director, Email Deliverability Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Director, Email Deliverability job at Postscript in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Postscript",
+      "slug": "postscript",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch. With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability",
+    "published_at": "2026-08-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, Email Deliverability",
+      "description": "Headquarters: Remote Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch. With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS...",
+      "datePosted": "2026-08-19",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Postscript"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/postscript-director-email-deliverability",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "revenue-strategy-operations-manager-mixpanel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mixpanel-revenue-strategy-operations-manager",
+    "slug": "revenue-strategy-operations-manager-mixpanel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mixpanel-revenue-strategy-operations-manager",
+    "title": "Revenue Strategy & Operations Manager",
+    "seo_title": "Remote Revenue Strategy & Operations Manager Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Revenue Strategy & Operations Manager job at Mixpanel in Worldwide. Explore RAG, AWS, Management and Finance, Remote and remote AI jobs.",
+    "company": {
+      "name": "Mixpanel",
+      "slug": "mixpanel",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Management and Finance",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: San Francisco, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/mixpanel-revenue-strategy-operations-manager",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/mixpanel-revenue-strategy-operations-manager",
+    "published_at": "2026-08-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Revenue Strategy & Operations Manager",
+      "description": "Headquarters: San Francisco, US (Remote) About Mixpanel Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with...",
+      "datePosted": "2026-08-19",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Mixpanel"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/mixpanel-revenue-strategy-operations-manager",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "business-development-representative-postscript-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-postscript-business-development-representative",
+    "slug": "business-development-representative-postscript-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-postscript-business-development-representative",
+    "title": "Business Development Representative",
+    "seo_title": "Remote Business Development Representative Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Business Development Representative job at Postscript in Worldwide. Explore RAG, Spark, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Postscript",
+      "slug": "postscript",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "junior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Spark",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Remote, Anywhere in North America Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch. With a mission to make SMS your number one revenue driving channel, we...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/postscript-business-development-representative",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/postscript-business-development-representative",
+    "published_at": "2026-08-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Development Representative",
+      "description": "Headquarters: Remote, Anywhere in North America Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch. With a mission to make SMS your number one revenue driving channel, we...",
+      "datePosted": "2026-08-19",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Postscript"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/postscript-business-development-representative",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "business-systems-analyst-security-engineering-anthropic-worldwide-greenhouse-anthropic-5366149008",
     "slug": "business-systems-analyst-security-engineering-anthropic-worldwide-greenhouse-anthropic-5366149008",
     "title": "Business Systems Analyst, Security Engineering",
@@ -51,6 +215,131 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5366149008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "customer-success-manager-anthropic-uk-greenhouse-anthropic-5391102008",
+    "slug": "customer-success-manager-anthropic-uk-greenhouse-anthropic-5391102008",
+    "title": "Customer Success Manager",
+    "seo_title": "Remote Customer Success Manager Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in UK. Explore RAG, AWS, Sales, London, UK and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008",
+    "published_at": "2026-08-19",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Success Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-19",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "solutions-delivery-manager-benchling-worldwide-remoteok-1136937",
+    "slug": "solutions-delivery-manager-benchling-worldwide-remoteok-1136937",
+    "title": "Solutions Delivery Manager",
+    "seo_title": "Remote Solutions Delivery Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Solutions Delivery Manager job at Benchling in Worldwide. Explore RAG, exec, design, technical and remote AI jobs.",
+    "company": {
+      "name": "Benchling",
+      "slug": "benchling",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Boston",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 150000,
+    "salary_max": 200000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "exec",
+      "design",
+      "technical",
+      "marketing",
+      "sales",
+      "biotech",
+      "medical",
+      "education",
+      "digital nomad"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1136937",
+    "published_at": "2026-08-18",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Solutions Delivery Manager",
+      "description": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this,...",
+      "datePosted": "2026-08-18",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Benchling"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1136937",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 150000,
+          "maxValue": 200000,
+          "unitText": "YEAR"
+        }
+      }
     },
     "ai_relevant": true
   },
@@ -382,61 +671,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/sur-full-stack-developer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "product-manager-code-generation-mechanical-orchard-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mechanical-orchard-product-manager-code-generat",
-    "slug": "product-manager-code-generation-mechanical-orchard-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mechanical-orchard-product-manager-code-generat",
-    "title": "Product Manager, Code Generation",
-    "seo_title": "Remote Product Manager, Code Generation Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Product Manager, Code Generation job at Mechanical Orchard in Worldwide. Explore RAG, AWS, Full-Stack Programming, Remote and remote AI...",
-    "company": {
-      "name": "Mechanical Orchard",
-      "slug": "mechanical-orchard",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: United Kingdom (Remote) Mechanical Orchard is reinventing how the world’s most critical software gets modernized. We’re an applied AI company focused on one of the hardest problems in enterprise technology: rewriting complex legacy systems in a...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/mechanical-orchard-product-manager-code-generation",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/mechanical-orchard-product-manager-code-generation",
-    "published_at": "2026-08-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Manager, Code Generation",
-      "description": "Headquarters: United Kingdom (Remote) Mechanical Orchard is reinventing how the world’s most critical software gets modernized. We’re an applied AI company focused on one of the hardest problems in enterprise technology: rewriting complex legacy systems in a...",
-      "datePosted": "2026-08-18",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Mechanical Orchard"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/mechanical-orchard-product-manager-code-generation",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3336,63 +3570,6 @@
     "ai_relevant": true
   },
   {
-    "id": "ai-operations-automation-manager-europe-latam-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-ai-operations-automation-manager",
-    "slug": "ai-operations-automation-manager-europe-latam-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-ai-operations-automation-manager",
-    "title": "AI Operations & Automation Manager - Europe/LaTAM",
-    "seo_title": "Remote AI Operations & Automation Manager - Europe/LaTAM Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote AI Operations & Automation Manager - Europe/LaTAM job at Storyblok in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote...",
-    "company": {
-      "name": "Storyblok",
-      "slug": "storyblok",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "RAG",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Remote - Poland/Germany/Brazil Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/storyblok-ai-operations-automation-manager-europe-latam",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/storyblok-ai-operations-automation-manager-europe-latam",
-    "published_at": "2026-08-14",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Operations & Automation Manager - Europe/LaTAM",
-      "description": "Headquarters: Remote - Poland/Germany/Brazil Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search,...",
-      "datePosted": "2026-08-14",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Storyblok"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/storyblok-ai-operations-automation-manager-europe-latam",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-operations-engineer-partnerships-anthropic-worldwide-greenhouse-anthropic-5391151008",
     "slug": "ai-operations-engineer-partnerships-anthropic-worldwide-greenhouse-anthropic-5391151008",
     "title": "AI Operations Engineer, Partnerships",
@@ -3760,57 +3937,56 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-backend-software-engineer-grailed-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-grailed-senior-backend-software-engineer",
-    "slug": "senior-backend-software-engineer-grailed-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-grailed-senior-backend-software-engineer",
-    "title": "Senior Backend Software Engineer",
-    "seo_title": "Remote Senior Backend Software Engineer Job | NLP Jobs",
-    "seo_description": "Apply for a remote Senior Backend Software Engineer job at Grailed in Worldwide. Explore SQL, LLM, AWS, Back-End Programming and remote AI jobs.",
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
     "company": {
-      "name": "Grailed",
-      "slug": "grailed",
+      "name": "anthropic",
+      "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
     "country": "Worldwide",
     "city": null,
-    "location": "Remote",
+    "location": "New York City, NY",
     "location_label": "Remote - Worldwide",
     "remote_type": "remote",
-    "employment_type": "internship",
+    "employment_type": "contract",
     "experience_level": "intern",
-    "visa_sponsorship": false,
+    "visa_sponsorship": true,
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "skills": [
-      "SQL",
-      "LLM",
+      "RAG",
       "AWS",
-      "Back-End Programming",
-      "Remote"
+      "Security",
+      "New York City, NY"
     ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Remote US Role Overview We’re looking for a Senior Software Engineer - Backend, to solve complex problems gracefully, grow scalable systems, and help to shape our technical vision. As a Senior Software Engineer, you’ll take an active role in...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer",
-    "published_at": "2026-08-13",
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-12",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 95,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Senior Backend Software Engineer",
-      "description": "Headquarters: Remote US Role Overview We’re looking for a Senior Software Engineer - Backend, to solve complex problems gracefully, grow scalable systems, and help to shape our technical vision. As a Senior Software Engineer, you’ll take an active role in...",
-      "datePosted": "2026-08-13",
-      "employmentType": "INTERN",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-12",
+      "employmentType": "CONTRACTOR",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "Grailed"
+        "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/grailed-senior-backend-software-engineer",
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3871,61 +4047,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-12",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-12",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5622,62 +5743,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-escalation-engineer-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-customer-escalation-engineer",
-    "slug": "customer-escalation-engineer-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-customer-escalation-engineer",
-    "title": "Customer Escalation Engineer",
-    "seo_title": "Remote Customer Escalation Engineer Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Customer Escalation Engineer job at Jumio in Worldwide. Explore Machine Learning, RAG, Power BI, Product and remote AI jobs.",
-    "company": {
-      "name": "Jumio",
-      "slug": "jumio",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "Power BI",
-      "Product",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Colombia (remote) Role Purpose The Customer Escalation Engineer supports Jumio’s enterprise customers by owning complex technical issues through resolution. This person serves as a product support subject matter expert for Jumio’s web, mobile,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/jumio-customer-escalation-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/jumio-customer-escalation-engineer",
-    "published_at": "2026-08-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Escalation Engineer",
-      "description": "Headquarters: Colombia (remote) Role Purpose The Customer Escalation Engineer supports Jumio’s enterprise customers by owning complex technical issues through resolution. This person serves as a product support subject matter expert for Jumio’s web, mobile,...",
-      "datePosted": "2026-08-06",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Jumio"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/jumio-customer-escalation-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-engineer-enterprise-tech-anthropic-worldwide-greenhouse-anthropic-5057647008",
     "slug": "applied-ai-engineer-enterprise-tech-anthropic-worldwide-greenhouse-anthropic-5057647008",
     "title": "Applied AI Engineer, Enterprise Tech",
@@ -6143,65 +6208,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -6256,6 +6262,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-08-03",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -6542,60 +6607,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/asana-senior-privacy-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "accountant-remote-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-accountant-1",
-    "slug": "accountant-remote-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-accountant-1",
-    "title": "Accountant",
-    "seo_title": "Remote Accountant Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Accountant job at Remote in Worldwide. Explore RAG, Management and Finance, Remote and remote AI jobs.",
-    "company": {
-      "name": "Remote",
-      "slug": "remote",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote-Iberia About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/remote-accountant-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/remote-accountant-1",
-    "published_at": "2026-07-29",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Accountant",
-      "description": "Headquarters: Remote-Iberia About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our...",
-      "datePosted": "2026-07-29",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Remote"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/remote-accountant-1",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
