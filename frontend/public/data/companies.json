@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 50
+    "jobs_count": 53
   },
   {
     "name": "Mixpanel",
@@ -28,29 +28,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Postscript",
-    "slug": "postscript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Justworks",
     "slug": "justworks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Tebra",
-    "slug": "tebra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Temporal Technologies",
-    "slug": "temporal-technologies",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -70,6 +49,132 @@
     "jobs_count": 2
   },
   {
+    "name": "Databricks",
+    "slug": "databricks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "6sense",
+    "slug": "6sense",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tractian",
+    "slug": "tractian",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tiger Analytics Inc.",
+    "slug": "tiger-analytics-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Workleap",
+    "slug": "workleap",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pindrop",
+    "slug": "pindrop",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Brightwheel",
+    "slug": "brightwheel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Simprints",
+    "slug": "simprints",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mirantis",
+    "slug": "mirantis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kiss My Apps",
+    "slug": "kiss-my-apps",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pearl",
+    "slug": "pearl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "E. Breuninger& Co.",
+    "slug": "e-breuninger-co",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nucs Ai",
+    "slug": "nucs-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Leland",
+    "slug": "leland",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ischool",
+    "slug": "ischool",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ethos Life",
+    "slug": "ethos-life",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Rho",
+    "slug": "rho",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Postscript",
+    "slug": "postscript",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Benchling",
     "slug": "benchling",
     "logo_url": null,
@@ -77,50 +182,15 @@
     "jobs_count": 1
   },
   {
+    "name": "Alaka`ina Foundation Family of Companies",
+    "slug": "alaka-ina-foundation-family-of-companies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Engine",
     "slug": "engine",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Clari + Salesloft",
-    "slug": "clari-salesloft",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mechanical Orchard",
-    "slug": "mechanical-orchard",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Andela",
-    "slug": "andela",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cohere",
-    "slug": "cohere",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Valsoft Corporation",
-    "slug": "valsoft-corporation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sur",
-    "slug": "sur",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,6 +280,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Tebra",
+    "slug": "tebra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Braze",
     "slug": "braze",
     "logo_url": null,
@@ -273,6 +350,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Temporal Technologies",
+    "slug": "temporal-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
     "logo_url": null,
@@ -301,13 +385,6 @@
     "jobs_count": 1
   },
   {
-    "name": "W Hotels",
-    "slug": "w-hotels",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Webflow",
     "slug": "webflow",
     "logo_url": null,
@@ -329,50 +406,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Food Service Specialties",
-    "slug": "food-service-specialties",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Kazaar Fragrances",
-    "slug": "kazaar-fragrances",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Grafana Labs",
-    "slug": "grafana-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Kuno Creative Group, Inc.",
-    "slug": "kuno-creative-group-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -392,29 +427,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Uptalent.io",
-    "slug": "uptalent-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Power Digital",
-    "slug": "power-digital",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Platform.sh",
     "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Asana",
-    "slug": "asana",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
