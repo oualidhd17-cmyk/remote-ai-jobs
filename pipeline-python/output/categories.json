@@ -7,7 +7,7 @@
   {
     "name": "Robotics",
     "slug": "robotics",
-    "jobs_count": 18
+    "jobs_count": 17
   },
   {
     "name": "Data Science",
@@ -28,6 +28,11 @@
     "name": "Data Analytics",
     "slug": "data-analytics",
     "jobs_count": 3
+  },
+  {
+    "name": "NLP",
+    "slug": "nlp",
+    "jobs_count": 1
   },
   {
     "name": "Prompt Engineering",

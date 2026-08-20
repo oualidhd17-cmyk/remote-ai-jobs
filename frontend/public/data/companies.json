@@ -7,15 +7,15 @@
     "jobs_count": 53
   },
   {
-    "name": "Mixpanel",
-    "slug": "mixpanel",
+    "name": "6sense",
+    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Justworks",
-    "slug": "justworks",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -49,15 +49,22 @@
     "jobs_count": 2
   },
   {
-    "name": "Databricks",
-    "slug": "databricks",
+    "name": "Gusto, Inc.",
+    "slug": "gusto-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "6sense",
-    "slug": "6sense",
+    "name": "Commvault",
+    "slug": "commvault",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -238,13 +245,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Talkspace",
-    "slug": "talkspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Vonage",
     "slug": "vonage",
     "logo_url": null,
@@ -275,6 +275,13 @@
   {
     "name": "Collaboration.Ai",
     "slug": "collaboration-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Justworks",
+    "slug": "justworks",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -373,13 +380,6 @@
   {
     "name": "Fullscript",
     "slug": "fullscript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Storyblok",
-    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
