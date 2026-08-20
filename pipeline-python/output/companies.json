@@ -14,22 +14,15 @@
     "jobs_count": 3
   },
   {
-    "name": "Proxify AB",
-    "slug": "proxify-ab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Justworks",
     "slug": "justworks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Proxify AB",
+    "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -44,6 +37,13 @@
   {
     "name": "Creative Force",
     "slug": "creative-force",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
