@@ -7,11 +7,18 @@
     "jobs_count": 56
   },
   {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "6sense",
     "slug": "6sense",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
     "name": "Mixpanel",
@@ -42,11 +49,25 @@
     "jobs_count": 2
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Rubrik Job Board",
+    "slug": "rubrik-job-board",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "Pendo",
+    "slug": "pendo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Galileo",
+    "slug": "galileo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "OnePet",
@@ -65,6 +86,13 @@
   {
     "name": "Commvault",
     "slug": "commvault",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Shatterproof",
+    "slug": "shatterproof",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -121,13 +149,6 @@
   {
     "name": "Mirantis",
     "slug": "mirantis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Kiss My Apps",
-    "slug": "kiss-my-apps",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -259,22 +280,8 @@
     "jobs_count": 1
   },
   {
-    "name": "MailerLite",
-    "slug": "mailerlite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Collaboration.Ai",
     "slug": "collaboration-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Justworks",
-    "slug": "justworks",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -422,13 +429,6 @@
   {
     "name": "Yoko Co",
     "slug": "yoko-co",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
