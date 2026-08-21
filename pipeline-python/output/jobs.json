@@ -55,6 +55,62 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-off-page-seo-link-building-specialist-onepet-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-onepet-senior-off-page-seo-link-building-speci",
+    "slug": "senior-off-page-seo-link-building-specialist-onepet-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-onepet-senior-off-page-seo-link-building-speci",
+    "title": "Senior Off-Page SEO & Link Building Specialist",
+    "seo_title": "Remote Senior Off-Page SEO & Link Building Specialist Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Off-Page SEO & Link Building Specialist job at OnePet in Worldwide. Explore RAG, AWS, Statistics, Sales and Marketing and remote...",
+    "company": {
+      "name": "OnePet",
+      "slug": "onepet",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Statistics",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: League City, Texas URL: http://one.pet OnePet is a portfolio of digitally native pet brands, including Total Vet, CertaPet, and Honest Paws. We help pet owners discover, decide, and purchase trustworthy products and services for their pets....",
+    "apply_url": "https://weworkremotely.com/remote-jobs/onepet-senior-off-page-seo-link-building-specialist",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/onepet-senior-off-page-seo-link-building-specialist",
+    "published_at": "2026-08-20",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Off-Page SEO & Link Building Specialist",
+      "description": "Headquarters: League City, Texas URL: http://one.pet OnePet is a portfolio of digitally native pet brands, including Total Vet, CertaPet, and Honest Paws. We help pet owners discover, decide, and purchase trustworthy products and services for their pets....",
+      "datePosted": "2026-08-20",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "OnePet"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/onepet-senior-off-page-seo-link-building-specialist",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "benefits-operations-lead-gusto-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gusto-inc-benefits-operations-lead",
     "slug": "benefits-operations-lead-gusto-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gusto-inc-benefits-operations-lead",
     "title": "Benefits Operations Lead",
@@ -277,21 +333,129 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5390742008",
-    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5390742008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "id": "account-executive-dnb-anthropic-singapore-greenhouse-anthropic-5391376008",
+    "slug": "account-executive-dnb-anthropic-singapore-greenhouse-anthropic-5391376008",
+    "title": "Account Executive - DNB",
+    "seo_title": "Remote Account Executive - DNB Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Account Executive - DNB job at anthropic in Singapore. Explore RAG, AWS, Sales, Singapore and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Australia",
+    "country": "Singapore",
     "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
+    "location": "Singapore",
+    "location_label": "Singapore",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391376008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391376008",
+    "published_at": "2026-08-20",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive - DNB",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-20",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391376008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-public-sector-asean-anthropic-singapore-greenhouse-anthropic-5391381008",
+    "slug": "account-executive-public-sector-asean-anthropic-singapore-greenhouse-anthropic-5391381008",
+    "title": "Account Executive - Public Sector (ASEAN)",
+    "seo_title": "Remote Account Executive - Public Sector (ASEAN) Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Account Executive - Public Sector (ASEAN) job at anthropic in Singapore. Explore RAG, AWS, Sales, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Singapore",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391381008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391381008",
+    "published_at": "2026-08-20",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive - Public Sector (ASEAN)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-20",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391381008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
+    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Bangalore, India",
+    "location_label": "Bangalore, India",
     "remote_type": "hybrid",
     "employment_type": "internship",
     "experience_level": "intern",
@@ -306,13 +470,13 @@
       "RAG",
       "AWS",
       "Applied AI",
-      "Sydney, Australia"
+      "Bangalore, India"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
     "published_at": "2026-08-20",
     "expires_at": null,
     "quality_score": 75,
@@ -329,7 +493,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
     },
     "ai_relevant": true
   },
@@ -391,21 +555,21 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
-    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
+    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5390742008",
+    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5390742008",
     "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Worldwide",
+    "country": "Australia",
     "city": null,
-    "location": "Bangalore, India",
-    "location_label": "Bangalore, India",
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
     "remote_type": "hybrid",
     "employment_type": "internship",
     "experience_level": "intern",
@@ -420,13 +584,13 @@
       "RAG",
       "AWS",
       "Applied AI",
-      "Bangalore, India"
+      "Sydney, Australia"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
     "published_at": "2026-08-20",
     "expires_at": null,
     "quality_score": 75,
@@ -443,7 +607,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
     },
     "ai_relevant": true
   },
@@ -2573,61 +2737,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-product-manager-platform-payabli-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-payabli-senior-product-manager-platform",
-    "slug": "senior-product-manager-platform-payabli-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-payabli-senior-product-manager-platform",
-    "title": "Senior Product Manager, Platform",
-    "seo_title": "Remote Senior Product Manager, Platform Job | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Senior Product Manager, Platform job at Payabli in Worldwide. Explore RAG, AWS, Management and Finance, Remote and remote AI jobs.",
-    "company": {
-      "name": "Payabli",
-      "slug": "payabli",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "Headquarters: Remote Payabli is a next-generation Payments Infrastructure and Monetization Platform purpose-built for vertical software companies. Through a single, developer-friendly API with low-code embedded payment components, Payabli enables platforms to...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/payabli-senior-product-manager-platform",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/payabli-senior-product-manager-platform",
-    "published_at": "2026-08-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Product Manager, Platform",
-      "description": "Headquarters: Remote Payabli is a next-generation Payments Infrastructure and Monetization Platform purpose-built for vertical software companies. Through a single, developer-friendly API with low-code embedded payment components, Payabli enables platforms to...",
-      "datePosted": "2026-08-18",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Payabli"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/payabli-senior-product-manager-platform",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "devops-security-engineer-ai-native-healthcare-saas-zenara-health-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zenara-health-devops-security-eng",
     "slug": "devops-security-engineer-ai-native-healthcare-saas-zenara-health-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zenara-health-devops-security-eng",
     "title": "DevOps & Security Engineer - AI-Native Healthcare SaaS",
@@ -3352,60 +3461,6 @@
     "ai_relevant": true
   },
   {
-    "id": "sr-finance-mgr-partnerships-and-special-projects-thumbtack-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-thumbtack-sr-finance-mgr-partnerships-a",
-    "slug": "sr-finance-mgr-partnerships-and-special-projects-thumbtack-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-thumbtack-sr-finance-mgr-partnerships-a",
-    "title": "Sr. Finance Mgr, Partnerships and Special Projects",
-    "seo_title": "Remote Sr. Finance Mgr, Partnerships and Special Projects Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Sr. Finance Mgr, Partnerships and Special Projects job at Thumbtack in Worldwide. Explore SQL, Management and Finance, Remote and...",
-    "company": {
-      "name": "Thumbtack",
-      "slug": "thumbtack",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote URL: https://www.thumbtack.com/ About the Finance Team The Thumbtack Finance team’s mission is to be a strategic finance partner to the business — enabling better decisions supported by data, building a world-class finance function, and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/thumbtack-sr-finance-mgr-partnerships-and-special-projects",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/thumbtack-sr-finance-mgr-partnerships-and-special-projects",
-    "published_at": "2026-08-17",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Sr. Finance Mgr, Partnerships and Special Projects",
-      "description": "Headquarters: Remote URL: https://www.thumbtack.com/ About the Finance Team The Thumbtack Finance team’s mission is to be a strategic finance partner to the business — enabling better decisions supported by data, building a world-class finance function, and...",
-      "datePosted": "2026-08-17",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Thumbtack"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/thumbtack-sr-finance-mgr-partnerships-and-special-projects",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "technical-product-manager-mailerlite-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mailerlite-technical-product-manager",
     "slug": "technical-product-manager-mailerlite-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mailerlite-technical-product-manager",
     "title": "Technical Product Manager",
@@ -3572,61 +3627,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/justworks-manager-account-development",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "account-executive-patient-experience-tebra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-tebra-account-executive-patient-experience",
-    "slug": "account-executive-patient-experience-tebra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-tebra-account-executive-patient-experience",
-    "title": "Account Executive, Patient Experience",
-    "seo_title": "Remote Account Executive, Patient Experience Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Account Executive, Patient Experience job at Tebra in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Tebra",
-      "slug": "tebra",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: United States - Remote Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse. We will only ask you to...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/tebra-account-executive-patient-experience",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/tebra-account-executive-patient-experience",
-    "published_at": "2026-08-17",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Patient Experience",
-      "description": "Headquarters: United States - Remote Tebra only initiates contact with candidates via email from an official Tebra email address (@ tebra.com , @ patientpop.com , or @ kareo.com ) or through our applicant tracking system, Greenhouse. We will only ask you to...",
-      "datePosted": "2026-08-17",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Tebra"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/tebra-account-executive-patient-experience",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6432,7 +6432,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/jumio-devops-engineer-iv-obs",
     "published_at": "2026-08-06",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6448,67 +6448,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/jumio-devops-engineer-iv-obs",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-engineer-enterprise-tech-anthropic-worldwide-greenhouse-anthropic-5057647008",
-    "slug": "applied-ai-engineer-enterprise-tech-anthropic-worldwide-greenhouse-anthropic-5057647008",
-    "title": "Applied AI Engineer, Enterprise Tech",
-    "seo_title": "Remote Applied AI Engineer, Enterprise Tech Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Engineer, Enterprise Tech job at anthropic in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Prompt Engineering",
-      "Applied AI",
-      "Boston, MA",
-      "New York City, NY",
-      "San Francisco, CA",
-      "Seattle, WA",
-      "Washington, D.C."
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008",
-    "published_at": "2026-08-06",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Engineer, Enterprise Tech",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-06",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5057647008"
     },
     "ai_relevant": true
   },
@@ -6988,64 +6927,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-center-architect-csa-anthropic-usa-greenhouse-anthropic-5339199008",
-    "slug": "data-center-architect-csa-anthropic-usa-greenhouse-anthropic-5339199008",
-    "title": "Data Center Architect, CSA",
-    "seo_title": "Remote Data Center Architect, CSA Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Data Center Architect, CSA job at anthropic in USA. Explore RAG, AWS, Compute and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Remote-Friendly, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5339199008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5339199008",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Center Architect, CSA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5339199008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-graphic-designer-lemon-io-usa-remotive-2091081",
     "slug": "senior-graphic-designer-lemon-io-usa-remotive-2091081",
     "title": "Senior Graphic Designer",
@@ -7162,6 +7043,60 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/yoko-co-front-end-wordpress-developer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "backend-engineer-flag-delivery-launchdarkly-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-launchdarkly-backend-engineer-flag-delivery",
+    "slug": "backend-engineer-flag-delivery-launchdarkly-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-launchdarkly-backend-engineer-flag-delivery",
+    "title": "Backend Engineer, Flag Delivery",
+    "seo_title": "Remote Backend Engineer, Flag Delivery Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Backend Engineer, Flag Delivery job at LaunchDarkly in Worldwide. Explore RAG, Back-End Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "LaunchDarkly",
+      "slug": "launchdarkly",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Remote - US About the Job: LaunchDarkly is hiring a Backend Software Engineer to join our Flag Delivery team. Serving data to our customers is the core of our product and we’re expanding the team to add bandwidth and energy. The team is very...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery",
+    "published_at": "2026-07-24",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Backend Engineer, Flag Delivery",
+      "description": "Headquarters: Remote - US About the Job: LaunchDarkly is hiring a Backend Software Engineer to join our Flag Delivery team. Serving data to our customers is the core of our product and we’re expanding the team to add bandwidth and energy. The team is very...",
+      "datePosted": "2026-07-24",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "LaunchDarkly"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-flag-delivery",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true

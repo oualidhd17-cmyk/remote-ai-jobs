@@ -49,6 +49,13 @@
     "jobs_count": 2
   },
   {
+    "name": "OnePet",
+    "slug": "onepet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Gusto, Inc.",
     "slug": "gusto-inc",
     "logo_url": null,
@@ -210,13 +217,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Payabli",
-    "slug": "payabli",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Zenara Health",
     "slug": "zenara-health",
     "logo_url": null,
@@ -259,13 +259,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Thumbtack",
-    "slug": "thumbtack",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "MailerLite",
     "slug": "mailerlite",
     "logo_url": null,
@@ -282,13 +275,6 @@
   {
     "name": "Justworks",
     "slug": "justworks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tebra",
-    "slug": "tebra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -436,6 +422,13 @@
   {
     "name": "Yoko Co",
     "slug": "yoko-co",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
