@@ -35,6 +35,13 @@
     "jobs_count": 2
   },
   {
+    "name": "garden3d",
+    "slug": "garden3d",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Proxify AB",
     "slug": "proxify-ab",
     "logo_url": null,
@@ -58,6 +65,20 @@
   {
     "name": "GitLab",
     "slug": "gitlab",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Rowan",
+    "slug": "rowan",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Orca Bio",
+    "slug": "orca-bio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,13 +329,6 @@
     "jobs_count": 1
   },
   {
-    "name": "garden3d",
-    "slug": "garden3d",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
     "logo_url": null,
@@ -380,13 +394,6 @@
   {
     "name": "Platform.sh",
     "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Yoko Co",
-    "slug": "yoko-co",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
