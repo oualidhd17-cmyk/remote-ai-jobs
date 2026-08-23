@@ -2,13 +2,13 @@
   "raw_count": 260,
   "processed_count": 260,
   "published_count": 146,
-  "ai_relevant_count": 173,
+  "ai_relevant_count": 175,
   "remote_count": 79,
   "visa_count": 81,
   "salary_count": 6,
   "status_counts": {
-    "rejected": 87,
-    "pending": 26,
+    "rejected": 85,
+    "pending": 28,
     "published": 146,
     "duplicate": 1
   },
@@ -30,8 +30,8 @@
   },
   "country_counts": {
     "Worldwide": 109,
-    "USA": 12,
     "UK": 7,
+    "USA": 12,
     "Australia": 5,
     "Canada": 2,
     "Singapore": 5,
