@@ -21,15 +21,15 @@
     "jobs_count": 3
   },
   {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
+    "name": "Customer.io",
+    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Mixpanel",
-    "slug": "mixpanel",
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -47,6 +47,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Grafana Labs",
+    "slug": "grafana-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Rubrik Job Board",
@@ -105,13 +119,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Tractian",
     "slug": "tractian",
     "logo_url": null,
@@ -154,13 +161,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Mirantis",
-    "slug": "mirantis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "E. Breuninger& Co.",
     "slug": "e-breuninger-co",
     "logo_url": null,
@@ -198,6 +198,13 @@
   {
     "name": "Rho",
     "slug": "rho",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mixpanel",
+    "slug": "mixpanel",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -261,13 +268,6 @@
   {
     "name": "Medisca",
     "slug": "medisca",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Vonage",
-    "slug": "vonage",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -345,13 +345,6 @@
   {
     "name": "Mercury",
     "slug": "mercury",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hospitable",
-    "slug": "hospitable",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
