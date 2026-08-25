@@ -14,22 +14,22 @@
     "jobs_count": 5
   },
   {
-    "name": "Temporal Technologies",
-    "slug": "temporal-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Customer.io",
     "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
+    "name": "Temporal Technologies",
+    "slug": "temporal-technologies",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -47,6 +47,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Otter.ai",
+    "slug": "otter-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Flexport",
+    "slug": "flexport",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Brex",
+    "slug": "brex",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Icarus Digital Marketing",
@@ -112,13 +133,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Rubrik Job Board",
-    "slug": "rubrik-job-board",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Pendo",
     "slug": "pendo",
     "logo_url": null,
@@ -128,13 +142,6 @@
   {
     "name": "Galileo",
     "slug": "galileo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "OnePet",
-    "slug": "onepet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -254,13 +261,6 @@
   {
     "name": "Mixpanel",
     "slug": "mixpanel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Benchling",
-    "slug": "benchling",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
