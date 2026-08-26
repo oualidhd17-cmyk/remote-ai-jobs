@@ -21,6 +21,20 @@
     "jobs_count": 4
   },
   {
+    "name": "IxDF - Interaction Design Foundation",
+    "slug": "ixdf-interaction-design-foundation",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "OfferUp",
+    "slug": "offerup",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "LaunchDarkly",
     "slug": "launchdarkly",
     "logo_url": null,
@@ -47,6 +61,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Typeform",
+    "slug": "typeform",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Salesforge",
+    "slug": "salesforge",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Otter.ai",
@@ -161,13 +189,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Commvault",
-    "slug": "commvault",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Shatterproof",
     "slug": "shatterproof",
     "logo_url": null,
@@ -198,20 +219,6 @@
   {
     "name": "Pindrop",
     "slug": "pindrop",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Brightwheel",
-    "slug": "brightwheel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Simprints",
-    "slug": "simprints",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -273,13 +280,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Engine",
-    "slug": "engine",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Zenara Health",
     "slug": "zenara-health",
     "logo_url": null,
@@ -296,13 +296,6 @@
   {
     "name": "Destination Knot",
     "slug": "destination-knot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Medisca",
-    "slug": "medisca",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -371,13 +364,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Webflow",
-    "slug": "webflow",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mercury",
     "slug": "mercury",
     "logo_url": null,
@@ -392,36 +378,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Pixel One",
-    "slug": "pixel-one",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Charles Technology Africa",
-    "slug": "charles-technology-africa",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Platform.sh",
-    "slug": "platform-sh",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
