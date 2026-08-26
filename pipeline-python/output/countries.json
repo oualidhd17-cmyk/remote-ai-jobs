@@ -2,7 +2,7 @@
   {
     "name": "Worldwide",
     "slug": "worldwide",
-    "jobs_count": 114
+    "jobs_count": 118
   },
   {
     "name": "USA",
@@ -12,11 +12,6 @@
   {
     "name": "UK",
     "slug": "uk",
-    "jobs_count": 7
-  },
-  {
-    "name": "Singapore",
-    "slug": "singapore",
     "jobs_count": 6
   },
   {
@@ -25,18 +20,18 @@
     "jobs_count": 6
   },
   {
+    "name": "Singapore",
+    "slug": "singapore",
+    "jobs_count": 5
+  },
+  {
     "name": "Australia",
     "slug": "australia",
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "Canada",
     "slug": "canada",
     "jobs_count": 2
-  },
-  {
-    "name": "Ireland",
-    "slug": "ireland",
-    "jobs_count": 1
   }
 ]
