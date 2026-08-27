@@ -63,6 +63,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Coaching.com",
+    "slug": "coaching-com",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Carelock.com",
     "slug": "carelock-com",
     "logo_url": null,
@@ -273,13 +280,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Alaka`ina Foundation Family of Companies",
-    "slug": "alaka-ina-foundation-family-of-companies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Zenara Health",
     "slug": "zenara-health",
     "logo_url": null,
@@ -366,13 +366,6 @@
   {
     "name": "Mercury",
     "slug": "mercury",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hospitable",
-    "slug": "hospitable",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

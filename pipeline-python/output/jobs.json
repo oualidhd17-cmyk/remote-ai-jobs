@@ -1,5 +1,60 @@
 [
   {
+    "id": "corporate-counsel-m-a-anthropic-worldwide-greenhouse-anthropic-5407184008",
+    "slug": "corporate-counsel-m-a-anthropic-worldwide-greenhouse-anthropic-5407184008",
+    "title": "Corporate Counsel, M&A",
+    "seo_title": "Remote Corporate Counsel, M&A Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Corporate Counsel, M&A job at anthropic in Worldwide. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "Legal",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008",
+    "published_at": "2026-08-27",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Corporate Counsel, M&A",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-27",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "contract-technical-sourcer-anthropic-usa-greenhouse-anthropic-5249545008",
     "slug": "contract-technical-sourcer-anthropic-usa-greenhouse-anthropic-5249545008",
     "title": "Contract Technical Sourcer",
@@ -54,6 +109,60 @@
         "@type": "Country",
         "name": "USA"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "customer-success-manager-uk-coaching-com-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coaching-com-customer-success-manager-uk",
+    "slug": "customer-success-manager-uk-coaching-com-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coaching-com-customer-success-manager-uk",
+    "title": "Customer Success Manager (UK)",
+    "seo_title": "Remote Customer Success Manager (UK) Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Customer Success Manager (UK) job at Coaching.com in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "Coaching.com",
+      "slug": "coaching-com",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: United States URL: https://coaching.com Customer Success Manager (UK) General Information Department Customer Success Reports to Director of Customer Success Location Remote, UK Start Date Immediate Compensation £55,000 - £60,000 + quarterly...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/coaching-com-customer-success-manager-uk",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/coaching-com-customer-success-manager-uk",
+    "published_at": "2026-08-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Success Manager (UK)",
+      "description": "Headquarters: United States URL: https://coaching.com Customer Success Manager (UK) General Information Department Customer Success Reports to Director of Customer Success Location Remote, UK Start Date Immediate Compensation £55,000 - £60,000 + quarterly...",
+      "datePosted": "2026-08-26",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Coaching.com"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/coaching-com-customer-success-manager-uk",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -4186,63 +4295,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390735008",
-    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390735008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Seoul, South Korea",
-    "location_label": "Seoul, South Korea",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Seoul, South Korea"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
-    "published_at": "2026-08-21",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-21",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5076109008",
     "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5076109008",
     "title": "Applied AI Architect",
@@ -4296,6 +4348,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390735008",
+    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390735008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Seoul, South Korea",
+    "location_label": "Seoul, South Korea",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Seoul, South Korea"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
+    "published_at": "2026-08-21",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-21",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008"
     },
     "ai_relevant": true
   },
@@ -6077,60 +6186,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5391112008",
-    "slug": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5391112008",
-    "title": "Customer Success Manager",
-    "seo_title": "Remote Customer Success Manager Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in Worldwide. Explore RAG, AWS, Sales, Seoul, South Korea and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Seoul, South Korea",
-    "location_label": "Seoul, South Korea",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "Seoul, South Korea"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
-    "published_at": "2026-08-21",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Success Manager",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-21",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
     "slug": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
     "title": "Customer Success Manager",
@@ -6185,21 +6240,21 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-success-manager-dach-anthropic-germany-greenhouse-anthropic-5382792008",
-    "slug": "customer-success-manager-dach-anthropic-germany-greenhouse-anthropic-5382792008",
-    "title": "Customer Success Manager, DACH",
-    "seo_title": "Remote Customer Success Manager, DACH Job in Germany | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Success Manager, DACH job at anthropic in Germany. Explore RAG, AWS, Sales, Munich, Germany and remote AI jobs.",
+    "id": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5391112008",
+    "slug": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5391112008",
+    "title": "Customer Success Manager",
+    "seo_title": "Remote Customer Success Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in Worldwide. Explore RAG, AWS, Sales, Seoul, South Korea and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Germany",
+    "country": "Worldwide",
     "city": null,
-    "location": "Munich, Germany",
-    "location_label": "Munich, Germany",
+    "location": "Seoul, South Korea",
+    "location_label": "Seoul, South Korea",
     "remote_type": "hybrid",
     "employment_type": "contract",
     "experience_level": "intern",
@@ -6211,13 +6266,13 @@
       "RAG",
       "AWS",
       "Sales",
-      "Munich, Germany"
+      "Seoul, South Korea"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382792008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382792008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
     "published_at": "2026-08-21",
     "expires_at": null,
     "quality_score": 75,
@@ -6225,7 +6280,7 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Customer Success Manager, DACH",
+      "title": "Customer Success Manager",
       "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
       "datePosted": "2026-08-21",
       "employmentType": "CONTRACTOR",
@@ -6234,7 +6289,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382792008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008"
     },
     "ai_relevant": true
   },
@@ -7038,67 +7093,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/mixpanel-revenue-strategy-operations-manager",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "unexploded-ordnance-tech-ii-alaka-ina-foundation-family-of-companies-worldwide-remoteok-1136955",
-    "slug": "unexploded-ordnance-tech-ii-alaka-ina-foundation-family-of-companies-worldwide-remoteok-1136955",
-    "title": "Unexploded Ordnance Tech II",
-    "seo_title": "Remote Unexploded Ordnance Tech II Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Unexploded Ordnance Tech II job at Alaka`ina Foundation Family of Companies in Worldwide. Explore RAG, infosec, supervisor, legal and...",
-    "company": {
-      "name": "Alaka`ina Foundation Family of Companies",
-      "slug": "alaka-ina-foundation-family-of-companies",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "South Andros,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "infosec",
-      "supervisor",
-      "legal",
-      "sys admin",
-      "education",
-      "customer support",
-      "testing",
-      "microsoft",
-      "ops"
-    ],
-    "category": "Robotics",
-    "description_summary": "Bering-Alaka`ina Holdings, LLC is looking for an Unexploded Ordnance Tech II to support our government customer located at Andros Island in the Bahamas. Seeking an Unexploded Ordnance Tech II to support the Atlantic Undersea Test and Evaluation Center (AUTEC)...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-unexploded-ordnance-tech-ii-alakaina-foundation-family-of-companies-1136955",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1136955",
-    "published_at": "2026-08-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Unexploded Ordnance Tech II",
-      "description": "Bering-Alaka`ina Holdings, LLC is looking for an Unexploded Ordnance Tech II to support our government customer located at Andros Island in the Bahamas. Seeking an Unexploded Ordnance Tech II to support the Atlantic Undersea Test and Evaluation Center (AUTEC)...",
-      "datePosted": "2026-08-18",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Alaka`ina Foundation Family of Companies"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1136955",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -8047,7 +8041,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-systems-analytics-architect",
     "published_at": "2026-08-12",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -8062,60 +8056,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-systems-analytics-architect",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-advocate-lead-north-america-remote-hospitable-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hospitable-customer-advocate-lead-north-ame",
-    "slug": "customer-advocate-lead-north-america-remote-hospitable-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hospitable-customer-advocate-lead-north-ame",
-    "title": "Customer Advocate Lead (North America - Remote)",
-    "seo_title": "Remote Customer Advocate Lead (North America - Remote) Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Customer Advocate Lead (North America - Remote) job at Hospitable in Worldwide. Explore RAG, Customer Support, Remote and remote AI...",
-    "company": {
-      "name": "Hospitable",
-      "slug": "hospitable",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: United States URL: https://hospitable.com/careers tldr; We build software for Airbnbs to rent themselves, with a state-of-the-art product and user experience. We are bold, like risks, and take on big challenges together. We believe in the value...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/hospitable-customer-advocate-lead-north-america-remote-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/hospitable-customer-advocate-lead-north-america-remote-1",
-    "published_at": "2026-08-11",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Advocate Lead (North America - Remote)",
-      "description": "Headquarters: United States URL: https://hospitable.com/careers tldr; We build software for Airbnbs to rent themselves, with a state-of-the-art product and user experience. We are bold, like risks, and take on big challenges together. We believe in the value...",
-      "datePosted": "2026-08-11",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Hospitable"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/hospitable-customer-advocate-lead-north-america-remote-1",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
