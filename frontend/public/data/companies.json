@@ -11,7 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 7
   },
   {
     "name": "Customer.io",
@@ -21,11 +21,32 @@
     "jobs_count": 4
   },
   {
+    "name": "Interaction Design Foundation",
+    "slug": "interaction-design-foundation",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "IxDF - Interaction Design Foundation",
     "slug": "ixdf-interaction-design-foundation",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Melio",
+    "slug": "melio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "OfferUp",
@@ -61,6 +82,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "HighRadius",
+    "slug": "highradius",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Coaching.com",
@@ -147,13 +175,6 @@
     "jobs_count": 1
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Grafana Labs",
     "slug": "grafana-labs",
     "logo_url": null,
@@ -191,13 +212,6 @@
   {
     "name": "Galileo",
     "slug": "galileo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Gusto, Inc.",
-    "slug": "gusto-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -259,36 +273,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Ethos Life",
-    "slug": "ethos-life",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Rho",
-    "slug": "rho",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mixpanel",
-    "slug": "mixpanel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Zenara Health",
     "slug": "zenara-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Caspar Health",
-    "slug": "caspar-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -359,13 +345,6 @@
   {
     "name": "Fullscript",
     "slug": "fullscript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mercury",
-    "slug": "mercury",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
