@@ -11,14 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
-  },
-  {
-    "name": "Customer.io",
-    "slug": "customer-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
+    "jobs_count": 8
   },
   {
     "name": "Interaction Design Foundation",
@@ -33,6 +26,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Chime Financial, Inc",
+    "slug": "chime-financial-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Databricks",
@@ -75,6 +89,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Toggl",
+    "slug": "toggl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ellipsis®",
+    "slug": "ellipsis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Forter",
+    "slug": "forter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Tessera Labs",
@@ -126,6 +161,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Transportation Partners & Logistics",
+    "slug": "transportation-partners-logistics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Salesforge",
     "slug": "salesforge",
     "logo_url": null,
@@ -142,27 +184,6 @@
   {
     "name": "Flexport",
     "slug": "flexport",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Brex",
-    "slug": "brex",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Icarus Digital Marketing",
-    "slug": "icarus-digital-marketing",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Meadow Memorials",
-    "slug": "meadow-memorials",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -224,13 +245,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Galileo",
-    "slug": "galileo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "6sense",
     "slug": "6sense",
     "logo_url": null,
@@ -247,13 +261,6 @@
   {
     "name": "Tractian",
     "slug": "tractian",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tiger Analytics Inc.",
-    "slug": "tiger-analytics-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -357,13 +364,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Fullscript",
-    "slug": "fullscript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
     "logo_url": null,
@@ -373,6 +373,13 @@
   {
     "name": "Charles Technology Africa",
     "slug": "charles-technology-africa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "TestGorilla",
+    "slug": "testgorilla",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
