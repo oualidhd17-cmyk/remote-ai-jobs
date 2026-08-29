@@ -7,9 +7,9 @@
   "visa_count": 80,
   "salary_count": 7,
   "status_counts": {
+    "pending": 18,
     "rejected": 84,
-    "published": 157,
-    "pending": 18
+    "published": 157
   },
   "source_counts": {
     "remoteok": 80,
