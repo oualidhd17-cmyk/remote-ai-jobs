@@ -28,11 +28,11 @@
     "jobs_count": 3
   },
   {
-    "name": "Customer.io",
-    "slug": "customer-io",
+    "name": "Animalz",
+    "slug": "animalz",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
     "name": "Zscaler",
@@ -70,6 +70,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "LaunchDarkly",
     "slug": "launchdarkly",
     "logo_url": null,
@@ -89,6 +96,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Evident Change",
+    "slug": "evident-change",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Toggl",
@@ -175,13 +189,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Otter.ai",
-    "slug": "otter-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Flexport",
     "slug": "flexport",
     "logo_url": null,
@@ -254,13 +261,6 @@
   {
     "name": "Shatterproof",
     "slug": "shatterproof",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tractian",
-    "slug": "tractian",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
