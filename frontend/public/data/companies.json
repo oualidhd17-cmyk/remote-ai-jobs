@@ -28,6 +28,20 @@
     "jobs_count": 3
   },
   {
+    "name": "Cribl",
+    "slug": "cribl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Huntress",
+    "slug": "huntress",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Postman",
     "slug": "postman",
     "logo_url": null,
@@ -58,13 +72,6 @@
   {
     "name": "Databricks",
     "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Melio",
-    "slug": "melio",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -156,6 +163,13 @@
   {
     "name": "UCM Practice Growth Systems",
     "slug": "ucm-practice-growth-systems",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Melio",
+    "slug": "melio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -315,13 +329,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Zenara Health",
-    "slug": "zenara-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Destination Knot",
     "slug": "destination-knot",
     "logo_url": null,
@@ -380,13 +387,6 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
