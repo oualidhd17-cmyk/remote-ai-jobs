@@ -499,6 +499,66 @@
     "ai_relevant": true
   },
   {
+    "id": "kitchen-porter-w-edinburgh-w-hotels-worldwide-remoteok-1137237",
+    "slug": "kitchen-porter-w-edinburgh-w-hotels-worldwide-remoteok-1137237",
+    "title": "Kitchen Porter W Edinburgh",
+    "seo_title": "Remote Kitchen Porter W Edinburgh Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Kitchen Porter W Edinburgh job at W Hotels in Worldwide. Explore RAG, Spark, design, infosec and remote AI jobs.",
+    "company": {
+      "name": "W Hotels",
+      "slug": "w-hotels",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Edinburgh,",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Spark",
+      "design",
+      "infosec",
+      "music",
+      "education",
+      "exec",
+      "medical",
+      "digital nomad"
+    ],
+    "category": "Robotics",
+    "description_summary": "Additional Information Job Number 26109811 Job Category Food and Beverage & Culinary Location 1 St James Square, Edinburgh, Scotland, United Kingdom, EH1 3AXVIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: Â£12.71ph W...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-kitchen-porter-w-edinburgh-w-hotels-1137237",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137237",
+    "published_at": "2026-08-31",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Kitchen Porter W Edinburgh",
+      "description": "Additional Information Job Number 26109811 Job Category Food and Beverage & Culinary Location 1 St James Square, Edinburgh, Scotland, United Kingdom, EH1 3AXVIEW ON MAP Schedule Full Time Located Remotely? N Position Type Non-Management Pay Range: Â£12.71ph W...",
+      "datePosted": "2026-08-31",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "W Hotels"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137237",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "customer-engineer-mixpanel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mixpanel-customer-engineer",
     "slug": "customer-engineer-mixpanel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mixpanel-customer-engineer",
     "title": "Customer Engineer",
@@ -2098,65 +2158,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -2211,6 +2212,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
       }
     },
     "ai_relevant": true
@@ -2331,60 +2391,6 @@
         "@type": "Country",
         "name": "Australia"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-content-marketer-seo-animalz-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-animalz-senior-content-marketer-seo-1",
-    "slug": "senior-content-marketer-seo-animalz-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-animalz-senior-content-marketer-seo-1",
-    "title": "Senior Content Marketer, SEO",
-    "seo_title": "Remote Senior Content Marketer, SEO Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Content Marketer, SEO job at Animalz in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Animalz",
-      "slug": "animalz",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: San Diego, California URL: https://animalz.co We're looking for a Senior Content Marketer: an exceptional writer with the editorial judgment to own content quality for the customers they serve. This is a writing-first role. About 70% of your...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/animalz-senior-content-marketer-seo-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/animalz-senior-content-marketer-seo-1",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Content Marketer, SEO",
-      "description": "Headquarters: San Diego, California URL: https://animalz.co We're looking for a Senior Content Marketer: an exceptional writer with the editorial judgment to own content quality for the customers they serve. This is a writing-first role. About 70% of your...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Animalz"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/animalz-senior-content-marketer-seo-1",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -2825,21 +2831,21 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
-    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
+    "id": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
+    "slug": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
     "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "seo_title": "Remote Applied AI Architect Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Singapore. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Worldwide",
+    "country": "Singapore",
     "city": null,
-    "location": "Bangalore, India",
-    "location_label": "Bangalore, India",
+    "location": "Singapore",
+    "location_label": "Singapore",
     "remote_type": "hybrid",
     "employment_type": "internship",
     "experience_level": "intern",
@@ -2854,13 +2860,13 @@
       "RAG",
       "AWS",
       "Applied AI",
-      "Bangalore, India"
+      "Singapore"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
     "published_at": "2026-08-28",
     "expires_at": null,
     "quality_score": 75,
@@ -2877,7 +2883,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
     },
     "ai_relevant": true
   },
@@ -2939,21 +2945,21 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
-    "slug": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
+    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
+    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
     "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Singapore. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
     "company": {
       "name": "anthropic",
       "slug": "anthropic",
       "logo_url": null,
       "website": null
     },
-    "country": "Singapore",
+    "country": "Worldwide",
     "city": null,
-    "location": "Singapore",
-    "location_label": "Singapore",
+    "location": "Bangalore, India",
+    "location_label": "Bangalore, India",
     "remote_type": "hybrid",
     "employment_type": "internship",
     "experience_level": "intern",
@@ -2968,13 +2974,13 @@
       "RAG",
       "AWS",
       "Applied AI",
-      "Singapore"
+      "Bangalore, India"
     ],
     "category": "AI Engineering",
     "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
     "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008",
     "published_at": "2026-08-28",
     "expires_at": null,
     "quality_score": 75,
@@ -2991,7 +2997,7 @@
         "name": "anthropic"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
     },
     "ai_relevant": true
   },
@@ -4719,9 +4725,9 @@
     ],
     "category": "AI Engineering",
     "description_summary": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe. We are seeking a...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+    "apply_url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
     "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+    "source_url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
     "published_at": "2026-08-26",
     "expires_at": null,
     "quality_score": 85,
@@ -4738,7 +4744,7 @@
         "name": "Lemon.io"
       },
       "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/senior-qa-engineer-2091100",
+      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5462,62 +5468,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137194",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-backend-engineer-build-ai-agents-salesforge-worldwide-remoteok-1137114",
-    "slug": "senior-backend-engineer-build-ai-agents-salesforge-worldwide-remoteok-1137114",
-    "title": "Senior Backend Engineer Build AI Agents",
-    "seo_title": "Remote Senior Backend Engineer Build AI Agents Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Backend Engineer Build AI Agents job at Salesforge in Worldwide. Explore golang, senior, sales, engineer and remote AI jobs.",
-    "company": {
-      "name": "Salesforge",
-      "slug": "salesforge",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "golang",
-      "senior",
-      "sales",
-      "engineer",
-      "backend"
-    ],
-    "category": "Robotics",
-    "description_summary": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137114",
-    "published_at": "2026-08-25",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Backend Engineer Build AI Agents",
-      "description": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human...",
-      "datePosted": "2026-08-25",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Salesforge"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137114",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -7718,78 +7668,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/6sense-benefits-partner",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "vice-president-technology-digital-strategy-shatterproof-usa-remotive-2091104",
-    "slug": "vice-president-technology-digital-strategy-shatterproof-usa-remotive-2091104",
-    "title": "Vice President, Technology & Digital Strategy",
-    "seo_title": "Remote Vice President, Technology & Digital Strategy Job in USA | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Vice President, Technology & Digital Strategy job at Shatterproof in USA. Explore Power BI, business intelligence, cloud, salesforce...",
-    "company": {
-      "name": "Shatterproof",
-      "slug": "shatterproof",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "USA",
-    "location_label": "USA",
-    "remote_type": "unknown",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 175000,
-    "salary_max": 190000,
-    "salary_currency": null,
-    "skills": [
-      "Power BI",
-      "business intelligence",
-      "cloud",
-      "salesforce",
-      "security",
-      "AI/ML",
-      "automation",
-      "product management",
-      "documentation",
-      "CRM",
-      "analytics",
-      "google analytics"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "About ShatterproofShatterproof is a national nonprofit working toward a world where addiction never defines or ends a life. Through evidence-based programs, advocacy, and public education, Shatterproof works to transform systems for tomorrow, support families...",
-    "apply_url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104",
-    "published_at": "2026-08-20",
-    "expires_at": null,
-    "quality_score": 80,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Vice President, Technology & Digital Strategy",
-      "description": "About ShatterproofShatterproof is a national nonprofit working toward a world where addiction never defines or ends a life. Through evidence-based programs, advocacy, and public education, Shatterproof works to transform systems for tomorrow, support families...",
-      "datePosted": "2026-08-20",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Shatterproof"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 175000,
-          "maxValue": 190000,
-          "unitText": "YEAR"
-        }
-      }
     },
     "ai_relevant": true
   },
