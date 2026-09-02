@@ -11,7 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 8
+    "jobs_count": 7
   },
   {
     "name": "Databricks",
@@ -33,6 +33,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Upstart",
+    "slug": "upstart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Grafana Labs",
+    "slug": "grafana-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "ZoomInfo Technologies LLC",
@@ -58,13 +72,6 @@
   {
     "name": "Huntress",
     "slug": "huntress",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Postman",
-    "slug": "postman",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,6 +147,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Postman",
+    "slug": "postman",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Atreides",
     "slug": "atreides",
     "logo_url": null,
@@ -196,13 +210,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Carelock.com",
-    "slug": "carelock-com",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -217,20 +224,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Transportation Partners & Logistics",
-    "slug": "transportation-partners-logistics",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Flexport",
-    "slug": "flexport",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Faire",
     "slug": "faire",
     "logo_url": null,
@@ -240,13 +233,6 @@
   {
     "name": "Abnormal",
     "slug": "abnormal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Grafana Labs",
-    "slug": "grafana-labs",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
