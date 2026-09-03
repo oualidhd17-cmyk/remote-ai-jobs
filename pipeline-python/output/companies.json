@@ -77,13 +77,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Chime Financial, Inc",
-    "slug": "chime-financial-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Proxify AB",
     "slug": "proxify-ab",
     "logo_url": null,
@@ -96,6 +89,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Princeton University",
+    "slug": "princeton-university",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ellipsis®",
+    "slug": "ellipsis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "RSA Career",
@@ -198,6 +205,13 @@
   {
     "name": "Toggl",
     "slug": "toggl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Chime Financial, Inc",
+    "slug": "chime-financial-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
