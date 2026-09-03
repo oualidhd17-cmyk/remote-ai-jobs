@@ -11,7 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 6
   },
   {
     "name": "Databricks",
@@ -28,15 +28,29 @@
     "jobs_count": 3
   },
   {
-    "name": "Upstart",
-    "slug": "upstart",
+    "name": "Airbnb",
+    "slug": "airbnb",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "W Hotels",
+    "slug": "w-hotels",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Upstart",
+    "slug": "upstart",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,22 +154,15 @@
     "jobs_count": 1
   },
   {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Expel",
     "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Zscaler",
-    "slug": "zscaler",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "W Hotels",
-    "slug": "w-hotels",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -203,13 +210,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Tessera Labs",
-    "slug": "tessera-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "UCM Practice Growth Systems",
     "slug": "ucm-practice-growth-systems",
     "logo_url": null,
@@ -219,13 +219,6 @@
   {
     "name": "Melio",
     "slug": "melio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,13 +275,6 @@
   {
     "name": "Nucs Ai",
     "slug": "nucs-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Leland",
-    "slug": "leland",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
