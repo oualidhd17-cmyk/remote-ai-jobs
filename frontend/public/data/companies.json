@@ -11,7 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 6
   },
   {
     "name": "Databricks",
@@ -26,6 +26,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Prove",
+    "slug": "prove",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Glean",
+    "slug": "glean",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Airbnb",
@@ -49,20 +63,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Upstart",
-    "slug": "upstart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Cribl",
-    "slug": "cribl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Huntress",
     "slug": "huntress",
     "logo_url": null,
@@ -72,6 +72,13 @@
   {
     "name": "Reddit",
     "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Chime Financial, Inc",
+    "slug": "chime-financial-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -89,6 +96,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Fin",
+    "slug": "fin",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Princeton University",
@@ -154,6 +168,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Upstart",
+    "slug": "upstart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Grafana Labs",
     "slug": "grafana-labs",
     "logo_url": null,
@@ -189,6 +210,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Cribl",
+    "slug": "cribl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Atreides",
     "slug": "atreides",
     "logo_url": null,
@@ -196,43 +224,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Evident Change",
-    "slug": "evident-change",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toggl",
-    "slug": "toggl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Chime Financial, Inc",
-    "slug": "chime-financial-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Forter",
     "slug": "forter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "UCM Practice Growth Systems",
-    "slug": "ucm-practice-growth-systems",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Melio",
-    "slug": "melio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -338,6 +331,13 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Yooli",
+    "slug": "yooli",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
