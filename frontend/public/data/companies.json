@@ -11,7 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
+    "jobs_count": 7
   },
   {
     "name": "Databricks",
@@ -168,6 +168,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Warehance",
+    "slug": "warehance",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Upstart",
     "slug": "upstart",
     "logo_url": null,
@@ -205,20 +212,6 @@
   {
     "name": "Benzinga",
     "slug": "benzinga",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cribl",
-    "slug": "cribl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Atreides",
-    "slug": "atreides",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -338,6 +331,13 @@
   {
     "name": "Yooli",
     "slug": "yooli",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "The Humane League",
+    "slug": "the-humane-league",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
