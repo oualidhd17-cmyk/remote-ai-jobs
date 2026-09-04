@@ -28,6 +28,13 @@
     "jobs_count": 3
   },
   {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Prove",
     "slug": "prove",
     "logo_url": null,
@@ -72,13 +79,6 @@
   {
     "name": "Reddit",
     "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Chime Financial, Inc",
-    "slug": "chime-financial-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -224,8 +224,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Forter",
-    "slug": "forter",
+    "name": "Chime Financial, Inc",
+    "slug": "chime-financial-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
