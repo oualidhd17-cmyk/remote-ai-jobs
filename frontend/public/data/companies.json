@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 80
+    "jobs_count": 60
   },
   {
     "name": "Lemon.io",
@@ -96,6 +96,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Porkbun",
+    "slug": "porkbun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Track it Forward",
+    "slug": "track-it-forward",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Fin",
@@ -331,13 +345,6 @@
   {
     "name": "Yooli",
     "slug": "yooli",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "The Humane League",
-    "slug": "the-humane-league",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
