@@ -18,7 +18,7 @@
     "slug": "databricks",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "IxDF - Interaction Design Foundation",
@@ -26,6 +26,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Vonage",
+    "slug": "vonage",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "LawnStarter",
@@ -98,6 +112,13 @@
     "jobs_count": 2
   },
   {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Porkbun",
     "slug": "porkbun",
     "logo_url": null,
@@ -142,13 +163,6 @@
   {
     "name": "Sparix Global.",
     "slug": "sparix-global",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "B2spin",
-    "slug": "b2spin",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -252,13 +266,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Abnormal",
-    "slug": "abnormal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "GitLab",
     "slug": "gitlab",
     "logo_url": null,
@@ -289,6 +296,13 @@
   {
     "name": "Nucs Ai",
     "slug": "nucs-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Leland",
+    "slug": "leland",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
