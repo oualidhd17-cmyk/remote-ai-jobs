@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 59
+    "jobs_count": 58
   },
   {
     "name": "Lemon.io",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 7
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
   },
   {
     "name": "Databricks",
@@ -26,6 +33,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Vonage",
@@ -91,18 +105,18 @@
     "jobs_count": 2
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Proxify AB",
     "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Clover Health",
+    "slug": "clover-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "PagerDuty",
@@ -266,13 +280,6 @@
     "jobs_count": 1
   },
   {
-    "name": "6sense",
-    "slug": "6sense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "E. Breuninger& Co.",
     "slug": "e-breuninger-co",
     "logo_url": null,
@@ -282,13 +289,6 @@
   {
     "name": "Nucs Ai",
     "slug": "nucs-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Leland",
-    "slug": "leland",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
