@@ -18,7 +18,7 @@
     "slug": "reddit",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "Databricks",
@@ -37,6 +37,13 @@
   {
     "name": "Coinbase",
     "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Creative Force",
+    "slug": "creative-force",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -110,6 +117,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Ace Ventures",
+    "slug": "ace-ventures",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Clover Health",

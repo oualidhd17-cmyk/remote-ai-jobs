@@ -1,5 +1,58 @@
 [
   {
+    "id": "executive-personal-assistant-to-the-founder-remote-uae-or-europe-ace-ventures-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ace-ventures-executi",
+    "slug": "executive-personal-assistant-to-the-founder-remote-uae-or-europe-ace-ventures-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ace-ventures-executi",
+    "title": "Executive Personal Assistant to the Founder (Remote, UAE or Europe)",
+    "seo_title": "Remote Executive Personal Assistant to the Founder (Remote, UAE or Europe) Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Executive Personal Assistant to the Founder (Remote, UAE or Europe) job at Ace Ventures in Worldwide. Explore All Other Remote, Remote...",
+    "company": {
+      "name": "Ace Ventures",
+      "slug": "ace-ventures",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Dubai, United Arab Emirates URL: https://aceventures.ai/ Location: Remote, based in the UAE or Europe. Engagement: full-time independent contractor (own visa and invoicing setup required). About the role You will be the right hand to a...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/ace-ventures-executive-personal-assistant-to-the-founder-remote-uae-or-europe",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/ace-ventures-executive-personal-assistant-to-the-founder-remote-uae-or-europe",
+    "published_at": "2026-09-06",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Executive Personal Assistant to the Founder (Remote, UAE or Europe)",
+      "description": "Headquarters: Dubai, United Arab Emirates URL: https://aceventures.ai/ Location: Remote, based in the UAE or Europe. Engagement: full-time independent contractor (own visa and invoicing setup required). About the role You will be the right hand to a...",
+      "datePosted": "2026-09-06",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Ace Ventures"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/ace-ventures-executive-personal-assistant-to-the-founder-remote-uae-or-europe",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "director-privacy-legal-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-director-privacy-legal",
     "slug": "director-privacy-legal-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-director-privacy-legal",
     "title": "Director, Privacy Legal",
@@ -531,6 +584,133 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "sales-jedi-creative-force-worldwide-remotive-2091088",
+    "slug": "sales-jedi-creative-force-worldwide-remotive-2091088",
+    "title": "Sales Jedi",
+    "seo_title": "Remote Sales Jedi Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Sales Jedi job at Creative Force in Worldwide. Explore RAG, saas, video, SOLID and remote AI jobs.",
+    "company": {
+      "name": "Creative Force",
+      "slug": "creative-force",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Europe",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "saas",
+      "video",
+      "SOLID",
+      "chat",
+      "saas sales",
+      "mental health",
+      "Sales",
+      "full_time"
+    ],
+    "category": "Robotics",
+    "description_summary": "Great salary | Profit share | 100% remote | Work from anywhere in Europe | SaaS Awesome opportunity for a self-motivated and energetic people person to join our remote team and help sell our world-leading SaaS products, from anywhere in Europe. We pay a great...",
+    "apply_url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+    "published_at": "2026-09-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Sales Jedi",
+      "description": "Great salary | Profit share | 100% remote | Work from anywhere in Europe | SaaS Awesome opportunity for a self-motivated and energetic people person to join our remote team and help sell our world-leading SaaS products, from anywhere in Europe. We pay a great...",
+      "datePosted": "2026-09-05",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Creative Force"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/sales/sales-jedi-2091088",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "saas-product-support-jedi-creative-force-germany-remotive-2091087",
+    "slug": "saas-product-support-jedi-creative-force-germany-remotive-2091087",
+    "title": "SaaS Product Support Jedi",
+    "seo_title": "Remote SaaS Product Support Jedi Job in Germany | Data Science Jobs",
+    "seo_description": "Apply for a remote SaaS Product Support Jedi job at Creative Force in Germany. Explore RAG, api, CSS, go and remote AI jobs.",
+    "company": {
+      "name": "Creative Force",
+      "slug": "creative-force",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Germany",
+    "city": null,
+    "location": "Europe, EMEA, UK, Germany, France, European timezones",
+    "location_label": "Remote - Germany",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "api",
+      "CSS",
+      "go",
+      "html",
+      "javascript",
+      "saas",
+      "onboarding",
+      "chat",
+      "startup",
+      "troubleshooting",
+      "product support"
+    ],
+    "category": "Data Science",
+    "description_summary": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations. Our European client base is growing fast and we need someone who can keep up. Our software isn’t your...",
+    "apply_url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+    "published_at": "2026-09-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "SaaS Product Support Jedi",
+      "description": "We’re on the hunt for a sharp, self-driven SaaS pro who’s as comfortable troubleshooting API and integrations as they are navigating human conversations. Our European client base is growing fast and we need someone who can keep up. Our software isn’t your...",
+      "datePosted": "2026-09-05",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Creative Force"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Germany"
       }
     },
     "ai_relevant": true
@@ -3489,60 +3669,6 @@
     "ai_relevant": true
   },
   {
-    "id": "community-manager-french-speaking-contract-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-community-manager-french-speaking-contrac",
-    "slug": "community-manager-french-speaking-contract-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-community-manager-french-speaking-contrac",
-    "title": "Community Manager, French Speaking (Contract)",
-    "seo_title": "Remote Community Manager, French Speaking (Contract) Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Community Manager, French Speaking (Contract) job at Reddit in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Reddit",
-      "slug": "reddit",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote - United Kingdom Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-community-manager-french-speaking-contract",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/reddit-community-manager-french-speaking-contract",
-    "published_at": "2026-08-29",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Community Manager, French Speaking (Contract)",
-      "description": "Headquarters: Remote - United Kingdom Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
-      "datePosted": "2026-08-29",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Reddit"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/reddit-community-manager-french-speaking-contract",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "backend-software-engineer-pdp-experience-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-backend-software-engineer-pdp-experience",
     "slug": "backend-software-engineer-pdp-experience-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-backend-software-engineer-pdp-experience",
     "title": "Backend Software Engineer, PDP Experience",
@@ -3593,6 +3719,62 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/reddit-backend-software-engineer-pdp-experience",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3653,62 +3835,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -4284,63 +4410,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5227672008",
-    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5227672008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Madrid, Spain",
-    "location_label": "Madrid, Spain",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Madrid, Spain"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
     "slug": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
     "title": "Applied AI Architect",
@@ -4451,6 +4520,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5227672008",
+    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5227672008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Madrid, Spain",
+    "location_label": "Madrid, Spain",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Madrid, Spain"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5227672008"
     },
     "ai_relevant": true
   },
