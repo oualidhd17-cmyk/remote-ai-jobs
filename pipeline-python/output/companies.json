@@ -21,13 +21,6 @@
     "jobs_count": 4
   },
   {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "IxDF - Interaction Design Foundation",
     "slug": "ixdf-interaction-design-foundation",
     "logo_url": null,
@@ -100,6 +93,13 @@
   {
     "name": "W Hotels",
     "slug": "w-hotels",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
