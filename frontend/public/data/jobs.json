@@ -1,5 +1,290 @@
 [
   {
+    "id": "principal-account-executive-veracode-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-veracode-principal-account-executive",
+    "slug": "principal-account-executive-veracode-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-veracode-principal-account-executive",
+    "title": "Principal Account Executive",
+    "seo_title": "Remote Principal Account Executive Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Principal Account Executive job at Veracode in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Veracode",
+      "slug": "veracode",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote, CA Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk Management for the AI era....",
+    "apply_url": "https://weworkremotely.com/remote-jobs/veracode-principal-account-executive",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/veracode-principal-account-executive",
+    "published_at": "2026-09-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Principal Account Executive",
+      "description": "Headquarters: Remote, CA Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk Management for the AI era....",
+      "datePosted": "2026-09-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Veracode"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/veracode-principal-account-executive",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-of-production-engineering-legion-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-legion-director-of-production-engineering",
+    "slug": "director-of-production-engineering-legion-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-legion-director-of-production-engineering",
+    "title": "Director of Production Engineering",
+    "seo_title": "Remote Director of Production Engineering Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Director of Production Engineering job at Legion in Worldwide. Explore Python, RAG, Kubernetes, AWS and remote AI jobs.",
+    "company": {
+      "name": "Legion",
+      "slug": "legion",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "RAG",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote, United States Director of Production Engineering Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+    "published_at": "2026-09-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director of Production Engineering",
+      "description": "Headquarters: Remote, United States Director of Production Engineering Remote, United States About this Position Are you passionate about building the reliability, automation, and security foundations that let engineering teams move fast with confidence? At...",
+      "datePosted": "2026-09-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Legion"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/legion-director-of-production-engineering",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-sre-networks-fastly-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fastly-senior-sre-networks",
+    "slug": "senior-sre-networks-fastly-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fastly-senior-sre-networks",
+    "title": "Senior SRE - Networks",
+    "seo_title": "Remote Senior SRE - Networks Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Senior SRE - Networks job at Fastly in Worldwide. Explore Python, RAG, AWS, GCP and remote AI jobs.",
+    "company": {
+      "name": "Fastly",
+      "slug": "fastly",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "RAG",
+      "AWS",
+      "GCP",
+      "Azure",
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
+    "published_at": "2026-09-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior SRE - Networks",
+      "description": "Headquarters: United Kingdom (Remote) Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing...",
+      "datePosted": "2026-09-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Fastly"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/fastly-senior-sre-networks",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-account-management-veracode-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-veracode-director-account-management",
+    "slug": "director-account-management-veracode-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-veracode-director-account-management",
+    "title": "Director, Account Management",
+    "seo_title": "Remote Director, Account Management Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Director, Account Management job at Veracode in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Veracode",
+      "slug": "veracode",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Burlington, MA OR US Remote Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk Management for...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/veracode-director-account-management",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/veracode-director-account-management",
+    "published_at": "2026-09-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, Account Management",
+      "description": "Headquarters: Burlington, MA OR US Remote Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk Management for...",
+      "datePosted": "2026-09-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Veracode"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/veracode-director-account-management",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "chief-architect-legion-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-legion-chief-architect",
+    "slug": "chief-architect-legion-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-legion-chief-architect",
+    "title": "Chief Architect",
+    "seo_title": "Remote Chief Architect Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Chief Architect job at Legion in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "Legion",
+      "slug": "legion",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote, United States Chief Architect Remote - US Legion Technologies is building the AI-powered operating system for the hourly workforce. We are hiring a Chief Architect to serve as Legion’s most senior hands-on technical leader and to shape...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/legion-chief-architect",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/legion-chief-architect",
+    "published_at": "2026-09-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Chief Architect",
+      "description": "Headquarters: Remote, United States Chief Architect Remote - US Legion Technologies is building the AI-powered operating system for the hourly workforce. We are hiring a Chief Architect to serve as Legion’s most senior hands-on technical leader and to shape...",
+      "datePosted": "2026-09-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Legion"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/legion-chief-architect",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "executive-personal-assistant-to-the-founder-remote-uae-or-europe-ace-ventures-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ace-ventures-executi",
     "slug": "executive-personal-assistant-to-the-founder-remote-uae-or-europe-ace-ventures-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ace-ventures-executi",
     "title": "Executive Personal Assistant to the Founder (Remote, UAE or Europe)",
@@ -1758,63 +2043,6 @@
     "ai_relevant": true
   },
   {
-    "id": "data-scientist-inference-community-support-airbnb-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-airbnb-data-scientist-inference-community-suppor",
-    "slug": "data-scientist-inference-community-support-airbnb-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-airbnb-data-scientist-inference-community-suppor",
-    "title": "Data Scientist - Inference, Community Support",
-    "seo_title": "Remote Data Scientist - Inference, Community Support Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Data Scientist - Inference, Community Support job at Airbnb in Worldwide. Explore Python, SQL, RAG, Statistics and remote AI jobs.",
-    "company": {
-      "name": "Airbnb",
-      "slug": "airbnb",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "RAG",
-      "Statistics",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote - USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/airbnb-data-scientist-inference-community-support",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/airbnb-data-scientist-inference-community-support",
-    "published_at": "2026-09-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Scientist - Inference, Community Support",
-      "description": "Headquarters: Remote - USA Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every...",
-      "datePosted": "2026-09-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Airbnb"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/airbnb-data-scientist-inference-community-support",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "director-of-business-planning-strategic-initiatives-office-of-the-cpto-remote-eligible-smartsheet-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs",
     "slug": "director-of-business-planning-strategic-initiatives-office-of-the-cpto-remote-eligible-smartsheet-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs",
     "title": "Director of Business Planning & Strategic Initiatives - Office of the CPTO (Remote Eligible)",
@@ -2033,114 +2261,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/sparix-global-msd-365-customer-relationship-management-crm-lead",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "conseiller-ere-en-communication-et-marketing-digital-volontariat-virtuel-cuso-international-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cuso-i",
-    "slug": "conseiller-ere-en-communication-et-marketing-digital-volontariat-virtuel-cuso-international-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cuso-i",
-    "title": "Conseiller(ère) en communication et marketing digital (Volontariat Virtuel)",
-    "seo_title": "Remote Conseiller(ère) en communication et marketing digital (Volontariat Virtuel) Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Conseiller(ère) en communication et marketing digital (Volontariat Virtuel) job at Cuso International in Worldwide. Explore RAG, Sales...",
-    "company": {
-      "name": "Cuso International",
-      "slug": "cuso-international",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Cameroon URL: http://cusointernational.org Description Volontariat Virtuel Emplacement du partenaire : Cameroun Date de début : Octobre 2026 Durée de l’affectation : 3 Mois Exigences linguistiques : Français Niveau 5 - Pleine maîtrise et Anglais...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/cuso-international-conseiller-ere-en-communication-et-marketing-digital-volontariat-virtuel",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/cuso-international-conseiller-ere-en-communication-et-marketing-digital-volontariat-virtuel",
-    "published_at": "2026-09-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Conseiller(ère) en communication et marketing digital (Volontariat Virtuel)",
-      "description": "Headquarters: Cameroon URL: http://cusointernational.org Description Volontariat Virtuel Emplacement du partenaire : Cameroun Date de début : Octobre 2026 Durée de l’affectation : 3 Mois Exigences linguistiques : Français Niveau 5 - Pleine maîtrise et Anglais...",
-      "datePosted": "2026-09-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Cuso International"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/cuso-international-conseiller-ere-en-communication-et-marketing-digital-volontariat-virtuel",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "marketing-coordinator-native-french-speaker-global-university-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-global-university-systems-ma",
-    "slug": "marketing-coordinator-native-french-speaker-global-university-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-global-university-systems-ma",
-    "title": "Marketing Coordinator (Native French Speaker)",
-    "seo_title": "Remote Marketing Coordinator (Native French Speaker) Job | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Marketing Coordinator (Native French Speaker) job at Global University Systems in Worldwide. Explore RAG, Sales and Marketing, Remote...",
-    "company": {
-      "name": "Global University Systems",
-      "slug": "global-university-systems",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "Headquarters: Cameroon URL: http://guscancolleges.ca About the company Global University Systems (GUS) is one of the world’s most dynamic, inclusive, and diverse education organisations. GUS is an international network of higher education institutions,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/global-university-systems-marketing-coordinator-native-french-speaker",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/global-university-systems-marketing-coordinator-native-french-speaker",
-    "published_at": "2026-09-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Marketing Coordinator (Native French Speaker)",
-      "description": "Headquarters: Cameroon URL: http://guscancolleges.ca About the company Global University Systems (GUS) is one of the world’s most dynamic, inclusive, and diverse education organisations. GUS is an international network of higher education institutions,...",
-      "datePosted": "2026-09-03",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Global University Systems"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/global-university-systems-marketing-coordinator-native-french-speaker",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2434,63 +2554,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390735008",
-    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390735008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Seoul, South Korea",
-    "location_label": "Seoul, South Korea",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Seoul, South Korea"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
-    "published_at": "2026-09-02",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-02",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5076109008",
     "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5076109008",
     "title": "Applied AI Architect",
@@ -2544,6 +2607,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076109008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390735008",
+    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390735008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Seoul, South Korea",
+    "location_label": "Seoul, South Korea",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Seoul, South Korea"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008",
+    "published_at": "2026-09-02",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-02",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390735008"
     },
     "ai_relevant": true
   },
@@ -2714,6 +2834,60 @@
     "ai_relevant": true
   },
   {
+    "id": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
+    "slug": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
+    "title": "Customer Success Manager",
+    "seo_title": "Remote Customer Success Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in Worldwide. Explore RAG, AWS, Sales, Tokyo, Japan and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Tokyo, Japan",
+    "location_label": "Tokyo, Japan",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Tokyo, Japan"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "published_at": "2026-09-02",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Success Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-02",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "manager-data-platform-zoominfo-technologies-llc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zoominfo-technologies-llc-manager-data-platform",
     "slug": "manager-data-platform-zoominfo-technologies-llc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zoominfo-technologies-llc-manager-data-platform",
     "title": "Manager, Data Platform",
@@ -2770,61 +2944,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-manager-data-platform",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "managed-siem-detection-engineer-expel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-expel-managed-siem-detection-engineer",
-    "slug": "managed-siem-detection-engineer-expel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-expel-managed-siem-detection-engineer",
-    "title": "Managed SIEM Detection Engineer",
-    "seo_title": "Remote Managed SIEM Detection Engineer Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Managed SIEM Detection Engineer job at Expel in Worldwide. Explore Python, RAG, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Expel",
-      "slug": "expel",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote Are you a detection engineer who wants to bring real depth of expertise into a new and growing function and use it to deliver security excellence to customers? Expel's professional services practice is just getting started, and we're...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer",
-    "published_at": "2026-09-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Managed SIEM Detection Engineer",
-      "description": "Headquarters: Remote Are you a detection engineer who wants to bring real depth of expertise into a new and growing function and use it to deliver security excellence to customers? Expel's professional services practice is just getting started, and we're...",
-      "datePosted": "2026-09-01",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Expel"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/expel-managed-siem-detection-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3043,60 +3162,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407529008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-success-manager-anthropic-uk-greenhouse-anthropic-5391102008",
-    "slug": "customer-success-manager-anthropic-uk-greenhouse-anthropic-5391102008",
-    "title": "Customer Success Manager",
-    "seo_title": "Remote Customer Success Manager Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in UK. Explore RAG, AWS, Sales, London, UK and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008",
-    "published_at": "2026-09-01",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Success Manager",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-01",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008"
     },
     "ai_relevant": true
   },
@@ -3944,65 +4009,6 @@
     "ai_relevant": true
   },
   {
-    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
-    "title": "Contracts Manager, APAC",
-    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Remote - Singapore",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, APAC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Singapore"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "slug": "contracts-manager-apac-anthropic-australia-greenhouse-anthropic-5271063008",
     "title": "Contracts Manager, APAC",
@@ -4062,6 +4068,65 @@
     "ai_relevant": true
   },
   {
+    "id": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "slug": "contracts-manager-apac-anthropic-singapore-greenhouse-anthropic-5271060008",
+    "title": "Contracts Manager, APAC",
+    "seo_title": "Remote Contracts Manager, APAC Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, APAC job at anthropic in Singapore. Explore RAG, AWS, Legal, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Remote - Singapore",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, APAC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5271060008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Singapore"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "contracts-manager-emea-anthropic-uk-greenhouse-anthropic-5264820008",
     "slug": "contracts-manager-emea-anthropic-uk-greenhouse-anthropic-5264820008",
     "title": "Contracts Manager, EMEA",
@@ -4116,6 +4181,66 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "UK"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "donat-see-your-role-apply-here-atreides-australia-remoteok-1137186",
+    "slug": "donat-see-your-role-apply-here-atreides-australia-remoteok-1137186",
+    "title": "Donât see your role Apply here",
+    "seo_title": "Remote Donât see your role Apply here Job in Australia | Data Science Jobs",
+    "seo_description": "Apply for a remote Donât see your role Apply here job at Atreides in Australia. Explore RAG, travel, exec, ops and remote AI jobs.",
+    "company": {
+      "name": "Atreides",
+      "slug": "atreides",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Denmark, Denmark, Western Australia, Australia",
+    "location_label": "Remote - Australia",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "travel",
+      "exec",
+      "ops",
+      "medical"
+    ],
+    "category": "Data Science",
+    "description_summary": "Not seeing a position that matches your skillset? Kindly submit your resume to be considered for future opportunities. Company Overview: Atreides helps organizations transform large and complex multi-modal datasets into information-rich geospatial data...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-atreides-1137186",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137186",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Donât see your role Apply here",
+      "description": "Not seeing a position that matches your skillset? Kindly submit your resume to be considered for future opportunities. Company Overview: Atreides helps organizations transform large and complex multi-modal datasets into information-rich geospatial data...",
+      "datePosted": "2026-08-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Atreides"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137186",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Australia"
       }
     },
     "ai_relevant": true
@@ -4395,63 +4520,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
-    "slug": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job in Singapore | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Singapore. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Singapore",
-    "city": null,
-    "location": "Singapore",
-    "location_label": "Singapore",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Singapore"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
     "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5390746008",
     "title": "Applied AI Architect",
@@ -4505,6 +4573,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390746008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
+    "slug": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Singapore. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Singapore",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
     },
     "ai_relevant": true
   },
@@ -6156,64 +6281,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-devops-engineer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-devops-engineer-3",
-    "slug": "senior-devops-engineer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-devops-engineer-3",
-    "title": "Senior DevOps Engineer",
-    "seo_title": "Remote Senior DevOps Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior DevOps Engineer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "MLOps",
-      "Kubernetes",
-      "DevOps and Sysadmin",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: New York, NY URL: https://lemon.io Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
-    "published_at": "2026-08-24",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior DevOps Engineer",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Senior Developer? Work Remote. Get Paid Well. Build What Matters. Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious...",
-      "datePosted": "2026-08-24",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-devops-engineer-3",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },

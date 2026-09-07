@@ -11,7 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 6
   },
   {
     "name": "Reddit",
@@ -26,6 +26,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Veracode",
+    "slug": "veracode",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Coinbase",
@@ -77,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Airbnb",
-    "slug": "airbnb",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Smartsheet",
     "slug": "smartsheet",
     "logo_url": null,
@@ -117,6 +124,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Fastly",
+    "slug": "fastly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Ace Ventures",
@@ -175,6 +189,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "RSA Career",
     "slug": "rsa-career",
     "logo_url": null,
@@ -184,20 +205,6 @@
   {
     "name": "Sparix Global.",
     "slug": "sparix-global",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cuso International",
-    "slug": "cuso-international",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Global University Systems",
-    "slug": "global-university-systems",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -231,13 +238,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Expel",
-    "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "CircleCI",
     "slug": "circleci",
     "logo_url": null,
@@ -247,6 +247,13 @@
   {
     "name": "Benzinga",
     "slug": "benzinga",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Atreides",
+    "slug": "atreides",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
