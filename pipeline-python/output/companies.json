@@ -11,7 +11,14 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 8
+  },
+  {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
   },
   {
     "name": "Reddit",
@@ -72,20 +79,6 @@
   {
     "name": "Discord",
     "slug": "discord",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Prove",
-    "slug": "prove",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -182,6 +175,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Prove",
+    "slug": "prove",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Fin",
     "slug": "fin",
     "logo_url": null,
@@ -219,13 +219,6 @@
   {
     "name": "Warehance",
     "slug": "warehance",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Upstart",
-    "slug": "upstart",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
