@@ -10,14 +10,14 @@
     "jobs_count": 16
   },
   {
-    "name": "Robotics",
-    "slug": "robotics",
-    "jobs_count": 10
-  },
-  {
     "name": "MLOps",
     "slug": "mlops",
-    "jobs_count": 10
+    "jobs_count": 12
+  },
+  {
+    "name": "Robotics",
+    "slug": "robotics",
+    "jobs_count": 11
   },
   {
     "name": "NLP",
@@ -32,11 +32,6 @@
   {
     "name": "Data Analytics",
     "slug": "data-analytics",
-    "jobs_count": 1
-  },
-  {
-    "name": "Prompt Engineering",
-    "slug": "prompt-engineering",
     "jobs_count": 1
   }
 ]

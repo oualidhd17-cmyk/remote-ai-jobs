@@ -28,6 +28,13 @@
     "jobs_count": 3
   },
   {
+    "name": "JFrog",
+    "slug": "jfrog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Veracode",
     "slug": "veracode",
     "logo_url": null,
@@ -124,6 +131,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Squarespace",
+    "slug": "squarespace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Fastly",
@@ -345,13 +359,6 @@
   {
     "name": "Headway",
     "slug": "headway",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "The Humane League",
-    "slug": "the-humane-league",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
