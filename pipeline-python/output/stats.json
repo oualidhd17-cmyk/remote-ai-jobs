@@ -2,14 +2,14 @@
   "raw_count": 258,
   "processed_count": 258,
   "published_count": 134,
-  "ai_relevant_count": 176,
+  "ai_relevant_count": 177,
   "remote_count": 90,
   "visa_count": 57,
   "salary_count": 4,
   "status_counts": {
-    "rejected": 82,
+    "rejected": 81,
     "published": 134,
-    "pending": 42
+    "pending": 43
   },
   "source_counts": {
     "remoteok": 80,
@@ -29,11 +29,11 @@
   "country_counts": {
     "Worldwide": 101,
     "Singapore": 4,
+    "Australia": 4,
     "Ireland": 1,
     "USA": 10,
     "Germany": 5,
-    "UK": 8,
-    "Australia": 3,
+    "UK": 7,
     "Canada": 2
   }
 }

@@ -406,6 +406,63 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
+    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
+    "published_at": "2026-09-08",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-08",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
     "slug": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
     "title": "Applied AI Engineer, Enterprise",
@@ -3237,6 +3294,60 @@
     "ai_relevant": true
   },
   {
+    "id": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
+    "slug": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
+    "title": "Customer Success Manager",
+    "seo_title": "Remote Customer Success Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in Worldwide. Explore RAG, AWS, Sales, Tokyo, Japan and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Tokyo, Japan",
+    "location_label": "Tokyo, Japan",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Tokyo, Japan"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "published_at": "2026-09-02",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Success Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-02",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "manager-data-platform-zoominfo-technologies-llc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zoominfo-technologies-llc-manager-data-platform",
     "slug": "manager-data-platform-zoominfo-technologies-llc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zoominfo-technologies-llc-manager-data-platform",
     "title": "Manager, Data Platform",
@@ -3511,60 +3622,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407529008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-success-manager-anthropic-uk-greenhouse-anthropic-5391102008",
-    "slug": "customer-success-manager-anthropic-uk-greenhouse-anthropic-5391102008",
-    "title": "Customer Success Manager",
-    "seo_title": "Remote Customer Success Manager Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in UK. Explore RAG, AWS, Sales, London, UK and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008",
-    "published_at": "2026-09-01",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Success Manager",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-01",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391102008"
     },
     "ai_relevant": true
   },
@@ -3849,60 +3906,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5391112008",
-    "slug": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5391112008",
-    "title": "Customer Success Manager",
-    "seo_title": "Remote Customer Success Manager Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in Worldwide. Explore RAG, AWS, Sales, Seoul, South Korea and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Seoul, South Korea",
-    "location_label": "Seoul, South Korea",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "Seoul, South Korea"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008",
-    "published_at": "2026-08-31",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Success Manager",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-31",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391112008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "slug": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "title": "AI Engineer Data APIs",
@@ -4120,62 +4123,6 @@
     "ai_relevant": true
   },
   {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer",
@@ -4231,6 +4178,62 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -4921,63 +4924,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-digital-natives-business-anthropic-uk-greenhouse-anthropic-5278230008",
-    "slug": "applied-ai-architect-digital-natives-business-anthropic-uk-greenhouse-anthropic-5278230008",
-    "title": "Applied AI Architect, Digital Natives Business",
-    "seo_title": "Remote Applied AI Architect, Digital Natives Business Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Digital Natives Business job at anthropic in UK. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Digital Natives Business",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-digital-natives-business-anthropic-germany-greenhouse-anthropic-5226862008",
     "slug": "applied-ai-architect-digital-natives-business-anthropic-germany-greenhouse-anthropic-5226862008",
     "title": "Applied AI Architect, Digital Natives Business",
@@ -5031,6 +4977,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-digital-natives-business-anthropic-uk-greenhouse-anthropic-5278230008",
+    "slug": "applied-ai-architect-digital-natives-business-anthropic-uk-greenhouse-anthropic-5278230008",
+    "title": "Applied AI Architect, Digital Natives Business",
+    "seo_title": "Remote Applied AI Architect, Digital Natives Business Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Digital Natives Business job at anthropic in UK. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Digital Natives Business",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5278230008"
     },
     "ai_relevant": true
   },
