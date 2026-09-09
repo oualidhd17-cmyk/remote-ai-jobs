@@ -35,6 +35,20 @@
     "jobs_count": 3
   },
   {
+    "name": "Platform.sh",
+    "slug": "platform-sh",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "JFrog",
     "slug": "jfrog",
     "logo_url": null,
@@ -91,13 +105,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "W Hotels",
     "slug": "w-hotels",
     "logo_url": null,
@@ -126,6 +133,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Everpure",
+    "slug": "everpure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Assignr LLC",
     "slug": "assignr-llc",
     "logo_url": null,
@@ -135,6 +149,13 @@
   {
     "name": "Squarespace",
     "slug": "squarespace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "NOPE",
+    "slug": "nope",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -189,13 +210,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Fin",
-    "slug": "fin",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Princeton University",
     "slug": "princeton-university",
     "logo_url": null,
@@ -203,8 +217,8 @@
     "jobs_count": 1
   },
   {
-    "name": "RSA Career",
-    "slug": "rsa-career",
+    "name": "Smartsheet",
+    "slug": "smartsheet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,6 +303,13 @@
   {
     "name": "E. Breuninger& Co.",
     "slug": "e-breuninger-co",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Nucs Ai",
+    "slug": "nucs-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
