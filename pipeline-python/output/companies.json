@@ -14,18 +14,11 @@
     "jobs_count": 8
   },
   {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Reddit",
     "slug": "reddit",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "IxDF - Interaction Design Foundation",
@@ -44,6 +37,13 @@
   {
     "name": "Salesloft",
     "slug": "salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -133,6 +133,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Koast.ai",
+    "slug": "koast-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Everpure",
     "slug": "everpure",
     "logo_url": null,
@@ -217,13 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Warehance",
     "slug": "warehance",
     "logo_url": null,
@@ -254,13 +261,6 @@
   {
     "name": "Benzinga",
     "slug": "benzinga",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Atreides",
-    "slug": "atreides",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,13 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Nucs Ai",
-    "slug": "nucs-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Ischool",
     "slug": "ischool",
     "logo_url": null,
@@ -357,8 +350,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Credit Wellness, LLC",
-    "slug": "credit-wellness-llc",
+    "name": "Zoom",
+    "slug": "zoom",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
