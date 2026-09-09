@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 56
+    "jobs_count": 57
   },
   {
     "name": "Lemon.io",
@@ -12,13 +12,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 8
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
   },
   {
     "name": "IxDF - Interaction Design Foundation",
@@ -72,6 +65,13 @@
   {
     "name": "Coinbase",
     "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
