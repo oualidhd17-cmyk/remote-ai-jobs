@@ -4,18 +4,11 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 55
+    "jobs_count": 56
   },
   {
     "name": "Lemon.io",
     "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 8
-  },
-  {
-    "name": "AI Supermarket",
-    "slug": "ai-supermarket",
     "logo_url": null,
     "website": null,
     "jobs_count": 8
@@ -138,6 +131,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Coaching.com",
+    "slug": "coaching-com",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Toptal",
@@ -336,13 +336,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Rowan",
-    "slug": "rowan",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Orca Bio",
     "slug": "orca-bio",
     "logo_url": null,
@@ -527,6 +520,55 @@
   {
     "name": "FindTutors",
     "slug": "findtutors",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PulseMediaNL",
+    "slug": "pulsemedianl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Grapefruit Health",
+    "slug": "grapefruit-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Resource Guru",
+    "slug": "resource-guru",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Berni and Mick Ireland",
+    "slug": "berni-and-mick-ireland",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "BMWL",
+    "slug": "bmwl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pacific Health Group",
+    "slug": "pacific-health-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "WestJet",
+    "slug": "westjet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
