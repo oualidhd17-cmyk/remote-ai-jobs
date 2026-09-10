@@ -70,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Veracode",
-    "slug": "veracode",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Legion",
     "slug": "legion",
     "logo_url": null,
@@ -168,6 +161,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Credit Wellness, LLC",
+    "slug": "credit-wellness-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Assignr LLC",
     "slug": "assignr-llc",
     "logo_url": null,
@@ -189,15 +189,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Fastly",
-    "slug": "fastly",
+    "name": "Veracode",
+    "slug": "veracode",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Ace Ventures",
-    "slug": "ace-ventures",
+    "name": "Fastly",
+    "slug": "fastly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -478,6 +478,13 @@
   {
     "name": "CoverGo",
     "slug": "covergo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Harney & Sons Fine Teas",
+    "slug": "harney-sons-fine-teas",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
