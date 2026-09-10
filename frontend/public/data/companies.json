@@ -11,7 +11,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 9
+    "jobs_count": 8
   },
   {
     "name": "AI Supermarket",
@@ -33,6 +33,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Wrike",
+    "slug": "wrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Platform.sh",
@@ -107,13 +114,6 @@
   {
     "name": "Discord",
     "slug": "discord",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Glean",
-    "slug": "glean",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -233,6 +233,13 @@
   {
     "name": "Prove",
     "slug": "prove",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Glean",
+    "slug": "glean",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -478,13 +485,6 @@
   {
     "name": "Zoom",
     "slug": "zoom",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Headway",
-    "slug": "headway",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
