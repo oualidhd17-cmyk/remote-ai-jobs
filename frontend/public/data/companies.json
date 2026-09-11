@@ -49,13 +49,6 @@
     "jobs_count": 2
   },
   {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "JFrog",
     "slug": "jfrog",
     "logo_url": null,
@@ -131,6 +124,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Fin",
+    "slug": "fin",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "TestGorilla",
@@ -224,13 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Track it Forward",
-    "slug": "track-it-forward",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Prove",
     "slug": "prove",
     "logo_url": null,
@@ -261,13 +261,6 @@
   {
     "name": "Grafana Labs",
     "slug": "grafana-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
