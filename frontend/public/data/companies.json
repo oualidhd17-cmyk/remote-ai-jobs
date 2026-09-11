@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 56
+    "jobs_count": 55
   },
   {
     "name": "Lemon.io",
@@ -133,6 +133,13 @@
     "jobs_count": 2
   },
   {
+    "name": "TestGorilla",
+    "slug": "testgorilla",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Coaching.com",
     "slug": "coaching-com",
     "logo_url": null,
@@ -184,13 +191,6 @@
   {
     "name": "NOPE",
     "slug": "nope",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Veracode",
-    "slug": "veracode",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -469,22 +469,8 @@
     "jobs_count": 1
   },
   {
-    "name": "CoverGo",
-    "slug": "covergo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Harney & Sons Fine Teas",
     "slug": "harney-sons-fine-teas",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Zoom",
-    "slug": "zoom",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -569,6 +555,13 @@
   {
     "name": "WestJet",
     "slug": "westjet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Lyric",
+    "slug": "lyric",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
