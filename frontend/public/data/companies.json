@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 56
+    "jobs_count": 37
   },
   {
     "name": "Lemon.io",
@@ -28,6 +28,20 @@
     "jobs_count": 3
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "TestGorilla",
+    "slug": "testgorilla",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Wrike",
     "slug": "wrike",
     "logo_url": null,
@@ -37,13 +51,6 @@
   {
     "name": "Platform.sh",
     "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Salesloft",
-    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,6 +126,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Harper",
+    "slug": "harper",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "GeoPro Labs Inc",
     "slug": "geopro-labs-inc",
     "logo_url": null,
@@ -140,22 +154,8 @@
     "jobs_count": 1
   },
   {
-    "name": "TestGorilla",
-    "slug": "testgorilla",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Coaching.com",
     "slug": "coaching-com",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -170,6 +170,13 @@
   {
     "name": "Everpure",
     "slug": "everpure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -441,6 +448,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Adaptive Teams",
     "slug": "adaptive-teams",
     "logo_url": null,
@@ -450,6 +464,13 @@
   {
     "name": "Evolve",
     "slug": "evolve",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -541,13 +562,6 @@
   {
     "name": "Pacific Health Group",
     "slug": "pacific-health-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "WestJet",
-    "slug": "westjet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
