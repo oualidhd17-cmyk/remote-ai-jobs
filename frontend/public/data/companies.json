@@ -56,13 +56,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Wrike",
-    "slug": "wrike",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Platform.sh",
     "slug": "platform-sh",
     "logo_url": null,
@@ -184,6 +177,13 @@
   {
     "name": "Coaching.com",
     "slug": "coaching-com",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wrike",
+    "slug": "wrike",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
