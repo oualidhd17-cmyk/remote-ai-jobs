@@ -391,6 +391,69 @@
     "ai_relevant": true
   },
   {
+    "id": "technical-product-lead-ai-finance-app-bjak-worldwide-remoteok-1137388",
+    "slug": "technical-product-lead-ai-finance-app-bjak-worldwide-remoteok-1137388",
+    "title": "Technical Product Lead AI Finance App",
+    "seo_title": "Remote Technical Product Lead AI Finance App Job | AI Product Jobs",
+    "seo_description": "Apply for a remote Technical Product Lead AI Finance App job at Bjak in Worldwide. Explore LLM, design, sys admin, infosec and remote AI jobs.",
+    "company": {
+      "name": "Bjak",
+      "slug": "bjak",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Seoul",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "design",
+      "sys admin",
+      "infosec",
+      "exec",
+      "technical",
+      "finance",
+      "ruby",
+      "mobile",
+      "ops",
+      "engineer",
+      "digital nomad"
+    ],
+    "category": "AI Product",
+    "description_summary": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137388",
+    "published_at": "2026-09-12",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Technical Product Lead AI Finance App",
+      "description": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance...",
+      "datePosted": "2026-09-12",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Bjak"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137388",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "software-engineer-mirantis-worldwide-remoteok-1137387",
     "slug": "software-engineer-mirantis-worldwide-remoteok-1137387",
     "title": "Software Engineer",
@@ -7311,79 +7374,6 @@
           "@type": "QuantitativeValue",
           "minValue": 170000,
           "maxValue": 200000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-data-engineer-lemon-io-worldwide-remoteok-1136594",
-    "slug": "senior-data-engineer-lemon-io-worldwide-remoteok-1136594",
-    "title": "Senior Data Engineer",
-    "seo_title": "Remote Senior Data Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Data Engineer job at Lemon.io in Worldwide. Explore Python, SQL, Machine Learning, LLM and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": 40000,
-    "salary_max": 180000,
-    "salary_currency": "USD",
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "LLM",
-      "MLOps",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Airflow",
-      "dev",
-      "engineer",
-      "full time"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-data-engineer-lemon-io-1136594",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1136594",
-    "published_at": "2026-08-13",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Data Engineer",
-      "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-      "datePosted": "2026-08-13",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1136594",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 40000,
-          "maxValue": 180000,
           "unitText": "YEAR"
         }
       }
