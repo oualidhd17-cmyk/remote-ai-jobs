@@ -14,6 +14,20 @@
     "jobs_count": 8
   },
   {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Interaction Design Foundation",
     "slug": "interaction-design-foundation",
     "logo_url": null,
@@ -26,6 +40,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Fastly",
+    "slug": "fastly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Everpure",
+    "slug": "everpure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Celonis",
@@ -63,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Salesloft",
-    "slug": "salesloft",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "JFrog",
     "slug": "jfrog",
     "logo_url": null,
@@ -77,22 +98,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Legion",
-    "slug": "legion",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Coinbase",
     "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -126,25 +133,11 @@
     "jobs_count": 2
   },
   {
-    "name": "Proxify AB",
-    "slug": "proxify-ab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "GROW10X",
     "slug": "grow10x",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
-  },
-  {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
   },
   {
     "name": "Harper",
@@ -182,15 +175,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Wrike",
-    "slug": "wrike",
+    "name": "Koast.ai",
+    "slug": "koast-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Koast.ai",
-    "slug": "koast-ai",
+    "name": "Salesloft",
+    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,13 +212,6 @@
   {
     "name": "NOPE",
     "slug": "nope",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Fastly",
-    "slug": "fastly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -499,6 +485,13 @@
   {
     "name": "Harney & Sons Fine Teas",
     "slug": "harney-sons-fine-teas",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Zoom",
+    "slug": "zoom",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
