@@ -391,6 +391,63 @@
     "ai_relevant": true
   },
   {
+    "id": "software-engineer-mirantis-worldwide-remoteok-1137387",
+    "slug": "software-engineer-mirantis-worldwide-remoteok-1137387",
+    "title": "Software Engineer",
+    "seo_title": "Remote Software Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Software Engineer job at Mirantis in Worldwide. Explore Machine Learning, Kubernetes, golang, dev and remote AI jobs.",
+    "company": {
+      "name": "Mirantis",
+      "slug": "mirantis",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "Kubernetes",
+      "golang",
+      "dev",
+      "engineer",
+      "digital nomad"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137387",
+    "published_at": "2026-09-12",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Software Engineer",
+      "description": "Remote - Mirantis, an IREN company, is the Kubernetes-native AI infrastructure company, enabling organizations to build and operate scalable, secure, and sovereign infrastructure for modern AI, machine learning, and data-intensive applications. By combining...",
+      "datePosted": "2026-09-12",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Mirantis"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137387",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "developer-relations-engineer-uk-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-developer-relations-engineer-uk",
     "slug": "developer-relations-engineer-uk-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-developer-relations-engineer-uk",
     "title": "Developer Relations Engineer - UK",
@@ -8487,73 +8544,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "freelance-creative-director-bmwl-usa-remoteok-1135901",
-    "slug": "freelance-creative-director-bmwl-usa-remoteok-1135901",
-    "title": "Freelance Creative Director",
-    "seo_title": "Remote Freelance Creative Director Job in USA | Robotics Jobs",
-    "seo_description": "Apply for a remote Freelance Creative Director job at BMWL in USA. Explore RAG, design, amazon, designer and remote AI jobs.",
-    "company": {
-      "name": "BMWL",
-      "slug": "bmwl",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "California, California, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "design",
-      "amazon",
-      "designer",
-      "customer support",
-      "video",
-      "exec",
-      "junior",
-      "marketing",
-      "ecommerce",
-      "digital nomad",
-      "art direction"
-    ],
-    "category": "Robotics",
-    "description_summary": "Freelance Creative Director BMWL (an Axiom Advisors Group company) â Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-freelance-creative-director-bmwl-1135901",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1135901",
-    "published_at": "2026-07-31",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Freelance Creative Director",
-      "description": "Freelance Creative Director BMWL (an Axiom Advisors Group company) â Remote / Contract About Us: BMWL is a dynamic political consulting and public affairs firm located in the heart of the Bay Area. We specialize in providing strategic communication,...",
-      "datePosted": "2026-07-31",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BMWL"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1135901",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
       }
     },
     "ai_relevant": true
