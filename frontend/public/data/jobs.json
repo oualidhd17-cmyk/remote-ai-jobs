@@ -1,5 +1,171 @@
 [
   {
+    "id": "director-enterprise-sales-datadog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-datadog-director-enterprise-sales",
+    "slug": "director-enterprise-sales-datadog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-datadog-director-enterprise-sales",
+    "title": "Director, Enterprise Sales",
+    "seo_title": "Remote Director, Enterprise Sales Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Director, Enterprise Sales job at Datadog in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
+    "company": {
+      "name": "Datadog",
+      "slug": "datadog",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Texas, USA, Remote Our Director, Enterprise Sales will provide strategy, mentorship, and guidance for a team of Enterprise Sales Executives who are responsible for driving new business through the full sales cycle. At Datadog, we place value in...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/datadog-director-enterprise-sales",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/datadog-director-enterprise-sales",
+    "published_at": "2026-09-14",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, Enterprise Sales",
+      "description": "Headquarters: Texas, USA, Remote Our Director, Enterprise Sales will provide strategy, mentorship, and guidance for a team of Enterprise Sales Executives who are responsible for driving new business through the full sales cycle. At Datadog, we place value in...",
+      "datePosted": "2026-09-14",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Datadog"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/datadog-director-enterprise-sales",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "backend-engineer-iam-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-backend-engineer-iam",
+    "slug": "backend-engineer-iam-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-backend-engineer-iam",
+    "title": "Backend Engineer, IAM",
+    "seo_title": "Remote Backend Engineer, IAM Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Backend Engineer, IAM job at Reddit in Worldwide. Explore RAG, Kubernetes, AWS, GCP and remote AI jobs.",
+    "company": {
+      "name": "Reddit",
+      "slug": "reddit",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+    "published_at": "2026-09-14",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Backend Engineer, IAM",
+      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
+      "datePosted": "2026-09-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Reddit"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "developer-advocate-service-management-datadog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-datadog-developer-advocate-service-management",
+    "slug": "developer-advocate-service-management-datadog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-datadog-developer-advocate-service-management",
+    "title": "Developer Advocate - Service Management",
+    "seo_title": "Remote Developer Advocate - Service Management Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Developer Advocate - Service Management job at Datadog in Worldwide. Explore Python, RAG, DevOps and Sysadmin, Remote and remote AI...",
+    "company": {
+      "name": "Datadog",
+      "slug": "datadog",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "RAG",
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: California, USA, Remote; New York, USA, Remote We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call,...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management",
+    "published_at": "2026-09-14",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Developer Advocate - Service Management",
+      "description": "Headquarters: California, USA, Remote; New York, USA, Remote We are a team of engineers that translate our real-world experience to help our user communities solve problems. With a focus on service management, helping teams respond to incidents, run on-call,...",
+      "datePosted": "2026-09-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Datadog"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/datadog-developer-advocate-service-management",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "data-scientist-ii-ml-infrastructure-pinterest-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pinterest-data-scientist-ii-ml-infrastructure",
     "slug": "data-scientist-ii-ml-infrastructure-pinterest-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pinterest-data-scientist-ii-ml-infrastructure",
     "title": "Data Scientist II, ML Infrastructure",
@@ -332,60 +498,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-federal",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "account-executive-cpg-celonis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-celonis-account-executive-cpg",
-    "slug": "account-executive-cpg-celonis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-celonis-account-executive-cpg",
-    "title": "Account Executive - CPG",
-    "seo_title": "Remote Account Executive - CPG Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Account Executive - CPG job at Celonis in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Celonis",
-      "slug": "celonis",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote, US, Georgia Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-cpg",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-cpg",
-    "published_at": "2026-09-12",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive - CPG",
-      "description": "Headquarters: Remote, US, Georgia Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI...",
-      "datePosted": "2026-09-12",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Celonis"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-cpg",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2218,63 +2330,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
-    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
-    "published_at": "2026-09-08",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-08",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
     "slug": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
     "title": "Applied AI Architect",
@@ -2328,6 +2383,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
+    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
+    "published_at": "2026-09-08",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-08",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
     },
     "ai_relevant": true
   },
@@ -4607,60 +4719,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "evergreen-sales-development-representative-huntress-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-huntress-evergreen-sales-development-represent",
-    "slug": "evergreen-sales-development-representative-huntress-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-huntress-evergreen-sales-development-represent",
-    "title": "Evergreen - Sales Development Representative",
-    "seo_title": "Remote Evergreen - Sales Development Representative Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Evergreen - Sales Development Representative job at Huntress in Worldwide. Explore RAG, DevOps and Sysadmin, Remote and remote AI jobs.",
-    "company": {
-      "name": "Huntress",
-      "slug": "huntress",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "DevOps and Sysadmin",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote Australia Reports to: Manager, Sales Development Location: Remote Australia Please note that this is an evergreen requisition and is intended to help us build a pipeline of talented Sales Development Representatives for future...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/huntress-evergreen-sales-development-representative",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/huntress-evergreen-sales-development-representative",
-    "published_at": "2026-08-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Evergreen - Sales Development Representative",
-      "description": "Headquarters: Remote Australia Reports to: Manager, Sales Development Location: Remote Australia Please note that this is an evergreen requisition and is intended to help us build a pipeline of talented Sales Development Representatives for future...",
-      "datePosted": "2026-08-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Huntress"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/huntress-evergreen-sales-development-representative",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -7732,59 +7790,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/harney-sons-fine-teas-associate-erp-operations-sap-business-one",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "solutions-consultant-zoom-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zoom-solutions-consultant",
-    "slug": "solutions-consultant-zoom-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zoom-solutions-consultant",
-    "title": "Solutions Consultant",
-    "seo_title": "Remote Solutions Consultant Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Solutions Consultant job at Zoom in Worldwide. Explore All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Zoom",
-      "slug": "zoom",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote URL: https://www.zoom.com/ What You Can Expect: Common Room is an AI platform that equips teams with agents powered by comprehensive buyer intelligence, consolidating signals into a dynamic, person-specific view. This enables teams to...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/zoom-solutions-consultant",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/zoom-solutions-consultant",
-    "published_at": "2026-08-10",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Solutions Consultant",
-      "description": "Headquarters: Remote URL: https://www.zoom.com/ What You Can Expect: Common Room is an AI platform that equips teams with agents powered by comprehensive buyer intelligence, consolidating signals into a dynamic, person-specific view. This enables teams to...",
-      "datePosted": "2026-08-10",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Zoom"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/zoom-solutions-consultant",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
