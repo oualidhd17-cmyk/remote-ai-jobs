@@ -166,6 +166,62 @@
     "ai_relevant": true
   },
   {
+    "id": "business-development-representative-anthropic-worldwide-greenhouse-anthropic-5396186008",
+    "slug": "business-development-representative-anthropic-worldwide-greenhouse-anthropic-5396186008",
+    "title": "Business Development Representative",
+    "seo_title": "Remote Business Development Representative Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Business Development Representative job at anthropic in Worldwide. Explore SQL, RAG, AWS, Sales and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "AWS",
+      "Sales",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5396186008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5396186008",
+    "published_at": "2026-09-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Development Representative",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396186008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "data-scientist-ii-ml-infrastructure-pinterest-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pinterest-data-scientist-ii-ml-infrastructure",
     "slug": "data-scientist-ii-ml-infrastructure-pinterest-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pinterest-data-scientist-ii-ml-infrastructure",
     "title": "Data Scientist II, ML Infrastructure",
@@ -498,6 +554,60 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-federal",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-cpg-celonis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-celonis-account-executive-cpg",
+    "slug": "account-executive-cpg-celonis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-celonis-account-executive-cpg",
+    "title": "Account Executive - CPG",
+    "seo_title": "Remote Account Executive - CPG Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Account Executive - CPG job at Celonis in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Celonis",
+      "slug": "celonis",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote, US, Georgia Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-cpg",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-cpg",
+    "published_at": "2026-09-12",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive - CPG",
+      "description": "Headquarters: Remote, US, Georgia Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI...",
+      "datePosted": "2026-09-12",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Celonis"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/celonis-account-executive-cpg",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -1733,60 +1843,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5388726008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-success-manager-beneficial-deployments-life-sciences-anthropic-worldwide-greenhouse-anthropic-5416026008",
-    "slug": "customer-success-manager-beneficial-deployments-life-sciences-anthropic-worldwide-greenhouse-anthropic-5416026008",
-    "title": "Customer Success Manager, Beneficial Deployments - Life Sciences",
-    "seo_title": "Remote Customer Success Manager, Beneficial Deployments - Life Sciences Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Success Manager, Beneficial Deployments - Life Sciences job at anthropic in Worldwide. Explore RAG, AWS, Sales, New York City,...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "New York City, NY"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5416026008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5416026008",
-    "published_at": "2026-09-09",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Success Manager, Beneficial Deployments - Life Sciences",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-09",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416026008"
     },
     "ai_relevant": true
   },
@@ -6039,61 +6095,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-manager-global-equity-faire-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-faire-senior-manager-global-equity",
-    "slug": "senior-manager-global-equity-faire-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-faire-senior-manager-global-equity",
-    "title": "Senior Manager, Global Equity",
-    "seo_title": "Remote Senior Manager, Global Equity Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Senior Manager, Global Equity job at Faire in Worldwide. Explore Machine Learning, RAG, Management and Finance, Remote and remote AI...",
-    "company": {
-      "name": "Faire",
-      "slug": "faire",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/faire-senior-manager-global-equity",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/faire-senior-manager-global-equity",
-    "published_at": "2026-08-24",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Manager, Global Equity",
-      "description": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically...",
-      "datePosted": "2026-08-24",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Faire"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/faire-senior-manager-global-equity",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
