@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 35
+    "jobs_count": 36
   },
   {
     "name": "Proxify AB",
@@ -18,7 +18,7 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
+    "jobs_count": 5
   },
   {
     "name": "Reddit",
@@ -133,6 +133,20 @@
     "jobs_count": 2
   },
   {
+    "name": "AccuLynx",
+    "slug": "acculynx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Algolia",
     "slug": "algolia",
     "logo_url": null,
@@ -156,13 +170,6 @@
   {
     "name": "ROK Financial",
     "slug": "rok-financial",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Celonis",
-    "slug": "celonis",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,13 +450,6 @@
   {
     "name": "garden3d",
     "slug": "garden3d",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mitre Media",
-    "slug": "mitre-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
