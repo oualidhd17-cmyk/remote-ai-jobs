@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 32
   },
   {
     "name": "Proxify AB",
@@ -72,13 +72,6 @@
   {
     "name": "Everpure",
     "slug": "everpure",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Storyblok",
-    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -191,6 +184,13 @@
   {
     "name": "Mirantis",
     "slug": "mirantis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -520,13 +520,6 @@
   {
     "name": "PulseMediaNL",
     "slug": "pulsemedianl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Grapefruit Health",
-    "slug": "grapefruit-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
