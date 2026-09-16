@@ -11,7 +11,7 @@
     "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
+    "jobs_count": 5
   },
   {
     "name": "Lemon.io",
@@ -23,13 +23,6 @@
   {
     "name": "PagerDuty",
     "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Salesloft",
-    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -63,15 +56,15 @@
     "jobs_count": 3
   },
   {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
+    "name": "Salesloft",
+    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Everpure",
-    "slug": "everpure",
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -98,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Discord",
-    "slug": "discord",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Databricks",
     "slug": "databricks",
     "logo_url": null,
@@ -117,6 +103,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Sticker Mule",
+    "slug": "sticker-mule",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "OpenBase LLC",
@@ -154,6 +147,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Mitre Media",
+    "slug": "mitre-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Sleek",
     "slug": "sleek",
     "logo_url": null,
@@ -177,6 +177,13 @@
   {
     "name": "Datadog",
     "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Everpure",
+    "slug": "everpure",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -275,6 +282,13 @@
   {
     "name": "Clover Health",
     "slug": "clover-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -413,15 +427,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Pivotal Health",
-    "slug": "pivotal-health",
+    "name": "Samsara",
+    "slug": "samsara",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "A.Team",
-    "slug": "a-team",
+    "name": "Pivotal Health",
+    "slug": "pivotal-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,13 +457,6 @@
   {
     "name": "FreedomPay",
     "slug": "freedompay",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "garden3d",
-    "slug": "garden3d",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
