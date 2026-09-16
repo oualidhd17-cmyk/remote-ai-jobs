@@ -1,10 +1,10 @@
 [
   {
-    "name": "anthropic",
+    "name": "Anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 32
+    "jobs_count": 33
   },
   {
     "name": "Proxify AB",
@@ -19,6 +19,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 5
+  },
+  {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Reddit",
@@ -49,22 +63,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Gusto, Inc.",
-    "slug": "gusto-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Datadog",
-    "slug": "datadog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Fastly",
-    "slug": "fastly",
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -93,13 +93,6 @@
   {
     "name": "Coinbase",
     "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Vonage",
-    "slug": "vonage",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -147,6 +140,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Gusto, Inc.",
+    "slug": "gusto-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Algolia",
     "slug": "algolia",
     "logo_url": null,
@@ -175,6 +175,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Datadog",
+    "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
@@ -184,13 +191,6 @@
   {
     "name": "Mirantis",
     "slug": "mirantis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Storyblok",
-    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -238,13 +238,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Salesloft",
-    "slug": "salesloft",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
     "logo_url": null,
@@ -273,6 +266,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Fastly",
+    "slug": "fastly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Clover Health",
     "slug": "clover-health",
     "logo_url": null,
@@ -280,8 +280,8 @@
     "jobs_count": 1
   },
   {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
+    "name": "Vonage",
+    "slug": "vonage",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,13 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Grafana Labs",
-    "slug": "grafana-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "CircleCI",
     "slug": "circleci",
     "logo_url": null,
@@ -329,8 +322,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Chime Financial, Inc",
-    "slug": "chime-financial-inc",
+    "name": "Huntress",
+    "slug": "huntress",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
