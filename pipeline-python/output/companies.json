@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 30
   },
   {
     "name": "Lemon.io",
@@ -16,13 +16,6 @@
   {
     "name": "PagerDuty",
     "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Proxify AB",
-    "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -65,6 +58,13 @@
   {
     "name": "LawnStarter",
     "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Proxify AB",
+    "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -513,13 +513,6 @@
   {
     "name": "FindTutors",
     "slug": "findtutors",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PulseMediaNL",
-    "slug": "pulsemedianl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
