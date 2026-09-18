@@ -49,6 +49,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
     "logo_url": null,
@@ -91,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Platform.sh",
-    "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "JFrog",
     "slug": "jfrog",
     "logo_url": null,
@@ -110,6 +110,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Cloudflare",
+    "slug": "cloudflare",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "A.Team",
@@ -189,13 +196,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Everpure",
-    "slug": "everpure",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
@@ -231,13 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Fin",
-    "slug": "fin",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "TestGorilla",
     "slug": "testgorilla",
     "logo_url": null,
@@ -247,6 +240,13 @@
   {
     "name": "Coaching.com",
     "slug": "coaching-com",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Platform.sh",
+    "slug": "platform-sh",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -4,7 +4,7 @@
   "published_count": 127,
   "ai_relevant_count": 186,
   "remote_count": 104,
-  "visa_count": 36,
+  "visa_count": 35,
   "salary_count": 12,
   "status_counts": {
     "rejected": 69,
@@ -20,18 +20,18 @@
   },
   "category_counts": {
     "AI Engineering": 61,
-    "MLOps": 12,
+    "MLOps": 11,
+    "Data Science": 23,
     "Robotics": 17,
-    "Data Science": 22,
     "Machine Learning": 5,
     "AI Product": 1,
     "NLP": 9
   },
   "country_counts": {
+    "USA": 13,
     "Worldwide": 100,
     "Germany": 2,
     "UK": 5,
-    "USA": 13,
     "Australia": 3,
     "Singapore": 1,
     "Ireland": 1,
