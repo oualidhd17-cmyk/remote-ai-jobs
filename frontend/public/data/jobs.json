@@ -1642,6 +1642,60 @@
     "ai_relevant": true
   },
   {
+    "id": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
+    "slug": "customer-success-manager-anthropic-worldwide-greenhouse-anthropic-5387027008",
+    "title": "Customer Success Manager",
+    "seo_title": "Remote Customer Success Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Customer Success Manager job at anthropic in Worldwide. Explore RAG, AWS, Sales, Tokyo, Japan and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Tokyo, Japan",
+    "location_label": "Tokyo, Japan",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "Tokyo, Japan"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008",
+    "published_at": "2026-09-15",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Success Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-15",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387027008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
     "slug": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
     "title": "Tech Lead Full-Stack Rails Engineer",
@@ -3278,60 +3332,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-support-specialist-assignr-llc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-assignr-llc-customer-support-specialist-2",
-    "slug": "customer-support-specialist-assignr-llc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-assignr-llc-customer-support-specialist-2",
-    "title": "Customer Support Specialist",
-    "seo_title": "Remote Customer Support Specialist Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Support Specialist job at Assignr LLC in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Assignr LLC",
-      "slug": "assignr-llc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Rochester, New York URL: https://www.assignr.com Come Join Our Team! We strive to provide outstanding support to our customers, and we are looking for a team member to help us out. Most of our customer support is provided via email and Intercom...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/assignr-llc-customer-support-specialist-2",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/assignr-llc-customer-support-specialist-2",
-    "published_at": "2026-09-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Support Specialist",
-      "description": "Headquarters: Rochester, New York URL: https://www.assignr.com Come Join Our Team! We strive to provide outstanding support to our customers, and we are looking for a team member to help us out. Most of our customer support is provided via email and Intercom...",
-      "datePosted": "2026-09-08",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Assignr LLC"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/assignr-llc-customer-support-specialist-2",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-professional-services-devops-engineer-jfrog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jfrog-senior-professional-services-devops-engin",
     "slug": "senior-professional-services-devops-engineer-jfrog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jfrog-senior-professional-services-devops-engin",
     "title": "Senior Professional Services DevOps Engineer",
@@ -3519,63 +3519,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
-    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
-    "published_at": "2026-09-08",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-08",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
     "slug": "applied-ai-architect-anthropic-singapore-greenhouse-anthropic-5390742008",
     "title": "Applied AI Architect",
@@ -3629,6 +3572,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390742008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
+    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5117589008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008",
+    "published_at": "2026-09-08",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-08",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5117589008"
     },
     "ai_relevant": true
   },
@@ -4232,7 +4232,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii",
     "published_at": "2026-09-03",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4285,7 +4285,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137302",
     "published_at": "2026-09-03",
     "expires_at": null,
-    "quality_score": 80,
+    "quality_score": 70,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -4310,60 +4310,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "aws-gtm-partnership-lead-public-sector-nonprofits-anthropic-worldwide-greenhouse-anthropic-5391227008",
-    "slug": "aws-gtm-partnership-lead-public-sector-nonprofits-anthropic-worldwide-greenhouse-anthropic-5391227008",
-    "title": "AWS GTM Partnership Lead, Public Sector & Nonprofits",
-    "seo_title": "Remote AWS GTM Partnership Lead, Public Sector & Nonprofits Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AWS GTM Partnership Lead, Public Sector & Nonprofits job at anthropic in Worldwide. Explore RAG, AWS, Sales, San Francisco, CA and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Washington, DC",
-    "location_label": "Washington, DC",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391227008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391227008",
-    "published_at": "2026-09-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AWS GTM Partnership Lead, Public Sector & Nonprofits",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391227008"
     },
     "ai_relevant": true
   },
@@ -7520,67 +7466,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1136216",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "student-success-coach-findtutors-uk-remoteok-1136086",
-    "slug": "student-success-coach-findtutors-uk-remoteok-1136086",
-    "title": "Student Success Coach",
-    "seo_title": "Remote Student Success Coach Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Student Success Coach job at FindTutors in UK. Explore RAG, teaching, customer support, marketing and remote AI jobs.",
-    "company": {
-      "name": "FindTutors",
-      "slug": "findtutors",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, London, England, United Kingdom",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "teaching",
-      "customer support",
-      "marketing",
-      "education",
-      "exec"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "FindTutors is one of the leading online education platforms in the UK, connecting students with tutors and mentors who support both academic achievement and personal development. We help learners at all stages of education build confidence, improve...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-student-success-coach-findtutors-1136086",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1136086",
-    "published_at": "2026-08-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Student Success Coach",
-      "description": "FindTutors is one of the leading online education platforms in the UK, connecting students with tutors and mentors who support both academic achievement and personal development. We help learners at all stages of education build confidence, improve...",
-      "datePosted": "2026-08-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "FindTutors"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1136086",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
-      }
     },
     "ai_relevant": true
   }
