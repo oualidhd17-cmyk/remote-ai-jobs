@@ -14,15 +14,15 @@
     "jobs_count": 7
   },
   {
-    "name": "Salesloft",
-    "slug": "salesloft",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Reddit",
     "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -289,20 +289,6 @@
   {
     "name": "Fastly",
     "slug": "fastly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Clover Health",
-    "slug": "clover-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
