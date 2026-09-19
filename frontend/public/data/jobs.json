@@ -1,5 +1,229 @@
 [
   {
+    "id": "cloud-security-engineer-hex-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hex-technologies-cloud-security-engineer",
+    "slug": "cloud-security-engineer-hex-technologies-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hex-technologies-cloud-security-engineer",
+    "title": "Cloud Security Engineer",
+    "seo_title": "Remote Cloud Security Engineer Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Cloud Security Engineer job at Hex Technologies in Worldwide. Explore Python, RAG, Kubernetes, AWS and remote AI jobs.",
+    "company": {
+      "name": "Hex Technologies",
+      "slug": "hex-technologies",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "RAG",
+      "Kubernetes",
+      "AWS",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: SF, NYC, or Remote (US) About the role We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+    "published_at": "2026-09-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Cloud Security Engineer",
+      "description": "Headquarters: SF, NYC, or Remote (US) About the role We are looking for an experienced Cloud Security Engineer to join Hex’s security team. You will be responsible for ensuring the security and resilience of our cloud infrastructure, providing leadership in...",
+      "datePosted": "2026-09-19",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Hex Technologies"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/hex-technologies-cloud-security-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "software-engineer-circleci-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-circleci-software-engineer",
+    "slug": "software-engineer-circleci-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-circleci-software-engineer",
+    "title": "Software Engineer",
+    "seo_title": "Remote Software Engineer Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Software Engineer job at CircleCI in Worldwide. Explore RAG, DevOps and Sysadmin, Remote and remote AI jobs.",
+    "company": {
+      "name": "CircleCI",
+      "slug": "circleci",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+    "published_at": "2026-09-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Software Engineer",
+      "description": "Headquarters: Ontario, Canada (Remote) About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use...",
+      "datePosted": "2026-09-19",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "CircleCI"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/circleci-software-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-manager-l4-wrike-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-wrike-account-manager-l4",
+    "slug": "account-manager-l4-wrike-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-wrike-account-manager-l4",
+    "title": "Account Manager L4",
+    "seo_title": "Remote Account Manager L4 Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Account Manager L4 job at Wrike in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "Wrike",
+      "slug": "wrike",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/wrike-account-manager-l4",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/wrike-account-manager-l4",
+    "published_at": "2026-09-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Manager L4",
+      "description": "Headquarters: US - Remote Wrike is the most powerful work management platform. Built for teams and organizations looking to collaborate, create, and exceed every day, Wrike brings everyone and all work into a single place to remove complexity, increase...",
+      "datePosted": "2026-09-19",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Wrike"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/wrike-account-manager-l4",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "security-operations-engineer-circleci-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-circleci-security-operations-engineer",
+    "slug": "security-operations-engineer-circleci-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-circleci-security-operations-engineer",
+    "title": "Security Operations Engineer",
+    "seo_title": "Remote Security Operations Engineer Job | NLP Jobs",
+    "seo_description": "Apply for a remote Security Operations Engineer job at CircleCI in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "CircleCI",
+      "slug": "circleci",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "GCP",
+      "Azure",
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "NLP",
+    "description_summary": "Headquarters: Ontario, Canada (Remote) Security Operations Engineer About the Team The Security Operations team plays a critical role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape. From incident...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
+    "published_at": "2026-09-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Security Operations Engineer",
+      "description": "Headquarters: Ontario, Canada (Remote) Security Operations Engineer About the Team The Security Operations team plays a critical role in protecting CircleCI’s infrastructure, product, and customer data against an evolving threat landscape. From incident...",
+      "datePosted": "2026-09-19",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "CircleCI"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/circleci-security-operations-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-fellows-program-ai-safety-security-anthropic-usa-greenhouse-anthropic-5183044008",
     "slug": "anthropic-fellows-program-ai-safety-security-anthropic-usa-greenhouse-anthropic-5183044008",
     "title": "Anthropic Fellows Program, AI Safety & Security",
@@ -992,64 +1216,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-fellows-program-ai-safety-security-anthropic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-anthropic-anthropic-fellows-program-ai-safe",
-    "slug": "anthropic-fellows-program-ai-safety-security-anthropic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-anthropic-anthropic-fellows-program-ai-safe",
-    "title": "Anthropic Fellows Program, AI Safety & Security",
-    "seo_title": "Remote Anthropic Fellows Program, AI Safety & Security Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Fellows Program, AI Safety & Security job at Anthropic in Worldwide. Explore Python, Deep Learning, LLM, RAG and remote AI...",
-    "company": {
-      "name": "Anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Deep Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-fellows-program-ai-safety-security",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-fellows-program-ai-safety-security",
-    "published_at": "2026-09-16",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Fellows Program, AI Safety & Security",
-      "description": "Headquarters: London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as...",
-      "datePosted": "2026-09-16",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Anthropic"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/anthropic-anthropic-fellows-program-ai-safety-security",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -2202,69 +2368,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-experience-representative-prop-firm-match-global-a-fzco-worldwide-remoteok-1137390",
-    "slug": "customer-experience-representative-prop-firm-match-global-a-fzco-worldwide-remoteok-1137390",
-    "title": "Customer Experience Representative",
-    "seo_title": "Remote Customer Experience Representative Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Customer Experience Representative job at Prop Firm Match Global â FZCO in Worldwide. Explore RAG, saas, hr, education and remote AI...",
-    "company": {
-      "name": "Prop Firm Match Global â FZCO",
-      "slug": "prop-firm-match-global-a-fzco",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "saas",
-      "hr",
-      "education",
-      "technical",
-      "customer support",
-      "video",
-      "finance",
-      "exec",
-      "ops",
-      "excel",
-      "full time"
-    ],
-    "category": "Robotics",
-    "description_summary": "About PFM Prop Firm Match Global FZCO is a leading platform for discovering, comparing, and selecting top proprietary trading firms. We provide traders with tools and features to easily compare challenge details, read verified reviews, see accurate payout...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-experience-representative-prop-firm-match-global-fzco-1137390",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137390",
-    "published_at": "2026-09-14",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Experience Representative",
-      "description": "About PFM Prop Firm Match Global FZCO is a leading platform for discovering, comparing, and selecting top proprietary trading firms. We provide traders with tools and features to easily compare challenge details, read verified reviews, see accurate payout...",
-      "datePosted": "2026-09-14",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Prop Firm Match Global â FZCO"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137390",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-loan-broker-rok-financial-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-rok-financial-commercial-loan-broker",
     "slug": "commercial-loan-broker-rok-financial-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-rok-financial-commercial-loan-broker",
     "title": "Commercial Loan Broker",
@@ -2431,61 +2534,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-engineer-enterprise-anthropic-germany-greenhouse-anthropic-5390795008",
-    "slug": "applied-ai-engineer-enterprise-anthropic-germany-greenhouse-anthropic-5390795008",
-    "title": "Applied AI Engineer, Enterprise",
-    "seo_title": "Remote Applied AI Engineer, Enterprise Job in Germany | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Engineer, Enterprise job at anthropic in Germany. Explore LLM, RAG, AWS, Applied AI and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Germany",
-    "city": null,
-    "location": "Munich, Germany",
-    "location_label": "Munich, Germany",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Munich, Germany"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
-    "published_at": "2026-09-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Engineer, Enterprise",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-14",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
     "slug": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
     "title": "Applied AI Engineer, Enterprise",
@@ -2537,6 +2585,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-engineer-enterprise-anthropic-germany-greenhouse-anthropic-5390795008",
+    "slug": "applied-ai-engineer-enterprise-anthropic-germany-greenhouse-anthropic-5390795008",
+    "title": "Applied AI Engineer, Enterprise",
+    "seo_title": "Remote Applied AI Engineer, Enterprise Job in Germany | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Engineer, Enterprise job at anthropic in Germany. Explore LLM, RAG, AWS, Applied AI and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Germany",
+    "city": null,
+    "location": "Munich, Germany",
+    "location_label": "Munich, Germany",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Munich, Germany"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008",
+    "published_at": "2026-09-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Engineer, Enterprise",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008"
     },
     "ai_relevant": true
   },
@@ -2597,62 +2700,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-ml-infrastructure",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "data-scientist-ii-infrastructure-pinterest-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pinterest-data-scientist-ii-infrastructure",
-    "slug": "data-scientist-ii-infrastructure-pinterest-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pinterest-data-scientist-ii-infrastructure",
-    "title": "Data Scientist II, Infrastructure",
-    "seo_title": "Remote Data Scientist II, Infrastructure Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Data Scientist II, Infrastructure job at Pinterest in Worldwide. Explore SQL, AWS, Statistics, Full-Stack Programming and remote AI...",
-    "company": {
-      "name": "Pinterest",
-      "slug": "pinterest",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "AWS",
-      "Statistics",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: San Francisco, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure",
-    "published_at": "2026-09-13",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Data Scientist II, Infrastructure",
-      "description": "Headquarters: San Francisco, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission...",
-      "datePosted": "2026-09-13",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Pinterest"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-data-scientist-ii-infrastructure",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -4343,60 +4390,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-software-engineer-circleci-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-circleci-senior-software-engineer",
-    "slug": "senior-software-engineer-circleci-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-circleci-senior-software-engineer",
-    "title": "Senior Software Engineer",
-    "seo_title": "Remote Senior Software Engineer Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Software Engineer job at CircleCI in Worldwide. Explore RAG, DevOps and Sysadmin, Remote and remote AI jobs.",
-    "company": {
-      "name": "CircleCI",
-      "slug": "circleci",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "DevOps and Sysadmin",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
-    "published_at": "2026-08-31",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Software Engineer",
-      "description": "Headquarters: Remote, Ontario, Canada About CircleCI Engineering CI/CD has been solved. Now it's being reinvented. AI agents don't just run pipelines. They write code, trigger builds, interpret failures, and propose fixes. The interfaces that developers use...",
-      "datePosted": "2026-08-31",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "CircleCI"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/circleci-senior-software-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "slug": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "title": "AI Engineer Data APIs",
@@ -4446,60 +4439,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137224",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "manager-security-operations-center-emea-huntress-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-huntress-manager-security-operations-center-emea",
-    "slug": "manager-security-operations-center-emea-huntress-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-huntress-manager-security-operations-center-emea",
-    "title": "Manager, Security Operations Center - EMEA",
-    "seo_title": "Remote Manager, Security Operations Center - EMEA Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Manager, Security Operations Center - EMEA job at Huntress in Worldwide. Explore RAG, DevOps and Sysadmin, Remote and remote AI jobs.",
-    "company": {
-      "name": "Huntress",
-      "slug": "huntress",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "DevOps and Sysadmin",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote Ireland Reports to: Director, Security Operations Center Location: Remote Ireland Compensation Range: €115,200 to €133,000 base plus bonus and equity What We Do: Cybercrime is growing, and more businesses are getting hit by threats that...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
-    "published_at": "2026-08-30",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Manager, Security Operations Center - EMEA",
-      "description": "Headquarters: Remote Ireland Reports to: Director, Security Operations Center Location: Remote Ireland Compensation Range: €115,200 to €133,000 base plus bonus and equity What We Do: Cybercrime is growing, and more businesses are getting hit by threats that...",
-      "datePosted": "2026-08-30",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Huntress"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/huntress-manager-security-operations-center-emea",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -4560,62 +4499,6 @@
     "ai_relevant": true
   },
   {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer",
@@ -4671,6 +4554,62 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -7169,60 +7108,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "group-product-manager-finance-technology-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-group-product-manager-finance-technology",
-    "slug": "group-product-manager-finance-technology-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-group-product-manager-finance-technology",
-    "title": "Group Product Manager, Finance Technology",
-    "seo_title": "Remote Group Product Manager, Finance Technology Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Group Product Manager, Finance Technology job at Reddit in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
-    "company": {
-      "name": "Reddit",
-      "slug": "reddit",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Product",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote URL: https://redditinc.com/ Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-group-product-manager-finance-technology",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/reddit-group-product-manager-finance-technology",
-    "published_at": "2026-08-07",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Group Product Manager, Finance Technology",
-      "description": "Headquarters: Remote URL: https://redditinc.com/ Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and...",
-      "datePosted": "2026-08-07",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Reddit"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/reddit-group-product-manager-finance-technology",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },

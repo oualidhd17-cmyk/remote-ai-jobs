@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 29
   },
   {
     "name": "Lemon.io",
@@ -14,13 +14,6 @@
     "jobs_count": 6
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Salesloft",
     "slug": "salesloft",
     "logo_url": null,
@@ -28,8 +21,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Pinterest",
-    "slug": "pinterest",
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -47,6 +40,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "CircleCI",
+    "slug": "circleci",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "LawnStarter",
@@ -98,6 +98,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "JFrog",
     "slug": "jfrog",
     "logo_url": null,
@@ -110,6 +117,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Hex Technologies",
+    "slug": "hex-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wrike",
+    "slug": "wrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Sanctuary Computer",
@@ -177,13 +198,6 @@
   {
     "name": "Sleek",
     "slug": "sleek",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Prop Firm Match Global â FZCO",
-    "slug": "prop-firm-match-global-a-fzco",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -315,22 +329,8 @@
     "jobs_count": 1
   },
   {
-    "name": "CircleCI",
-    "slug": "circleci",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Benzinga",
     "slug": "benzinga",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Huntress",
-    "slug": "huntress",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
