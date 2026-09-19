@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 31
+    "jobs_count": 30
   },
   {
     "name": "Lemon.io",
@@ -14,15 +14,15 @@
     "jobs_count": 6
   },
   {
-    "name": "Salesloft",
-    "slug": "salesloft",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Reddit",
     "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -47,6 +47,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Collibra",
@@ -84,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Proxify AB",
     "slug": "proxify-ab",
     "logo_url": null,
@@ -105,8 +105,8 @@
     "jobs_count": 2
   },
   {
-    "name": "GROW10X",
-    "slug": "grow10x",
+    "name": "Databricks",
+    "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -343,13 +343,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Transportation Partners & Logistics",
     "slug": "transportation-partners-logistics",
     "logo_url": null,
@@ -385,8 +378,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Ischool",
-    "slug": "ischool",
+    "name": "6sense",
+    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -476,6 +469,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Webflow",
+    "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "DoiT",
     "slug": "doit",
     "logo_url": null,
@@ -485,27 +485,6 @@
   {
     "name": "Tremendous",
     "slug": "tremendous",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "SEAhub Asia",
-    "slug": "seahub-asia",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Enable Dental",
-    "slug": "enable-dental",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Arabian Private Holdings",
-    "slug": "arabian-private-holdings",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
