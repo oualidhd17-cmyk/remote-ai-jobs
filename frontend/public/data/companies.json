@@ -4,14 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
+    "jobs_count": 30
   },
   {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
+    "jobs_count": 7
   },
   {
     "name": "Salesloft",
@@ -44,6 +44,13 @@
   {
     "name": "CircleCI",
     "slug": "circleci",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Sanctuary Computer",
+    "slug": "sanctuary-computer",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -128,13 +135,6 @@
   {
     "name": "Wrike",
     "slug": "wrike",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sanctuary Computer",
-    "slug": "sanctuary-computer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
