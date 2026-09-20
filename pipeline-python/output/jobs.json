@@ -819,6 +819,156 @@
     "ai_relevant": true
   },
   {
+    "id": "frontend-web-application-developer-kobotoolbox-usa-remotive-2091141",
+    "slug": "frontend-web-application-developer-kobotoolbox-usa-remotive-2091141",
+    "title": "Frontend Web Application Developer",
+    "seo_title": "Remote Frontend Web Application Developer Job in USA | MLOps Jobs",
+    "seo_description": "Apply for a remote Frontend Web Application Developer job at KoboToolbox in USA. Explore Python, LLM, RAG, Docker and remote AI jobs.",
+    "company": {
+      "name": "KoboToolbox",
+      "slug": "kobotoolbox",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "USA, Canada, Argentina, Mexico, Peru",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 105000,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Docker",
+      "api",
+      "django",
+      "frontend",
+      "git",
+      "react",
+      "security",
+      "video",
+      "AI/ML"
+    ],
+    "category": "MLOps",
+    "description_summary": "Location: Remote Availability: 35-40 hours per week Working hours: US East business hours Reporting to: Lead developer KoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per...",
+    "apply_url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+    "published_at": "2026-09-18",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Frontend Web Application Developer",
+      "description": "Location: Remote Availability: 35-40 hours per week Working hours: US East business hours Reporting to: Lead developer KoboToolbox has an immediate opening for a Frontend Web Application Developer to fill a full-time position of approximately 35-40 hours per...",
+      "datePosted": "2026-09-18",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "KoboToolbox"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 105000,
+          "maxValue": null,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-shopify-developer-sanctuary-computer-inc-worldwide-remotive-2091140",
+    "slug": "senior-shopify-developer-sanctuary-computer-inc-worldwide-remotive-2091140",
+    "title": "Senior Shopify Developer",
+    "seo_title": "Remote Senior Shopify Developer Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Senior Shopify Developer job at Sanctuary Computer Inc in Worldwide. Explore SQL, RAG, admin, api and remote AI jobs.",
+    "company": {
+      "name": "Sanctuary Computer Inc",
+      "slug": "sanctuary-computer-inc",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Worldwide",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 150000,
+    "salary_max": null,
+    "salary_currency": "USD",
+    "skills": [
+      "SQL",
+      "RAG",
+      "admin",
+      "api",
+      "backend",
+      "CSS",
+      "frontend",
+      "fullstack",
+      "graphql",
+      "node.js",
+      "postgresql",
+      "redux"
+    ],
+    "category": "Robotics",
+    "description_summary": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here 🌎 About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT...",
+    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+    "published_at": "2026-09-18",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Shopify Developer",
+      "description": "We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original Job posting link here 🌎 About garden3d We are worker owned creative collective, innovating on everything from brands and IRL communities to IoT...",
+      "datePosted": "2026-09-18",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Sanctuary Computer Inc"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 150000,
+          "maxValue": null,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-fellows-program-ai-safety-security-anthropic-usa-greenhouse-anthropic-5183044008",
     "slug": "anthropic-fellows-program-ai-safety-security-anthropic-usa-greenhouse-anthropic-5183044008",
     "title": "Anthropic Fellows Program, AI Safety & Security",
@@ -875,6 +1025,127 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-hey-contact-heroes-gmbh-worldwide-remotive-2091139",
+    "slug": "kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-hey-contact-heroes-gmbh-worldwide-remotive-2091139",
+    "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
+    "seo_title": "Remote 🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland) Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote 🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland) job at hey contact heroes GmbH in Worldwide. Explore...",
+    "company": {
+      "name": "hey contact heroes GmbH",
+      "slug": "hey-contact-heroes-gmbh",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Europe",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Customer Service",
+      "freelance"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen...",
+    "apply_url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
+    "published_at": "2026-09-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
+      "description": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen...",
+      "datePosted": "2026-09-18",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "hey contact heroes GmbH"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-ai-engineer-lemon-io-usa-remotive-2091131",
+    "slug": "senior-ai-engineer-lemon-io-usa-remotive-2091131",
+    "title": "Senior AI Engineer",
+    "seo_title": "Remote Senior AI Engineer Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior AI Engineer job at Lemon.io in USA. Explore Python, Machine Learning, LLM, LangChain and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Northern America, LATAM, Europe, APAC",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "LangChain",
+      "OpenAI",
+      "RAG",
+      "MLOps",
+      ".Net",
+      "android",
+      "C",
+      "C#",
+      "C++"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
+    "apply_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+    "published_at": "2026-09-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior AI Engineer",
+      "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
+      "datePosted": "2026-09-18",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
       "jobLocationType": "TELECOMMUTE",
       "applicantLocationRequirements": {
         "@type": "Country",
@@ -6386,73 +6657,6 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/software-development/senior-golang-developer-2091098",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-data-engineer-lemon-io-usa-remotive-2091097",
-    "slug": "senior-data-engineer-lemon-io-usa-remotive-2091097",
-    "title": "Senior Data Engineer",
-    "seo_title": "Remote Senior Data Engineer Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Data Engineer job at Lemon.io in USA. Explore Python, SQL, Machine Learning, LLM and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "LATAM, Europe, USA, Canada, APAC",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "LLM",
-      "MLOps",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Airflow",
-      ".Net",
-      "android",
-      "apache"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-    "published_at": "2026-08-19",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Data Engineer",
-      "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
-      "datePosted": "2026-08-19",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
       "jobLocationType": "TELECOMMUTE",
       "applicantLocationRequirements": {
         "@type": "Country",
