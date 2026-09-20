@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 29
   },
   {
     "name": "Lemon.io",
@@ -40,6 +40,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Datadog",
+    "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "CircleCI",
@@ -133,6 +154,13 @@
     "jobs_count": 2
   },
   {
+    "name": "KPI Solutions",
+    "slug": "kpi-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "JumpCloud",
     "slug": "jumpcloud",
     "logo_url": null,
@@ -189,13 +217,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Gusto, Inc.",
-    "slug": "gusto-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Algolia",
     "slug": "algolia",
     "logo_url": null,
@@ -212,20 +233,6 @@
   {
     "name": "Sleek",
     "slug": "sleek",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ROK Financial",
-    "slug": "rok-financial",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Datadog",
-    "slug": "datadog",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -303,13 +310,6 @@
   {
     "name": "Fastly",
     "slug": "fastly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Discord",
-    "slug": "discord",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
