@@ -4,14 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
+    "jobs_count": 30
   },
   {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 6
   },
   {
     "name": "Reddit",
@@ -40,6 +40,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Huntress",
+    "slug": "huntress",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Sezzle",
@@ -133,25 +140,18 @@
     "jobs_count": 2
   },
   {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "JFrog",
-    "slug": "jfrog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Databricks",
     "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "EBANX",
+    "slug": "ebanx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Airspace Link",
@@ -280,6 +280,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Pinterest",
+    "slug": "pinterest",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Harper",
     "slug": "harper",
     "logo_url": null,
@@ -329,15 +336,15 @@
     "jobs_count": 1
   },
   {
-    "name": "NOPE",
-    "slug": "nope",
+    "name": "JFrog",
+    "slug": "jfrog",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Fastly",
-    "slug": "fastly",
+    "name": "NOPE",
+    "slug": "nope",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -394,13 +401,6 @@
   {
     "name": "Orca Bio",
     "slug": "orca-bio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
