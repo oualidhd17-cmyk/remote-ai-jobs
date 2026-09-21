@@ -275,6 +275,62 @@
     "ai_relevant": true
   },
   {
+    "id": "backend-software-engineer-airspace-link-worldwide-remoteok-1137409",
+    "slug": "backend-software-engineer-airspace-link-worldwide-remoteok-1137409",
+    "title": "Backend Software Engineer",
+    "seo_title": "Remote Backend Software Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Backend Software Engineer job at Airspace Link in Worldwide. Explore golang, dev, engineer, backend and remote AI jobs.",
+    "company": {
+      "name": "Airspace Link",
+      "slug": "airspace-link",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "golang",
+      "dev",
+      "engineer",
+      "backend",
+      "digital nomad"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137409",
+    "published_at": "2026-09-19",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Backend Software Engineer",
+      "description": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with...",
+      "datePosted": "2026-09-19",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Airspace Link"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137409",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "software-deployment-engineer-kpi-solutions-worldwide-remoteok-1137408",
     "slug": "software-deployment-engineer-kpi-solutions-worldwide-remoteok-1137408",
     "title": "Software Deployment Engineer",
@@ -4857,7 +4913,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/reddit-director-intellectual-property",
     "published_at": "2026-09-06",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
