@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 34
+    "jobs_count": 33
   },
   {
     "name": "Lemon.io",
@@ -133,8 +133,22 @@
     "jobs_count": 2
   },
   {
+    "name": "C4Media Inc.",
+    "slug": "c4media-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Gusto, Inc.",
     "slug": "gusto-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ashby",
+    "slug": "ashby",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -394,6 +408,13 @@
   {
     "name": "Orca Bio",
     "slug": "orca-bio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "6sense",
+    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
