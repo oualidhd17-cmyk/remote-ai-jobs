@@ -1,10 +1,10 @@
 [
   {
-    "name": "anthropic",
+    "name": "Anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 33
   },
   {
     "name": "Lemon.io",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 6
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Salesloft",
@@ -56,13 +63,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Legion",
-    "slug": "legion",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Datadog",
     "slug": "datadog",
     "logo_url": null,
@@ -86,13 +86,6 @@
   {
     "name": "Sanctuary Computer",
     "slug": "sanctuary-computer",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -126,13 +119,6 @@
     "jobs_count": 2
   },
   {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Proxify AB",
     "slug": "proxify-ab",
     "logo_url": null,
@@ -145,6 +131,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Gusto, Inc.",
+    "slug": "gusto-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "EBANX",
@@ -219,6 +212,13 @@
   {
     "name": "A.Team",
     "slug": "a-team",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -387,13 +387,6 @@
   {
     "name": "Salesforge",
     "slug": "salesforge",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "GitLab",
-    "slug": "gitlab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
