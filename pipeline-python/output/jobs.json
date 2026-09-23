@@ -1,5 +1,59 @@
 [
   {
+    "id": "us-remote-technical-support-advisor-vxi-global-solutions-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vxi-global-solutions-us-remote-technical",
+    "slug": "us-remote-technical-support-advisor-vxi-global-solutions-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vxi-global-solutions-us-remote-technical",
+    "title": "US Remote Technical Support Advisor",
+    "seo_title": "Remote US Remote Technical Support Advisor Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote US Remote Technical Support Advisor job at VXI Global Solutions in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "VXI Global Solutions",
+      "slug": "vxi-global-solutions",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Los Angeles, CA URL: https://vxi.com/ Location: Remote Join Us as a Technical Support Advisor! Are you passionate about delivering exceptional customer experiences? Do you thrive in a fast-paced call center environment, solving technical...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-technical-support-advisor",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-technical-support-advisor",
+    "published_at": "2026-09-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "US Remote Technical Support Advisor",
+      "description": "Headquarters: Los Angeles, CA URL: https://vxi.com/ Location: Remote Join Us as a Technical Support Advisor! Are you passionate about delivering exceptional customer experiences? Do you thrive in a fast-paced call center environment, solving technical...",
+      "datePosted": "2026-09-23",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "VXI Global Solutions"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-technical-support-advisor",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "crm-automation-manager-neo-group-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-neo-group-crm-automation-manager",
     "slug": "crm-automation-manager-neo-group-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-neo-group-crm-automation-manager",
     "title": "CRM Automation Manager",
@@ -326,6 +380,63 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
+    "slug": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
+    "title": "Applied AI Architect, Public Sector",
+    "seo_title": "Remote Applied AI Architect, Public Sector Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Public Sector job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Washington, D.C."
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+    "published_at": "2026-09-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Public Sector",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-23",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008"
     },
     "ai_relevant": true
   },
@@ -726,7 +837,7 @@
     "id": "software-developer-security-analytics-redmimicry-worldwide-remoteok-1137417",
     "slug": "software-developer-security-analytics-redmimicry-worldwide-remoteok-1137417",
     "title": "Software Developer Security Analytics",
-    "seo_title": "Remote Software Developer Security Analytics Job | Robotics Jobs",
+    "seo_title": "Remote Software Developer Security Analytics Job | AI Engineering Jobs",
     "seo_description": "Apply for a remote Software Developer Security Analytics job at RedMimicry in Worldwide. Explore RAG, golang, infosec, dev and remote AI jobs.",
     "company": {
       "name": "RedMimicry",
@@ -754,7 +865,7 @@
       "full time",
       "digital nomad"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Full-time, 40 hours per weekContract: Fixed-termSalary: EUR 69,000 â 77,000We are building a new capability that turns fragmented, noisy...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417",
     "source": "remoteok",
@@ -1643,7 +1754,7 @@
     "id": "backend-software-engineer-airspace-link-worldwide-remoteok-1137409",
     "slug": "backend-software-engineer-airspace-link-worldwide-remoteok-1137409",
     "title": "Backend Software Engineer",
-    "seo_title": "Remote Backend Software Engineer Job | Robotics Jobs",
+    "seo_title": "Remote Backend Software Engineer Job | AI Engineering Jobs",
     "seo_description": "Apply for a remote Backend Software Engineer job at Airspace Link in Worldwide. Explore golang, dev, engineer, backend and remote AI jobs.",
     "company": {
       "name": "Airspace Link",
@@ -1669,7 +1780,7 @@
       "backend",
       "digital nomad"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Remote - Throughout history, transformative advancements in infrastructure have propelled humanity forwardâfrom Vanderbiltâs railroads to Edisonâs electrical grid and Eisenhowerâs highways. Today, we stand at another pivotal infrastructure moment with...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-backend-software-engineer-airspace-link-1137409",
     "source": "remoteok",
@@ -2746,61 +2857,6 @@
     "ai_relevant": true
   },
   {
-    "id": "corporate-finance-strategy-cash-flow-forecasting-anthropic-worldwide-greenhouse-anthropic-5358130008",
-    "slug": "corporate-finance-strategy-cash-flow-forecasting-anthropic-worldwide-greenhouse-anthropic-5358130008",
-    "title": "Corporate Finance & Strategy, Cash Flow Forecasting",
-    "seo_title": "Remote Corporate Finance & Strategy, Cash Flow Forecasting Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Corporate Finance & Strategy, Cash Flow Forecasting job at anthropic in Worldwide. Explore SQL, RAG, AWS, Finance and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "San Francisco, CA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "AWS",
-      "Finance",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5358130008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5358130008",
-    "published_at": "2026-09-18",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Corporate Finance & Strategy, Cash Flow Forecasting",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-18",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358130008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-net-full-stack-developer-lemon-io-usa-remotive-2091130",
     "slug": "senior-net-full-stack-developer-lemon-io-usa-remotive-2091130",
     "title": "Senior .NET Full-stack Developer",
@@ -3149,7 +3205,7 @@
     "id": "ai-agent-engineer-sticker-mule-worldwide-remoteok-1137399",
     "slug": "ai-agent-engineer-sticker-mule-worldwide-remoteok-1137399",
     "title": "AI agent engineer",
-    "seo_title": "Remote AI agent engineer Job | Robotics Jobs",
+    "seo_title": "Remote AI agent engineer Job | AI Engineering Jobs",
     "seo_description": "Apply for a remote AI agent engineer job at Sticker Mule in Worldwide. Explore OpenAI, GCP, ai, golang and remote AI jobs.",
     "company": {
       "name": "Sticker Mule",
@@ -3176,7 +3232,7 @@
       "javascript",
       "typescript"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI agents to help us innovate faster, improve performance, and...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
     "source": "remoteok",
@@ -7739,7 +7795,7 @@
     "id": "customer-service-representative-adaptive-teams-worldwide-remoteok-1136566",
     "slug": "customer-service-representative-adaptive-teams-worldwide-remoteok-1136566",
     "title": "Customer Service Representative",
-    "seo_title": "Remote Customer Service Representative Job | Robotics Jobs",
+    "seo_title": "Remote Customer Service Representative Job | AI Engineering Jobs",
     "seo_description": "Apply for a remote Customer Service Representative job at Adaptive Teams in Worldwide. Explore RAG, hr, sys admin, education and remote AI jobs.",
     "company": {
       "name": "Adaptive Teams",
@@ -7770,7 +7826,7 @@
       "part time",
       "non tech"
     ],
-    "category": "Robotics",
+    "category": "AI Engineering",
     "description_summary": "Confident on the phone and cool under pressure? This part-time role puts you at the center of fast-paced auction activityâmaking critical outbound calls, delivering clear info, and keeping everything on track. About the Company: This is a full time role...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-service-representative-adaptive-teams-1136566",
     "source": "remoteok",
