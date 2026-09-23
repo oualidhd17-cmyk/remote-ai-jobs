@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 32
+    "jobs_count": 33
   },
   {
     "name": "Lemon.io",
@@ -12,13 +12,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 6
-  },
-  {
-    "name": "Legion",
-    "slug": "legion",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
   },
   {
     "name": "Salesloft",
@@ -58,6 +51,13 @@
   {
     "name": "Squarespace",
     "slug": "squarespace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -138,6 +138,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Neo Group",
+    "slug": "neo-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Twilio",
@@ -268,13 +275,6 @@
   {
     "name": "AccuLynx",
     "slug": "acculynx",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -436,13 +436,6 @@
   {
     "name": "Orca Bio",
     "slug": "orca-bio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "6sense",
-    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
