@@ -1,10 +1,10 @@
 [
   {
-    "name": "Anthropic",
+    "name": "anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
+    "jobs_count": 32
   },
   {
     "name": "Lemon.io",
@@ -131,6 +131,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Magic Eden",
+    "slug": "magic-eden",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "C4Media Inc.",
