@@ -49,6 +49,20 @@
     "jobs_count": 3
   },
   {
+    "name": "Glean",
+    "slug": "glean",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Squarespace",
+    "slug": "squarespace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Huntress",
     "slug": "huntress",
     "logo_url": null,
@@ -119,18 +133,25 @@
     "jobs_count": 2
   },
   {
-    "name": "Proxify AB",
-    "slug": "proxify-ab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Databricks",
     "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "RedMimicry",
+    "slug": "redmimicry",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Magic Eden",
@@ -224,13 +245,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Cloudflare",
-    "slug": "cloudflare",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "A.Team",
     "slug": "a-team",
     "logo_url": null,
@@ -261,6 +275,13 @@
   {
     "name": "Toptal",
     "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Proxify AB",
+    "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
