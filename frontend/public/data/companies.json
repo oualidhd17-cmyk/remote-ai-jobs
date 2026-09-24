@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
+    "jobs_count": 34
   },
   {
     "name": "Lemon.io",
@@ -42,6 +42,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Bjak",
+    "slug": "bjak",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Glean",
     "slug": "glean",
     "logo_url": null,
@@ -51,13 +58,6 @@
   {
     "name": "Squarespace",
     "slug": "squarespace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Legion",
-    "slug": "legion",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -133,13 +133,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "VXI Global Solutions",
     "slug": "vxi-global-solutions",
     "logo_url": null,
@@ -184,6 +177,13 @@
   {
     "name": "Gusto, Inc.",
     "slug": "gusto-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -315,13 +315,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Bjak",
-    "slug": "bjak",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mirantis",
     "slug": "mirantis",
     "logo_url": null,
@@ -427,6 +420,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Databricks",
+    "slug": "databricks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Transportation Partners & Logistics",
     "slug": "transportation-partners-logistics",
     "logo_url": null,
@@ -436,6 +436,13 @@
   {
     "name": "Salesforge",
     "slug": "salesforge",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Icarus Digital Marketing",
+    "slug": "icarus-digital-marketing",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
