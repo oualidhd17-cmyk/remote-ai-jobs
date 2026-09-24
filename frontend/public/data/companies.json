@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 34
+    "jobs_count": 35
   },
   {
     "name": "Lemon.io",
@@ -119,15 +119,22 @@
     "jobs_count": 2
   },
   {
-    "name": "Sticker Mule",
-    "slug": "sticker-mule",
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
   },
   {
     "name": "Zscaler",
     "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Prenosis",
+    "slug": "prenosis",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -254,6 +261,13 @@
   {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sticker Mule",
+    "slug": "sticker-mule",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

@@ -1,5 +1,59 @@
 [
   {
+    "id": "narrator-videos-for-data-collection-project-ai-training-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-narrator-videos-for-data-col",
+    "slug": "narrator-videos-for-data-collection-project-ai-training-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-narrator-videos-for-data-col",
+    "title": "Narrator - Videos for Data Collection Project, AI training",
+    "seo_title": "Remote Narrator - Videos for Data Collection Project, AI training Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Narrator - Videos for Data Collection Project, AI training job at Toptal in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "Toptal",
+      "slug": "toptal",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: About the Client Our client is involved in an innovative data-collection project, which focuses on creating video datasets for training AI models. These AI models are designed to learn from first-person (POV) video footage. The captured videos...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/toptal-narrator-videos-for-data-collection-project-ai-training",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/toptal-narrator-videos-for-data-collection-project-ai-training",
+    "published_at": "2026-09-24",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Narrator - Videos for Data Collection Project, AI training",
+      "description": "Headquarters: About the Client Our client is involved in an innovative data-collection project, which focuses on creating video datasets for training AI models. These AI models are designed to learn from first-person (POV) video footage. The captured videos...",
+      "datePosted": "2026-09-24",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Toptal"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/toptal-narrator-videos-for-data-collection-project-ai-training",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "manager-loan-and-debt-accounting-r14205-oportun-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-oportun-manager-loan-and-debt-accounting-r14205",
     "slug": "manager-loan-and-debt-accounting-r14205-oportun-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-oportun-manager-loan-and-debt-accounting-r14205",
     "title": "Manager, Loan and Debt Accounting (R14205)",
@@ -161,6 +215,115 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/oportun-manager-lifecycle-marketing-r13983",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "apac-recruiting-coordinator-anthropic-singapore-greenhouse-anthropic-5427309008",
+    "slug": "apac-recruiting-coordinator-anthropic-singapore-greenhouse-anthropic-5427309008",
+    "title": "APAC Recruiting Coordinator",
+    "seo_title": "Remote APAC Recruiting Coordinator Job in Singapore | AI Engineering Jobs",
+    "seo_description": "Apply for a remote APAC Recruiting Coordinator job at anthropic in Singapore. Explore RAG, AWS, People, Singapore and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Singapore",
+    "city": null,
+    "location": "Singapore",
+    "location_label": "Singapore",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "People",
+      "Singapore"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008",
+    "published_at": "2026-09-24",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "APAC Recruiting Coordinator",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-24",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "software-engineer-prenosis-worldwide-remoteok-1137427",
+    "slug": "software-engineer-prenosis-worldwide-remoteok-1137427",
+    "title": "Software Engineer",
+    "seo_title": "Remote Software Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Software Engineer job at Prenosis in Worldwide. Explore golang, dev, engineer, digital nomad and remote AI jobs.",
+    "company": {
+      "name": "Prenosis",
+      "slug": "prenosis",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "golang",
+      "dev",
+      "engineer",
+      "digital nomad"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137427",
+    "published_at": "2026-09-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Software Engineer",
+      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created...",
+      "datePosted": "2026-09-23",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Prenosis"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137427",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3479,61 +3642,6 @@
     "ai_relevant": true
   },
   {
-    "id": "ai-agent-engineer-sticker-mule-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sticker-mule-ai-agent-engineer",
-    "slug": "ai-agent-engineer-sticker-mule-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sticker-mule-ai-agent-engineer",
-    "title": "AI agent engineer",
-    "seo_title": "Remote AI agent engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AI agent engineer job at Sticker Mule in Worldwide. Explore OpenAI, GCP, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Sticker Mule",
-      "slug": "sticker-mule",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "OpenAI",
-      "GCP",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
-    "published_at": "2026-09-16",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI agent engineer",
-      "description": "Headquarters: New York, NY URL: https://www.stickermule.com Sticker Mule is building the most lucrative commerce platform on the Internet by combining software, manufacturing, and AI in one stack. We're hiring an engineer to build, run and manage a team of AI...",
-      "datePosted": "2026-09-16",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Sticker Mule"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/sticker-mule-ai-agent-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "financial-analyst-r-d-salesloft-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-salesloft-financial-analyst-r-d",
     "slug": "financial-analyst-r-d-salesloft-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-salesloft-financial-analyst-r-d",
     "title": "Financial Analyst, R&D",
@@ -4395,61 +4503,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
-    "slug": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
-    "title": "Applied AI Engineer, Enterprise",
-    "seo_title": "Remote Applied AI Engineer, Enterprise Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Engineer, Enterprise job at anthropic in Worldwide. Explore LLM, RAG, AWS, Applied AI and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Paris, France",
-    "location_label": "Paris, France",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Paris, France"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
-    "published_at": "2026-09-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Engineer, Enterprise",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-14",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-engineer-enterprise-anthropic-germany-greenhouse-anthropic-5390795008",
     "slug": "applied-ai-engineer-enterprise-anthropic-germany-greenhouse-anthropic-5390795008",
     "title": "Applied AI Engineer, Enterprise",
@@ -4501,6 +4554,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
+    "slug": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
+    "title": "Applied AI Engineer, Enterprise",
+    "seo_title": "Remote Applied AI Engineer, Enterprise Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Engineer, Enterprise job at anthropic in Worldwide. Explore LLM, RAG, AWS, Applied AI and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Paris, France",
+    "location_label": "Paris, France",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Paris, France"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
+    "published_at": "2026-09-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Engineer, Enterprise",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008"
     },
     "ai_relevant": true
   },
