@@ -42,6 +42,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Oportun",
+    "slug": "oportun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
@@ -65,13 +72,6 @@
   {
     "name": "Huntress",
     "slug": "huntress",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Sezzle",
-    "slug": "sezzle",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -112,13 +112,6 @@
     "jobs_count": 2
   },
   {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Typeform",
     "slug": "typeform",
     "logo_url": null,
@@ -131,6 +124,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "VXI Global Solutions",
@@ -175,13 +175,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Gusto, Inc.",
-    "slug": "gusto-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Legion",
     "slug": "legion",
     "logo_url": null,
@@ -196,8 +189,8 @@
     "jobs_count": 1
   },
   {
-    "name": "EBANX",
-    "slug": "ebanx",
+    "name": "Sezzle",
+    "slug": "sezzle",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -259,6 +252,13 @@
     "jobs_count": 1
   },
   {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "A.Team",
     "slug": "a-team",
     "logo_url": null,
@@ -275,13 +275,6 @@
   {
     "name": "OpenBase LLC",
     "slug": "openbase-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "AccuLynx",
-    "slug": "acculynx",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
