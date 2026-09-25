@@ -386,6 +386,62 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
+    "slug": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
+    "title": "Applied AI Architect, Public Sector",
+    "seo_title": "Remote Applied AI Architect, Public Sector Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Public Sector job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "location_label": "San Francisco, CA | New York City, NY | Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Washington, D.C."
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+    "published_at": "2026-09-25",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Public Sector",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-25",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "narrator-videos-for-data-collection-project-ai-training-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-narrator-videos-for-data-col",
     "slug": "narrator-videos-for-data-collection-project-ai-training-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-narrator-videos-for-data-col",
     "title": "Narrator - Videos for Data Collection Project, AI training",
@@ -1161,63 +1217,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/glean-application-security-engineer",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
-    "slug": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
-    "title": "Applied AI Architect, Public Sector",
-    "seo_title": "Remote Applied AI Architect, Public Sector Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Public Sector job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Washington, D.C."
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
-    "published_at": "2026-09-23",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Public Sector",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-23",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008"
     },
     "ai_relevant": true
   },
@@ -6744,116 +6743,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-director-ux-ui-and-ai",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "education-designer-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-foundat",
-    "slug": "education-designer-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-foundat",
-    "title": "Education Designer: UX, UI, and AI",
-    "seo_title": "Remote Education Designer: UX, UI, and AI Job | NLP Jobs",
-    "seo_description": "Apply for a remote Education Designer: UX, UI, and AI job at IxDF - Interaction Design Foundation in Worldwide. Explore LLM, RAG, Design, Remote and...",
-    "company": {
-      "name": "IxDF - Interaction Design Foundation",
-      "slug": "ixdf-interaction-design-foundation",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're a designer who has facilitated workshops or built online courses, and you noticed that you loved it and that you were unusually good at it . You know how to make complex skills easy to learn,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai",
-    "published_at": "2026-08-26",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Education Designer: UX, UI, and AI",
-      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're a designer who has facilitated workshops or built online courses, and you noticed that you loved it and that you were unusually good at it . You know how to make complex skills easy to learn,...",
-      "datePosted": "2026-08-26",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "IxDF - Interaction Design Foundation"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "course-writer-and-editor-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-f",
-    "slug": "course-writer-and-editor-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-f",
-    "title": "Course Writer and Editor: UX, UI, and AI",
-    "seo_title": "Remote Course Writer and Editor: UX, UI, and AI Job | NLP Jobs",
-    "seo_description": "Apply for a remote Course Writer and Editor: UX, UI, and AI job at IxDF - Interaction Design Foundation in Worldwide. Explore LLM, RAG, Design, Remote and...",
-    "company": {
-      "name": "IxDF - Interaction Design Foundation",
-      "slug": "ixdf-interaction-design-foundation",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're the one people trust with the words, whether you're writing them or fixing them. You noticed that you loved it, and that you were unusually good at it . You turn rough, complex ideas into words...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai",
-    "published_at": "2026-08-26",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Course Writer and Editor: UX, UI, and AI",
-      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're the one people trust with the words, whether you're writing them or fixing them. You noticed that you loved it, and that you were unusually good at it . You turn rough, complex ideas into words...",
-      "datePosted": "2026-08-26",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "IxDF - Interaction Design Foundation"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
