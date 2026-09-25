@@ -42,6 +42,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Iterable",
+    "slug": "iterable",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Oportun",
     "slug": "oportun",
     "logo_url": null,
@@ -105,11 +112,18 @@
     "jobs_count": 2
   },
   {
-    "name": "Typeform",
-    "slug": "typeform",
+    "name": "Asana",
+    "slug": "asana",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Kobie Marketing",
@@ -203,13 +217,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Sezzle",
-    "slug": "sezzle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Airspace Link",
     "slug": "airspace-link",
     "logo_url": null,
@@ -273,6 +280,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Typeform",
+    "slug": "typeform",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Sticker Mule",
     "slug": "sticker-mule",
     "logo_url": null,
@@ -303,13 +317,6 @@
   {
     "name": "Proxify AB",
     "slug": "proxify-ab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Algolia",
-    "slug": "algolia",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,13 +450,6 @@
   {
     "name": "Salesforge",
     "slug": "salesforge",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Icarus Digital Marketing",
-    "slug": "icarus-digital-marketing",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
