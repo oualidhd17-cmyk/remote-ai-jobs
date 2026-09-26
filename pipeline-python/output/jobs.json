@@ -442,6 +442,60 @@
     "ai_relevant": true
   },
   {
+    "id": "commercial-counsel-hardware-anthropic-worldwide-greenhouse-anthropic-5434795008",
+    "slug": "commercial-counsel-hardware-anthropic-worldwide-greenhouse-anthropic-5434795008",
+    "title": "Commercial Counsel, Hardware",
+    "seo_title": "Remote Commercial Counsel, Hardware Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Counsel, Hardware job at anthropic in Worldwide. Explore RAG, AWS, Legal, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008",
+    "published_at": "2026-09-25",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Counsel, Hardware",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-25",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "compute-infrastructure-counsel-real-estate-anthropic-worldwide-greenhouse-anthropic-5427969008",
     "slug": "compute-infrastructure-counsel-real-estate-anthropic-worldwide-greenhouse-anthropic-5427969008",
     "title": "Compute & Infrastructure Counsel, Real Estate",
@@ -2306,60 +2360,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5426933008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "corporate-finance-strategy-strategic-transactions-anthropic-worldwide-greenhouse-anthropic-5430263008",
-    "slug": "corporate-finance-strategy-strategic-transactions-anthropic-worldwide-greenhouse-anthropic-5430263008",
-    "title": "Corporate Finance & Strategy, Strategic Transactions",
-    "seo_title": "Remote Corporate Finance & Strategy, Strategic Transactions Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Corporate Finance & Strategy, Strategic Transactions job at anthropic in Worldwide. Explore RAG, AWS, Finance, San Francisco, CA and...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "San Francisco, CA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Finance",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5430263008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5430263008",
-    "published_at": "2026-09-21",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Corporate Finance & Strategy, Strategic Transactions",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-21",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5430263008"
     },
     "ai_relevant": true
   },
@@ -5105,7 +5105,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137380",
     "published_at": "2026-09-11",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5161,7 +5161,7 @@
     "source_url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
     "published_at": "2026-09-11",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5216,7 +5216,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/geopro-labs-inc-head-of-operations-shopify-app-portfolio",
     "published_at": "2026-09-11",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5232,61 +5232,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/geopro-labs-inc-head-of-operations-shopify-app-portfolio",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "ai-deployment-specialist-beneficial-deployments-anthropic-worldwide-greenhouse-anthropic-5398438008",
-    "slug": "ai-deployment-specialist-beneficial-deployments-anthropic-worldwide-greenhouse-anthropic-5398438008",
-    "title": "AI Deployment Specialist, Beneficial Deployments",
-    "seo_title": "Remote AI Deployment Specialist, Beneficial Deployments Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AI Deployment Specialist, Beneficial Deployments job at anthropic in Worldwide. Explore LLM, RAG, AWS, Sales and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Sales",
-      "New York City, NY"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
-    "published_at": "2026-09-11",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Deployment Specialist, Beneficial Deployments",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-11",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008"
     },
     "ai_relevant": true
   },
@@ -7967,73 +7912,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/webflow-staff-brand-designer",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "sales-development-representative-attributea-doit-uk-remoteok-1136379",
-    "slug": "sales-development-representative-attributea-doit-uk-remoteok-1136379",
-    "title": "Sales Development Representative Attributeâ",
-    "seo_title": "Remote Sales Development Representative Attributeâ Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Sales Development Representative Attributeâ job at DoiT in UK. Explore RAG, Kubernetes, AWS, GCP and remote AI jobs.",
-    "company": {
-      "name": "DoiT",
-      "slug": "doit",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "Remote UK",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Kubernetes",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Generative AI",
-      "technical",
-      "marketing",
-      "cloud",
-      "microsoft",
-      "exec",
-      "sales"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden. Who We Are DoiT is a global technology company that works with cloud-driven...",
-    "apply_url": "https://remoteOK.com/remote-jobs/",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1136379",
-    "published_at": "2026-08-11",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Sales Development Representative Attributeâ",
-      "description": "Our Sales Development Representative will be an integral part of our sales team. This role is fully remote in the EMEA region in the UK, Ireland, the Netherlands, and Sweden. Who We Are DoiT is a global technology company that works with cloud-driven...",
-      "datePosted": "2026-08-11",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "DoiT"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1136379",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
-      }
     },
     "ai_relevant": true
   }
