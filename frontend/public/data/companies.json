@@ -35,15 +35,29 @@
     "jobs_count": 3
   },
   {
-    "name": "Iterable",
-    "slug": "iterable",
+    "name": "Faire",
+    "slug": "faire",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Oportun",
-    "slug": "oportun",
+    "name": "Doximity",
+    "slug": "doximity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Ping Identity",
+    "slug": "ping-identity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Iterable",
+    "slug": "iterable",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -105,6 +119,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Remote",
+    "slug": "remote",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Dremio",
+    "slug": "dremio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Asana",
     "slug": "asana",
     "logo_url": null,
@@ -142,6 +170,13 @@
   {
     "name": "Toptal",
     "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Oportun",
+    "slug": "oportun",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -191,13 +226,6 @@
   {
     "name": "Magic Eden",
     "slug": "magic-eden",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Legion",
-    "slug": "legion",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -294,13 +322,6 @@
     "jobs_count": 1
   },
   {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "OpenBase LLC",
     "slug": "openbase-llc",
     "logo_url": null,
@@ -378,13 +399,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Platform.sh",
-    "slug": "platform-sh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
     "logo_url": null,
@@ -422,13 +436,6 @@
   {
     "name": "Tessera Labs",
     "slug": "tessera-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Databricks",
-    "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -485,13 +492,6 @@
   {
     "name": "HighLevel",
     "slug": "highlevel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Samsara",
-    "slug": "samsara",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
