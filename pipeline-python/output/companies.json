@@ -28,6 +28,41 @@
     "jobs_count": 3
   },
   {
+    "name": "Fivetran",
+    "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "JFrog",
+    "slug": "jfrog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Checkr",
+    "slug": "checkr",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Faire",
     "slug": "faire",
     "logo_url": null,
@@ -161,29 +196,8 @@
     "jobs_count": 1
   },
   {
-    "name": "INFUSE",
-    "slug": "infuse",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Oportun",
-    "slug": "oportun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Zscaler",
-    "slug": "zscaler",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -317,13 +331,6 @@
   {
     "name": "A.Team",
     "slug": "a-team",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "OpenBase LLC",
-    "slug": "openbase-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
