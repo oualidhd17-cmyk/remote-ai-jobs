@@ -1350,59 +1350,6 @@
     "ai_relevant": true
   },
   {
-    "id": "sales-development-representative-intake-pod-belkins-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-belkins-sales-development-representative-intak",
-    "slug": "sales-development-representative-intake-pod-belkins-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-belkins-sales-development-representative-intak",
-    "title": "Sales Development Representative (Intake Pod)",
-    "seo_title": "Remote Sales Development Representative (Intake Pod) Job | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Sales Development Representative (Intake Pod) job at Belkins in Worldwide. Explore Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Belkins",
-      "slug": "belkins",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "Headquarters: Macedonia / Georgia / Moldova / Romania / Greece / Croatia / Kosovo / Serbia URL: http://belkins.io In 2017, Belkins started as an appointment-setting agency with just one service offering. Fast-forward to today, and we've transformed into...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/belkins-sales-development-representative-intake-pod",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/belkins-sales-development-representative-intake-pod",
-    "published_at": "2026-09-25",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Sales Development Representative (Intake Pod)",
-      "description": "Headquarters: Macedonia / Georgia / Moldova / Romania / Greece / Croatia / Kosovo / Serbia URL: http://belkins.io In 2017, Belkins started as an appointment-setting agency with just one service offering. Fast-forward to today, and we've transformed into...",
-      "datePosted": "2026-09-25",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Belkins"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/belkins-sales-development-representative-intake-pod",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
     "slug": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
     "title": "Applied AI Architect, Public Sector",
@@ -6867,6 +6814,114 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-full-stack-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-full-stack",
+    "slug": "senior-full-stack-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-full-stack",
+    "title": "Senior Full Stack",
+    "seo_title": "Remote Senior Full Stack Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Full Stack job at Toggl in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Toggl",
+      "slug": "toggl",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Full Stack",
+      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe...",
+      "datePosted": "2026-08-28",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Toggl"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "accounts-lead-remote-uk-eu-60-65k-ellipsis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ellipsis-accounts-lead-remote-uk-eu-60-65k",
+    "slug": "accounts-lead-remote-uk-eu-60-65k-ellipsis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ellipsis-accounts-lead-remote-uk-eu-60-65k",
+    "title": "Accounts Lead (Remote, UK/EU - £60-65k)",
+    "seo_title": "Remote Accounts Lead (Remote, UK/EU - £60-65k) Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Accounts Lead (Remote, UK/EU - £60-65k) job at Ellipsis® in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Ellipsis®",
+      "slug": "ellipsis",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Oxford, UK URL: https://getellipsis.com Ellipsis is emerging as a market leader in “GEO” for B2B technology companies. This is a high-impact, hands-on role in a fast-moving and ambitious agency. Description The transition to AI search has put a...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/ellipsis-accounts-lead-remote-uk-eu-60-65k",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/ellipsis-accounts-lead-remote-uk-eu-60-65k",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Accounts Lead (Remote, UK/EU - £60-65k)",
+      "description": "Headquarters: Oxford, UK URL: https://getellipsis.com Ellipsis is emerging as a market leader in “GEO” for B2B technology companies. This is a high-impact, hands-on role in a fast-moving and ambitious agency. Description The transition to AI search has put a...",
+      "datePosted": "2026-08-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Ellipsis®"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/ellipsis-accounts-lead-remote-uk-eu-60-65k",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "oracle-fusion-cloud-lead-a-logistics-supply-chain-management-tessera-labs-worldwide-remoteok-1137155",
     "slug": "oracle-fusion-cloud-lead-a-logistics-supply-chain-management-tessera-labs-worldwide-remoteok-1137155",
     "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
@@ -6993,69 +7048,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-qa-engineer-lemon-io-worldwide-remotive-2091100",
-    "slug": "senior-qa-engineer-lemon-io-worldwide-remotive-2091100",
-    "title": "Senior QA Engineer",
-    "seo_title": "Remote Senior QA Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior QA Engineer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Europe",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "MLOps",
-      ".Net",
-      "android",
-      "C",
-      "C#",
-      "C++",
-      "data science",
-      "golang",
-      "ios"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe. Requirements: 3+...",
-    "apply_url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
-    "published_at": "2026-08-26",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior QA Engineer",
-      "description": "Are you a talented QA looking for a remote job that lets you show your skills and get better compensation and career growth? Look no further than Lemon.io - the marketplace that connects you with hand-picked startups in the US and Europe. Requirements: 3+...",
-      "datePosted": "2026-08-26",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/qa/senior-qa-engineer-2091100",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -7480,60 +7472,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1136950",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-software-engineer-remote-edfinity-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-edfinity-senior-software-engineer-remote",
-    "slug": "senior-software-engineer-remote-edfinity-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-edfinity-senior-software-engineer-remote",
-    "title": "Senior Software Engineer, remote",
-    "seo_title": "Remote Senior Software Engineer, remote Job | NLP Jobs",
-    "seo_description": "Apply for a remote Senior Software Engineer, remote job at Edfinity in Worldwide. Explore LLM, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Edfinity",
-      "slug": "edfinity",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "part-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Austin, TX URL: https://edfinity.com About Edfinity Edfinity is the category leader in courseware and assessment technology for higher-ed STEM. We're NSF-supported, bootstrapped, and built by a close-knit remote team of senior engineers. We're...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
-    "published_at": "2026-08-17",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Software Engineer, remote",
-      "description": "Headquarters: Austin, TX URL: https://edfinity.com About Edfinity Edfinity is the category leader in courseware and assessment technology for higher-ed STEM. We're NSF-supported, bootstrapped, and built by a close-knit remote team of senior engineers. We're...",
-      "datePosted": "2026-08-17",
-      "employmentType": "PART_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Edfinity"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/edfinity-senior-software-engineer-remote",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
