@@ -110,6 +110,170 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-vmware-engineer-epam-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-epam-systems-senior-vmware-engineer",
+    "slug": "senior-vmware-engineer-epam-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-epam-systems-senior-vmware-engineer",
+    "title": "Senior VMware Engineer",
+    "seo_title": "Remote Senior VMware Engineer Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Senior VMware Engineer job at EPAM Systems in Worldwide. Explore RAG, Azure, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "EPAM Systems",
+      "slug": "epam-systems",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Azure",
+      "Design",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Armenia, Georgia, Kazakhstan, Kyrgyzstan, Uzbekistan URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
+    "published_at": "2026-09-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior VMware Engineer",
+      "description": "Headquarters: Armenia, Georgia, Kazakhstan, Kyrgyzstan, Uzbekistan URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you...",
+      "datePosted": "2026-09-28",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "EPAM Systems"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-seo-geo-specialist-manaferra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-manaferra-senior-seo-geo-specialist",
+    "slug": "senior-seo-geo-specialist-manaferra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-manaferra-senior-seo-geo-specialist",
+    "title": "Senior SEO & GEO Specialist",
+    "seo_title": "Remote Senior SEO & GEO Specialist Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior SEO & GEO Specialist job at Manaferra in Worldwide. Explore Python, LLM, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Manaferra",
+      "slug": "manaferra",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "part-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: New York URL: https://manaferra.com/ Position overview Manaferra is seeking a Senior SEO & GEO Specialist. The successful candidate will be responsible for the strategy and performance of university accounts, including auditing, defining the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/manaferra-senior-seo-geo-specialist",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/manaferra-senior-seo-geo-specialist",
+    "published_at": "2026-09-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior SEO & GEO Specialist",
+      "description": "Headquarters: New York URL: https://manaferra.com/ Position overview Manaferra is seeking a Senior SEO & GEO Specialist. The successful candidate will be responsible for the strategy and performance of university accounts, including auditing, defining the...",
+      "datePosted": "2026-09-28",
+      "employmentType": "PART_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Manaferra"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/manaferra-senior-seo-geo-specialist",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "product-owner-zanda-health-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zanda-health-product-owner",
+    "slug": "product-owner-zanda-health-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zanda-health-product-owner",
+    "title": "Product Owner",
+    "seo_title": "Remote Product Owner Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Product Owner job at Zanda Health in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
+    "company": {
+      "name": "Zanda Health",
+      "slug": "zanda-health",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Product",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Australia URL: https://zandahealth.com/eu/ Product Owner Remote | Permanent Contractor | Core EU Collaboration Hours Reports to: Product Manager Are you a product driven problem solver who enjoys turning customer insight into things that...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/zanda-health-product-owner",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/zanda-health-product-owner",
+    "published_at": "2026-09-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Product Owner",
+      "description": "Headquarters: Australia URL: https://zandahealth.com/eu/ Product Owner Remote | Permanent Contractor | Core EU Collaboration Hours Reports to: Product Manager Are you a product driven problem solver who enjoys turning customer insight into things that...",
+      "datePosted": "2026-09-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Zanda Health"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/zanda-health-product-owner",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "course-writer-and-editor-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-f",
     "slug": "course-writer-and-editor-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-f",
     "title": "Course Writer and Editor: UX, UI, and AI",
@@ -614,6 +778,117 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/dremio-senior-staff-software-engineer-query-execution",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "ai-deployment-specialist-beneficial-deployments-anthropic-worldwide-greenhouse-anthropic-5398438008",
+    "slug": "ai-deployment-specialist-beneficial-deployments-anthropic-worldwide-greenhouse-anthropic-5398438008",
+    "title": "AI Deployment Specialist, Beneficial Deployments",
+    "seo_title": "Remote AI Deployment Specialist, Beneficial Deployments Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AI Deployment Specialist, Beneficial Deployments job at anthropic in Worldwide. Explore LLM, RAG, AWS, Sales and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Sales",
+      "New York City, NY"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
+    "published_at": "2026-09-28",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI Deployment Specialist, Beneficial Deployments",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
+    "slug": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
+    "title": "Applied AI Architect, Public Sector",
+    "seo_title": "Remote Applied AI Architect, Public Sector Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Public Sector job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Washington, DC",
+    "location_label": "Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Washington, D.C."
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
+    "published_at": "2026-09-28",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Public Sector",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008"
     },
     "ai_relevant": true
   },
@@ -1962,116 +2237,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/iterable-email-deliverability-consultant",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "remote-customer-service-representative-kobie-marketing-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-kobie-marketing-remote-customer-service-rep",
-    "slug": "remote-customer-service-representative-kobie-marketing-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-kobie-marketing-remote-customer-service-rep",
-    "title": "Remote Customer Service Representative",
-    "seo_title": "Remote Remote Customer Service Representative Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Remote Customer Service Representative job at Kobie Marketing in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Kobie Marketing",
-      "slug": "kobie-marketing",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: St. Petersburg, Florida / Atlanta Georgia / Jackson, Mississippi / Oklahoma City, Oklahoma / Nashville, Tennessee / Dallas, Texas URL: http://kobie.com Join a National Top Workplace Named a Top Workplace in the USA, and Top Remote Workplace,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/kobie-marketing-remote-customer-service-representative",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/kobie-marketing-remote-customer-service-representative",
-    "published_at": "2026-09-25",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Remote Customer Service Representative",
-      "description": "Headquarters: St. Petersburg, Florida / Atlanta Georgia / Jackson, Mississippi / Oklahoma City, Oklahoma / Nashville, Tennessee / Dallas, Texas URL: http://kobie.com Join a National Top Workplace Named a Top Workplace in the USA, and Top Remote Workplace,...",
-      "datePosted": "2026-09-25",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Kobie Marketing"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/kobie-marketing-remote-customer-service-representative",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
-    "slug": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
-    "title": "Applied AI Architect, Public Sector",
-    "seo_title": "Remote Applied AI Architect, Public Sector Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Public Sector job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Washington, DC",
-    "location_label": "San Francisco, CA | New York City, NY | Washington, DC",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Washington, D.C."
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
-    "published_at": "2026-09-25",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Public Sector",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-25",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008"
     },
     "ai_relevant": true
   },
@@ -5686,61 +5851,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
-    "slug": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
-    "title": "Applied AI Engineer, Enterprise",
-    "seo_title": "Remote Applied AI Engineer, Enterprise Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Engineer, Enterprise job at anthropic in Worldwide. Explore LLM, RAG, AWS, Applied AI and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Paris, France",
-    "location_label": "Paris, France",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Paris, France"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
-    "published_at": "2026-09-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Engineer, Enterprise",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-14",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-engineer-enterprise-anthropic-germany-greenhouse-anthropic-5390795008",
     "slug": "applied-ai-engineer-enterprise-anthropic-germany-greenhouse-anthropic-5390795008",
     "title": "Applied AI Engineer, Enterprise",
@@ -5792,6 +5902,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390795008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
+    "slug": "applied-ai-engineer-enterprise-anthropic-worldwide-greenhouse-anthropic-5390754008",
+    "title": "Applied AI Engineer, Enterprise",
+    "seo_title": "Remote Applied AI Engineer, Enterprise Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Engineer, Enterprise job at anthropic in Worldwide. Explore LLM, RAG, AWS, Applied AI and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Paris, France",
+    "location_label": "Paris, France",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Paris, France"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008",
+    "published_at": "2026-09-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Engineer, Enterprise",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-14",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390754008"
     },
     "ai_relevant": true
   },
@@ -6742,6 +6907,62 @@
     "ai_relevant": true
   },
   {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer",
@@ -6797,62 +7018,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
