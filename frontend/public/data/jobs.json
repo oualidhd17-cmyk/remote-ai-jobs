@@ -1,5 +1,60 @@
 [
   {
+    "id": "senior-vmware-engineer-epam-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-epam-systems-senior-vmware-engineer-1",
+    "slug": "senior-vmware-engineer-epam-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-epam-systems-senior-vmware-engineer-1",
+    "title": "Senior VMware Engineer",
+    "seo_title": "Remote Senior VMware Engineer Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Senior VMware Engineer job at EPAM Systems in Worldwide. Explore RAG, Azure, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "EPAM Systems",
+      "slug": "epam-systems",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Azure",
+      "Design",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Belarus URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you will develop and maintain VMware automation...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer-1",
+    "published_at": "2026-09-29",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior VMware Engineer",
+      "description": "Headquarters: Belarus URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you will develop and maintain VMware automation...",
+      "datePosted": "2026-09-29",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "EPAM Systems"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer-1",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "coordinator-payroll-client-services-remote-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-coordinator-payroll-client-services-1",
     "slug": "coordinator-payroll-client-services-remote-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-remote-coordinator-payroll-client-services-1",
     "title": "Coordinator, Payroll Client Services",
@@ -2128,64 +2183,6 @@
     "ai_relevant": true
   },
   {
-    "id": "associate-soc-analyst-expel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-expel-associate-soc-analyst",
-    "slug": "associate-soc-analyst-expel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-expel-associate-soc-analyst",
-    "title": "Associate SOC Analyst",
-    "seo_title": "Remote Associate SOC Analyst Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Associate SOC Analyst job at Expel in Worldwide. Explore RAG, AWS, GCP, Azure and remote AI jobs.",
-    "company": {
-      "name": "Expel",
-      "slug": "expel",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "GCP",
-      "Azure",
-      "Spark",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote You’ve got the spark, the curiosity that makes you ask “why?” when others move on. You love solving puzzles, learning new tools, and understanding how things work (and how they break). Maybe you’ve done some hands-on IT work, tinkered...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst",
-    "published_at": "2026-09-27",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Associate SOC Analyst",
-      "description": "Headquarters: Remote You’ve got the spark, the curiosity that makes you ask “why?” when others move on. You love solving puzzles, learning new tools, and understanding how things work (and how they break). Maybe you’ve done some hands-on IT work, tinkered...",
-      "datePosted": "2026-09-27",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Expel"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/expel-associate-soc-analyst",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-staff-machine-learning-platform-engineer-faire-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-faire-senior-staff-machine-learning-platform",
     "slug": "senior-staff-machine-learning-platform-engineer-faire-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-faire-senior-staff-machine-learning-platform",
     "title": "Senior Staff Machine Learning Platform Engineer",
@@ -2244,6 +2241,60 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/faire-senior-staff-machine-learning-platform-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "business-development-representative-enterprise-doximity-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-doximity-business-development-representati",
+    "slug": "business-development-representative-enterprise-doximity-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-doximity-business-development-representati",
+    "title": "Business Development Representative, Enterprise",
+    "seo_title": "Remote Business Development Representative, Enterprise Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Business Development Representative, Enterprise job at Doximity in Worldwide. Explore AWS, Sales and Marketing, Remote and remote AI...",
+    "company": {
+      "name": "Doximity",
+      "slug": "doximity",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "AWS",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Remote Business Development Representative Location: Remote Employment Type: Full-time Reports to: Vice President, Enterprise Partnerships About Doximity Doximity is the leading clinical AI company with the largest network of U.S. clinicians....",
+    "apply_url": "https://weworkremotely.com/remote-jobs/doximity-business-development-representative-enterprise",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/doximity-business-development-representative-enterprise",
+    "published_at": "2026-09-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Development Representative, Enterprise",
+      "description": "Headquarters: Remote Business Development Representative Location: Remote Employment Type: Full-time Reports to: Vice President, Enterprise Partnerships About Doximity Doximity is the leading clinical AI company with the largest network of U.S. clinicians....",
+      "datePosted": "2026-09-26",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Doximity"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/doximity-business-development-representative-enterprise",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2571,60 +2622,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "narrator-videos-for-data-collection-project-ai-training-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-narrator-videos-for-data-col",
-    "slug": "narrator-videos-for-data-collection-project-ai-training-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-narrator-videos-for-data-col",
-    "title": "Narrator - Videos for Data Collection Project, AI training",
-    "seo_title": "Remote Narrator - Videos for Data Collection Project, AI training Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Narrator - Videos for Data Collection Project, AI training job at Toptal in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "Toptal",
-      "slug": "toptal",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: About the Client Our client is involved in an innovative data-collection project, which focuses on creating video datasets for training AI models. These AI models are designed to learn from first-person (POV) video footage. The captured videos...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/toptal-narrator-videos-for-data-collection-project-ai-training",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/toptal-narrator-videos-for-data-collection-project-ai-training",
-    "published_at": "2026-09-24",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Narrator - Videos for Data Collection Project, AI training",
-      "description": "Headquarters: About the Client Our client is involved in an innovative data-collection project, which focuses on creating video datasets for training AI models. These AI models are designed to learn from first-person (POV) video footage. The captured videos...",
-      "datePosted": "2026-09-24",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Toptal"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/toptal-narrator-videos-for-data-collection-project-ai-training",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -4659,61 +4656,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-shopify-developer-sanctuary-computer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sanctuary-computer-senior-shopify-developer",
-    "slug": "senior-shopify-developer-sanctuary-computer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sanctuary-computer-senior-shopify-developer",
-    "title": "Senior Shopify Developer",
-    "seo_title": "Remote Senior Shopify Developer Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Shopify Developer job at Sanctuary Computer in Worldwide. Explore SQL, RAG, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "Sanctuary Computer",
-      "slug": "sanctuary-computer",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: New York City URL: https://sanctuary.computer We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original job posting link **About garden3d ** We are worker owned creative collective,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-shopify-developer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-shopify-developer",
-    "published_at": "2026-09-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Shopify Developer",
-      "description": "Headquarters: New York City URL: https://sanctuary.computer We are hiring a contract-based Senior Shopify Developer to contribute to our Design and Development Team. Original job posting link **About garden3d ** We are worker owned creative collective,...",
-      "datePosted": "2026-09-18",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Sanctuary Computer"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-senior-shopify-developer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "cps-engagement-manager-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-cps-engagement-manager",
     "slug": "cps-engagement-manager-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-cps-engagement-manager",
     "title": "CPS Engagement Manager",
@@ -5970,61 +5912,6 @@
     "ai_relevant": true
   },
   {
-    "id": "content-designer-ii-personalization-pinterest-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pinterest-content-designer-ii-personalization",
-    "slug": "content-designer-ii-personalization-pinterest-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pinterest-content-designer-ii-personalization",
-    "title": "Content Designer II, Personalization",
-    "seo_title": "Remote Content Designer II, Personalization Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Content Designer II, Personalization job at Pinterest in Worldwide. Explore RAG, AWS, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "Pinterest",
-      "slug": "pinterest",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Design",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: San Francisco, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/pinterest-content-designer-ii-personalization",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/pinterest-content-designer-ii-personalization",
-    "published_at": "2026-09-12",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Content Designer II, Personalization",
-      "description": "Headquarters: San Francisco, CA, US; Remote, US About Pinterest: Millions of people around the world come to our platform to find creative ideas, dream about new possibilities and plan for memories that will last a lifetime. At Pinterest, we’re on a mission...",
-      "datePosted": "2026-09-12",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Pinterest"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/pinterest-content-designer-ii-personalization",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "engineering-manager-tlm-platform-harper-worldwide-remoteok-1137380",
     "slug": "engineering-manager-tlm-platform-harper-worldwide-remoteok-1137380",
     "title": "Engineering Manager TLM Platform",
@@ -7201,60 +7088,6 @@
     "ai_relevant": true
   },
   {
-    "id": "accounts-lead-remote-uk-eu-60-65k-ellipsis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ellipsis-accounts-lead-remote-uk-eu-60-65k",
-    "slug": "accounts-lead-remote-uk-eu-60-65k-ellipsis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ellipsis-accounts-lead-remote-uk-eu-60-65k",
-    "title": "Accounts Lead (Remote, UK/EU - £60-65k)",
-    "seo_title": "Remote Accounts Lead (Remote, UK/EU - £60-65k) Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Accounts Lead (Remote, UK/EU - £60-65k) job at Ellipsis® in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Ellipsis®",
-      "slug": "ellipsis",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Oxford, UK URL: https://getellipsis.com Ellipsis is emerging as a market leader in “GEO” for B2B technology companies. This is a high-impact, hands-on role in a fast-moving and ambitious agency. Description The transition to AI search has put a...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/ellipsis-accounts-lead-remote-uk-eu-60-65k",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/ellipsis-accounts-lead-remote-uk-eu-60-65k",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Accounts Lead (Remote, UK/EU - £60-65k)",
-      "description": "Headquarters: Oxford, UK URL: https://getellipsis.com Ellipsis is emerging as a market leader in “GEO” for B2B technology companies. This is a high-impact, hands-on role in a fast-moving and ambitious agency. Description The transition to AI search has put a...",
-      "datePosted": "2026-08-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Ellipsis®"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/ellipsis-accounts-lead-remote-uk-eu-60-65k",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "oracle-fusion-cloud-lead-a-logistics-supply-chain-management-tessera-labs-worldwide-remoteok-1137155",
     "slug": "oracle-fusion-cloud-lead-a-logistics-supply-chain-management-tessera-labs-worldwide-remoteok-1137155",
     "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
@@ -7313,61 +7146,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137155",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "course-director-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-foundation",
-    "slug": "course-director-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-foundation",
-    "title": "Course Director: UX, UI, and AI",
-    "seo_title": "Remote Course Director: UX, UI, and AI Job | NLP Jobs",
-    "seo_description": "Apply for a remote Course Director: UX, UI, and AI job at IxDF - Interaction Design Foundation in Worldwide. Explore LLM, RAG, Design, Remote and remote...",
-    "company": {
-      "name": "IxDF - Interaction Design Foundation",
-      "slug": "ixdf-interaction-design-foundation",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Denmark URL: https://ixdf.org/about/careers You've been designing long enough to have watched tools become essential and then disappear. You know which design skills are timeless and which ones expire. The human-centered design skills are where...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-director-ux-ui-and-ai",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-director-ux-ui-and-ai",
-    "published_at": "2026-08-26",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Course Director: UX, UI, and AI",
-      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You've been designing long enough to have watched tools become essential and then disappear. You know which design skills are timeless and which ones expire. The human-centered design skills are where...",
-      "datePosted": "2026-08-26",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "IxDF - Interaction Design Foundation"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-director-ux-ui-and-ai",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true

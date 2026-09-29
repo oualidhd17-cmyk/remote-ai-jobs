@@ -7,13 +7,6 @@
     "jobs_count": 37
   },
   {
-    "name": "IxDF - Interaction Design Foundation",
-    "slug": "ixdf-interaction-design-foundation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Collibra",
     "slug": "collibra",
     "logo_url": null,
@@ -33,6 +26,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "EPAM Systems",
+    "slug": "epam-systems",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Remote",
@@ -70,6 +70,13 @@
     "jobs_count": 2
   },
   {
+    "name": "IxDF - Interaction Design Foundation",
+    "slug": "ixdf-interaction-design-foundation",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Dropbox",
     "slug": "dropbox",
     "logo_url": null,
@@ -93,13 +100,6 @@
   {
     "name": "JFrog",
     "slug": "jfrog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Expel",
-    "slug": "expel",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -154,13 +154,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Sanctuary Computer",
-    "slug": "sanctuary-computer",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Reddit",
     "slug": "reddit",
     "logo_url": null,
@@ -170,13 +163,6 @@
   {
     "name": "MMC Group",
     "slug": "mmc-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EPAM Systems",
-    "slug": "epam-systems",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -203,6 +189,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Checkr",
     "slug": "checkr",
     "logo_url": null,
@@ -210,8 +203,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
+    "name": "Doximity",
+    "slug": "doximity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,6 +275,13 @@
   {
     "name": "JumpCloud",
     "slug": "jumpcloud",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sanctuary Computer",
+    "slug": "sanctuary-computer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -364,13 +364,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Pinterest",
-    "slug": "pinterest",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Harper",
     "slug": "harper",
     "logo_url": null,
@@ -443,13 +436,6 @@
   {
     "name": "Toggl",
     "slug": "toggl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ellipsis®",
-    "slug": "ellipsis",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
