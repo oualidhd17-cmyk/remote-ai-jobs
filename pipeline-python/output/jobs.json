@@ -1,5 +1,114 @@
 [
   {
+    "id": "join-our-talent-community-vectra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vectra-join-our-talent-community",
+    "slug": "join-our-talent-community-vectra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vectra-join-our-talent-community",
+    "title": "Join our Talent Community",
+    "seo_title": "Remote Join our Talent Community Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Join our Talent Community job at Vectra in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
+    "company": {
+      "name": "Vectra",
+      "slug": "vectra",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Product",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Worldwide URL: http://vectra.ai Vectra® is the leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises. The Vectra AI Platform delivers integrated signal across public cloud, SaaS, identity, and data center...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
+    "published_at": "2026-09-29",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Join our Talent Community",
+      "description": "Headquarters: Worldwide URL: http://vectra.ai Vectra® is the leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises. The Vectra AI Platform delivers integrated signal across public cloud, SaaS, identity, and data center...",
+      "datePosted": "2026-09-29",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Vectra"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "social-media-content-specialist-bilingual-french-english-remote-in-canada-us-icuc-social-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-icuc-soci",
+    "slug": "social-media-content-specialist-bilingual-french-english-remote-in-canada-us-icuc-social-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-icuc-soci",
+    "title": "Social Media Content Specialist - Bilingual French / English - Remote in Canada/US",
+    "seo_title": "Remote Social Media Content Specialist - Bilingual French / English - Remote in Canada/US Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Social Media Content Specialist - Bilingual French / English - Remote in Canada/US job at ICUC Social in Worldwide. Explore RAG, Spark,...",
+    "company": {
+      "name": "ICUC Social",
+      "slug": "icuc-social",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Spark",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: 150 E. 42nd St New York, NY URL: https://www.icuc.social/ Description de poste – Version française ICUC est un leader mondial des solutions en médias sociaux depuis plus de 20 ans. Aujourd’hui, l’équipe compte plus de 350 personnes réparties...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/icuc-social-social-media-content-specialist-bilingual-french-english-remote-in-canada-us",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/icuc-social-social-media-content-specialist-bilingual-french-english-remote-in-canada-us",
+    "published_at": "2026-09-29",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Social Media Content Specialist - Bilingual French / English - Remote in Canada/US",
+      "description": "Headquarters: 150 E. 42nd St New York, NY URL: https://www.icuc.social/ Description de poste – Version française ICUC est un leader mondial des solutions en médias sociaux depuis plus de 20 ans. Aujourd’hui, l’équipe compte plus de 350 personnes réparties...",
+      "datePosted": "2026-09-29",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "ICUC Social"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/icuc-social-social-media-content-specialist-bilingual-french-english-remote-in-canada-us",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-vmware-engineer-epam-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-epam-systems-senior-vmware-engineer-1",
     "slug": "senior-vmware-engineer-epam-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-epam-systems-senior-vmware-engineer-1",
     "title": "Senior VMware Engineer",
@@ -724,6 +833,60 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "business-systems-analyst-gtm-systems-anthropic-worldwide-greenhouse-anthropic-5436196008",
+    "slug": "business-systems-analyst-gtm-systems-anthropic-worldwide-greenhouse-anthropic-5436196008",
+    "title": "Business Systems Analyst, GTM Systems",
+    "seo_title": "Remote Business Systems Analyst, GTM Systems Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Business Systems Analyst, GTM Systems job at anthropic in Worldwide. Explore RAG, AWS, Engineering & Design - Product, San Francisco,...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Engineering & Design - Product",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5436196008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5436196008",
+    "published_at": "2026-09-29",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Systems Analyst, GTM Systems",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-29",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436196008"
     },
     "ai_relevant": true
   },
@@ -2907,60 +3070,6 @@
         "@type": "Country",
         "name": "Germany"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "us-remote-technical-support-advisor-vxi-global-solutions-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vxi-global-solutions-us-remote-technical",
-    "slug": "us-remote-technical-support-advisor-vxi-global-solutions-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vxi-global-solutions-us-remote-technical",
-    "title": "US Remote Technical Support Advisor",
-    "seo_title": "Remote US Remote Technical Support Advisor Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote US Remote Technical Support Advisor job at VXI Global Solutions in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "VXI Global Solutions",
-      "slug": "vxi-global-solutions",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Los Angeles, CA URL: https://vxi.com/ Location: Remote Join Us as a Technical Support Advisor! Are you passionate about delivering exceptional customer experiences? Do you thrive in a fast-paced call center environment, solving technical...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-technical-support-advisor",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-technical-support-advisor",
-    "published_at": "2026-09-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "US Remote Technical Support Advisor",
-      "description": "Headquarters: Los Angeles, CA URL: https://vxi.com/ Location: Remote Join Us as a Technical Support Advisor! Are you passionate about delivering exceptional customer experiences? Do you thrive in a fast-paced call center environment, solving technical...",
-      "datePosted": "2026-09-23",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "VXI Global Solutions"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/vxi-global-solutions-us-remote-technical-support-advisor",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5735,63 +5844,6 @@
     "ai_relevant": true
   },
   {
-    "id": "backend-engineer-iam-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-backend-engineer-iam",
-    "slug": "backend-engineer-iam-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-backend-engineer-iam",
-    "title": "Backend Engineer, IAM",
-    "seo_title": "Remote Backend Engineer, IAM Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Backend Engineer, IAM job at Reddit in Worldwide. Explore RAG, Kubernetes, AWS, GCP and remote AI jobs.",
-    "company": {
-      "name": "Reddit",
-      "slug": "reddit",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Kubernetes",
-      "AWS",
-      "GCP",
-      "Back-End Programming",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
-    "published_at": "2026-09-14",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Backend Engineer, IAM",
-      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
-      "datePosted": "2026-09-14",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Reddit"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "technical-product-lead-ai-finance-app-bjak-worldwide-remoteok-1137388",
     "slug": "technical-product-lead-ai-finance-app-bjak-worldwide-remoteok-1137388",
     "title": "Technical Product Lead AI Finance App",
@@ -5912,69 +5964,6 @@
     "ai_relevant": true
   },
   {
-    "id": "engineering-manager-tlm-platform-harper-worldwide-remoteok-1137380",
-    "slug": "engineering-manager-tlm-platform-harper-worldwide-remoteok-1137380",
-    "title": "Engineering Manager TLM Platform",
-    "seo_title": "Remote Engineering Manager TLM Platform Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Engineering Manager TLM Platform job at Harper in Worldwide. Explore RAG, Docker, Kubernetes, AWS and remote AI jobs.",
-    "company": {
-      "name": "Harper",
-      "slug": "harper",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "GCP",
-      "exec",
-      "design",
-      "sys admin",
-      "technical",
-      "customer support",
-      "dev",
-      "marketing"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "The Problem 36 million businesses in America need insuranceâit's not optional. 77% are underinsured. 40% have no coverage at all. The distribution system failed them: too slow, too opaque, too confusing. Over 90% of commercial insurance is still human-led....",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-tlm-platform-harper-1137380",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137380",
-    "published_at": "2026-09-11",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Engineering Manager TLM Platform",
-      "description": "The Problem 36 million businesses in America need insuranceâit's not optional. 77% are underinsured. 40% have no coverage at all. The distribution system failed them: too slow, too opaque, too confusing. Over 90% of commercial insurance is still human-led....",
-      "datePosted": "2026-09-11",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Harper"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137380",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-response-evaluator-imerit-technology-worldwide-remotive-2091126",
     "slug": "ai-response-evaluator-imerit-technology-worldwide-remotive-2091126",
     "title": "AI Response Evaluator",
@@ -6026,61 +6015,6 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/artificial-intelligence/ai-response-evaluator-2091126",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "head-of-operations-shopify-app-portfolio-geopro-labs-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-geopro-labs-inc-head-of-operations-shopif",
-    "slug": "head-of-operations-shopify-app-portfolio-geopro-labs-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-geopro-labs-inc-head-of-operations-shopif",
-    "title": "Head of Operations - Shopify App Portfolio",
-    "seo_title": "Remote Head of Operations - Shopify App Portfolio Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Head of Operations - Shopify App Portfolio job at GeoPro Labs Inc in Worldwide. Explore SQL, RAG, Product, Remote and remote AI jobs.",
-    "company": {
-      "name": "GeoPro Labs Inc",
-      "slug": "geopro-labs-inc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "part-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "Product",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Victoria, British Columbia, Canada URL: https://geoproapp.com The opportunity I'm looking for an experienced operator to take ownership of a portfolio of three established Shopify apps with a combined ARR of approximately $1.87M. The portfolio...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/geopro-labs-inc-head-of-operations-shopify-app-portfolio",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/geopro-labs-inc-head-of-operations-shopify-app-portfolio",
-    "published_at": "2026-09-11",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Head of Operations - Shopify App Portfolio",
-      "description": "Headquarters: Victoria, British Columbia, Canada URL: https://geoproapp.com The opportunity I'm looking for an experienced operator to take ownership of a portfolio of three established Shopify apps with a combined ARR of approximately $1.87M. The portfolio...",
-      "datePosted": "2026-09-11",
-      "employmentType": "PART_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "GeoPro Labs Inc"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/geopro-labs-inc-head-of-operations-shopify-app-portfolio",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6146,60 +6080,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "membership-coordinator-coaching-com-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coaching-com-membership-coordinator-1",
-    "slug": "membership-coordinator-coaching-com-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coaching-com-membership-coordinator-1",
-    "title": "Membership Coordinator",
-    "seo_title": "Remote Membership Coordinator Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Membership Coordinator job at Coaching.com in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
-    "company": {
-      "name": "Coaching.com",
-      "slug": "coaching-com",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Product",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: United States URL: https://coaching.com Membership Coordinator GENERAL INFORMATION Department Membership Reporting to Membership Manager & Director Start Date Immediate Salary US$28,000.00/annually IS THIS YOU? Do your friends and family...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/coaching-com-membership-coordinator-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/coaching-com-membership-coordinator-1",
-    "published_at": "2026-09-10",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Membership Coordinator",
-      "description": "Headquarters: United States URL: https://coaching.com Membership Coordinator GENERAL INFORMATION Department Membership Reporting to Membership Manager & Director Start Date Immediate Salary US$28,000.00/annually IS THIS YOU? Do your friends and family...",
-      "datePosted": "2026-09-10",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Coaching.com"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/coaching-com-membership-coordinator-1",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6454,115 +6334,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "director-intellectual-property-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-director-intellectual-property",
-    "slug": "director-intellectual-property-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-director-intellectual-property",
-    "title": "Director, Intellectual Property",
-    "seo_title": "Remote Director, Intellectual Property Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Director, Intellectual Property job at Reddit in Worldwide. Explore Machine Learning, RAG, Product, Remote and remote AI jobs.",
-    "company": {
-      "name": "Reddit",
-      "slug": "reddit",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "Product",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-director-intellectual-property",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/reddit-director-intellectual-property",
-    "published_at": "2026-09-06",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Director, Intellectual Property",
-      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
-      "datePosted": "2026-09-06",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Reddit"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/reddit-director-intellectual-property",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-peoplesoft-developer-analyst-ii-princeton-university-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-princeton-university-senior-peoplesoft",
-    "slug": "senior-peoplesoft-developer-analyst-ii-princeton-university-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-princeton-university-senior-peoplesoft",
-    "title": "Senior PeopleSoft Developer/Analyst II",
-    "seo_title": "Remote Senior PeopleSoft Developer/Analyst II Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior PeopleSoft Developer/Analyst II job at Princeton University in Worldwide. Explore SQL, Back-End Programming, Remote and remote...",
-    "company": {
-      "name": "Princeton University",
-      "slug": "princeton-university",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "Back-End Programming",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Princeton, New Jersey, United States URL: https://www.click2apply.net/WAQm2XC7Qr2yLU5m7H7yeG Job Type Full-Time Overview Princeton University’s Office of Information Technology is seeking a Senior Developer/Analyst II to serve as a technical...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii",
-    "published_at": "2026-09-03",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior PeopleSoft Developer/Analyst II",
-      "description": "Headquarters: Princeton, New Jersey, United States URL: https://www.click2apply.net/WAQm2XC7Qr2yLU5m7H7yeG Job Type Full-Time Overview Princeton University’s Office of Information Technology is seeking a Senior Developer/Analyst II to serve as a technical...",
-      "datePosted": "2026-09-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Princeton University"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/princeton-university-senior-peoplesoft-developer-analyst-ii",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -7030,60 +6801,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-full-stack-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-full-stack",
-    "slug": "senior-full-stack-toggl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toggl-senior-full-stack",
-    "title": "Senior Full Stack",
-    "seo_title": "Remote Senior Full Stack Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Senior Full Stack job at Toggl in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Toggl",
-      "slug": "toggl",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Full Stack",
-      "description": "Headquarters: Tallinn, Estonia URL: https://toggl.com/jobs/ We are looking for a Senior Full Stack Engineer to join one of our Product Tribes, the cross-functional units that own the end-to-end experience for a specific Toggl user role. You'll join the Tribe...",
-      "datePosted": "2026-08-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Toggl"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/toggl-senior-full-stack",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },

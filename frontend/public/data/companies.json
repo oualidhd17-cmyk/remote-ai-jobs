@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 37
+    "jobs_count": 38
   },
   {
     "name": "Collibra",
@@ -154,11 +154,18 @@
     "jobs_count": 2
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
+    "name": "Vectra",
+    "slug": "vectra",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "ICUC Social",
+    "slug": "icuc-social",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "MMC Group",
@@ -212,13 +219,6 @@
   {
     "name": "Prenosis",
     "slug": "prenosis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "VXI Global Solutions",
-    "slug": "vxi-global-solutions",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -364,13 +364,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Harper",
-    "slug": "harper",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "iMerit Technology",
     "slug": "imerit-technology",
     "logo_url": null,
@@ -378,22 +371,8 @@
     "jobs_count": 1
   },
   {
-    "name": "GeoPro Labs Inc",
-    "slug": "geopro-labs-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "TestGorilla",
     "slug": "testgorilla",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Coaching.com",
-    "slug": "coaching-com",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -413,13 +392,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Princeton University",
-    "slug": "princeton-university",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Warehance",
     "slug": "warehance",
     "logo_url": null,
@@ -429,13 +401,6 @@
   {
     "name": "Benzinga",
     "slug": "benzinga",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toggl",
-    "slug": "toggl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
