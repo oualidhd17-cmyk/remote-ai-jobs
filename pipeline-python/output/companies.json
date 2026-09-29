@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 37
   },
   {
     "name": "IxDF - Interaction Design Foundation",
@@ -16,13 +16,6 @@
   {
     "name": "Collibra",
     "slug": "collibra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Dremio",
-    "slug": "dremio",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -42,6 +35,34 @@
     "jobs_count": 3
   },
   {
+    "name": "Remote",
+    "slug": "remote",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Prove",
+    "slug": "prove",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Roblox",
     "slug": "roblox",
     "logo_url": null,
@@ -51,6 +72,13 @@
   {
     "name": "Dropbox",
     "slug": "dropbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Dremio",
+    "slug": "dremio",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -84,13 +112,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Checkr",
-    "slug": "checkr",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Faire",
     "slug": "faire",
     "logo_url": null,
@@ -98,22 +119,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Doximity",
-    "slug": "doximity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Ping Identity",
     "slug": "ping-identity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Iterable",
-    "slug": "iterable",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -135,13 +142,6 @@
   {
     "name": "Huntress",
     "slug": "huntress",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "CircleCI",
-    "slug": "circleci",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -203,22 +203,8 @@
     "jobs_count": 1
   },
   {
-    "name": "AITrainers",
-    "slug": "aitrainers",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Remote",
-    "slug": "remote",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Asana",
-    "slug": "asana",
+    "name": "Checkr",
+    "slug": "checkr",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -233,6 +219,13 @@
   {
     "name": "Prenosis",
     "slug": "prenosis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "VXI Global Solutions",
+    "slug": "vxi-global-solutions",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -294,13 +287,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Hex Technologies",
-    "slug": "hex-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "KoboToolbox",
     "slug": "kobotoolbox",
     "logo_url": null,
@@ -338,6 +324,13 @@
   {
     "name": "A.Team",
     "slug": "a-team",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "OpenBase LLC",
+    "slug": "openbase-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -506,13 +499,6 @@
   {
     "name": "HighLevel",
     "slug": "highlevel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Thumbtack",
-    "slug": "thumbtack",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
