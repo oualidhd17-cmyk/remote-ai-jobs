@@ -42,13 +42,6 @@
     "jobs_count": 2
   },
   {
-    "name": "EPAM Systems",
-    "slug": "epam-systems",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Remote",
     "slug": "remote",
     "logo_url": null,
@@ -84,22 +77,8 @@
     "jobs_count": 2
   },
   {
-    "name": "IxDF - Interaction Design Foundation",
-    "slug": "ixdf-interaction-design-foundation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Dropbox",
     "slug": "dropbox",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "JFrog",
-    "slug": "jfrog",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,8 +119,29 @@
     "jobs_count": 2
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Lithic",
     "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cribl",
+    "slug": "cribl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pearl",
+    "slug": "pearl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -161,15 +161,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Vectra",
-    "slug": "vectra",
+    "name": "ICUC Social",
+    "slug": "icuc-social",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "ICUC Social",
-    "slug": "icuc-social",
+    "name": "EPAM Systems",
+    "slug": "epam-systems",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,8 +210,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Fivetran",
-    "slug": "fivetran",
+    "name": "JFrog",
+    "slug": "jfrog",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

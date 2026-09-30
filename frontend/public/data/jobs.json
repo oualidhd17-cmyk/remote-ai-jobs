@@ -1,5 +1,59 @@
 [
   {
+    "id": "enterprise-sales-development-representative-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-enterprise-sales-development-representat",
+    "slug": "enterprise-sales-development-representative-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-enterprise-sales-development-representat",
+    "title": "Enterprise Sales Development Representative",
+    "seo_title": "Remote Enterprise Sales Development Representative Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Enterprise Sales Development Representative job at Toptal in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
+    "company": {
+      "name": "Toptal",
+      "slug": "toptal",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: remote URL: https://www.toptal.com/ Job Summary: As an Enterprise Sales Development Representative (SDR), you will drive business growth by identifying opportunities with target clients. You’ll play a pivotal role in identifying potential...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/toptal-enterprise-sales-development-representative",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/toptal-enterprise-sales-development-representative",
+    "published_at": "2026-09-30",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Enterprise Sales Development Representative",
+      "description": "Headquarters: remote URL: https://www.toptal.com/ Job Summary: As an Enterprise Sales Development Representative (SDR), you will drive business growth by identifying opportunities with target clients. You’ll play a pivotal role in identifying potential...",
+      "datePosted": "2026-09-30",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Toptal"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/toptal-enterprise-sales-development-representative",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-software-engineer-card-authorization-lithic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lithic-senior-software-engineer-card-authorizat",
     "slug": "senior-software-engineer-card-authorization-lithic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lithic-senior-software-engineer-card-authorizat",
     "title": "Senior Software Engineer, Card Authorization",
@@ -51,6 +105,115 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "sr-ux-designer-security-cribl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cribl-sr-ux-designer-security",
+    "slug": "sr-ux-designer-security-cribl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cribl-sr-ux-designer-security",
+    "title": "Sr. UX Designer, Security",
+    "seo_title": "Remote Sr. UX Designer, Security Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Sr. UX Designer, Security job at Cribl in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
+    "company": {
+      "name": "Cribl",
+      "slug": "cribl",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote URL: https://cribl.io/ Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
+    "published_at": "2026-09-30",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Sr. UX Designer, Security",
+      "description": "Headquarters: Remote URL: https://cribl.io/ Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge...",
+      "datePosted": "2026-09-30",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Cribl"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "remote-senior-packaging-designer-for-consumer-goods-company-pearl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pearl-remote-senior-packaging-de",
+    "slug": "remote-senior-packaging-designer-for-consumer-goods-company-pearl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pearl-remote-senior-packaging-de",
+    "title": "Remote Senior Packaging Designer for Consumer Goods Company",
+    "seo_title": "Remote Remote Senior Packaging Designer for Consumer Goods Company Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Remote Senior Packaging Designer for Consumer Goods Company job at Pearl in Worldwide. Explore OpenAI, RAG, Design, Remote and remote...",
+    "company": {
+      "name": "Pearl",
+      "slug": "pearl",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "OpenAI",
+      "RAG",
+      "Design",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Honduras, Santo Domingo, Dominican Republic URL: http://pearltalent.com Description Work From Anywhere in LATAM Work Schedule: EST | Flexible hours with Eastern Time overlap for stakeholder presentations About Pearl Talent Pearl works with the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/pearl-remote-senior-packaging-designer-for-consumer-goods-company",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/pearl-remote-senior-packaging-designer-for-consumer-goods-company",
+    "published_at": "2026-09-30",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Remote Senior Packaging Designer for Consumer Goods Company",
+      "description": "Headquarters: Honduras, Santo Domingo, Dominican Republic URL: http://pearltalent.com Description Work From Anywhere in LATAM Work Schedule: EST | Flexible hours with Eastern Time overlap for stakeholder presentations About Pearl Talent Pearl works with the...",
+      "datePosted": "2026-09-30",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Pearl"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/pearl-remote-senior-packaging-designer-for-consumer-goods-company",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -442,6 +605,62 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-architect-international-policy-anthropic-worldwide-greenhouse-anthropic-5439830008",
+    "slug": "applied-ai-architect-international-policy-anthropic-worldwide-greenhouse-anthropic-5439830008",
+    "title": "Applied AI Architect, International Policy",
+    "seo_title": "Remote Applied AI Architect, International Policy Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, International Policy job at anthropic in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY | Washington, DC",
+    "location_label": "San Francisco, CA | New York City, NY | Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "New York City, NY"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5439830008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5439830008",
+    "published_at": "2026-09-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, International Policy",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-30",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439830008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-ai-architects-partner-anthropic-worldwide-greenhouse-anthropic-5439499008",
     "slug": "applied-ai-architects-partner-anthropic-worldwide-greenhouse-anthropic-5439499008",
     "title": "Applied AI Architects, Partner",
@@ -549,60 +768,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/card-conduit-digital-marketing-manager",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "join-our-talent-community-vectra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vectra-join-our-talent-community",
-    "slug": "join-our-talent-community-vectra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vectra-join-our-talent-community",
-    "title": "Join our Talent Community",
-    "seo_title": "Remote Join our Talent Community Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Join our Talent Community job at Vectra in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
-    "company": {
-      "name": "Vectra",
-      "slug": "vectra",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Product",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Worldwide URL: http://vectra.ai Vectra® is the leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises. The Vectra AI Platform delivers integrated signal across public cloud, SaaS, identity, and data center...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
-    "published_at": "2026-09-29",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Join our Talent Community",
-      "description": "Headquarters: Worldwide URL: http://vectra.ai Vectra® is the leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises. The Vectra AI Platform delivers integrated signal across public cloud, SaaS, identity, and data center...",
-      "datePosted": "2026-09-29",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Vectra"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/vectra-join-our-talent-community",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -1609,61 +1774,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-vmware-engineer-epam-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-epam-systems-senior-vmware-engineer",
-    "slug": "senior-vmware-engineer-epam-systems-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-epam-systems-senior-vmware-engineer",
-    "title": "Senior VMware Engineer",
-    "seo_title": "Remote Senior VMware Engineer Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Senior VMware Engineer job at EPAM Systems in Worldwide. Explore RAG, Azure, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "EPAM Systems",
-      "slug": "epam-systems",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Azure",
-      "Design",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Armenia, Georgia, Kazakhstan, Kyrgyzstan, Uzbekistan URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
-    "published_at": "2026-09-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior VMware Engineer",
-      "description": "Headquarters: Armenia, Georgia, Kazakhstan, Kyrgyzstan, Uzbekistan URL: http://epam.com We are looking for a Senior VMware Engineer to join our team supporting the delivery of a Unified Automation Platform for a large enterprise client. Within this role, you...",
-      "datePosted": "2026-09-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "EPAM Systems"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/epam-systems-senior-vmware-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-seo-geo-specialist-manaferra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-manaferra-senior-seo-geo-specialist",
     "slug": "senior-seo-geo-specialist-manaferra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-manaferra-senior-seo-geo-specialist",
     "title": "Senior SEO & GEO Specialist",
@@ -1768,116 +1878,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/zanda-health-product-owner",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "course-writer-and-editor-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-f",
-    "slug": "course-writer-and-editor-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-f",
-    "title": "Course Writer and Editor: UX, UI, and AI",
-    "seo_title": "Remote Course Writer and Editor: UX, UI, and AI Job | NLP Jobs",
-    "seo_description": "Apply for a remote Course Writer and Editor: UX, UI, and AI job at IxDF - Interaction Design Foundation in Worldwide. Explore LLM, RAG, Design, Remote and...",
-    "company": {
-      "name": "IxDF - Interaction Design Foundation",
-      "slug": "ixdf-interaction-design-foundation",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're the one people trust with the words, whether you're writing them or fixing them. You noticed that you loved it, and that you were unusually good at it . You turn rough, complex ideas into words...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1",
-    "published_at": "2026-09-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Course Writer and Editor: UX, UI, and AI",
-      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're the one people trust with the words, whether you're writing them or fixing them. You noticed that you loved it, and that you were unusually good at it . You turn rough, complex ideas into words...",
-      "datePosted": "2026-09-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "IxDF - Interaction Design Foundation"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-course-writer-and-editor-ux-ui-and-ai-1",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "education-designer-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-foundat",
-    "slug": "education-designer-ux-ui-and-ai-ixdf-interaction-design-foundation-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ixdf-interaction-design-foundat",
-    "title": "Education Designer: UX, UI, and AI",
-    "seo_title": "Remote Education Designer: UX, UI, and AI Job | NLP Jobs",
-    "seo_description": "Apply for a remote Education Designer: UX, UI, and AI job at IxDF - Interaction Design Foundation in Worldwide. Explore LLM, RAG, Design, Remote and...",
-    "company": {
-      "name": "IxDF - Interaction Design Foundation",
-      "slug": "ixdf-interaction-design-foundation",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're a designer who has facilitated workshops or built online courses, and you noticed that you loved it and that you were unusually good at it . You know how to make complex skills easy to learn,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
-    "published_at": "2026-09-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Education Designer: UX, UI, and AI",
-      "description": "Headquarters: Denmark URL: https://ixdf.org/about/careers You're a designer who has facilitated workshops or built online courses, and you noticed that you loved it and that you were unusually good at it . You know how to make complex skills easy to learn,...",
-      "datePosted": "2026-09-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "IxDF - Interaction Design Foundation"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/ixdf-interaction-design-foundation-education-designer-ux-ui-and-ai-1",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2389,122 +2389,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "compensation-analytics-partner-fivetran-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fivetran-compensation-analytics-partner",
-    "slug": "compensation-analytics-partner-fivetran-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fivetran-compensation-analytics-partner",
-    "title": "Compensation & Analytics Partner",
-    "seo_title": "Remote Compensation & Analytics Partner Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Compensation & Analytics Partner job at Fivetran in Worldwide. Explore Python, SQL, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "Fivetran",
-      "slug": "fivetran",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "LLM",
-      "RAG",
-      "Statistics",
-      "Prompt Engineering",
-      "Generative AI",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: CRI - Remote From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/fivetran-compensation-analytics-partner",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/fivetran-compensation-analytics-partner",
-    "published_at": "2026-09-27",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Compensation & Analytics Partner",
-      "description": "Headquarters: CRI - Remote From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no...",
-      "datePosted": "2026-09-27",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Fivetran"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/fivetran-compensation-analytics-partner",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "strategic-account-executive-jfrog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jfrog-strategic-account-executive",
-    "slug": "strategic-account-executive-jfrog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jfrog-strategic-account-executive",
-    "title": "Strategic Account Executive",
-    "seo_title": "Remote Strategic Account Executive Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Strategic Account Executive job at JFrog in Worldwide. Explore RAG, AWS, Azure, Sales and Marketing and remote AI jobs.",
-    "company": {
-      "name": "JFrog",
-      "slug": "jfrog",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Azure",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: US Remote At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/jfrog-strategic-account-executive",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/jfrog-strategic-account-executive",
-    "published_at": "2026-09-27",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Strategic Account Executive",
-      "description": "Headquarters: US Remote At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here,...",
-      "datePosted": "2026-09-27",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "JFrog"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/jfrog-strategic-account-executive",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5426,60 +5310,6 @@
     "ai_relevant": true
   },
   {
-    "id": "copywriter-developer-anthropic-worldwide-greenhouse-anthropic-5423931008",
-    "slug": "copywriter-developer-anthropic-worldwide-greenhouse-anthropic-5423931008",
-    "title": "Copywriter, Developer",
-    "seo_title": "Remote Copywriter, Developer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Copywriter, Developer job at anthropic in Worldwide. Explore RAG, AWS, Marketing & Brand, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Marketing & Brand",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008",
-    "published_at": "2026-09-16",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Copywriter, Developer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-16",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5423931008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "head-of-growth-operations-openbase-llc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-openbase-llc-head-of-growth-operations",
     "slug": "head-of-growth-operations-openbase-llc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-openbase-llc-head-of-growth-operations",
     "title": "Head of Growth & Operations",
@@ -6343,62 +6173,6 @@
     "ai_relevant": true
   },
   {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer",
@@ -6454,6 +6228,62 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
