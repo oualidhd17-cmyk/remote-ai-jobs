@@ -110,6 +110,133 @@
     "ai_relevant": true
   },
   {
+    "id": "anthropic-fellows-program-ml-systems-reinforcement-learning-anthropic-usa-greenhouse-anthropic-5183051008",
+    "slug": "anthropic-fellows-program-ml-systems-reinforcement-learning-anthropic-usa-greenhouse-anthropic-5183051008",
+    "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+    "seo_title": "Remote Anthropic Fellows Program, ML Systems & Reinforcement Learning Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Fellows Program, ML Systems & Reinforcement Learning job at anthropic in USA. Explore Python, LLM, RAG, AWS and remote AI...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "AI Research & Engineering",
+      "British Columbia, CA",
+      "London, UK",
+      "Ontario, CA",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+    "published_at": "2026-09-30",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-30",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "anthropic-fellows-program-the-anthropic-institute-economics-policy-anthropic-usa-greenhouse-anthropic-5183053008",
+    "slug": "anthropic-fellows-program-the-anthropic-institute-economics-policy-anthropic-usa-greenhouse-anthropic-5183053008",
+    "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
+    "seo_title": "Remote Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) job at anthropic in USA. Explore Python, RAG, AWS, AI Research...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "RAG",
+      "AWS",
+      "AI Research & Engineering",
+      "British Columbia, CA",
+      "London, UK",
+      "Ontario, CA",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+    "published_at": "2026-09-30",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-30",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "sr-ux-designer-security-cribl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cribl-sr-ux-designer-security",
     "slug": "sr-ux-designer-security-cribl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cribl-sr-ux-designer-security",
     "title": "Sr. UX Designer, Security",
@@ -715,6 +842,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439499008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "bdr-enablement-lead-anthropic-worldwide-greenhouse-anthropic-5390984008",
+    "slug": "bdr-enablement-lead-anthropic-worldwide-greenhouse-anthropic-5390984008",
+    "title": "BDR Enablement Lead",
+    "seo_title": "Remote BDR Enablement Lead Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote BDR Enablement Lead job at anthropic in Worldwide. Explore RAG, AWS, Sales, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008",
+    "published_at": "2026-09-30",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "BDR Enablement Lead",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-09-30",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008"
     },
     "ai_relevant": true
   },
@@ -2782,61 +2964,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427309008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "bdr-enablement-lead-anthropic-worldwide-greenhouse-anthropic-5390984008",
-    "slug": "bdr-enablement-lead-anthropic-worldwide-greenhouse-anthropic-5390984008",
-    "title": "BDR Enablement Lead",
-    "seo_title": "Remote BDR Enablement Lead Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote BDR Enablement Lead job at anthropic in Worldwide. Explore RAG, AWS, Sales, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008",
-    "published_at": "2026-09-24",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "BDR Enablement Lead",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-24",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5390984008"
     },
     "ai_relevant": true
   },
@@ -5798,133 +5925,6 @@
           "maxValue": 80000,
           "unitText": "YEAR"
         }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-fellows-program-ml-systems-reinforcement-learning-anthropic-usa-greenhouse-anthropic-5183051008",
-    "slug": "anthropic-fellows-program-ml-systems-reinforcement-learning-anthropic-usa-greenhouse-anthropic-5183051008",
-    "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
-    "seo_title": "Remote Anthropic Fellows Program, ML Systems & Reinforcement Learning Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Fellows Program, ML Systems & Reinforcement Learning job at anthropic in USA. Explore Python, LLM, RAG, AWS and remote AI...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "AWS",
-      "AI Research & Engineering",
-      "British Columbia, CA",
-      "London, UK",
-      "Ontario, CA",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-    "published_at": "2026-09-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-08",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-fellows-program-the-anthropic-institute-economics-policy-anthropic-usa-greenhouse-anthropic-5183053008",
-    "slug": "anthropic-fellows-program-the-anthropic-institute-economics-policy-anthropic-usa-greenhouse-anthropic-5183053008",
-    "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
-    "seo_title": "Remote Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Fellows Program, The Anthropic Institute (Economics & Policy) job at anthropic in USA. Explore Python, RAG, AWS, AI Research...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "AWS",
-      "AI Research & Engineering",
-      "British Columbia, CA",
-      "London, UK",
-      "Ontario, CA",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
-    "published_at": "2026-09-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-08",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
       }
     },
     "ai_relevant": true
