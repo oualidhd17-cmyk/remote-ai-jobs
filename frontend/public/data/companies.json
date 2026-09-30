@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 38
+    "jobs_count": 36
   },
   {
     "name": "Collibra",
@@ -119,13 +119,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
@@ -152,6 +145,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Card Conduit",
+    "slug": "card-conduit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Vectra",
@@ -210,8 +210,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Doximity",
-    "slug": "doximity",
+    "name": "Ping Identity",
+    "slug": "ping-identity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,13 +219,6 @@
   {
     "name": "Prenosis",
     "slug": "prenosis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Glean",
-    "slug": "glean",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -352,6 +345,13 @@
   {
     "name": "Sleek",
     "slug": "sleek",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
