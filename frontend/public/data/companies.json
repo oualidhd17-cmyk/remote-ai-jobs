@@ -7,6 +7,13 @@
     "jobs_count": 36
   },
   {
+    "name": "Salesloft",
+    "slug": "salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
     "name": "Collibra",
     "slug": "collibra",
     "logo_url": null,
@@ -21,11 +28,18 @@
     "jobs_count": 3
   },
   {
-    "name": "Salesloft",
-    "slug": "salesloft",
+    "name": "Storyblok",
+    "slug": "storyblok",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
+  },
+  {
+    "name": "Hightouch",
+    "slug": "hightouch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "EPAM Systems",
@@ -84,29 +98,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Dremio",
-    "slug": "dremio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Fivetran",
-    "slug": "fivetran",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "JFrog",
     "slug": "jfrog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -145,6 +138,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Lithic",
+    "slug": "lithic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tailscale",
+    "slug": "tailscale",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Card Conduit",
@@ -196,22 +203,22 @@
     "jobs_count": 1
   },
   {
+    "name": "Dremio",
+    "slug": "dremio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Fivetran",
+    "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Expel",
     "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Checkr",
-    "slug": "checkr",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -345,13 +352,6 @@
   {
     "name": "Sleek",
     "slug": "sleek",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
