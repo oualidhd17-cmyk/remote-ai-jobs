@@ -56,6 +56,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Storyblok",
     "slug": "storyblok",
     "logo_url": null,
@@ -128,13 +135,6 @@
   {
     "name": "Hex Technologies",
     "slug": "hex-technologies",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -380,13 +380,6 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "NOPE",
-    "slug": "nope",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

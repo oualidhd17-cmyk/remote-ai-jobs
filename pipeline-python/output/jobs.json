@@ -497,6 +497,123 @@
     "ai_relevant": true
   },
   {
+    "id": "aws-gtm-partnership-lead-public-sector-nonprofits-anthropic-worldwide-greenhouse-anthropic-5391227008",
+    "slug": "aws-gtm-partnership-lead-public-sector-nonprofits-anthropic-worldwide-greenhouse-anthropic-5391227008",
+    "title": "AWS GTM Partnership Lead, Public Sector & Nonprofits",
+    "seo_title": "Remote AWS GTM Partnership Lead, Public Sector & Nonprofits Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AWS GTM Partnership Lead, Public Sector & Nonprofits job at anthropic in Worldwide. Explore RAG, AWS, Sales, San Francisco, CA and...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Washington, DC",
+    "location_label": "Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391227008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391227008",
+    "published_at": "2026-10-01",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AWS GTM Partnership Lead, Public Sector & Nonprofits",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-01",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391227008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "client-advisor-toptal-worldwide-remoteok-1137439",
+    "slug": "client-advisor-toptal-worldwide-remoteok-1137439",
+    "title": "Client Advisor",
+    "seo_title": "Remote Client Advisor Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Client Advisor job at Toptal in Worldwide. Explore RAG, customer support and remote AI jobs.",
+    "company": {
+      "name": "Toptal",
+      "slug": "toptal",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": true,
+    "salary_min": 10000,
+    "salary_max": 50000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "customer support"
+    ],
+    "category": "MLOps",
+    "description_summary": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe , Toptal is the worldâs largest...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-client-advisor-toptal-1137439",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137439",
+    "published_at": "2026-09-30",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Client Advisor",
+      "description": "About Toptal Toptal is a global network of top talent in business, design, and technology that enables companies to scale their teams, on-demand. With $200+ million in annual revenue and team members based around the globe , Toptal is the worldâs largest...",
+      "datePosted": "2026-09-30",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Toptal"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137439",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 10000,
+          "maxValue": 50000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "enterprise-sales-development-representative-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-enterprise-sales-development-representat",
     "slug": "enterprise-sales-development-representative-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-enterprise-sales-development-representat",
     "title": "Enterprise Sales Development Representative",
@@ -3021,61 +3138,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "corporate-counsel-m-a-anthropic-worldwide-greenhouse-anthropic-5407184008",
-    "slug": "corporate-counsel-m-a-anthropic-worldwide-greenhouse-anthropic-5407184008",
-    "title": "Corporate Counsel, M&A",
-    "seo_title": "Remote Corporate Counsel, M&A Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Corporate Counsel, M&A job at anthropic in Worldwide. Explore Machine Learning, RAG, AWS, Legal and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008",
-    "published_at": "2026-09-25",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Corporate Counsel, M&A",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-25",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407184008"
     },
     "ai_relevant": true
   },
@@ -5980,75 +6042,6 @@
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "social-comms-nope-worldwide-remoteok-1137314",
-    "slug": "social-comms-nope-worldwide-remoteok-1137314",
-    "title": "Social Comms",
-    "seo_title": "Remote Social Comms Job | NLP Jobs",
-    "seo_description": "Apply for a remote Social Comms job at NOPE in Worldwide. Explore LLM, AWS, marketing, education and remote AI jobs.",
-    "company": {
-      "name": "NOPE",
-      "slug": "nope",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Worldwide",
-    "remote_type": "unknown",
-    "employment_type": "part-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": 90000,
-    "salary_max": 150000,
-    "salary_currency": "USD",
-    "skills": [
-      "LLM",
-      "AWS",
-      "marketing",
-      "education",
-      "technical",
-      "content writing",
-      "social media",
-      "ai",
-      "social"
-    ],
-    "category": "NLP",
-    "description_summary": "Important: This is a contract/part-time role: 10-20 hrs/week - rate $40-50/hr NOPE is an AI safety company with a unique goal; we do not concern ourselves with bio or cyber-risks or other Hollywood-ized alignment fantasies. We are concerned instead with the...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137314",
-    "published_at": "2026-09-08",
-    "expires_at": null,
-    "quality_score": 70,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Social Comms",
-      "description": "Important: This is a contract/part-time role: 10-20 hrs/week - rate $40-50/hr NOPE is an AI safety company with a unique goal; we do not concern ourselves with bio or cyber-risks or other Hollywood-ized alignment fantasies. We are concerned instead with the...",
-      "datePosted": "2026-09-08",
-      "employmentType": "PART_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "NOPE"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137314",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 90000,
-          "maxValue": 150000,
-          "unitText": "YEAR"
-        }
-      }
     },
     "ai_relevant": true
   },
