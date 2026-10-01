@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 34
   },
   {
     "name": "Salesloft",
@@ -107,13 +107,6 @@
   {
     "name": "Huntress",
     "slug": "huntress",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Delinea",
-    "slug": "delinea",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -275,6 +268,13 @@
   {
     "name": "JumpCloud",
     "slug": "jumpcloud",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Delinea",
+    "slug": "delinea",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -450,27 +450,6 @@
   {
     "name": "HighLevel",
     "slug": "highlevel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Pivotal Health",
-    "slug": "pivotal-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Physical Superintelligence",
-    "slug": "physical-superintelligence",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "FreedomPay",
-    "slug": "freedompay",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
