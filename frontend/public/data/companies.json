@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 34
+    "jobs_count": 35
   },
   {
     "name": "Salesloft",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 5
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Collibra",
@@ -51,13 +58,6 @@
   {
     "name": "Calm.com",
     "slug": "calm-com",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -131,6 +131,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "LawnStarter",
+    "slug": "lawnstarter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Hex Technologies",
@@ -212,13 +219,6 @@
   {
     "name": "Algolia",
     "slug": "algolia",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Fivetran",
-    "slug": "fivetran",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
