@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 35
+    "jobs_count": 36
   },
   {
     "name": "Salesloft",
@@ -131,6 +131,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Clover Health",
+    "slug": "clover-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "LawnStarter",
@@ -336,13 +343,6 @@
     "jobs_count": 1
   },
   {
-    "name": "OpenBase LLC",
-    "slug": "openbase-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mitre Media",
     "slug": "mitre-media",
     "logo_url": null,
@@ -436,13 +436,6 @@
   {
     "name": "Engine",
     "slug": "engine",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "HighLevel",
-    "slug": "highlevel",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
