@@ -4,18 +4,25 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 35
   },
   {
-    "name": "Salesloft",
-    "slug": "salesloft",
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 4
   },
   {
     "name": "Toptal",
     "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -28,11 +35,39 @@
     "jobs_count": 3
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Pinterest",
+    "slug": "pinterest",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
+  },
+  {
+    "name": "Gong.io",
+    "slug": "gong-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "6sense",
+    "slug": "6sense",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Upgrade",
+    "slug": "upgrade",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Knock",
+    "slug": "knock",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Melio",
@@ -79,27 +114,6 @@
   {
     "name": "Discord",
     "slug": "discord",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Prove",
-    "slug": "prove",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Dropbox",
-    "slug": "dropbox",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -203,8 +217,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Roblox",
-    "slug": "roblox",
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -224,8 +238,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Algolia",
-    "slug": "algolia",
+    "name": "Dropbox",
+    "slug": "dropbox",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,6 +296,13 @@
   {
     "name": "JumpCloud",
     "slug": "jumpcloud",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CircleCI",
+    "slug": "circleci",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
