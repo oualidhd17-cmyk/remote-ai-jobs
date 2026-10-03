@@ -5249,7 +5249,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137405",
     "published_at": "2026-09-18",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5322,7 +5322,7 @@
     "source_url": "https://remotive.com/remote-jobs/design/frontend-web-application-developer-2091141",
     "published_at": "2026-09-18",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5399,7 +5399,7 @@
     "source_url": "https://remotive.com/remote-jobs/software-development/senior-shopify-developer-2091140",
     "published_at": "2026-09-18",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5470,7 +5470,7 @@
     "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
     "published_at": "2026-09-18",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5528,7 +5528,7 @@
     "source_url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
     "published_at": "2026-09-18",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5591,7 +5591,7 @@
     "source_url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
     "published_at": "2026-09-18",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5653,7 +5653,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/collibra-cps-engagement-manager",
     "published_at": "2026-09-18",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6441,68 +6441,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-support-success-specialist-warehance-worldwide-remoteok-1137302",
-    "slug": "customer-support-success-specialist-warehance-worldwide-remoteok-1137302",
-    "title": "Customer Support & Success Specialist",
-    "seo_title": "Remote Customer Support & Success Specialist Job | NLP Jobs",
-    "seo_description": "Apply for a remote Customer Support & Success Specialist job at Warehance in Worldwide. Explore LLM, customer support and remote AI jobs.",
-    "company": {
-      "name": "Warehance",
-      "slug": "warehance",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Worldwide",
-    "remote_type": "unknown",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": 50000,
-    "salary_max": 70000,
-    "salary_currency": "USD",
-    "skills": [
-      "LLM",
-      "customer support"
-    ],
-    "category": "NLP",
-    "description_summary": "Customer Success & Support Specialist Warehance helps businesses manage orders, inventory, shipping, and fulfillment. Weâre looking for someone who is good with people, sharp with details, and enjoys solving problems . Youâll work directly with customers,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-support-success-specialist-warehance-1137302",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137302",
-    "published_at": "2026-09-03",
-    "expires_at": null,
-    "quality_score": 70,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Support & Success Specialist",
-      "description": "Customer Success & Support Specialist Warehance helps businesses manage orders, inventory, shipping, and fulfillment. Weâre looking for someone who is good with people, sharp with details, and enjoys solving problems . Youâll work directly with customers,...",
-      "datePosted": "2026-09-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Warehance"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137302",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 50000,
-          "maxValue": 70000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "slug": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "title": "AI Engineer Data APIs",
@@ -6552,6 +6490,62 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137224",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6612,62 +6606,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -7207,136 +7145,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "solutions-delivery-manager-benchling-worldwide-remoteok-1136937",
-    "slug": "solutions-delivery-manager-benchling-worldwide-remoteok-1136937",
-    "title": "Solutions Delivery Manager",
-    "seo_title": "Remote Solutions Delivery Manager Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Solutions Delivery Manager job at Benchling in Worldwide. Explore RAG, exec, design, technical and remote AI jobs.",
-    "company": {
-      "name": "Benchling",
-      "slug": "benchling",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Boston",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": 150000,
-    "salary_max": 200000,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "exec",
-      "design",
-      "technical",
-      "marketing",
-      "sales",
-      "biotech",
-      "medical",
-      "education",
-      "digital nomad"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1136937",
-    "published_at": "2026-08-18",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Solutions Delivery Manager",
-      "description": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this,...",
-      "datePosted": "2026-08-18",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Benchling"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1136937",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 150000,
-          "maxValue": 200000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "marketing-operations-specialist-engine-worldwide-remoteok-1136950",
-    "slug": "marketing-operations-specialist-engine-worldwide-remoteok-1136950",
-    "title": "Marketing Operations Specialist",
-    "seo_title": "Remote Marketing Operations Specialist Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Marketing Operations Specialist job at Engine in Worldwide. Explore RAG, customer support, marketing, travel and remote AI jobs.",
-    "company": {
-      "name": "Engine",
-      "slug": "engine",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote - US",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "customer support",
-      "marketing",
-      "travel",
-      "finance",
-      "exec",
-      "ops",
-      "sales"
-    ],
-    "category": "Robotics",
-    "description_summary": "About Engine At Engine, weâre transforming business travel into something personalized, rewarding, and simple. For too long, managing travel and spend has been overwhelming and fragmented â weâre here to change that. We believe the future of travel...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1136950",
-    "published_at": "2026-08-18",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Marketing Operations Specialist",
-      "description": "About Engine At Engine, weâre transforming business travel into something personalized, rewarding, and simple. For too long, managing travel and spend has been overwhelming and fragmented â weâre here to change that. We believe the future of travel...",
-      "datePosted": "2026-08-18",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Engine"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1136950",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   }
