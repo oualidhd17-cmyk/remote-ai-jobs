@@ -77,13 +77,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Doximity",
-    "slug": "doximity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Calm.com",
     "slug": "calm-com",
     "logo_url": null,
@@ -170,6 +163,13 @@
   {
     "name": "Melio",
     "slug": "melio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Doximity",
+    "slug": "doximity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,13 +282,6 @@
   {
     "name": "Ashby",
     "slug": "ashby",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Airspace Link",
-    "slug": "airspace-link",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
