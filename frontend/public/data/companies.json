@@ -7,22 +7,15 @@
     "jobs_count": 38
   },
   {
-    "name": "Vercel",
-    "slug": "vercel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
-    "name": "6sense",
-    "slug": "6sense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -35,6 +28,48 @@
     "jobs_count": 3
   },
   {
+    "name": "AssemblyAI",
+    "slug": "assemblyai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "JFrog",
+    "slug": "jfrog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Everpure",
+    "slug": "everpure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Webflow",
     "slug": "webflow",
     "logo_url": null,
@@ -42,8 +77,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Talkspace",
-    "slug": "talkspace",
+    "name": "6sense",
+    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -58,20 +93,6 @@
   {
     "name": "Gong.io",
     "slug": "gong-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Upgrade",
-    "slug": "upgrade",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Knock",
-    "slug": "knock",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -98,13 +119,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Discord",
-    "slug": "discord",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Collibra",
     "slug": "collibra",
     "logo_url": null,
@@ -126,13 +140,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Squarespace",
-    "slug": "squarespace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Huntress",
     "slug": "huntress",
     "logo_url": null,
@@ -140,8 +147,15 @@
     "jobs_count": 2
   },
   {
-    "name": "Fin",
-    "slug": "fin",
+    "name": "Descript",
+    "slug": "descript",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -154,15 +168,8 @@
     "jobs_count": 1
   },
   {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Melio",
-    "slug": "melio",
+    "name": "Upgrade",
+    "slug": "upgrade",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -231,6 +238,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Discord",
+    "slug": "discord",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
     "logo_url": null,
@@ -245,13 +259,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Zanda Health",
-    "slug": "zanda-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Dropbox",
     "slug": "dropbox",
     "logo_url": null,
@@ -261,6 +268,13 @@
   {
     "name": "Prenosis",
     "slug": "prenosis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Squarespace",
+    "slug": "squarespace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
