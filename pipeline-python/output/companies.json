@@ -70,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Webflow",
-    "slug": "webflow",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "6sense",
     "slug": "6sense",
     "logo_url": null,
@@ -107,6 +100,13 @@
   {
     "name": "Toptal",
     "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -161,6 +161,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Leverage Live Local",
+    "slug": "leverage-live-local",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Paragon Planners",
     "slug": "paragon-planners",
     "logo_url": null,
@@ -189,13 +203,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Lithic",
-    "slug": "lithic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Cribl",
     "slug": "cribl",
     "logo_url": null,
@@ -205,13 +212,6 @@
   {
     "name": "Pearl",
     "slug": "pearl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Salesloft",
-    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -359,6 +359,13 @@
   {
     "name": "A.Team",
     "slug": "a-team",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Proxify AB",
+    "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

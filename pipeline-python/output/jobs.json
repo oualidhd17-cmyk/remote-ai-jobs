@@ -790,6 +790,71 @@
     "ai_relevant": true
   },
   {
+    "id": "head-of-operations-leverage-live-local-worldwide-remoteok-1137461",
+    "slug": "head-of-operations-leverage-live-local-worldwide-remoteok-1137461",
+    "title": "Head of Operations",
+    "seo_title": "Remote Head of Operations Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Head of Operations job at Leverage Live Local in Worldwide. Explore RAG, non tech, ops, exec and remote AI jobs.",
+    "company": {
+      "name": "Leverage Live Local",
+      "slug": "leverage-live-local",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": 170000,
+    "salary_max": 350000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "non tech",
+      "ops",
+      "exec"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is. This seat owns the operating system that...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137461",
+    "published_at": "2026-10-03",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Head of Operations",
+      "description": "Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is. This seat owns the operating system that...",
+      "datePosted": "2026-10-03",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Leverage Live Local"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137461",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 170000,
+          "maxValue": 350000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "community-engagement-manager-data-centers-texas-anthropic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-anthropic-community-engagement-manager-d",
     "slug": "community-engagement-manager-data-centers-texas-anthropic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-anthropic-community-engagement-manager-d",
     "title": "Community Engagement Manager, Data Centers (Texas)",
@@ -1004,61 +1069,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/clover-health-commercial-partnerships-operations-director",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "lead-solutions-engineer-central-east-webflow-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-webflow-lead-solutions-engineer-central-east",
-    "slug": "lead-solutions-engineer-central-east-webflow-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-webflow-lead-solutions-engineer-central-east",
-    "title": "Lead Solutions Engineer - Central / East",
-    "seo_title": "Remote Lead Solutions Engineer - Central / East Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Lead Solutions Engineer - Central / East job at Webflow in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Webflow",
-      "slug": "webflow",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: CA Remote (BC & ON only); U.S. Remote Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/webflow-lead-solutions-engineer-central-east",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/webflow-lead-solutions-engineer-central-east",
-    "published_at": "2026-10-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Lead Solutions Engineer - Central / East",
-      "description": "Headquarters: CA Remote (BC & ON only); U.S. Remote Webflow is the agentic web marketing platform for modern marketing teams, helping organizations build, manage, and optimize high-performing web experiences that drive predictable growth and strengthen brand...",
-      "datePosted": "2026-10-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Webflow"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/webflow-lead-solutions-engineer-central-east",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2406,62 +2416,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-software-engineer-card-authorization-lithic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lithic-senior-software-engineer-card-authorizat",
-    "slug": "senior-software-engineer-card-authorization-lithic-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lithic-senior-software-engineer-card-authorizat",
-    "title": "Senior Software Engineer, Card Authorization",
-    "seo_title": "Remote Senior Software Engineer, Card Authorization Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Software Engineer, Card Authorization job at Lithic in Worldwide. Explore Python, RAG, Spark, Full-Stack Programming and remote...",
-    "company": {
-      "name": "Lithic",
-      "slug": "lithic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "Spark",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
-    "published_at": "2026-09-30",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Software Engineer, Card Authorization",
-      "description": "Headquarters: Remote Lithic is the modern card issuing and processing platform empowering ambitious financial companies to build the future of payments. Our infrastructure powers card programs for 100+ innovative clients, from fintechs reimagining credit and...",
-      "datePosted": "2026-09-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lithic"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/lithic-senior-software-engineer-card-authorization",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5994,6 +5948,60 @@
     "ai_relevant": true
   },
   {
+    "id": "people-operations-generalist-salesloft-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-salesloft-people-operations-generalist",
+    "slug": "people-operations-generalist-salesloft-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-salesloft-people-operations-generalist",
+    "title": "People Operations Generalist",
+    "seo_title": "Remote People Operations Generalist Job | Robotics Jobs",
+    "seo_description": "Apply for a remote People Operations Generalist job at Salesloft in Worldwide. Explore RAG, Management and Finance, Remote and remote AI jobs.",
+    "company": {
+      "name": "Salesloft",
+      "slug": "salesloft",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Management and Finance",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: United States, Remote Job Title: People Operations Generalist Location: United States, Remote THE OPPORTUNITY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/salesloft-people-operations-generalist",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/salesloft-people-operations-generalist",
+    "published_at": "2026-09-17",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "People Operations Generalist",
+      "description": "Headquarters: United States, Remote Job Title: People Operations Generalist Location: United States, Remote THE OPPORTUNITY: Salesloft is building the next era of enterprise revenue — one where teams make confident decisions powered by AI and real signals. By...",
+      "datePosted": "2026-09-17",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Salesloft"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/salesloft-people-operations-generalist",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "ai-agent-engineer-sticker-mule-worldwide-remoteok-1137399",
     "slug": "ai-agent-engineer-sticker-mule-worldwide-remoteok-1137399",
     "title": "AI agent engineer",
@@ -6200,6 +6208,66 @@
         "@type": "Country",
         "name": "USA"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-backend-developer-python-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-backend-developer-python-10",
+    "slug": "senior-backend-developer-python-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-backend-developer-python-10",
+    "title": "Senior Backend Developer (Python)",
+    "seo_title": "Remote Senior Backend Developer (Python) Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Senior Backend Developer (Python) job at Proxify AB in Worldwide. Explore Python, SQL, RAG, Docker and remote AI jobs.",
+    "company": {
+      "name": "Proxify AB",
+      "slug": "proxify-ab",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10",
+    "published_at": "2026-09-15",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Backend Developer (Python)",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop...",
+      "datePosted": "2026-09-15",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Proxify AB"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-10",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6696,6 +6764,62 @@
     "ai_relevant": true
   },
   {
+    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer",
+    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer",
@@ -6751,62 +6875,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer",
-    "seo_title": "Remote AV Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer job at anthropic in Worldwide. Explore RAG, AWS, Security, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
