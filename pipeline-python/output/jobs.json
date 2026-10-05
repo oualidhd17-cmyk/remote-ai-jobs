@@ -790,6 +790,62 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-engineer-dnb-anthropic-uk-greenhouse-anthropic-5435282008",
+    "slug": "applied-ai-engineer-dnb-anthropic-uk-greenhouse-anthropic-5435282008",
+    "title": "Applied AI Engineer, DNB",
+    "seo_title": "Remote Applied AI Engineer, DNB Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Engineer, DNB job at anthropic in UK. Explore Python, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008",
+    "published_at": "2026-10-04",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Engineer, DNB",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-04",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5435282008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "head-of-operations-leverage-live-local-worldwide-remoteok-1137461",
     "slug": "head-of-operations-leverage-live-local-worldwide-remoteok-1137461",
     "title": "Head of Operations",
@@ -3678,59 +3734,6 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-evidence-manager-dropbox-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-dropbox-customer-evidence-manager-1",
-    "slug": "customer-evidence-manager-dropbox-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-dropbox-customer-evidence-manager-1",
-    "title": "Customer Evidence Manager",
-    "seo_title": "Remote Customer Evidence Manager Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Customer Evidence Manager job at Dropbox in Worldwide. Explore Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Dropbox",
-      "slug": "dropbox",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote - Canada: Select locations Role Description Dropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
-    "published_at": "2026-09-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Evidence Manager",
-      "description": "Headquarters: Remote - Canada: Select locations Role Description Dropbox is hiring a Customer Evidence Manager to own and drive the customer-proof infrastructure that powers our managed sales motion. This is a senior individual-contributor role for a...",
-      "datePosted": "2026-09-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Dropbox"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/dropbox-customer-evidence-manager-1",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "cps-solution-architect-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-cps-solution-architect",
     "slug": "cps-solution-architect-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-cps-solution-architect",
     "title": "CPS Solution Architect",
@@ -6407,6 +6410,63 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137391",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "backend-engineer-iam-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-backend-engineer-iam",
+    "slug": "backend-engineer-iam-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-backend-engineer-iam",
+    "title": "Backend Engineer, IAM",
+    "seo_title": "Remote Backend Engineer, IAM Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Backend Engineer, IAM job at Reddit in Worldwide. Explore RAG, Kubernetes, AWS, GCP and remote AI jobs.",
+    "company": {
+      "name": "Reddit",
+      "slug": "reddit",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Kubernetes",
+      "AWS",
+      "GCP",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
+    "published_at": "2026-09-14",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Backend Engineer, IAM",
+      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
+      "datePosted": "2026-09-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Reddit"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/reddit-backend-engineer-iam",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true

@@ -1,10 +1,10 @@
 [
   {
-    "name": "Anthropic",
+    "name": "anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 38
+    "jobs_count": 39
   },
   {
     "name": "Lemon.io",
@@ -259,13 +259,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Dropbox",
-    "slug": "dropbox",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Prenosis",
     "slug": "prenosis",
     "logo_url": null,
@@ -380,6 +373,13 @@
   {
     "name": "Sleek",
     "slug": "sleek",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
