@@ -21,11 +21,46 @@
     "jobs_count": 4
   },
   {
+    "name": "Everpure",
+    "slug": "everpure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Clover Health",
     "slug": "clover-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Wrike",
+    "slug": "wrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Datadog",
+    "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Braze",
+    "slug": "braze",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Chime Financial, Inc",
+    "slug": "chime-financial-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "AssemblyAI",
@@ -42,29 +77,8 @@
     "jobs_count": 2
   },
   {
-    "name": "JFrog",
-    "slug": "jfrog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Jumio",
     "slug": "jumio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Zscaler",
-    "slug": "zscaler",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Everpure",
-    "slug": "everpure",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -84,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Gong.io",
-    "slug": "gong-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Calm.com",
     "slug": "calm-com",
     "logo_url": null,
@@ -100,13 +107,6 @@
   {
     "name": "Toptal",
     "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Salesloft",
-    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,15 +140,36 @@
     "jobs_count": 2
   },
   {
-    "name": "Huntress",
-    "slug": "huntress",
+    "name": "Tines",
+    "slug": "tines",
     "logo_url": null,
     "website": null,
-    "jobs_count": 2
+    "jobs_count": 1
+  },
+  {
+    "name": "Tailscale",
+    "slug": "tailscale",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Descript",
     "slug": "descript",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "JFrog",
+    "slug": "jfrog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -182,13 +203,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Upgrade",
-    "slug": "upgrade",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Doximity",
     "slug": "doximity",
     "logo_url": null,
@@ -217,20 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Tailscale",
-    "slug": "tailscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ICUC Social",
-    "slug": "icuc-social",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "EPAM Systems",
     "slug": "epam-systems",
     "logo_url": null,
@@ -247,13 +247,6 @@
   {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "MMC Group",
-    "slug": "mmc-group",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,6 +282,13 @@
   {
     "name": "Ashby",
     "slug": "ashby",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Huntress",
+    "slug": "huntress",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -373,13 +373,6 @@
   {
     "name": "Sleek",
     "slug": "sleek",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
