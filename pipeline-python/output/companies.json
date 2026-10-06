@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 40
+    "jobs_count": 38
   },
   {
     "name": "Lemon.io",
@@ -33,6 +33,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "EPAM Systems",
+    "slug": "epam-systems",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Wrike",
@@ -79,13 +86,6 @@
   {
     "name": "Jumio",
     "slug": "jumio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "6sense",
-    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -196,6 +196,13 @@
     "jobs_count": 1
   },
   {
+    "name": "6sense",
+    "slug": "6sense",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Webflow",
     "slug": "webflow",
     "logo_url": null,
@@ -226,13 +233,6 @@
   {
     "name": "Pearl",
     "slug": "pearl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EPAM Systems",
-    "slug": "epam-systems",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
