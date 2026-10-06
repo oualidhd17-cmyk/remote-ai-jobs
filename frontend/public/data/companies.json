@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 38
+    "jobs_count": 36
   },
   {
     "name": "Lemon.io",
@@ -14,6 +14,13 @@
     "jobs_count": 5
   },
   {
+    "name": "Wrike",
+    "slug": "wrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
     "name": "Vercel",
     "slug": "vercel",
     "logo_url": null,
@@ -21,18 +28,46 @@
     "jobs_count": 4
   },
   {
-    "name": "Everpure",
-    "slug": "everpure",
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Clover Health",
-    "slug": "clover-health",
+    "name": "Dropbox",
+    "slug": "dropbox",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "EPAM Systems",
@@ -42,8 +77,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Wrike",
-    "slug": "wrike",
+    "name": "Everpure",
+    "slug": "everpure",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -91,8 +126,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Pinterest",
-    "slug": "pinterest",
+    "name": "Clover Health",
+    "slug": "clover-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,18 +154,32 @@
     "jobs_count": 2
   },
   {
-    "name": "Faire",
-    "slug": "faire",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Semaphore",
+    "slug": "semaphore",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CodeForAI",
+    "slug": "codeforai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Sparix Global.",
@@ -175,20 +224,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Zscaler",
-    "slug": "zscaler",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Leverage Live Local",
     "slug": "leverage-live-local",
     "logo_url": null,
@@ -198,27 +233,6 @@
   {
     "name": "6sense",
     "slug": "6sense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Webflow",
-    "slug": "webflow",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Doximity",
-    "slug": "doximity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Hex Technologies",
-    "slug": "hex-technologies",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -247,6 +261,13 @@
   {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Faire",
+    "slug": "faire",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,13 +303,6 @@
   {
     "name": "Ashby",
     "slug": "ashby",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Huntress",
-    "slug": "huntress",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
