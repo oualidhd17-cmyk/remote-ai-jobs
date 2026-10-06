@@ -1,5 +1,65 @@
 [
   {
+    "id": "senior-angular-full-stack-developer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-angular-full-stack-developer",
+    "slug": "senior-angular-full-stack-developer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-angular-full-stack-developer",
+    "title": "Senior Angular Full-stack Developer",
+    "seo_title": "Remote Senior Angular Full-stack Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Angular Full-stack Developer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+    "published_at": "2026-10-06",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Angular Full-stack Developer",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked...",
+      "datePosted": "2026-10-06",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-angular-full-stack-developer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-product-engineer-semaphore-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-semaphore-senior-product-engineer",
     "slug": "senior-product-engineer-semaphore-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-semaphore-senior-product-engineer",
     "title": "Senior Product Engineer",
@@ -941,6 +1001,62 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-engineer-beneficial-deployments-life-sciences-clinical-trials-drug-repurposing-anthropic-uk-greenhouse-anthropic-5445760008",
+    "slug": "applied-ai-engineer-beneficial-deployments-life-sciences-clinical-trials-drug-repurposing-anthropic-uk-greenhouse-anthropic-5445760008",
+    "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing)",
+    "seo_title": "Remote Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing) Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing) job at anthropic in UK. Explore LLM,...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Statistics",
+      "Applied AI",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
+    "published_at": "2026-10-06",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-06",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
     "slug": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
     "title": "Commercial Operations Program Manager",
@@ -990,6 +1106,60 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "communications-manager-policy-anthropic-worldwide-greenhouse-anthropic-5445316008",
+    "slug": "communications-manager-policy-anthropic-worldwide-greenhouse-anthropic-5445316008",
+    "title": "Communications Manager, Policy",
+    "seo_title": "Remote Communications Manager, Policy Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Communications Manager, Policy job at anthropic in Worldwide. Explore RAG, AWS, Communications, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Communications",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445316008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445316008",
+    "published_at": "2026-10-06",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Communications Manager, Policy",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-06",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445316008"
     },
     "ai_relevant": true
   },
@@ -1181,6 +1351,62 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "platform-and-integration-engineer-security-telemetry-redmimicry-worldwide-remoteok-1137465",
+    "slug": "platform-and-integration-engineer-security-telemetry-redmimicry-worldwide-remoteok-1137465",
+    "title": "Platform and Integration Engineer Security Telemetry",
+    "seo_title": "Remote Platform and Integration Engineer Security Telemetry Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Platform and Integration Engineer Security Telemetry job at RedMimicry in Worldwide. Explore RAG, golang, infosec, engineer and remote...",
+    "company": {
+      "name": "RedMimicry",
+      "slug": "redmimicry",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "part-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "golang",
+      "infosec",
+      "engineer",
+      "part time"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-platform-and-integration-engineer-security-telemetry-redmimicry-1137465",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137465",
+    "published_at": "2026-10-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Platform and Integration Engineer Security Telemetry",
+      "description": "Remote - Location: Mostly remote (within Germany), with monthly in-person collaboration at our Berlin officeHours: Part-time, 32 hours per weekContract: Fixed-termSalary: EUR 53,000 â 59,000 (at 32 hours per week)We are building a new capability that turns...",
+      "datePosted": "2026-10-05",
+      "employmentType": "PART_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "RedMimicry"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137465",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -2464,66 +2690,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/jumio-identity-strategist-emea",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "abuse-research-engineer-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-abuse-research-engineer",
-    "slug": "abuse-research-engineer-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-abuse-research-engineer",
-    "title": "Abuse Research Engineer",
-    "seo_title": "Remote Abuse Research Engineer Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Abuse Research Engineer job at Stripe in Worldwide. Explore Python, SQL, Scikit-learn, Pandas and remote AI jobs.",
-    "company": {
-      "name": "Stripe",
-      "slug": "stripe",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Scikit-learn",
-      "Pandas",
-      "LLM",
-      "RAG",
-      "Spark",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
-    "published_at": "2026-10-04",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Abuse Research Engineer",
-      "description": "Headquarters: Remote from the US Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue,...",
-      "datePosted": "2026-10-04",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Stripe"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/stripe-abuse-research-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5046,59 +5212,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-staff-operations-manager-office-of-the-president-ped-squarespace-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-squarespace-senior-staff-o",
-    "slug": "senior-staff-operations-manager-office-of-the-president-ped-squarespace-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-squarespace-senior-staff-o",
-    "title": "Senior Staff Operations Manager, Office of the President (PED)",
-    "seo_title": "Remote Senior Staff Operations Manager, Office of the President (PED) Job | Prompt Engineering Jobs",
-    "seo_description": "Apply for a remote Senior Staff Operations Manager, Office of the President (PED) job at Squarespace in Worldwide. Explore Management and Finance, Remote...",
-    "company": {
-      "name": "Squarespace",
-      "slug": "squarespace",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Prompt Engineering",
-    "description_summary": "Headquarters: Remote, California We are looking for a Chief of Staff–style operator to serve as the President’s right hand and help run, maintain, and continuously evolve the Product, Engineering & Design operating model and cadence. This role will turn...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/squarespace-senior-staff-operations-manager-office-of-the-president-ped",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/squarespace-senior-staff-operations-manager-office-of-the-president-ped",
-    "published_at": "2026-09-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Staff Operations Manager, Office of the President (PED)",
-      "description": "Headquarters: Remote, California We are looking for a Chief of Staff–style operator to serve as the President’s right hand and help run, maintain, and continuously evolve the Product, Engineering & Design operating model and cadence. This role will turn...",
-      "datePosted": "2026-09-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Squarespace"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/squarespace-senior-staff-operations-manager-office-of-the-president-ped",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-startups-anthropic-uk-greenhouse-anthropic-5432573008",
     "slug": "applied-ai-architect-startups-anthropic-uk-greenhouse-anthropic-5432573008",
     "title": "Applied AI Architect, Startups",
@@ -5207,62 +5320,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432575008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "associate-applied-ai-rotational-program-london-anthropic-uk-greenhouse-anthropic-5425724008",
-    "slug": "associate-applied-ai-rotational-program-london-anthropic-uk-greenhouse-anthropic-5425724008",
-    "title": "Associate Applied AI, Rotational Program, London",
-    "seo_title": "Remote Associate Applied AI, Rotational Program, London Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Associate Applied AI, Rotational Program, London job at anthropic in UK. Explore Python, LLM, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-    "published_at": "2026-09-23",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Associate Applied AI, Rotational Program, London",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-23",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008"
     },
     "ai_relevant": true
   },
