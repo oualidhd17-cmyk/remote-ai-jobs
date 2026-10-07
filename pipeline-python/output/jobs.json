@@ -1,5 +1,179 @@
 [
   {
+    "id": "anthropic-fellows-program-ai-safety-security-anthropic-usa-greenhouse-anthropic-5183044008",
+    "slug": "anthropic-fellows-program-ai-safety-security-anthropic-usa-greenhouse-anthropic-5183044008",
+    "title": "Anthropic Fellows Program, AI Safety & Security",
+    "seo_title": "Remote Anthropic Fellows Program, AI Safety & Security Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Fellows Program, AI Safety & Security job at anthropic in USA. Explore Python, Deep Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Deep Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "AI Research & Engineering",
+      "British Columbia, CA",
+      "London, UK",
+      "Ontario, CA",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+    "published_at": "2026-10-07",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Fellows Program, AI Safety & Security",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "digital-marketing-google-ads-ai-search-specialist-logicstics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-logicstics-digital-marketing-google-a",
+    "slug": "digital-marketing-google-ads-ai-search-specialist-logicstics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-logicstics-digital-marketing-google-a",
+    "title": "Digital Marketing & Google Ads / AI Search Specialist",
+    "seo_title": "Remote Digital Marketing & Google Ads / AI Search Specialist Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Digital Marketing & Google Ads / AI Search Specialist job at Logicstics in Worldwide. Explore LLM, Sales and Marketing, Remote and...",
+    "company": {
+      "name": "Logicstics",
+      "slug": "logicstics",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "Headquarters: Philadelphia, PA, USA URL: https://logicstics.com Remote | Full-Time Logicstics is looking for an experienced Digital Marketing & Google Ads / AI Search Specialist to take ownership of our online lead generation strategy. We are an international...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/logicstics-digital-marketing-google-ads-ai-search-specialist",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/logicstics-digital-marketing-google-ads-ai-search-specialist",
+    "published_at": "2026-10-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Digital Marketing & Google Ads / AI Search Specialist",
+      "description": "Headquarters: Philadelphia, PA, USA URL: https://logicstics.com Remote | Full-Time Logicstics is looking for an experienced Digital Marketing & Google Ads / AI Search Specialist to take ownership of our online lead generation strategy. We are an international...",
+      "datePosted": "2026-10-07",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Logicstics"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/logicstics-digital-marketing-google-ads-ai-search-specialist",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "head-of-design-development-construction-gilbert-pharmaceuticals-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gilbert-pharmaceuticals-head-of-de",
+    "slug": "head-of-design-development-construction-gilbert-pharmaceuticals-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gilbert-pharmaceuticals-head-of-de",
+    "title": "Head of Design & Development & Construction",
+    "seo_title": "Remote Head of Design & Development & Construction Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Head of Design & Development & Construction job at Gilbert Pharmaceuticals in Worldwide. Explore LLM, Airflow, Sales and Marketing,...",
+    "company": {
+      "name": "Gilbert Pharmaceuticals",
+      "slug": "gilbert-pharmaceuticals",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "Airflow",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: United States URL: https://gilbertpharmaceuticals.com/ The Head of Design, Development, & Construction will own the entire end to end process of launching new compounding pharmacies nationally. This will include site selection, feasibility,...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/gilbert-pharmaceuticals-head-of-design-development-construction",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/gilbert-pharmaceuticals-head-of-design-development-construction",
+    "published_at": "2026-10-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Head of Design & Development & Construction",
+      "description": "Headquarters: United States URL: https://gilbertpharmaceuticals.com/ The Head of Design, Development, & Construction will own the entire end to end process of launching new compounding pharmacies nationally. This will include site selection, feasibility,...",
+      "datePosted": "2026-10-07",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Gilbert Pharmaceuticals"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/gilbert-pharmaceuticals-head-of-design-development-construction",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "analyst-privacy-coinbase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coinbase-analyst-privacy",
     "slug": "analyst-privacy-coinbase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coinbase-analyst-privacy",
     "title": "Analyst, Privacy",
@@ -654,6 +828,172 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "administrative-business-partner-gtm-london-anthropic-uk-greenhouse-anthropic-5394780008",
+    "slug": "administrative-business-partner-gtm-london-anthropic-uk-greenhouse-anthropic-5394780008",
+    "title": "Administrative Business Partner, GTM - London",
+    "seo_title": "Remote Administrative Business Partner, GTM - London Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Administrative Business Partner, GTM - London job at anthropic in UK. Explore RAG, AWS, People, London, UK and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "People",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5394780008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5394780008",
+    "published_at": "2026-10-07",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Administrative Business Partner, GTM - London",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394780008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "ai-outcomes-manager-anthropic-worldwide-greenhouse-anthropic-5082455008",
+    "slug": "ai-outcomes-manager-anthropic-worldwide-greenhouse-anthropic-5082455008",
+    "title": "AI Outcomes Manager",
+    "seo_title": "Remote AI Outcomes Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AI Outcomes Manager job at anthropic in Worldwide. Explore LLM, RAG, AWS, Sales and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "location_label": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Sales",
+      "New York City, NY",
+      "San Francisco, CA",
+      "Seattle, WA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5082455008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5082455008",
+    "published_at": "2026-10-07",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI Outcomes Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-07",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5082455008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-beneficial-deployments-life-sciences-community-enablement-anthropic-worldwide-greenhouse-anthropic-5446657008",
+    "slug": "applied-ai-architect-beneficial-deployments-life-sciences-community-enablement-anthropic-worldwide-greenhouse-anthropic-5446657008",
+    "title": "Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement)",
+    "seo_title": "Remote Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement) job at anthropic in Worldwide. Explore LLM, RAG,...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5446657008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5446657008",
+    "published_at": "2026-10-07",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Beneficial Deployments (Life Sciences Community & Enablement)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5446657008"
     },
     "ai_relevant": true
   },
@@ -1831,62 +2171,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-engineer-beneficial-deployments-life-sciences-clinical-trials-drug-repurposing-anthropic-uk-greenhouse-anthropic-5445760008",
-    "slug": "applied-ai-engineer-beneficial-deployments-life-sciences-clinical-trials-drug-repurposing-anthropic-uk-greenhouse-anthropic-5445760008",
-    "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing)",
-    "seo_title": "Remote Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing) Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing) job at anthropic in UK. Explore LLM,...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Statistics",
-      "Applied AI",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
-    "published_at": "2026-10-06",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Engineer, Beneficial Deployments (Life Sciences - Clinical Trials/Drug Repurposing)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-06",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
     "slug": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
     "title": "Commercial Operations Program Manager",
@@ -2573,61 +2857,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-enterprise-chicago-everpure-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-everpure-account-executive-enterprise-chicago",
-    "slug": "account-executive-enterprise-chicago-everpure-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-everpure-account-executive-enterprise-chicago",
-    "title": "Account Executive, Enterprise (Chicago)",
-    "seo_title": "Remote Account Executive, Enterprise (Chicago) Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Account Executive, Enterprise (Chicago) job at Everpure in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Everpure",
-      "slug": "everpure",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote, Illinois Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-enterprise-chicago",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-enterprise-chicago",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Enterprise (Chicago)",
-      "description": "Headquarters: Remote, Illinois Everpure (NYSE: P) has evolved from storage pioneer to data platform, closing fiscal 2026 with $3.7 billion in revenue, its first billion-dollar quarter, and accelerating growth into FY27. Our strategic agenda spans the...",
-      "datePosted": "2026-10-05",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Everpure"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/everpure-account-executive-enterprise-chicago",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "backend-engineer-control-plane-tailscale-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-tailscale-backend-engineer-control-plane",
     "slug": "backend-engineer-control-plane-tailscale-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-tailscale-backend-engineer-control-plane",
     "title": "Backend Engineer, Control Plane",
@@ -2789,60 +3018,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/chime-financial-inc-global-workforce-planning-transformation",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "account-executive-enterprise-financial-services-braze-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-braze-account-executive-enterprise-financial",
-    "slug": "account-executive-enterprise-financial-services-braze-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-braze-account-executive-enterprise-financial",
-    "title": "Account Executive, Enterprise - Financial Services",
-    "seo_title": "Remote Account Executive, Enterprise - Financial Services Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Account Executive, Enterprise - Financial Services job at Braze in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI...",
-    "company": {
-      "name": "Braze",
-      "slug": "braze",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote - Australia At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/braze-account-executive-enterprise-financial-services",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/braze-account-executive-enterprise-financial-services",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Enterprise - Financial Services",
-      "description": "Headquarters: Remote - Australia At Braze, we have found our people. We’re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life...",
-      "datePosted": "2026-10-05",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Braze"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/braze-account-executive-enterprise-financial-services",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -6486,71 +6661,6 @@
     "ai_relevant": true
   },
   {
-    "id": "anthropic-fellows-program-ai-safety-security-anthropic-usa-greenhouse-anthropic-5183044008",
-    "slug": "anthropic-fellows-program-ai-safety-security-anthropic-usa-greenhouse-anthropic-5183044008",
-    "title": "Anthropic Fellows Program, AI Safety & Security",
-    "seo_title": "Remote Anthropic Fellows Program, AI Safety & Security Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Fellows Program, AI Safety & Security job at anthropic in USA. Explore Python, Deep Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Deep Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "AI Research & Engineering",
-      "British Columbia, CA",
-      "London, UK",
-      "Ontario, CA",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
-    "published_at": "2026-09-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Fellows Program, AI Safety & Security",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-18",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-hey-contact-heroes-gmbh-worldwide-remotive-2091139",
     "slug": "kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-hey-contact-heroes-gmbh-worldwide-remotive-2091139",
     "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
@@ -7613,65 +7723,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Canada"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "contracts-manager-emea-anthropic-uk-greenhouse-anthropic-5264820008",
-    "slug": "contracts-manager-emea-anthropic-uk-greenhouse-anthropic-5264820008",
-    "title": "Contracts Manager, EMEA",
-    "seo_title": "Remote Contracts Manager, EMEA Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, EMEA job at anthropic in UK. Explore RAG, AWS, Legal, London, UK and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
       }
     },
     "ai_relevant": true

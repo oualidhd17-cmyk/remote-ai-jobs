@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 38
+    "jobs_count": 39
   },
   {
     "name": "Lemon.io",
@@ -98,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Everpure",
-    "slug": "everpure",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Chime Financial, Inc",
     "slug": "chime-financial-inc",
     "logo_url": null,
@@ -159,6 +152,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Logicstics",
+    "slug": "logicstics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Gilbert Pharmaceuticals",
+    "slug": "gilbert-pharmaceuticals",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Coinbase",
@@ -245,6 +252,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Everpure",
+    "slug": "everpure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Datadog",
     "slug": "datadog",
     "logo_url": null,
@@ -254,13 +268,6 @@
   {
     "name": "Tailscale",
     "slug": "tailscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Braze",
-    "slug": "braze",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
