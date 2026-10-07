@@ -35,6 +35,27 @@
     "jobs_count": 3
   },
   {
+    "name": "Galileo",
+    "slug": "galileo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Stripe",
     "slug": "stripe",
     "logo_url": null,
@@ -79,13 +100,6 @@
   {
     "name": "Everpure",
     "slug": "everpure",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Datadog",
-    "slug": "datadog",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -147,6 +161,48 @@
     "jobs_count": 2
   },
   {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mixmax",
+    "slug": "mixmax",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Current",
+    "slug": "current",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Dremio",
+    "slug": "dremio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Abnormal",
+    "slug": "abnormal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Semaphore",
     "slug": "semaphore",
     "logo_url": null,
@@ -189,6 +245,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Datadog",
+    "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Tailscale",
     "slug": "tailscale",
     "logo_url": null,
@@ -198,27 +261,6 @@
   {
     "name": "Braze",
     "slug": "braze",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Descript",
-    "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "JFrog",
-    "slug": "jfrog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
