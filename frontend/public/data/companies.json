@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 35
+    "jobs_count": 36
   },
   {
     "name": "Lemon.io",
@@ -65,13 +65,6 @@
   {
     "name": "Expel",
     "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "GitLab",
-    "slug": "gitlab",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -168,6 +161,34 @@
     "jobs_count": 2
   },
   {
+    "name": "Prospex CRM",
+    "slug": "prospex-crm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "sa.global",
+    "slug": "sa-global",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Creatio",
+    "slug": "creatio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bondora",
+    "slug": "bondora",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "BlueGeko",
     "slug": "bluegeko",
     "logo_url": null,
@@ -177,6 +198,13 @@
   {
     "name": "HighRadius",
     "slug": "highradius",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tierarzt Plus Partner",
+    "slug": "tierarzt-plus-partner",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -224,8 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Abnormal",
-    "slug": "abnormal",
+    "name": "GitLab",
+    "slug": "gitlab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -233,13 +261,6 @@
   {
     "name": "BeyondTrust",
     "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Dropbox",
-    "slug": "dropbox",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
