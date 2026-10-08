@@ -4,35 +4,56 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 34
+    "jobs_count": 35
   },
   {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
-  },
-  {
-    "name": "Wrike",
-    "slug": "wrike",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
+    "jobs_count": 7
   },
   {
     "name": "Vercel",
     "slug": "vercel",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 6
   },
   {
-    "name": "Dropbox",
-    "slug": "dropbox",
+    "name": "Alloy",
+    "slug": "alloy",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
+  },
+  {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Forter",
+    "slug": "forter",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Faire",
+    "slug": "faire",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Galileo",
@@ -51,13 +72,6 @@
   {
     "name": "GitLab",
     "slug": "gitlab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Stripe",
-    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -86,6 +100,13 @@
   {
     "name": "Webflow",
     "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Wrike",
+    "slug": "wrike",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,18 +161,25 @@
     "jobs_count": 2
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "BlueGeko",
+    "slug": "bluegeko",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "HighRadius",
+    "slug": "highradius",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Logicstics",
@@ -210,6 +238,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Semaphore",
     "slug": "semaphore",
     "logo_url": null,
@@ -224,8 +259,8 @@
     "jobs_count": 1
   },
   {
-    "name": "EPAM Systems",
-    "slug": "epam-systems",
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -238,13 +273,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Sparix Global.",
-    "slug": "sparix-global",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "LawnStarter",
     "slug": "lawnstarter",
     "logo_url": null,
@@ -252,22 +280,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Everpure",
-    "slug": "everpure",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Datadog",
     "slug": "datadog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tailscale",
-    "slug": "tailscale",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -294,29 +308,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Pearl",
-    "slug": "pearl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Discord",
     "slug": "discord",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Faire",
-    "slug": "faire",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
