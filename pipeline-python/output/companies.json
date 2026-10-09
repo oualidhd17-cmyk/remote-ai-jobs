@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 35
+    "jobs_count": 36
   },
   {
     "name": "Lemon.io",
@@ -21,8 +21,43 @@
     "jobs_count": 6
   },
   {
-    "name": "Alloy",
-    "slug": "alloy",
+    "name": "Affirm",
+    "slug": "affirm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Upstart",
+    "slug": "upstart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Amwell",
+    "slug": "amwell",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -51,27 +86,6 @@
   {
     "name": "Databricks",
     "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Galileo",
-    "slug": "galileo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Expel",
-    "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -107,13 +121,6 @@
   {
     "name": "RedMimicry",
     "slug": "redmimicry",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Chime Financial, Inc",
-    "slug": "chime-financial-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -161,6 +168,20 @@
     "jobs_count": 2
   },
   {
+    "name": "JetBrains",
+    "slug": "jetbrains",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "JFrog",
+    "slug": "jfrog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Prospex CRM",
     "slug": "prospex-crm",
     "logo_url": null,
@@ -196,8 +217,8 @@
     "jobs_count": 1
   },
   {
-    "name": "HighRadius",
-    "slug": "highradius",
+    "name": "Alloy",
+    "slug": "alloy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,20 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Logicstics",
-    "slug": "logicstics",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Gilbert Pharmaceuticals",
-    "slug": "gilbert-pharmaceuticals",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
@@ -231,8 +238,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Mixmax",
-    "slug": "mixmax",
+    "name": "Galileo",
+    "slug": "galileo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Expel",
+    "slug": "expel",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -247,13 +261,6 @@
   {
     "name": "Dremio",
     "slug": "dremio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "GitLab",
-    "slug": "gitlab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -280,13 +287,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "CodeForAI",
     "slug": "codeforai",
     "logo_url": null,
@@ -294,15 +294,15 @@
     "jobs_count": 1
   },
   {
-    "name": "LawnStarter",
-    "slug": "lawnstarter",
+    "name": "Datadog",
+    "slug": "datadog",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Datadog",
-    "slug": "datadog",
+    "name": "Chime Financial, Inc",
+    "slug": "chime-financial-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -317,13 +317,6 @@
   {
     "name": "6sense",
     "slug": "6sense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cribl",
-    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -399,13 +392,6 @@
     "jobs_count": 1
   },
   {
-    "name": "hey contact heroes GmbH",
-    "slug": "hey-contact-heroes-gmbh",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Sticker Mule",
     "slug": "sticker-mule",
     "logo_url": null,
@@ -450,13 +436,6 @@
   {
     "name": "TestGorilla",
     "slug": "testgorilla",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Credit Wellness, LLC",
-    "slug": "credit-wellness-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

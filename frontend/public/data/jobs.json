@@ -1,5 +1,834 @@
 [
   {
+    "id": "customer-success-engineer-emea-w-m-d-jetbrains-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jetbrains-customer-success-engineer-emea-w-m-d",
+    "slug": "customer-success-engineer-emea-w-m-d-jetbrains-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jetbrains-customer-success-engineer-emea-w-m-d",
+    "title": "Customer Success Engineer EMEA - w/m/d",
+    "seo_title": "Remote Customer Success Engineer EMEA - w/m/d Job | NLP Jobs",
+    "seo_description": "Apply for a remote Customer Success Engineer EMEA - w/m/d job at JetBrains in Worldwide. Explore LLM, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "JetBrains",
+      "slug": "jetbrains",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "NLP",
+    "description_summary": "Headquarters: Berlin, Germany; Munich, Germany; Remote, Germany At JetBrains, code is our passion. Since we started in 2000, we have strived to make the most effective developer tools on earth so developers can learn fast and make amazing things happen – with...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/jetbrains-customer-success-engineer-emea-w-m-d",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/jetbrains-customer-success-engineer-emea-w-m-d",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Customer Success Engineer EMEA - w/m/d",
+      "description": "Headquarters: Berlin, Germany; Munich, Germany; Remote, Germany At JetBrains, code is our passion. Since we started in 2000, we have strived to make the most effective developer tools on earth so developers can learn fast and make amazing things happen – with...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "JetBrains"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/jetbrains-customer-success-engineer-emea-w-m-d",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "administrative-assistant-iv-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-administrative-assistant-iv",
+    "slug": "administrative-assistant-iv-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-administrative-assistant-iv",
+    "title": "Administrative Assistant IV",
+    "seo_title": "Remote Administrative Assistant IV Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Administrative Assistant IV job at Affirm in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
+    "company": {
+      "name": "Affirm",
+      "slug": "affirm",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote US At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We are looking for a resourceful, proactive, and...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/affirm-administrative-assistant-iv",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/affirm-administrative-assistant-iv",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Administrative Assistant IV",
+      "description": "Headquarters: Remote US At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. We are looking for a resourceful, proactive, and...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Affirm"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/affirm-administrative-assistant-iv",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-scientist-intern-upstart-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-upstart-applied-scientist-intern",
+    "slug": "applied-scientist-intern-upstart-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-upstart-applied-scientist-intern",
+    "title": "Applied Scientist Intern",
+    "seo_title": "Remote Applied Scientist Intern Job | Machine Learning Jobs",
+    "seo_description": "Apply for a remote Applied Scientist Intern job at Upstart in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
+    "company": {
+      "name": "Upstart",
+      "slug": "upstart",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "RAG",
+      "Spark",
+      "Statistics",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Machine Learning",
+    "description_summary": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/upstart-applied-scientist-intern",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/upstart-applied-scientist-intern",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied Scientist Intern",
+      "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Upstart"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/upstart-applied-scientist-intern",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "lead-digital-marketing-manager-amwell-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-amwell-lead-digital-marketing-manager",
+    "slug": "lead-digital-marketing-manager-amwell-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-amwell-lead-digital-marketing-manager",
+    "title": "Lead Digital Marketing Manager",
+    "seo_title": "Remote Lead Digital Marketing Manager Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Lead Digital Marketing Manager job at Amwell in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Amwell",
+      "slug": "amwell",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote US Company Description At Amwell, we’re transforming healthcare for all—powered by technology and inspired by people. Here, your ideas don’t just matter—they drive real change, improving lives on a global scale. We marry technology and...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/amwell-lead-digital-marketing-manager",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/amwell-lead-digital-marketing-manager",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Lead Digital Marketing Manager",
+      "description": "Headquarters: Remote US Company Description At Amwell, we’re transforming healthcare for all—powered by technology and inspired by people. Here, your ideas don’t just matter—they drive real change, improving lives on a global scale. We marry technology and...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Amwell"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/amwell-lead-digital-marketing-manager",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-product-fraud-risk-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-account-executive-product-fraud-risk",
+    "slug": "account-executive-product-fraud-risk-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-account-executive-product-fraud-risk",
+    "title": "Account Executive Product - Fraud & Risk",
+    "seo_title": "Remote Account Executive Product - Fraud & Risk Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Account Executive Product - Fraud & Risk job at Stripe in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Stripe",
+      "slug": "stripe",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Chicago, Seattle, NYC, San Francisco, Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-product-fraud-risk",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-product-fraud-risk",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive Product - Fraud & Risk",
+      "description": "Headquarters: Chicago, Seattle, NYC, San Francisco, Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Stripe"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-product-fraud-risk",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "content-marketing-manager-amwell-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-amwell-content-marketing-manager",
+    "slug": "content-marketing-manager-amwell-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-amwell-content-marketing-manager",
+    "title": "Content Marketing Manager",
+    "seo_title": "Remote Content Marketing Manager Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Content Marketing Manager job at Amwell in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Amwell",
+      "slug": "amwell",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote US Company Description At Amwell, we’re transforming healthcare for all—powered by technology and inspired by people. Here, your ideas don’t just matter—they drive real change, improving lives on a global scale. We marry technology and...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/amwell-content-marketing-manager",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/amwell-content-marketing-manager",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Content Marketing Manager",
+      "description": "Headquarters: Remote US Company Description At Amwell, we’re transforming healthcare for all—powered by technology and inspired by people. Here, your ideas don’t just matter—they drive real change, improving lives on a global scale. We marry technology and...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Amwell"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/amwell-content-marketing-manager",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "developer-relations-engineer-usa-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-developer-relations-engineer-usa",
+    "slug": "developer-relations-engineer-usa-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-developer-relations-engineer-usa",
+    "title": "Developer Relations Engineer - USA",
+    "seo_title": "Remote Developer Relations Engineer - USA Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Developer Relations Engineer - USA job at Storyblok in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Storyblok",
+      "slug": "storyblok",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/storyblok-developer-relations-engineer-usa",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/storyblok-developer-relations-engineer-usa",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Developer Relations Engineer - USA",
+      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Storyblok"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-developer-relations-engineer-usa",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "alm-manager-upstart-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-upstart-alm-manager",
+    "slug": "alm-manager-upstart-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-upstart-alm-manager",
+    "title": "ALM Manager",
+    "seo_title": "Remote ALM Manager Job | Data Science Jobs",
+    "seo_description": "Apply for a remote ALM Manager job at Upstart in Worldwide. Explore SQL, RAG, Spark, Statistics and remote AI jobs.",
+    "company": {
+      "name": "Upstart",
+      "slug": "upstart",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Spark",
+      "Statistics",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/upstart-alm-manager",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/upstart-alm-manager",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "ALM Manager",
+      "description": "Headquarters: United States | Remote About Upstart At Upstart, we’re united by a mission that matters: to radically reduce the cost and complexity of borrowing for all Americans. Every day, we bring creativity, experimentation, and advanced AI to reshape...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Upstart"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/upstart-alm-manager",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-hunter-central-eastern-europe-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-account-executive-hunter-central-eas",
+    "slug": "account-executive-hunter-central-eastern-europe-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-account-executive-hunter-central-eas",
+    "title": "Account Executive, Hunter (Central Eastern Europe)",
+    "seo_title": "Remote Account Executive, Hunter (Central Eastern Europe) Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Account Executive, Hunter (Central Eastern Europe) job at Stripe in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI...",
+    "company": {
+      "name": "Stripe",
+      "slug": "stripe",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Poland - Remote OR Romania - Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments,...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-hunter-central-eastern-europe",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-hunter-central-eastern-europe",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive, Hunter (Central Eastern Europe)",
+      "description": "Headquarters: Poland - Remote OR Romania - Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments,...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Stripe"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-hunter-central-eastern-europe",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-enterprise-zscaler-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zscaler-account-executive-enterprise-1",
+    "slug": "account-executive-enterprise-zscaler-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zscaler-account-executive-enterprise-1",
+    "title": "Account Executive, Enterprise",
+    "seo_title": "Remote Account Executive, Enterprise Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Account Executive, Enterprise job at Zscaler in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Zscaler",
+      "slug": "zscaler",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote - Germany Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise-1",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive, Enterprise",
+      "description": "Headquarters: Remote - Germany Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Zscaler"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-enterprise-1",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-north-eastern-usa-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-account-executive-north-eastern-usa",
+    "slug": "account-executive-north-eastern-usa-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-account-executive-north-eastern-usa",
+    "title": "Account Executive - North Eastern USA",
+    "seo_title": "Remote Account Executive - North Eastern USA Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Account Executive - North Eastern USA job at Storyblok in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Storyblok",
+      "slug": "storyblok",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/storyblok-account-executive-north-eastern-usa",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/storyblok-account-executive-north-eastern-usa",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive - North Eastern USA",
+      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Storyblok"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-account-executive-north-eastern-usa",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "regional-vice-president-strategic-solution-engineering-central-jfrog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jfrog-regional-vice-president",
+    "slug": "regional-vice-president-strategic-solution-engineering-central-jfrog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jfrog-regional-vice-president",
+    "title": "Regional Vice President, Strategic Solution Engineering (Central)",
+    "seo_title": "Remote Regional Vice President, Strategic Solution Engineering (Central) Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Regional Vice President, Strategic Solution Engineering (Central) job at JFrog in Worldwide. Explore MLOps, Sales and Marketing, Remote...",
+    "company": {
+      "name": "JFrog",
+      "slug": "jfrog",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "MLOps",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: US, Remote At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here,...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/jfrog-regional-vice-president-strategic-solution-engineering-central",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/jfrog-regional-vice-president-strategic-solution-engineering-central",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Regional Vice President, Strategic Solution Engineering (Central)",
+      "description": "Headquarters: US, Remote At JFrog, we’re reinventing DevOps to help the world’s greatest companies innovate -- and we want you along for the ride. This is a special place with a unique combination of brilliance, spirit and just all-around great people. Here,...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "JFrog"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/jfrog-regional-vice-president-strategic-solution-engineering-central",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "analyst-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-analyst",
+    "slug": "analyst-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-analyst",
+    "title": "Analyst",
+    "seo_title": "Remote Analyst Job | Machine Learning Jobs",
+    "seo_description": "Apply for a remote Analyst job at Affirm in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
+    "company": {
+      "name": "Affirm",
+      "slug": "affirm",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "RAG",
+      "Statistics",
+      "Design",
+      "Remote"
+    ],
+    "category": "Machine Learning",
+    "description_summary": "Headquarters: Remote US At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Risk & Analytics Team The Risk & Analytics...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/affirm-analyst",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/affirm-analyst",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Analyst",
+      "description": "Headquarters: Remote US At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Risk & Analytics Team The Risk & Analytics...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Affirm"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/affirm-analyst",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "account-executive-commercial-zscaler-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zscaler-account-executive-commercial",
+    "slug": "account-executive-commercial-zscaler-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zscaler-account-executive-commercial",
+    "title": "Account Executive - Commercial",
+    "seo_title": "Remote Account Executive - Commercial Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Account Executive - Commercial job at Zscaler in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Zscaler",
+      "slug": "zscaler",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "MLOps",
+    "description_summary": "Headquarters: Remote - Tamil Nadu, India Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-commercial",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-commercial",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive - Commercial",
+      "description": "Headquarters: Remote - Tamil Nadu, India Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Zscaler"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-commercial",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5443882008",
+    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5443882008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Bangalore, India",
+    "location_label": "Bangalore, India",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Bangalore, India"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "commercial-counsel-sparc-anthropic-worldwide-greenhouse-anthropic-5275765008",
     "slug": "commercial-counsel-sparc-anthropic-worldwide-greenhouse-anthropic-5275765008",
     "title": "Commercial Counsel, SPARC",
@@ -550,60 +1379,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-banking-credit-unions-alloy-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alloy-account-executive-banking-credit-unions",
-    "slug": "account-executive-banking-credit-unions-alloy-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alloy-account-executive-banking-credit-unions",
-    "title": "Account Executive, Banking & Credit Unions",
-    "seo_title": "Remote Account Executive, Banking & Credit Unions Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Account Executive, Banking & Credit Unions job at Alloy in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Alloy",
-      "slug": "alloy",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits....",
-    "apply_url": "https://weworkremotely.com/remote-jobs/alloy-account-executive-banking-credit-unions",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/alloy-account-executive-banking-credit-unions",
-    "published_at": "2026-10-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Banking & Credit Unions",
-      "description": "Headquarters: Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits....",
-      "datePosted": "2026-10-08",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Alloy"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/alloy-account-executive-banking-credit-unions",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "machine-learning-engineer-iv-biometrics-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-machine-learning-engineer-iv-biometrics",
     "slug": "machine-learning-engineer-iv-biometrics-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-machine-learning-engineer-iv-biometrics",
     "title": "Machine Learning Engineer - IV (Biometrics)",
@@ -835,59 +1610,6 @@
     "ai_relevant": true
   },
   {
-    "id": "enterprise-account-executive-dach-region-highradius-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-highradius-enterprise-account-executive-dach-r",
-    "slug": "enterprise-account-executive-dach-region-highradius-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-highradius-enterprise-account-executive-dach-r",
-    "title": "Enterprise Account Executive - DACH Region",
-    "seo_title": "Remote Enterprise Account Executive - DACH Region Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Enterprise Account Executive - DACH Region job at HighRadius in Worldwide. Explore Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "HighRadius",
-      "slug": "highradius",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Remote - Germany Location: Germany (Remote), London and Amsterdam (Office based 5 days per week) Must be fluent in German and English for this role. Summary About...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/highradius-enterprise-account-executive-dach-region",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/highradius-enterprise-account-executive-dach-region",
-    "published_at": "2026-10-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Enterprise Account Executive - DACH Region",
-      "description": "Headquarters: Amsterdam, North Holland, Netherlands; London, England, United Kingdom; Remote - Germany Location: Germany (Remote), London and Amsterdam (Office based 5 days per week) Must be fluent in German and English for this role. Summary About...",
-      "datePosted": "2026-10-08",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "HighRadius"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/highradius-enterprise-account-executive-dach-region",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "general-application-united-states-forter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-forter-general-application-united-states",
     "slug": "general-application-united-states-forter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-forter-general-application-united-states",
     "title": "General Application (United States)",
@@ -1109,63 +1831,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5443882008",
-    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5443882008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Delhi, India",
-    "location_label": "Delhi, India",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Sales",
-      "Bangalore, India"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
-    "published_at": "2026-10-08",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-08",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "commercial-counsel-gtm-anthropic-worldwide-greenhouse-anthropic-5074052008",
     "slug": "commercial-counsel-gtm-anthropic-worldwide-greenhouse-anthropic-5074052008",
     "title": "Commercial Counsel, GTM",
@@ -1334,115 +1999,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137469",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "digital-marketing-google-ads-ai-search-specialist-logicstics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-logicstics-digital-marketing-google-a",
-    "slug": "digital-marketing-google-ads-ai-search-specialist-logicstics-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-logicstics-digital-marketing-google-a",
-    "title": "Digital Marketing & Google Ads / AI Search Specialist",
-    "seo_title": "Remote Digital Marketing & Google Ads / AI Search Specialist Job | Data Analytics Jobs",
-    "seo_description": "Apply for a remote Digital Marketing & Google Ads / AI Search Specialist job at Logicstics in Worldwide. Explore LLM, Sales and Marketing, Remote and...",
-    "company": {
-      "name": "Logicstics",
-      "slug": "logicstics",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Analytics",
-    "description_summary": "Headquarters: Philadelphia, PA, USA URL: https://logicstics.com Remote | Full-Time Logicstics is looking for an experienced Digital Marketing & Google Ads / AI Search Specialist to take ownership of our online lead generation strategy. We are an international...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/logicstics-digital-marketing-google-ads-ai-search-specialist",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/logicstics-digital-marketing-google-ads-ai-search-specialist",
-    "published_at": "2026-10-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Digital Marketing & Google Ads / AI Search Specialist",
-      "description": "Headquarters: Philadelphia, PA, USA URL: https://logicstics.com Remote | Full-Time Logicstics is looking for an experienced Digital Marketing & Google Ads / AI Search Specialist to take ownership of our online lead generation strategy. We are an international...",
-      "datePosted": "2026-10-07",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Logicstics"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/logicstics-digital-marketing-google-ads-ai-search-specialist",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "head-of-design-development-construction-gilbert-pharmaceuticals-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gilbert-pharmaceuticals-head-of-de",
-    "slug": "head-of-design-development-construction-gilbert-pharmaceuticals-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gilbert-pharmaceuticals-head-of-de",
-    "title": "Head of Design & Development & Construction",
-    "seo_title": "Remote Head of Design & Development & Construction Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Head of Design & Development & Construction job at Gilbert Pharmaceuticals in Worldwide. Explore LLM, Airflow, Sales and Marketing,...",
-    "company": {
-      "name": "Gilbert Pharmaceuticals",
-      "slug": "gilbert-pharmaceuticals",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "Airflow",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: United States URL: https://gilbertpharmaceuticals.com/ The Head of Design, Development, & Construction will own the entire end to end process of launching new compounding pharmacies nationally. This will include site selection, feasibility,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/gilbert-pharmaceuticals-head-of-design-development-construction",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/gilbert-pharmaceuticals-head-of-design-development-construction",
-    "published_at": "2026-10-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Head of Design & Development & Construction",
-      "description": "Headquarters: United States URL: https://gilbertpharmaceuticals.com/ The Head of Design, Development, & Construction will own the entire end to end process of launching new compounding pharmacies nationally. This will include site selection, feasibility,...",
-      "datePosted": "2026-10-07",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Gilbert Pharmaceuticals"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/gilbert-pharmaceuticals-head-of-design-development-construction",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -1617,60 +2173,6 @@
     "ai_relevant": true
   },
   {
-    "id": "billing-support-analyst-philippines-mixmax-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mixmax-billing-support-analyst-philippines",
-    "slug": "billing-support-analyst-philippines-mixmax-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mixmax-billing-support-analyst-philippines",
-    "title": "Billing Support Analyst - Philippines",
-    "seo_title": "Remote Billing Support Analyst - Philippines Job | Prompt Engineering Jobs",
-    "seo_description": "Apply for a remote Billing Support Analyst - Philippines job at Mixmax in Worldwide. Explore SQL, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Mixmax",
-      "slug": "mixmax",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "Prompt Engineering",
-    "description_summary": "Headquarters: Philippines - remote At Mixmax, we're building the future of how revenue teams work: smarter, faster, and more human. Our platform helps teams stay on top of every conversation by automating busywork, delivering real-time insights, and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines",
-    "published_at": "2026-10-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Billing Support Analyst - Philippines",
-      "description": "Headquarters: Philippines - remote At Mixmax, we're building the future of how revenue teams work: smarter, faster, and more human. Our platform helps teams stay on top of every conversation by automating busywork, delivering real-time insights, and...",
-      "datePosted": "2026-10-07",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Mixmax"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/mixmax-billing-support-analyst-philippines",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "lead-qa-engineer-current-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-current-lead-qa-engineer",
     "slug": "lead-qa-engineer-current-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-current-lead-qa-engineer",
     "title": "Lead QA Engineer",
@@ -1720,114 +2222,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/current-lead-qa-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "principal-solutions-architect-expel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-expel-principal-solutions-architect",
-    "slug": "principal-solutions-architect-expel-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-expel-principal-solutions-architect",
-    "title": "Principal Solutions Architect",
-    "seo_title": "Remote Principal Solutions Architect Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Principal Solutions Architect job at Expel in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Expel",
-      "slug": "expel",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote You know a great technical sale is about more than delivering a polished demo. The real work is understanding what a customer is trying to accomplish, figuring out whether Expel can actually solve it, and making sure what we promise...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/expel-principal-solutions-architect",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/expel-principal-solutions-architect",
-    "published_at": "2026-10-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Principal Solutions Architect",
-      "description": "Headquarters: Remote You know a great technical sale is about more than delivering a polished demo. The real work is understanding what a customer is trying to accomplish, figuring out whether Expel can actually solve it, and making sure what we promise...",
-      "datePosted": "2026-10-07",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Expel"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/expel-principal-solutions-architect",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "creative-hospitality-galileo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-galileo-creative-hospitality",
-    "slug": "creative-hospitality-galileo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-galileo-creative-hospitality",
-    "title": "Creative Hospitality",
-    "seo_title": "Remote Creative Hospitality Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Creative Hospitality job at Galileo in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Galileo",
-      "slug": "galileo",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote, United States About Us Galileo is a team-based medical practice working to improve the quality and affordability of health care for all. Operating across 50 states, Galileo offers high-touch, data-driven, multi-specialty, longitudinal...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/galileo-creative-hospitality",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/galileo-creative-hospitality",
-    "published_at": "2026-10-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Creative Hospitality",
-      "description": "Headquarters: Remote, United States About Us Galileo is a team-based medical practice working to improve the quality and affordability of health care for all. Operating across 50 states, Galileo offers high-touch, data-driven, multi-specialty, longitudinal...",
-      "datePosted": "2026-10-07",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Galileo"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/galileo-creative-hospitality",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -1887,59 +2281,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-france-gitlab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gitlab-account-executive-france",
-    "slug": "account-executive-france-gitlab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gitlab-account-executive-france",
-    "title": "Account Executive - France",
-    "seo_title": "Remote Account Executive - France Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Account Executive - France job at GitLab in Worldwide. Explore Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "GitLab",
-      "slug": "gitlab",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote, France GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/gitlab-account-executive-france",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/gitlab-account-executive-france",
-    "published_at": "2026-10-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive - France",
-      "description": "Headquarters: Remote, France GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital...",
-      "datePosted": "2026-10-07",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "GitLab"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/gitlab-account-executive-france",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "cloud-engineer-beyondtrust-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-beyondtrust-cloud-engineer",
     "slug": "cloud-engineer-beyondtrust-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-beyondtrust-cloud-engineer",
     "title": "Cloud Engineer",
@@ -1994,60 +2335,6 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/beyondtrust-cloud-engineer",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "administrative-business-partner-gtm-london-anthropic-uk-greenhouse-anthropic-5394780008",
-    "slug": "administrative-business-partner-gtm-london-anthropic-uk-greenhouse-anthropic-5394780008",
-    "title": "Administrative Business Partner, GTM - London",
-    "seo_title": "Remote Administrative Business Partner, GTM - London Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Administrative Business Partner, GTM - London job at anthropic in UK. Explore RAG, AWS, People, London, UK and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "People",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5394780008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5394780008",
-    "published_at": "2026-10-07",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Administrative Business Partner, GTM - London",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-07",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5394780008"
     },
     "ai_relevant": true
   },
@@ -2391,114 +2678,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-existing-business-central-eastern-europe-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-account-executive-existin",
-    "slug": "account-executive-existing-business-central-eastern-europe-stripe-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stripe-account-executive-existin",
-    "title": "Account Executive, Existing Business (Central Eastern Europe)",
-    "seo_title": "Remote Account Executive, Existing Business (Central Eastern Europe) Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Account Executive, Existing Business (Central Eastern Europe) job at Stripe in Worldwide. Explore RAG, Sales and Marketing, Remote and...",
-    "company": {
-      "name": "Stripe",
-      "slug": "stripe",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Poland - Remote OR Romania - Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-existing-business-central-eastern-europe",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-existing-business-central-eastern-europe",
-    "published_at": "2026-10-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Existing Business (Central Eastern Europe)",
-      "description": "Headquarters: Poland - Remote OR Romania - Remote Who we are About Stripe Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments,...",
-      "datePosted": "2026-10-06",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Stripe"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/stripe-account-executive-existing-business-central-eastern-europe",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "engineering-manager-notifications-platform-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-engineering-manager-notifications-platfor",
-    "slug": "engineering-manager-notifications-platform-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-engineering-manager-notifications-platfor",
-    "title": "Engineering Manager, Notifications Platform",
-    "seo_title": "Remote Engineering Manager, Notifications Platform Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Engineering Manager, Notifications Platform job at Reddit in Worldwide. Explore RAG, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Reddit",
-      "slug": "reddit",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-notifications-platform",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-notifications-platform",
-    "published_at": "2026-10-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Engineering Manager, Notifications Platform",
-      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
-      "datePosted": "2026-10-06",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Reddit"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-notifications-platform",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-director-field-enablement-pagerduty-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pagerduty-senior-director-field-enablement",
     "slug": "senior-director-field-enablement-pagerduty-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pagerduty-senior-director-field-enablement",
     "title": "Senior Director, Field Enablement",
@@ -2550,61 +2729,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-director-field-enablement",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "emea-insights-lead-consumer-and-commercial-strategy-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-emea-insights-lead-consumer-and",
-    "slug": "emea-insights-lead-consumer-and-commercial-strategy-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-emea-insights-lead-consumer-and",
-    "title": "EMEA Insights Lead, Consumer and Commercial Strategy",
-    "seo_title": "Remote EMEA Insights Lead, Consumer and Commercial Strategy Job | Robotics Jobs",
-    "seo_description": "Apply for a remote EMEA Insights Lead, Consumer and Commercial Strategy job at Reddit in Worldwide. Explore RAG, Statistics, All Other Remote, Remote and...",
-    "company": {
-      "name": "Reddit",
-      "slug": "reddit",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Statistics",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote - Germany Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-emea-insights-lead-consumer-and-commercial-strategy",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/reddit-emea-insights-lead-consumer-and-commercial-strategy",
-    "published_at": "2026-10-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "EMEA Insights Lead, Consumer and Commercial Strategy",
-      "description": "Headquarters: Remote - Germany Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics...",
-      "datePosted": "2026-10-06",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Reddit"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/reddit-emea-insights-lead-consumer-and-commercial-strategy",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3420,60 +3544,6 @@
     "ai_relevant": true
   },
   {
-    "id": "software-engineering-manager-lawnstarter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lawnstarter-software-engineering-manager-7",
-    "slug": "software-engineering-manager-lawnstarter-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lawnstarter-software-engineering-manager-7",
-    "title": "Software Engineering Manager",
-    "seo_title": "Remote Software Engineering Manager Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Software Engineering Manager job at LawnStarter in Worldwide. Explore AWS, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "LawnStarter",
-      "slug": "lawnstarter",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "AWS",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Brazil URL: http://lawnstarter.com About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and related services, with over $150M in annual bookings. We're expanding beyond lawn care to become the one-stop shop...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-7",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-7",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Software Engineering Manager",
-      "description": "Headquarters: Brazil URL: http://lawnstarter.com About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and related services, with over $150M in annual bookings. We're expanding beyond lawn care to become the one-stop shop...",
-      "datePosted": "2026-10-05",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LawnStarter"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/lawnstarter-software-engineering-manager-7",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "enterprise-sales-engineer-fed-datadog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-datadog-enterprise-sales-engineer-fed",
     "slug": "enterprise-sales-engineer-fed-datadog-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-datadog-enterprise-sales-engineer-fed",
     "title": "Enterprise Sales Engineer - FED",
@@ -3587,61 +3657,6 @@
     "ai_relevant": true
   },
   {
-    "id": "global-workforce-planning-transformation-chime-financial-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-chime-financial-inc-global-workforce",
-    "slug": "global-workforce-planning-transformation-chime-financial-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-chime-financial-inc-global-workforce",
-    "title": "Global Workforce Planning & Transformation",
-    "seo_title": "Remote Global Workforce Planning & Transformation Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Global Workforce Planning & Transformation job at Chime Financial, Inc in Worldwide. Explore RAG, AWS, Management and Finance, Remote...",
-    "company": {
-      "name": "Chime Financial, Inc",
-      "slug": "chime-financial-inc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote, USA About the role We're hiring for a Senior Manager, Global Workforce Planning & Transformation to help scale and optimize workforce planning across our global Customer Operations organization. Delivering exceptional member experiences...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/chime-financial-inc-global-workforce-planning-transformation",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/chime-financial-inc-global-workforce-planning-transformation",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Global Workforce Planning & Transformation",
-      "description": "Headquarters: Remote, USA About the role We're hiring for a Senior Manager, Global Workforce Planning & Transformation to help scale and optimize workforce planning across our global Customer Operations organization. Delivering exceptional member experiences...",
-      "datePosted": "2026-10-05",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Chime Financial, Inc"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/chime-financial-inc-global-workforce-planning-transformation",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "av-engineer-platform-automation-anthropic-worldwide-greenhouse-anthropic-5383714008",
     "slug": "av-engineer-platform-automation-anthropic-worldwide-greenhouse-anthropic-5383714008",
     "title": "AV Engineer, Platform & Automation",
@@ -3696,6 +3711,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "controls-specialist-security-grc-anthropic-worldwide-greenhouse-anthropic-5436826008",
+    "slug": "controls-specialist-security-grc-anthropic-worldwide-greenhouse-anthropic-5436826008",
+    "title": "Controls Specialist, Security GRC",
+    "seo_title": "Remote Controls Specialist, Security GRC Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Controls Specialist, Security GRC job at anthropic in Worldwide. Explore LLM, RAG, AWS, Security and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Security",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5436826008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5436826008",
+    "published_at": "2026-10-05",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Controls Specialist, Security GRC",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-05",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436826008"
     },
     "ai_relevant": true
   },
@@ -5087,60 +5157,6 @@
         "@type": "Country",
         "name": "USA"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "sr-ux-designer-security-cribl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cribl-sr-ux-designer-security",
-    "slug": "sr-ux-designer-security-cribl-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-cribl-sr-ux-designer-security",
-    "title": "Sr. UX Designer, Security",
-    "seo_title": "Remote Sr. UX Designer, Security Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Sr. UX Designer, Security job at Cribl in Worldwide. Explore RAG, Design, Remote and remote AI jobs.",
-    "company": {
-      "name": "Cribl",
-      "slug": "cribl",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Design",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote URL: https://cribl.io/ Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
-    "published_at": "2026-09-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Sr. UX Designer, Security",
-      "description": "Headquarters: Remote URL: https://cribl.io/ Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge...",
-      "datePosted": "2026-09-30",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Cribl"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/cribl-sr-ux-designer-security",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6607,60 +6623,6 @@
     "ai_relevant": true
   },
   {
-    "id": "kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-hey-contact-heroes-gmbh-worldwide-remotive-2091139",
-    "slug": "kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-hey-contact-heroes-gmbh-worldwide-remotive-2091139",
-    "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
-    "seo_title": "Remote 🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland) Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote 🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland) job at hey contact heroes GmbH in Worldwide. Explore...",
-    "company": {
-      "name": "hey contact heroes GmbH",
-      "slug": "hey-contact-heroes-gmbh",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Europe",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Service",
-      "freelance"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen...",
-    "apply_url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-    "published_at": "2026-09-18",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "🇩🇪 Kundenservice Mobilfunk Inbound - innerhalb der EU (ausgenommen: Deutschland)",
-      "description": "🇩🇪 This job ad is written in German. 🇩🇪 Kennst du schon die hey contact heroes? Noch nicht? Dann wird’s Zeit! Die hey contact heroes stehen für echte Innovationen im Kundenservice! Wir haben uns auf die Bereitstellung erstklassiger Kundenservice-Lösungen...",
-      "datePosted": "2026-09-18",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "hey contact heroes GmbH"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/customer-service/kundenservice-mobilfunk-inbound-innerhalb-der-eu-ausgenommen-deutschland-2091139",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-ai-engineer-lemon-io-usa-remotive-2091131",
     "slug": "senior-ai-engineer-lemon-io-usa-remotive-2091131",
     "title": "Senior AI Engineer",
@@ -7385,64 +7347,6 @@
     "ai_relevant": true
   },
   {
-    "id": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
-    "slug": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
-    "title": "Inside Sales Contractor",
-    "seo_title": "Remote Inside Sales Contractor Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Inside Sales Contractor job at Credit Wellness, LLC in Worldwide. Explore RAG, CRM, google sheets, financial services and remote AI...",
-    "company": {
-      "name": "Credit Wellness, LLC",
-      "slug": "credit-wellness-llc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Worldwide",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "CRM",
-      "google sheets",
-      "financial services",
-      "Inside Sales",
-      "Sales",
-      "full_time"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive...",
-    "apply_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-    "published_at": "2026-09-08",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Inside Sales Contractor",
-      "description": "About Us We are a financial services start up focusing on helping to improve consumer credit profiles. We are currently seeking KPI driven sales representatives looking to earn up to 45K in their first year while working remotely. We offer comprehensive...",
-      "datePosted": "2026-09-08",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Credit Wellness, LLC"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "slug": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "title": "AI Engineer Data APIs",
@@ -7669,6 +7573,65 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "Canada"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "contracts-manager-emea-anthropic-uk-greenhouse-anthropic-5264820008",
+    "slug": "contracts-manager-emea-anthropic-uk-greenhouse-anthropic-5264820008",
+    "title": "Contracts Manager, EMEA",
+    "seo_title": "Remote Contracts Manager, EMEA Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Contracts Manager, EMEA job at anthropic in UK. Explore RAG, AWS, Legal, London, UK and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "Remote - UK",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Legal",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
+    "published_at": "2026-08-28",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Contracts Manager, EMEA",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-08-28",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "UK"
       }
     },
     "ai_relevant": true
