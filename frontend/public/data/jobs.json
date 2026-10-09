@@ -108,6 +108,66 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-react-full-stack-developer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-react-full-stack-developer-7",
+    "slug": "senior-react-full-stack-developer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-react-full-stack-developer-7",
+    "title": "Senior React Full-stack Developer",
+    "seo_title": "Remote Senior React Full-stack Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior React Full-stack Developer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "AWS",
+      "GCP",
+      "Azure",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior React Full-stack Developer",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-7",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-scientist-intern-upstart-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-upstart-applied-scientist-intern",
     "slug": "applied-scientist-intern-upstart-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-upstart-applied-scientist-intern",
     "title": "Applied Scientist Intern",
@@ -717,61 +777,6 @@
     "ai_relevant": true
   },
   {
-    "id": "account-executive-commercial-zscaler-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zscaler-account-executive-commercial",
-    "slug": "account-executive-commercial-zscaler-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-zscaler-account-executive-commercial",
-    "title": "Account Executive - Commercial",
-    "seo_title": "Remote Account Executive - Commercial Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Account Executive - Commercial job at Zscaler in Worldwide. Explore RAG, AWS, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Zscaler",
-      "slug": "zscaler",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote - Tamil Nadu, India Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-commercial",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-commercial",
-    "published_at": "2026-10-09",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive - Commercial",
-      "description": "Headquarters: Remote - Tamil Nadu, India Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and...",
-      "datePosted": "2026-10-09",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Zscaler"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/zscaler-account-executive-commercial",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5443882008",
     "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5443882008",
     "title": "Applied AI Architect",
@@ -825,6 +830,63 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-startups-anthropic-worldwide-greenhouse-anthropic-5406982008",
+    "slug": "applied-ai-architect-startups-anthropic-worldwide-greenhouse-anthropic-5406982008",
+    "title": "Applied AI Architect, Startups",
+    "seo_title": "Remote Applied AI Architect, Startups Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Startups job at anthropic in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "New York City, NY",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Startups",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5406982008"
     },
     "ai_relevant": true
   },
@@ -1207,60 +1269,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/bluegeko-it-infrastructure-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "account-executive-enterprise-alloy-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alloy-account-executive-enterprise",
-    "slug": "account-executive-enterprise-alloy-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alloy-account-executive-enterprise",
-    "title": "Account Executive, Enterprise",
-    "seo_title": "Remote Account Executive, Enterprise Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Account Executive, Enterprise job at Alloy in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Alloy",
-      "slug": "alloy",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits....",
-    "apply_url": "https://weworkremotely.com/remote-jobs/alloy-account-executive-enterprise",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/alloy-account-executive-enterprise",
-    "published_at": "2026-10-08",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Account Executive, Enterprise",
-      "description": "Headquarters: Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow without limits....",
-      "datePosted": "2026-10-08",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Alloy"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/alloy-account-executive-enterprise",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2967,61 +2975,6 @@
     "ai_relevant": true
   },
   {
-    "id": "backend-engineer-multiple-positions-launchdarkly-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-launchdarkly-backend-engineer-multiple-positions",
-    "slug": "backend-engineer-multiple-positions-launchdarkly-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-launchdarkly-backend-engineer-multiple-positions",
-    "title": "Backend Engineer (Multiple Positions)",
-    "seo_title": "Remote Backend Engineer (Multiple Positions) Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Backend Engineer (Multiple Positions) job at LaunchDarkly in Worldwide. Explore Python, RAG, Full-Stack Programming, Remote and remote...",
-    "company": {
-      "name": "LaunchDarkly",
-      "slug": "launchdarkly",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote - US Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
-    "published_at": "2026-10-06",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Backend Engineer (Multiple Positions)",
-      "description": "Headquarters: Remote - US Backend Engineer About LaunchDarkly Engineering LaunchDarkly helps engineering organizations ship software and AI with speed, safety, and control. Our platform gives teams the confidence to release gradually, target experiences to...",
-      "datePosted": "2026-10-06",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "LaunchDarkly"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/launchdarkly-backend-engineer-multiple-positions",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "group-product-manager-klaxoon-wrike-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-wrike-group-product-manager-klaxoon",
     "slug": "group-product-manager-klaxoon-wrike-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-wrike-group-product-manager-klaxoon",
     "title": "Group Product Manager [Klaxoon]",
@@ -3374,61 +3327,6 @@
     "ai_relevant": true
   },
   {
-    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer, Builds and Design",
-    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer, Builds and Design",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-05",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer, Builds and Design",
@@ -3484,6 +3382,61 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer, Builds and Design",
+    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-10-05",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer, Builds and Design",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-05",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5772,6 +5725,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-global-equity-faire-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-faire-director-global-equity",
+    "slug": "director-global-equity-faire-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-faire-director-global-equity",
+    "title": "Director, Global Equity",
+    "seo_title": "Remote Director, Global Equity Job | Machine Learning Jobs",
+    "seo_description": "Apply for a remote Director, Global Equity job at Faire in Worldwide. Explore Machine Learning, RAG, Management and Finance, Remote and remote AI jobs.",
+    "company": {
+      "name": "Faire",
+      "slug": "faire",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "Management and Finance",
+      "Remote"
+    ],
+    "category": "Machine Learning",
+    "description_summary": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/faire-director-global-equity",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/faire-director-global-equity",
+    "published_at": "2026-09-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, Global Equity",
+      "description": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically...",
+      "datePosted": "2026-09-26",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Faire"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/faire-director-global-equity",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },

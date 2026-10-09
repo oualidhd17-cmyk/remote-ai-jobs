@@ -4,14 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 37
   },
   {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 8
   },
   {
     "name": "Vercel",
@@ -19,6 +19,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 6
+  },
+  {
+    "name": "Faire",
+    "slug": "faire",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Affirm",
@@ -56,13 +63,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Zscaler",
-    "slug": "zscaler",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Jumio",
     "slug": "jumio",
     "logo_url": null,
@@ -77,13 +77,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Faire",
-    "slug": "faire",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Databricks",
     "slug": "databricks",
     "logo_url": null,
@@ -93,13 +86,6 @@
   {
     "name": "PagerDuty",
     "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -175,6 +161,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "JFrog",
     "slug": "jfrog",
     "logo_url": null,
@@ -212,13 +205,6 @@
   {
     "name": "BlueGeko",
     "slug": "bluegeko",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Alloy",
-    "slug": "alloy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,6 +268,13 @@
   {
     "name": "Sezzle",
     "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
