@@ -18,14 +18,35 @@
     "slug": "vercel",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
+    "jobs_count": 5
   },
   {
-    "name": "Faire",
-    "slug": "faire",
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Pendo",
+    "slug": "pendo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Affirm",
@@ -49,50 +70,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Forter",
     "slug": "forter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Webflow",
-    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -133,13 +112,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Calm.com",
-    "slug": "calm-com",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -154,6 +126,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Huntress",
+    "slug": "huntress",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Fuel50",
+    "slug": "fuel50",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "JetBrains",
     "slug": "jetbrains",
     "logo_url": null,
@@ -161,15 +147,22 @@
     "jobs_count": 1
   },
   {
-    "name": "Zscaler",
-    "slug": "zscaler",
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "JFrog",
-    "slug": "jfrog",
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Credit Wellness, LLC",
+    "slug": "credit-wellness-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,6 +203,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Faire",
+    "slug": "faire",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Tierarzt Plus Partner",
     "slug": "tierarzt-plus-partner",
     "logo_url": null,
@@ -219,13 +219,6 @@
   {
     "name": "Coinbase",
     "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Galileo",
-    "slug": "galileo",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -252,13 +245,6 @@
     "jobs_count": 1
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Semaphore",
     "slug": "semaphore",
     "logo_url": null,
@@ -273,8 +259,22 @@
     "jobs_count": 1
   },
   {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "LaunchDarkly",
     "slug": "launchdarkly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -315,8 +315,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Discord",
-    "slug": "discord",
+    "name": "Calm.com",
+    "slug": "calm-com",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

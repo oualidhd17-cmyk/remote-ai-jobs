@@ -1,36 +1,36 @@
 {
-  "raw_count": 257,
-  "processed_count": 257,
-  "published_count": 130,
-  "ai_relevant_count": 198,
-  "remote_count": 104,
-  "visa_count": 40,
+  "raw_count": 258,
+  "processed_count": 258,
+  "published_count": 127,
+  "ai_relevant_count": 194,
+  "remote_count": 101,
+  "visa_count": 41,
   "salary_count": 12,
   "status_counts": {
-    "published": 130,
-    "rejected": 59,
+    "published": 127,
+    "rejected": 64,
     "pending": 39,
-    "expired": 29
+    "expired": 28
   },
   "source_counts": {
     "remoteok": 80,
-    "remotive": 17,
+    "remotive": 18,
     "weworkremotely": 80,
     "greenhouse": 80
   },
   "category_counts": {
-    "AI Engineering": 65,
-    "NLP": 4,
-    "Robotics": 24,
-    "Machine Learning": 9,
-    "Data Science": 13,
-    "MLOps": 12,
+    "AI Engineering": 63,
+    "MLOps": 11,
     "Data Analytics": 1,
+    "Data Science": 13,
+    "Machine Learning": 10,
+    "NLP": 5,
+    "Robotics": 22,
     "AI Product": 2
   },
   "country_counts": {
     "USA": 14,
-    "Worldwide": 106,
+    "Worldwide": 103,
     "UK": 4,
     "Australia": 3,
     "Germany": 1,
