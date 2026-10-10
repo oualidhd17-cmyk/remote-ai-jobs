@@ -1,14 +1,14 @@
 {
   "raw_count": 258,
   "processed_count": 258,
-  "published_count": 128,
-  "ai_relevant_count": 194,
-  "remote_count": 102,
+  "published_count": 127,
+  "ai_relevant_count": 193,
+  "remote_count": 101,
   "visa_count": 41,
   "salary_count": 13,
   "status_counts": {
-    "published": 128,
-    "rejected": 64,
+    "published": 127,
+    "rejected": 65,
     "pending": 39,
     "expired": 27
   },
@@ -24,13 +24,13 @@
     "Data Analytics": 1,
     "Data Science": 13,
     "Machine Learning": 11,
-    "NLP": 5,
+    "NLP": 4,
     "Robotics": 21,
     "AI Product": 2
   },
   "country_counts": {
     "USA": 14,
-    "Worldwide": 104,
+    "Worldwide": 103,
     "UK": 4,
     "Australia": 3,
     "Germany": 1,
