@@ -1,5 +1,64 @@
 [
   {
+    "id": "conceptual-reasoning-fellow-anthropic-usa-greenhouse-anthropic-5447080008",
+    "slug": "conceptual-reasoning-fellow-anthropic-usa-greenhouse-anthropic-5447080008",
+    "title": "Conceptual Reasoning Fellow",
+    "seo_title": "Remote Conceptual Reasoning Fellow Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Conceptual Reasoning Fellow job at anthropic in USA. Explore RAG, AWS, AI Research & Engineering, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Remote-Friendly, United States; San Francisco, CA",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "AI Research & Engineering",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
+    "published_at": "2026-10-10",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Conceptual Reasoning Fellow",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-10",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447080008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "customer-success-engineer-emea-w-m-d-jetbrains-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jetbrains-customer-success-engineer-emea-w-m-d",
     "slug": "customer-success-engineer-emea-w-m-d-jetbrains-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jetbrains-customer-success-engineer-emea-w-m-d",
     "title": "Customer Success Engineer EMEA - w/m/d",
@@ -941,6 +1000,59 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5275765008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
+    "slug": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
+    "title": "Commercial Operations Program Manager",
+    "seo_title": "Remote Commercial Operations Program Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Commercial Operations Program Manager job at anthropic in Worldwide. Explore RAG, AWS, Seattle, WA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "location_label": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Seattle, WA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Commercial Operations Program Manager",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-09",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008"
     },
     "ai_relevant": true
   },
@@ -3143,59 +3255,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
-    "slug": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
-    "title": "Commercial Operations Program Manager",
-    "seo_title": "Remote Commercial Operations Program Manager Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Operations Program Manager job at anthropic in Worldwide. Explore RAG, AWS, Seattle, WA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "location_label": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Seattle, WA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008",
-    "published_at": "2026-10-06",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Operations Program Manager",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-06",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "communications-manager-safeguards-anthropic-worldwide-greenhouse-anthropic-5445577008",
     "slug": "communications-manager-safeguards-anthropic-worldwide-greenhouse-anthropic-5445577008",
     "title": "Communications Manager, Safeguards",
@@ -3664,61 +3723,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "controls-specialist-security-grc-anthropic-worldwide-greenhouse-anthropic-5436826008",
-    "slug": "controls-specialist-security-grc-anthropic-worldwide-greenhouse-anthropic-5436826008",
-    "title": "Controls Specialist, Security GRC",
-    "seo_title": "Remote Controls Specialist, Security GRC Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Controls Specialist, Security GRC job at anthropic in Worldwide. Explore LLM, RAG, AWS, Security and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Security",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5436826008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5436826008",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Controls Specialist, Security GRC",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-05",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5436826008"
     },
     "ai_relevant": true
   },
@@ -5784,60 +5788,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-counsel-hardware-anthropic-worldwide-greenhouse-anthropic-5434795008",
-    "slug": "commercial-counsel-hardware-anthropic-worldwide-greenhouse-anthropic-5434795008",
-    "title": "Commercial Counsel, Hardware",
-    "seo_title": "Remote Commercial Counsel, Hardware Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, Hardware job at anthropic in Worldwide. Explore RAG, AWS, Legal, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "San Francisco, CA",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008",
-    "published_at": "2026-09-25",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, Hardware",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-25",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5434795008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "software-engineer-prenosis-worldwide-remoteok-1137427",
     "slug": "software-engineer-prenosis-worldwide-remoteok-1137427",
     "title": "Software Engineer",
@@ -7291,70 +7241,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-people-talent-operations-partner-testgorilla-worldwide-remoteok-1137378",
-    "slug": "senior-people-talent-operations-partner-testgorilla-worldwide-remoteok-1137378",
-    "title": "Senior People & Talent Operations Partner",
-    "seo_title": "Remote Senior People & Talent Operations Partner Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior People & Talent Operations Partner job at TestGorilla in Worldwide. Explore RAG, hr, non tech and remote AI jobs.",
-    "company": {
-      "name": "TestGorilla",
-      "slug": "testgorilla",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": 70000,
-    "salary_max": 80000,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "hr",
-      "non tech"
-    ],
-    "category": "Robotics",
-    "description_summary": "â¡ This one's going to move fast. We're expecting a lot of interest, so we're running this as a focused hiring sprint. Applications and assessments close September 20, with interviews happening over the two weeks after that.Â ð Where do we hire from?...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137378",
-    "published_at": "2026-09-10",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior People & Talent Operations Partner",
-      "description": "â¡ This one's going to move fast. We're expecting a lot of interest, so we're running this as a focused hiring sprint. Applications and assessments close September 20, with interviews happening over the two weeks after that.Â ð Where do we hire from?...",
-      "datePosted": "2026-09-10",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "TestGorilla"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137378",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 70000,
-          "maxValue": 80000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "slug": "ai-engineer-data-apis-benzinga-worldwide-remoteok-1137224",
     "title": "AI Engineer Data APIs",
@@ -7703,125 +7589,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137155",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "renewables-project-scheduler-transportation-partners-logistics-worldwide-remoteok-1137194",
-    "slug": "renewables-project-scheduler-transportation-partners-logistics-worldwide-remoteok-1137194",
-    "title": "Renewables Project Scheduler",
-    "seo_title": "Remote Renewables Project Scheduler Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Renewables Project Scheduler job at Transportation Partners & Logistics in Worldwide. Explore RAG, Power BI, sys admin, technical and...",
-    "company": {
-      "name": "Transportation Partners & Logistics",
-      "slug": "transportation-partners-logistics",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Black Bess,",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Power BI",
-      "sys admin",
-      "technical",
-      "customer support",
-      "testing",
-      "travel",
-      "microsoft",
-      "exec",
-      "excel",
-      "stats",
-      "engineer"
-    ],
-    "category": "Robotics",
-    "description_summary": "Apply Description Job Summary: The BESS Project Scheduler is responsible for developing, maintaining, and analyzing detailed project schedules for Battery Energy Storage System (BESS) projects. This role plays a critical part in ensuring projects are...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-renewables-project-scheduler-transportation-partners-amp-logistics-1137194",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137194",
-    "published_at": "2026-08-25",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Renewables Project Scheduler",
-      "description": "Apply Description Job Summary: The BESS Project Scheduler is responsible for developing, maintaining, and analyzing detailed project schedules for Battery Energy Storage System (BESS) projects. This role plays a critical part in ensuring projects are...",
-      "datePosted": "2026-08-25",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Transportation Partners & Logistics"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137194",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-backend-engineer-build-ai-agents-salesforge-worldwide-remoteok-1137114",
-    "slug": "senior-backend-engineer-build-ai-agents-salesforge-worldwide-remoteok-1137114",
-    "title": "Senior Backend Engineer Build AI Agents",
-    "seo_title": "Remote Senior Backend Engineer Build AI Agents Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Backend Engineer Build AI Agents job at Salesforge in Worldwide. Explore golang, senior, sales, engineer and remote AI jobs.",
-    "company": {
-      "name": "Salesforge",
-      "slug": "salesforge",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "golang",
-      "senior",
-      "sales",
-      "engineer",
-      "backend"
-    ],
-    "category": "Robotics",
-    "description_summary": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137114",
-    "published_at": "2026-08-25",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Backend Engineer Build AI Agents",
-      "description": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human...",
-      "datePosted": "2026-08-25",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Salesforge"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137114",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
