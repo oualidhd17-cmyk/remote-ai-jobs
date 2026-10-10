@@ -567,6 +567,79 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1137475",
+    "slug": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1137475",
+    "title": "Senior React Full stack Developer",
+    "seo_title": "Remote Senior React Full stack Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior React Full stack Developer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": 80000,
+    "salary_max": 200000,
+    "salary_currency": "USD",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "AWS",
+      "GCP",
+      "Azure",
+      "dev",
+      "engineer",
+      "remote",
+      "javascript",
+      "react"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137475",
+    "published_at": "2026-10-09",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior React Full stack Developer",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io â the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The...",
+      "datePosted": "2026-10-09",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137475",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 80000,
+          "maxValue": 200000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "product-design-lead-fuel50-worldwide-remoteok-1137474",
     "slug": "product-design-lead-fuel50-worldwide-remoteok-1137474",
     "title": "Product Design Lead",
@@ -1016,60 +1089,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/amwell-content-marketing-manager",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "developer-relations-engineer-usa-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-developer-relations-engineer-usa",
-    "slug": "developer-relations-engineer-usa-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-developer-relations-engineer-usa",
-    "title": "Developer Relations Engineer - USA",
-    "seo_title": "Remote Developer Relations Engineer - USA Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Developer Relations Engineer - USA job at Storyblok in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Storyblok",
-      "slug": "storyblok",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/storyblok-developer-relations-engineer-usa",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/storyblok-developer-relations-engineer-usa",
-    "published_at": "2026-10-09",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Developer Relations Engineer - USA",
-      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
-      "datePosted": "2026-10-09",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Storyblok"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/storyblok-developer-relations-engineer-usa",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5637,6 +5656,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-global-equity-faire-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-faire-director-global-equity",
+    "slug": "director-global-equity-faire-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-faire-director-global-equity",
+    "title": "Director, Global Equity",
+    "seo_title": "Remote Director, Global Equity Job | Machine Learning Jobs",
+    "seo_description": "Apply for a remote Director, Global Equity job at Faire in Worldwide. Explore Machine Learning, RAG, Management and Finance, Remote and remote AI jobs.",
+    "company": {
+      "name": "Faire",
+      "slug": "faire",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "Management and Finance",
+      "Remote"
+    ],
+    "category": "Machine Learning",
+    "description_summary": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/faire-director-global-equity",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/faire-director-global-equity",
+    "published_at": "2026-09-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, Global Equity",
+      "description": "Headquarters: Remote - US About Faire Faire is a technology wholesale platform built on the belief that the future is local. Independent retailers around the globe collectively represent a multi-hundred-billion-dollar wholesale market that has historically...",
+      "datePosted": "2026-09-26",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Faire"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/faire-director-global-equity",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
