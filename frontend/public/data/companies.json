@@ -70,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Forter",
-    "slug": "forter",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Faire",
     "slug": "faire",
     "logo_url": null,
@@ -131,6 +124,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Miaplaza",
+    "slug": "miaplaza",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tether Operations Limited",
+    "slug": "tether-operations-limited",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Huntress",
@@ -198,6 +205,13 @@
   {
     "name": "BlueGeko",
     "slug": "bluegeko",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Forter",
+    "slug": "forter",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
