@@ -11,14 +11,21 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 9
+    "jobs_count": 8
   },
   {
     "name": "Vercel",
     "slug": "vercel",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 7
+  },
+  {
+    "name": "Upstart",
+    "slug": "upstart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
   },
   {
     "name": "Jumio",
@@ -35,6 +42,34 @@
     "jobs_count": 3
   },
   {
+    "name": "Descript",
+    "slug": "descript",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Maven Clinic",
+    "slug": "maven-clinic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Netlify",
     "slug": "netlify",
     "logo_url": null,
@@ -44,34 +79,6 @@
   {
     "name": "Pendo",
     "slug": "pendo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Affirm",
-    "slug": "affirm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Upstart",
-    "slug": "upstart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Amwell",
-    "slug": "amwell",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Faire",
-    "slug": "faire",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -126,6 +133,27 @@
     "jobs_count": 2
   },
   {
+    "name": "Stripe",
+    "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "EDETEK",
+    "slug": "edetek",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Miaplaza",
     "slug": "miaplaza",
     "logo_url": null,
@@ -161,8 +189,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
+    "name": "Affirm",
+    "slug": "affirm",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,8 +238,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Forter",
-    "slug": "forter",
+    "name": "Faire",
+    "slug": "faire",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -224,29 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Expel",
     "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Current",
-    "slug": "current",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Dremio",
-    "slug": "dremio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
