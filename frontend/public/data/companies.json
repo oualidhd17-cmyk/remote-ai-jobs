@@ -18,14 +18,7 @@
     "slug": "vercel",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
-  },
-  {
-    "name": "Upstart",
-    "slug": "upstart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
+    "jobs_count": 6
   },
   {
     "name": "Jumio",
@@ -42,6 +35,27 @@
     "jobs_count": 3
   },
   {
+    "name": "Glean",
+    "slug": "glean",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Datadog",
+    "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Samsara",
+    "slug": "samsara",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Descript",
     "slug": "descript",
     "logo_url": null,
@@ -56,8 +70,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Zscaler",
-    "slug": "zscaler",
+    "name": "Upstart",
+    "slug": "upstart",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -65,20 +79,6 @@
   {
     "name": "Twilio",
     "slug": "twilio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Netlify",
-    "slug": "netlify",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Pendo",
-    "slug": "pendo",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -133,8 +133,29 @@
     "jobs_count": 2
   },
   {
+    "name": "Keeper Security",
+    "slug": "keeper-security",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Rubrik Job Board",
+    "slug": "rubrik-job-board",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Stripe",
     "slug": "stripe",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,8 +189,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Huntress",
-    "slug": "huntress",
+    "name": "Netlify",
+    "slug": "netlify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Pendo",
+    "slug": "pendo",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -224,13 +252,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Bondora",
-    "slug": "bondora",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "BlueGeko",
     "slug": "bluegeko",
     "logo_url": null,
@@ -266,20 +287,6 @@
     "jobs_count": 1
   },
   {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Webflow",
     "slug": "webflow",
     "logo_url": null,
@@ -289,13 +296,6 @@
   {
     "name": "CodeForAI",
     "slug": "codeforai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Datadog",
-    "slug": "datadog",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -378,13 +378,6 @@
     "jobs_count": 1
   },
   {
-    "name": "KoboToolbox",
-    "slug": "kobotoolbox",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Sanctuary Computer Inc",
     "slug": "sanctuary-computer-inc",
     "logo_url": null,
@@ -422,13 +415,6 @@
   {
     "name": "Mirantis",
     "slug": "mirantis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "iMerit Technology",
-    "slug": "imerit-technology",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
