@@ -7,13 +7,6 @@
     "jobs_count": 36
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 8
-  },
-  {
     "name": "Vercel",
     "slug": "vercel",
     "logo_url": null,
@@ -21,11 +14,18 @@
     "jobs_count": 6
   },
   {
-    "name": "Jumio",
-    "slug": "jumio",
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 6
+  },
+  {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
   },
   {
     "name": "BeyondTrust",
@@ -84,6 +84,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Wrike",
     "slug": "wrike",
     "logo_url": null,
@@ -119,18 +126,18 @@
     "jobs_count": 2
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "ShyftOff",
+    "slug": "shyftoff",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Keeper Security",
@@ -240,13 +247,6 @@
   {
     "name": "sa.global",
     "slug": "sa-global",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Creatio",
-    "slug": "creatio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
