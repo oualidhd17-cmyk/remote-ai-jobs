@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 31
   },
   {
     "name": "Lemon.io",
@@ -84,13 +84,6 @@
     "jobs_count": 2
   },
   {
-    "name": "RedMimicry",
-    "slug": "redmimicry",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "AssemblyAI",
     "slug": "assemblyai",
     "logo_url": null,
@@ -105,18 +98,46 @@
     "jobs_count": 2
   },
   {
-    "name": "Clover Health",
-    "slug": "clover-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Kyro AI",
+    "slug": "kyro-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Engine",
+    "slug": "engine",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Müller`s Solutions",
+    "slug": "muller-s-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Paragon Planners",
+    "slug": "paragon-planners",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Baymard Institute",
@@ -168,13 +189,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Glean",
-    "slug": "glean",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Keeper Security",
     "slug": "keeper-security",
     "logo_url": null,
@@ -191,20 +205,6 @@
   {
     "name": "Descript",
     "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sezzle",
-    "slug": "sezzle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Upstart",
-    "slug": "upstart",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -245,13 +245,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Pendo",
-    "slug": "pendo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Jumio",
     "slug": "jumio",
     "logo_url": null,
@@ -261,13 +254,6 @@
   {
     "name": "Fuel50",
     "slug": "fuel50",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "JetBrains",
-    "slug": "jetbrains",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -324,6 +310,13 @@
   {
     "name": "CodeForAI",
     "slug": "codeforai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "RedMimicry",
+    "slug": "redmimicry",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
