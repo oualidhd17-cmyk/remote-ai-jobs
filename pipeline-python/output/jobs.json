@@ -1,5 +1,78 @@
 [
   {
+    "id": "senior-sales-executive-central-region-simspace-corporation-worldwide-remoteok-1137498",
+    "slug": "senior-sales-executive-central-region-simspace-corporation-worldwide-remoteok-1137498",
+    "title": "Senior Sales Executive Central Region",
+    "seo_title": "Remote Senior Sales Executive Central Region Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Senior Sales Executive Central Region job at SimSpace Corporation in Worldwide. Explore RAG, AWS, saas, embedded and remote AI jobs.",
+    "company": {
+      "name": "SimSpace Corporation",
+      "slug": "simspace-corporation",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 145000,
+    "salary_max": 220000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "AWS",
+      "saas",
+      "embedded",
+      "sys admin",
+      "infosec",
+      "education",
+      "customer support",
+      "testing",
+      "marketing",
+      "finance",
+      "cloud"
+    ],
+    "category": "Robotics",
+    "description_summary": "SimSpace serves as an AI Proving Ground where organizations can confidently train, test, and outmaneuver adversaries in any environment. Trusted by allied governments, militaries, enterprises, and research institutions worldwide, SimSpace enables adaptive,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-sales-executive-central-region-simspace-corporation-1137498",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137498",
+    "published_at": "2026-10-12",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Sales Executive Central Region",
+      "description": "SimSpace serves as an AI Proving Ground where organizations can confidently train, test, and outmaneuver adversaries in any environment. Trusted by allied governments, militaries, enterprises, and research institutions worldwide, SimSpace enables adaptive,...",
+      "datePosted": "2026-10-12",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "SimSpace Corporation"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137498",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 145000,
+          "maxValue": 220000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-ai-engineers-for-telecommunications-company-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-applied-ai-engineers-for-telecom",
     "slug": "applied-ai-engineers-for-telecommunications-company-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-applied-ai-engineers-for-telecom",
     "title": "Applied AI Engineers for telecommunications company",
@@ -5616,172 +5689,6 @@
     "ai_relevant": true
   },
   {
-    "id": "ai-deployment-specialist-beneficial-deployments-anthropic-worldwide-greenhouse-anthropic-5398438008",
-    "slug": "ai-deployment-specialist-beneficial-deployments-anthropic-worldwide-greenhouse-anthropic-5398438008",
-    "title": "AI Deployment Specialist, Beneficial Deployments",
-    "seo_title": "Remote AI Deployment Specialist, Beneficial Deployments Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AI Deployment Specialist, Beneficial Deployments job at anthropic in Worldwide. Explore LLM, RAG, AWS, Sales and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Sales",
-      "New York City, NY"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008",
-    "published_at": "2026-09-28",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Deployment Specialist, Beneficial Deployments",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398438008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
-    "slug": "applied-ai-architect-public-sector-anthropic-worldwide-greenhouse-anthropic-5382518008",
-    "title": "Applied AI Architect, Public Sector",
-    "seo_title": "Remote Applied AI Architect, Public Sector Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect, Public Sector job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Washington, DC",
-    "location_label": "Washington, DC",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Washington, D.C."
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008",
-    "published_at": "2026-09-28",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect, Public Sector",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382518008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-engineer-enterprise-anthropic-uk-greenhouse-anthropic-5354765008",
-    "slug": "applied-ai-engineer-enterprise-anthropic-uk-greenhouse-anthropic-5354765008",
-    "title": "Applied AI Engineer, Enterprise",
-    "seo_title": "Remote Applied AI Engineer, Enterprise Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Engineer, Enterprise job at anthropic in UK. Explore LLM, RAG, AWS, Applied AI and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008",
-    "published_at": "2026-09-28",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Engineer, Enterprise",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-09-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5354765008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "software-engineer-prenosis-worldwide-remoteok-1137427",
     "slug": "software-engineer-prenosis-worldwide-remoteok-1137427",
     "title": "Software Engineer",
@@ -7152,242 +7059,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137224",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "community-engagement-manager-data-centres-australia-anthropic-australia-greenhouse-anthropic-5391999008",
-    "slug": "community-engagement-manager-data-centres-australia-anthropic-australia-greenhouse-anthropic-5391999008",
-    "title": "Community Engagement Manager, Data Centres (Australia)",
-    "seo_title": "Remote Community Engagement Manager, Data Centres (Australia) Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Community Engagement Manager, Data Centres (Australia) job at anthropic in Australia. Explore RAG, AWS, Public Policy, Sydney,...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia | Remote-Friendly, Australia",
-    "location_label": "Remote - Australia",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Public Policy",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391999008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391999008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Community Engagement Manager, Data Centres (Australia)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391999008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Australia"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "community-engagement-manager-data-centres-canada-anthropic-canada-greenhouse-anthropic-5391974008",
-    "slug": "community-engagement-manager-data-centres-canada-anthropic-canada-greenhouse-anthropic-5391974008",
-    "title": "Community Engagement Manager, Data Centres (Canada)",
-    "seo_title": "Remote Community Engagement Manager, Data Centres (Canada) Job in Canada | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Community Engagement Manager, Data Centres (Canada) job at anthropic in Canada. Explore RAG, AWS, Public Policy, British Columbia, CA...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Canada",
-    "city": null,
-    "location": "Alberta, CAN | Remote-Friendly, Canada",
-    "location_label": "Remote - Canada",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Public Policy",
-      "British Columbia, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391974008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391974008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Community Engagement Manager, Data Centres (Canada)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391974008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Canada"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "compute-country-lead-canada-anthropic-canada-greenhouse-anthropic-5385546008",
-    "slug": "compute-country-lead-canada-anthropic-canada-greenhouse-anthropic-5385546008",
-    "title": "Compute Country Lead, Canada",
-    "seo_title": "Remote Compute Country Lead, Canada Job in Canada | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Compute Country Lead, Canada job at anthropic in Canada. Explore RAG, AWS, Compute, British Columbia, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Canada",
-    "city": null,
-    "location": "Remote-Friendly (Travel Required) | Canada",
-    "location_label": "Remote - Canada",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Compute",
-      "British Columbia, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Compute Country Lead, Canada",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385546008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Canada"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "contracts-manager-emea-anthropic-uk-greenhouse-anthropic-5264820008",
-    "slug": "contracts-manager-emea-anthropic-uk-greenhouse-anthropic-5264820008",
-    "title": "Contracts Manager, EMEA",
-    "seo_title": "Remote Contracts Manager, EMEA Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Contracts Manager, EMEA job at anthropic in UK. Explore RAG, AWS, Legal, London, UK and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "Remote - UK",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
-    "published_at": "2026-08-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Contracts Manager, EMEA",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-08-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5264820008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "UK"
-      }
     },
     "ai_relevant": true
   }
