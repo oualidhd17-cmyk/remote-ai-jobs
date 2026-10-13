@@ -4,14 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
-  },
-  {
-    "name": "Vercel",
-    "slug": "vercel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 6
+    "jobs_count": 30
   },
   {
     "name": "Lemon.io",
@@ -28,15 +21,36 @@
     "jobs_count": 5
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
+    "name": "Vercel",
+    "slug": "vercel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "Webflow",
+    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Glean",
-    "slug": "glean",
+    "name": "Prove",
+    "slug": "prove",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Tebra",
+    "slug": "tebra",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -49,20 +63,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Samsara",
-    "slug": "samsara",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Descript",
-    "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Maven Clinic",
     "slug": "maven-clinic",
     "logo_url": null,
@@ -70,22 +70,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Upstart",
-    "slug": "upstart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Twilio",
-    "slug": "twilio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -133,6 +119,41 @@
     "jobs_count": 2
   },
   {
+    "name": "Baymard Institute",
+    "slug": "baymard-institute",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Oportun",
+    "slug": "oportun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Melio",
+    "slug": "melio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercury",
+    "slug": "mercury",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Huntress",
+    "slug": "huntress",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "SimSpace Corporation",
     "slug": "simspace-corporation",
     "logo_url": null,
@@ -142,6 +163,13 @@
   {
     "name": "ShyftOff",
     "slug": "shyftoff",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Glean",
+    "slug": "glean",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -161,15 +189,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Zscaler",
-    "slug": "zscaler",
+    "name": "Descript",
+    "slug": "descript",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -177,6 +198,20 @@
   {
     "name": "Sezzle",
     "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Upstart",
+    "slug": "upstart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Twilio",
+    "slug": "twilio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -217,6 +252,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Fuel50",
     "slug": "fuel50",
     "logo_url": null,
@@ -240,20 +282,6 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Prospex CRM",
-    "slug": "prospex-crm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "sa.global",
-    "slug": "sa-global",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -289,13 +317,6 @@
   {
     "name": "Semaphore",
     "slug": "semaphore",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Webflow",
-    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
