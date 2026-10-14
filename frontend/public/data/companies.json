@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 31
+    "jobs_count": 28
   },
   {
     "name": "Lemon.io",
@@ -105,6 +105,13 @@
     "jobs_count": 2
   },
   {
+    "name": "iMerit Technology",
+    "slug": "imerit-technology",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Kyro AI",
     "slug": "kyro-ai",
     "logo_url": null,
@@ -198,13 +205,6 @@
   {
     "name": "Rubrik Job Board",
     "slug": "rubrik-job-board",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Descript",
-    "slug": "descript",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
