@@ -21,13 +21,6 @@
     "jobs_count": 5
   },
   {
-    "name": "Vercel",
-    "slug": "vercel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 5
-  },
-  {
     "name": "Webflow",
     "slug": "webflow",
     "logo_url": null,
@@ -35,36 +28,50 @@
     "jobs_count": 3
   },
   {
-    "name": "Prove",
-    "slug": "prove",
+    "name": "Vercel",
+    "slug": "vercel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Tailscale",
+    "slug": "tailscale",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
+    "name": "Databricks",
+    "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Tebra",
-    "slug": "tebra",
+    "name": "Lattice",
+    "slug": "lattice",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Datadog",
-    "slug": "datadog",
+    "name": "Coinbase",
+    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
+    "name": "Yubico Inc.",
+    "slug": "yubico-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Gong.io",
+    "slug": "gong-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -103,6 +110,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Thyme Care",
+    "slug": "thyme-care",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "AO Garcia Agency",
+    "slug": "ao-garcia-agency",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "iMerit Technology",
@@ -149,6 +170,13 @@
   {
     "name": "Baymard Institute",
     "slug": "baymard-institute",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Prove",
+    "slug": "prove",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -203,8 +231,22 @@
     "jobs_count": 1
   },
   {
+    "name": "Datadog",
+    "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Rubrik Job Board",
     "slug": "rubrik-job-board",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Maven Clinic",
+    "slug": "maven-clinic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -233,13 +275,6 @@
   {
     "name": "Tether Operations Limited",
     "slug": "tether-operations-limited",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Netlify",
-    "slug": "netlify",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,6 +343,13 @@
     "jobs_count": 1
   },
   {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "CodeForAI",
     "slug": "codeforai",
     "logo_url": null,
@@ -331,20 +373,6 @@
   {
     "name": "Leverage Live Local",
     "slug": "leverage-live-local",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "6sense",
-    "slug": "6sense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Calm.com",
-    "slug": "calm-com",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
