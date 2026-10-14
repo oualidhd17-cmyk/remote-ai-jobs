@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
+    "jobs_count": 31
   },
   {
     "name": "Lemon.io",
@@ -18,14 +18,7 @@
     "slug": "toptal",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
-  },
-  {
-    "name": "Webflow",
-    "slug": "webflow",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
+    "jobs_count": 4
   },
   {
     "name": "Vercel",
@@ -77,6 +70,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Webflow",
+    "slug": "webflow",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "BeyondTrust",
     "slug": "beyondtrust",
     "logo_url": null,
@@ -110,6 +110,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "AITrainers",
+    "slug": "aitrainers",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Apollo",
+    "slug": "apollo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Thyme Care",
@@ -191,13 +205,6 @@
   {
     "name": "Melio",
     "slug": "melio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mercury",
-    "slug": "mercury",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
