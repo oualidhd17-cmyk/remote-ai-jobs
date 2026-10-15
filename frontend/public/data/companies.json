@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 28
+    "jobs_count": 29
   },
   {
     "name": "Lemon.io",
@@ -51,6 +51,13 @@
   {
     "name": "Customer.io",
     "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "iMerit Technology",
+    "slug": "imerit-technology",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -163,13 +170,6 @@
   {
     "name": "AO Garcia Agency",
     "slug": "ao-garcia-agency",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "iMerit Technology",
-    "slug": "imerit-technology",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -436,13 +436,6 @@
   {
     "name": "A.Team",
     "slug": "a-team",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mitre Media",
-    "slug": "mitre-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

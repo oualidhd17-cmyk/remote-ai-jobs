@@ -656,6 +656,132 @@
     "ai_relevant": true
   },
   {
+    "id": "brand-insights-measurement-lead-anthropic-worldwide-greenhouse-anthropic-5424408008",
+    "slug": "brand-insights-measurement-lead-anthropic-worldwide-greenhouse-anthropic-5424408008",
+    "title": "Brand Insights, Measurement Lead",
+    "seo_title": "Remote Brand Insights, Measurement Lead Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Brand Insights, Measurement Lead job at anthropic in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "AWS",
+      "Tableau",
+      "Power BI",
+      "Statistics",
+      "Marketing & Brand",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5424408008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5424408008",
+    "published_at": "2026-10-15",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Brand Insights, Measurement Lead",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-15",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424408008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "ai-trainer-imerit-technology-canada-remoteok-1137513",
+    "slug": "ai-trainer-imerit-technology-canada-remoteok-1137513",
+    "title": "AI Trainer",
+    "seo_title": "Remote AI Trainer Job in Canada | Robotics Jobs",
+    "seo_description": "Apply for a remote AI Trainer job at iMerit Technology in Canada. Explore data annotation, ai training and remote AI jobs.",
+    "company": {
+      "name": "iMerit Technology",
+      "slug": "imerit-technology",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Canada",
+    "city": null,
+    "location": "US, UK, Canada, Australia + 35 other countries",
+    "location_label": "Remote - Canada",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": 50000,
+    "salary_max": 70000,
+    "salary_currency": "USD",
+    "skills": [
+      "data annotation",
+      "ai training"
+    ],
+    "category": "Robotics",
+    "description_summary": "Remote | Independent Contractor | Get certified for future project opportunities Prove your skills. Get certified. Be ready for what comes next. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-trainer-imerit-technology-1137513",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137513",
+    "published_at": "2026-10-14",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI Trainer",
+      "description": "Remote | Independent Contractor | Get certified for future project opportunities Prove your skills. Get certified. Be ready for what comes next. Robotics AI is advancing rapidly, and high-quality video data helps intelligent systems better understand the...",
+      "datePosted": "2026-10-14",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "iMerit Technology"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137513",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Canada"
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 50000,
+          "maxValue": 70000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-stem-fellow-anthropic-usa-greenhouse-anthropic-5452403008",
     "slug": "anthropic-stem-fellow-anthropic-usa-greenhouse-anthropic-5452403008",
     "title": "Anthropic STEM Fellow",
@@ -4526,61 +4652,6 @@
     "ai_relevant": true
   },
   {
-    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer, Builds and Design",
-    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer, Builds and Design",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-05",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer, Builds and Design",
@@ -4636,6 +4707,61 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer, Builds and Design",
+    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-10-05",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer, Builds and Design",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-05",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6757,83 +6883,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
-    "slug": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
-    "title": "Tech Lead Full-Stack Rails Engineer",
-    "seo_title": "Remote Tech Lead Full-Stack Rails Engineer Job in USA | Data Science Jobs",
-    "seo_description": "Apply for a remote Tech Lead Full-Stack Rails Engineer job at Mitre Media in USA. Explore SQL, LLM, LangChain, RAG and remote AI jobs.",
-    "company": {
-      "name": "Mitre Media",
-      "slug": "mitre-media",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "USA, Canada, USA timezones",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": 170000,
-    "salary_max": 200000,
-    "salary_currency": "USD",
-    "skills": [
-      "SQL",
-      "LLM",
-      "LangChain",
-      "RAG",
-      "NLP",
-      "Docker",
-      "Kubernetes",
-      "api",
-      "CSS",
-      "elasticsearch",
-      "fullstack",
-      "html"
-    ],
-    "category": "Data Science",
-    "description_summary": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-    "published_at": "2026-09-14",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Tech Lead Full-Stack Rails Engineer",
-      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over...",
-      "datePosted": "2026-09-14",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Mitre Media"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      },
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 170000,
-          "maxValue": 200000,
-          "unitText": "YEAR"
-        }
       }
     },
     "ai_relevant": true
