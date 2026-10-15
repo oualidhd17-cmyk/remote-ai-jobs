@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
+    "jobs_count": 31
   },
   {
     "name": "Lemon.io",
@@ -133,6 +133,34 @@
     "jobs_count": 2
   },
   {
+    "name": "Zapier",
+    "slug": "zapier",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ClickHouse",
+    "slug": "clickhouse",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Emerging Travel Group",
+    "slug": "emerging-travel-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Jobhire",
+    "slug": "jobhire",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Egear",
     "slug": "egear",
     "logo_url": null,
@@ -226,13 +254,6 @@
   {
     "name": "SimSpace Corporation",
     "slug": "simspace-corporation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ShyftOff",
-    "slug": "shyftoff",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
