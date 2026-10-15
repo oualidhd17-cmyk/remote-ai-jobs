@@ -14,6 +14,20 @@
     "jobs_count": 6
   },
   {
+    "name": "Lattice",
+    "slug": "lattice",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -21,29 +35,29 @@
     "jobs_count": 4
   },
   {
-    "name": "Vercel",
-    "slug": "vercel",
+    "name": "Upgrade",
+    "slug": "upgrade",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
+  },
+  {
+    "name": "6sense",
+    "slug": "6sense",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Tailscale",
     "slug": "tailscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Lattice",
-    "slug": "lattice",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -70,15 +84,15 @@
     "jobs_count": 2
   },
   {
-    "name": "Webflow",
-    "slug": "webflow",
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
+    "name": "Vercel",
+    "slug": "vercel",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -110,6 +124,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Egear",
+    "slug": "egear",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Abnormal",
+    "slug": "abnormal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "AITrainers",
@@ -147,13 +175,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Kyro AI",
-    "slug": "kyro-ai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Airbnb",
     "slug": "airbnb",
     "logo_url": null,
@@ -182,20 +203,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Baymard Institute",
-    "slug": "baymard-institute",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Prove",
-    "slug": "prove",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Oportun",
     "slug": "oportun",
     "logo_url": null,
@@ -205,13 +212,6 @@
   {
     "name": "Melio",
     "slug": "melio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mercury",
-    "slug": "mercury",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -247,20 +247,6 @@
   {
     "name": "Datadog",
     "slug": "datadog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Rubrik Job Board",
-    "slug": "rubrik-job-board",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -357,8 +343,8 @@
     "jobs_count": 1
   },
   {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
+    "name": "Webflow",
+    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
