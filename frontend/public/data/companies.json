@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 31
+    "jobs_count": 28
   },
   {
     "name": "Lemon.io",
@@ -205,6 +205,13 @@
   {
     "name": "Melio",
     "slug": "melio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercury",
+    "slug": "mercury",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -455,22 +462,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Sleek",
-    "slug": "sleek",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mirantis",
     "slug": "mirantis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Benzinga",
-    "slug": "benzinga",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
