@@ -1,5 +1,63 @@
 [
   {
+    "id": "community-engagement-manager-data-centers-montana-utah-anthropic-usa-greenhouse-anthropic-5454315008",
+    "slug": "community-engagement-manager-data-centers-montana-utah-anthropic-usa-greenhouse-anthropic-5454315008",
+    "title": "Community Engagement Manager, Data Centers (Montana & Utah)",
+    "seo_title": "Remote Community Engagement Manager, Data Centers (Montana & Utah) Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Community Engagement Manager, Data Centers (Montana & Utah) job at anthropic in USA. Explore RAG, AWS, Public Policy and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Remote-Friendly, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Public Policy"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454315008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5454315008",
+    "published_at": "2026-10-16",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Community Engagement Manager, Data Centers (Montana & Utah)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-16",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5454315008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "head-of-technology-sanctuary-computer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sanctuary-computer-head-of-technology",
     "slug": "head-of-technology-sanctuary-computer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sanctuary-computer-head-of-technology",
     "title": "Head of Technology",
@@ -825,6 +883,62 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-architect-security-specialist-anthropic-worldwide-greenhouse-anthropic-5445806008",
+    "slug": "applied-ai-architect-security-specialist-anthropic-worldwide-greenhouse-anthropic-5445806008",
+    "title": "Applied AI Architect, Security Specialist",
+    "seo_title": "Remote Applied AI Architect, Security Specialist Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Security Specialist job at anthropic in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008",
+    "published_at": "2026-10-16",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Security Specialist",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-16",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445806008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases-anthropic-uk-greenhouse-anthropic-5445760008",
     "slug": "applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases-anthropic-uk-greenhouse-anthropic-5445760008",
     "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
@@ -997,60 +1111,65 @@
     "ai_relevant": true
   },
   {
-    "id": "community-engagement-manager-data-centers-virginia-west-virginia-anthropic-usa-greenhouse-anthropic-5452699008",
-    "slug": "community-engagement-manager-data-centers-virginia-west-virginia-anthropic-usa-greenhouse-anthropic-5452699008",
-    "title": "Community Engagement Manager, Data Centers (Virginia & West Virginia)",
-    "seo_title": "Remote Community Engagement Manager, Data Centers (Virginia & West Virginia) Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Community Engagement Manager, Data Centers (Virginia & West Virginia) job at anthropic in USA. Explore RAG, AWS, Public Policy and...",
+    "id": "senior-software-engineer-ii-applied-ai-wrapbook-worldwide-remoteok-1137527",
+    "slug": "senior-software-engineer-ii-applied-ai-wrapbook-worldwide-remoteok-1137527",
+    "title": "Senior Software Engineer II Applied AI",
+    "seo_title": "Remote Senior Software Engineer II Applied AI Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer II Applied AI job at Wrapbook in Worldwide. Explore Python, LLM, LangChain, RAG and remote AI jobs.",
     "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
+      "name": "Wrapbook",
+      "slug": "wrapbook",
       "logo_url": null,
       "website": null
     },
-    "country": "USA",
+    "country": "Worldwide",
     "city": null,
-    "location": "Remote-Friendly, United States",
-    "location_label": "Remote - USA",
+    "location": "",
+    "location_label": "Remote - Worldwide",
     "remote_type": "remote",
     "employment_type": "internship",
     "experience_level": "intern",
-    "visa_sponsorship": true,
+    "visa_sponsorship": false,
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "skills": [
+      "Python",
+      "LLM",
+      "LangChain",
       "RAG",
       "AWS",
-      "Public Policy"
+      "dev",
+      "design",
+      "amazon",
+      "sys admin",
+      "backend",
+      "infosec",
+      "education"
     ],
     "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452699008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452699008",
+    "description_summary": "About Us: Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137527",
     "published_at": "2026-10-15",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Community Engagement Manager, Data Centers (Virginia & West Virginia)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "title": "Senior Software Engineer II Applied AI",
+      "description": "About Us: Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting. Built for feature films, TV, and commercials, Wrapbook is...",
       "datePosted": "2026-10-15",
       "employmentType": "INTERN",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "anthropic"
+        "name": "Wrapbook"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452699008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
+      "url": "https://remoteok.com/remote-jobs/1137527",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
