@@ -133,6 +133,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Askable",
+    "slug": "askable",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Zapier",
     "slug": "zapier",
     "logo_url": null,
@@ -443,13 +450,6 @@
   {
     "name": "Sanctuary Computer Inc",
     "slug": "sanctuary-computer-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sticker Mule",
-    "slug": "sticker-mule",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
