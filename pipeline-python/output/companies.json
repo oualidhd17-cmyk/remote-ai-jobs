@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 31
+    "jobs_count": 32
   },
   {
     "name": "Lemon.io",
@@ -14,18 +14,25 @@
     "jobs_count": 6
   },
   {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Lattice",
     "slug": "lattice",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Sanctuary Computer",
+    "slug": "sanctuary-computer",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "PagerDuty",
@@ -93,13 +100,6 @@
   {
     "name": "iMerit Technology",
     "slug": "imerit-technology",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Coinbase",
-    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -203,6 +203,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Mitre Media",
+    "slug": "mitre-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "AITrainers",
     "slug": "aitrainers",
     "logo_url": null,
@@ -212,6 +219,13 @@
   {
     "name": "Apollo",
     "slug": "apollo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,13 +457,6 @@
   {
     "name": "Delinea",
     "slug": "delinea",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sanctuary Computer",
-    "slug": "sanctuary-computer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

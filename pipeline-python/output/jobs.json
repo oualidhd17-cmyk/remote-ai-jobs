@@ -1,5 +1,59 @@
 [
   {
+    "id": "head-of-technology-sanctuary-computer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sanctuary-computer-head-of-technology",
+    "slug": "head-of-technology-sanctuary-computer-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sanctuary-computer-head-of-technology",
+    "title": "Head of Technology",
+    "seo_title": "Remote Head of Technology Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Head of Technology job at Sanctuary Computer in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Sanctuary Computer",
+      "slug": "sanctuary-computer",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: New York City URL: https://sanctuary.computer We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
+    "published_at": "2026-10-16",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Head of Technology",
+      "description": "Headquarters: New York City URL: https://sanctuary.computer We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About...",
+      "datePosted": "2026-10-16",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Sanctuary Computer"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/sanctuary-computer-head-of-technology",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-solutions-consultant-pagerduty-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pagerduty-senior-solutions-consultant",
     "slug": "senior-solutions-consultant-pagerduty-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-pagerduty-senior-solutions-consultant",
     "title": "Senior Solutions Consultant",
@@ -710,6 +764,119 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5447368008",
+    "slug": "applied-ai-architect-partnerships-anthropic-worldwide-greenhouse-anthropic-5447368008",
+    "title": "Applied AI Architect, Partnerships",
+    "seo_title": "Remote Applied AI Architect, Partnerships Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Partnerships job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Bangalore, India",
+    "location_label": "Bangalore, India",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Generative AI",
+      "Applied AI",
+      "Bangalore, India"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008",
+    "published_at": "2026-10-16",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Partnerships",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-16",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447368008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases-anthropic-uk-greenhouse-anthropic-5445760008",
+    "slug": "applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases-anthropic-uk-greenhouse-anthropic-5445760008",
+    "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
+    "seo_title": "Remote Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) job at anthropic in UK. Explore LLM,...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Statistics",
+      "Applied AI",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
+    "published_at": "2026-10-16",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-16",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008"
     },
     "ai_relevant": true
   },
@@ -1768,62 +1935,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases-anthropic-uk-greenhouse-anthropic-5445760008",
-    "slug": "applied-ai-engineer-beneficial-deployments-clinical-development-rare-and-neglected-diseases-anthropic-uk-greenhouse-anthropic-5445760008",
-    "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
-    "seo_title": "Remote Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases) job at anthropic in UK. Explore LLM,...",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "AWS",
-      "Statistics",
-      "Applied AI",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008",
-    "published_at": "2026-10-15",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Engineer, Beneficial Deployments (Clinical Development, Rare and Neglected Diseases)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-15",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "applied-ai-engineer-startups-life-sciences-anthropic-worldwide-greenhouse-anthropic-5454650008",
     "slug": "applied-ai-engineer-startups-life-sciences-anthropic-worldwide-greenhouse-anthropic-5454650008",
     "title": "Applied AI Engineer, Startups (Life Sciences)",
@@ -2119,6 +2230,83 @@
     "ai_relevant": true
   },
   {
+    "id": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
+    "slug": "tech-lead-full-stack-rails-engineer-mitre-media-usa-remotive-2069746",
+    "title": "Tech Lead Full-Stack Rails Engineer",
+    "seo_title": "Remote Tech Lead Full-Stack Rails Engineer Job in USA | Data Science Jobs",
+    "seo_description": "Apply for a remote Tech Lead Full-Stack Rails Engineer job at Mitre Media in USA. Explore SQL, LLM, LangChain, RAG and remote AI jobs.",
+    "company": {
+      "name": "Mitre Media",
+      "slug": "mitre-media",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "USA, Canada, USA timezones",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 170000,
+    "salary_max": 200000,
+    "salary_currency": "USD",
+    "skills": [
+      "SQL",
+      "LLM",
+      "LangChain",
+      "RAG",
+      "NLP",
+      "Docker",
+      "Kubernetes",
+      "api",
+      "CSS",
+      "elasticsearch",
+      "fullstack",
+      "html"
+    ],
+    "category": "Data Science",
+    "description_summary": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over...",
+    "apply_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+    "published_at": "2026-10-14",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Tech Lead Full-Stack Rails Engineer",
+      "description": "About Mitre Media Mitre Media is redefining FinTech with AI-driven tools that empower millions of investors. Our portfolio, including Dividend.com and MutualFunds.com, leverages LLMs to deliver novel data insights and visually rich user experiences. For over...",
+      "datePosted": "2026-10-14",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Mitre Media"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      },
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 170000,
+          "maxValue": 200000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-stem-fellow-anthropic-usa-greenhouse-anthropic-5452403008",
     "slug": "anthropic-stem-fellow-anthropic-usa-greenhouse-anthropic-5452403008",
     "title": "Anthropic STEM Fellow",
@@ -2289,64 +2477,6 @@
     "ai_relevant": true
   },
   {
-    "id": "deployment-strategist-databricks-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-databricks-deployment-strategist",
-    "slug": "deployment-strategist-databricks-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-databricks-deployment-strategist",
-    "title": "Deployment Strategist",
-    "seo_title": "Remote Deployment Strategist Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Deployment Strategist job at Databricks in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
-    "company": {
-      "name": "Databricks",
-      "slug": "databricks",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "RAG",
-      "Generative AI",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote - India About the Team The FDE (Forward Deployed Engineering) team is a new, strategic initiative sponsored from the CEO and Founders down. Our mission is to win C-suite-sponsored, high-value AI opportunities by selling and delivering...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
-    "published_at": "2026-10-14",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Deployment Strategist",
-      "description": "Headquarters: Remote - India About the Team The FDE (Forward Deployed Engineering) team is a new, strategic initiative sponsored from the CEO and Founders down. Our mission is to win C-suite-sponsored, high-value AI opportunities by selling and delivering...",
-      "datePosted": "2026-10-14",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Databricks"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/databricks-deployment-strategist",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "delivery-solutions-architect-startups-emerging-enterprise-databricks-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-databricks-delivery-solutions",
     "slug": "delivery-solutions-architect-startups-emerging-enterprise-databricks-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-databricks-delivery-solutions",
     "title": "Delivery Solutions Architect - Startups & Emerging Enterprise",
@@ -2508,61 +2638,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/coinbase-associate-general-counsel-privacy",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "analyst-privacy-privacy-assessments-coinbase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coinbase-analyst-privacy-privacy-assessments",
-    "slug": "analyst-privacy-privacy-assessments-coinbase-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-coinbase-analyst-privacy-privacy-assessments",
-    "title": "Analyst, Privacy (Privacy Assessments)",
-    "seo_title": "Remote Analyst, Privacy (Privacy Assessments) Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Analyst, Privacy (Privacy Assessments) job at Coinbase in Worldwide. Explore AWS, Generative AI, Full-Stack Programming, Remote and...",
-    "company": {
-      "name": "Coinbase",
-      "slug": "coinbase",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "AWS",
-      "Generative AI",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
-    "published_at": "2026-10-14",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Analyst, Privacy (Privacy Assessments)",
-      "description": "Headquarters: Remote - USA Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for...",
-      "datePosted": "2026-10-14",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Coinbase"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/coinbase-analyst-privacy-privacy-assessments",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5318,6 +5393,61 @@
     "ai_relevant": true
   },
   {
+    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer, Builds and Design",
+    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-10-05",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer, Builds and Design",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-05",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer, Builds and Design",
@@ -5373,61 +5503,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer, Builds and Design",
-    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer, Builds and Design",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-05",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
