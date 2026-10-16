@@ -14,13 +14,6 @@
     "jobs_count": 6
   },
   {
-    "name": "Lattice",
-    "slug": "lattice",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Databricks",
     "slug": "databricks",
     "logo_url": null,
@@ -28,11 +21,53 @@
     "jobs_count": 4
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
+    "name": "Lattice",
+    "slug": "lattice",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
+  },
+  {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Maven Clinic",
+    "slug": "maven-clinic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Clover Health",
+    "slug": "clover-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Fivetran",
+    "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Upgrade",
@@ -63,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Tailscale",
-    "slug": "tailscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
@@ -91,22 +119,8 @@
     "jobs_count": 2
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Vercel",
     "slug": "vercel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Wrike",
-    "slug": "wrike",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,8 +133,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -131,6 +145,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Galileo",
+    "slug": "galileo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Askable",
@@ -231,22 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Paragon Planners",
-    "slug": "paragon-planners",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Oportun",
     "slug": "oportun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Melio",
-    "slug": "melio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -371,6 +378,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Wrike",
+    "slug": "wrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Webflow",
     "slug": "webflow",
     "logo_url": null,
@@ -380,13 +394,6 @@
   {
     "name": "RedMimicry",
     "slug": "redmimicry",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Chime Financial, Inc",
-    "slug": "chime-financial-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
