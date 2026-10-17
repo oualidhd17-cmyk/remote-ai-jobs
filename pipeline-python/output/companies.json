@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 35
+    "jobs_count": 36
   },
   {
     "name": "Lemon.io",
@@ -14,18 +14,53 @@
     "jobs_count": 6
   },
   {
-    "name": "Lattice",
-    "slug": "lattice",
+    "name": "Customer.io",
+    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Databricks",
-    "slug": "databricks",
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Celonis",
+    "slug": "celonis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Mixpanel",
+    "slug": "mixpanel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Sanctuary Computer",
@@ -42,29 +77,8 @@
     "jobs_count": 2
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Zscaler",
-    "slug": "zscaler",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Maven Clinic",
     "slug": "maven-clinic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Clover Health",
-    "slug": "clover-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -84,15 +98,15 @@
     "jobs_count": 2
   },
   {
-    "name": "6sense",
-    "slug": "6sense",
+    "name": "Lattice",
+    "slug": "lattice",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Customer.io",
-    "slug": "customer-io",
+    "name": "Databricks",
+    "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -161,6 +175,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Clover Health",
+    "slug": "clover-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Galileo",
     "slug": "galileo",
     "logo_url": null,
@@ -182,20 +210,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Zapier",
-    "slug": "zapier",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ClickHouse",
-    "slug": "clickhouse",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Emerging Travel Group",
     "slug": "emerging-travel-group",
     "logo_url": null,
@@ -212,6 +226,13 @@
   {
     "name": "Egear",
     "slug": "egear",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "6sense",
+    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -280,6 +301,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Paragon Planners",
+    "slug": "paragon-planners",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Oportun",
     "slug": "oportun",
     "logo_url": null,
@@ -303,13 +331,6 @@
   {
     "name": "Keeper Security",
     "slug": "keeper-security",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Datadog",
-    "slug": "datadog",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -371,13 +392,6 @@
     "jobs_count": 1
   },
   {
-    "name": "BlueGeko",
-    "slug": "bluegeko",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Faire",
     "slug": "faire",
     "logo_url": null,
@@ -392,22 +406,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Expel",
-    "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Semaphore",
     "slug": "semaphore",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Wrike",
-    "slug": "wrike",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -478,13 +478,6 @@
   {
     "name": "Sanctuary Computer Inc",
     "slug": "sanctuary-computer-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "A.Team",
-    "slug": "a-team",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
