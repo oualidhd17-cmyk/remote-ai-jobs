@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
+    "jobs_count": 35
   },
   {
     "name": "Lemon.io",
@@ -147,6 +147,20 @@
     "jobs_count": 2
   },
   {
+    "name": "AlgaeCal",
+    "slug": "algaecal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Hippocratic AI",
+    "slug": "hippocratic-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Galileo",
     "slug": "galileo",
     "logo_url": null,
@@ -198,13 +212,6 @@
   {
     "name": "Egear",
     "slug": "egear",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Abnormal",
-    "slug": "abnormal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
