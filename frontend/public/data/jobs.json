@@ -888,6 +888,73 @@
     "ai_relevant": true
   },
   {
+    "id": "head-of-technology-sanctuary-computer-worldwide-remoteok-1137537",
+    "slug": "head-of-technology-sanctuary-computer-worldwide-remoteok-1137537",
+    "title": "Head of Technology",
+    "seo_title": "Remote Head of Technology Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Head of Technology job at Sanctuary Computer in Worldwide. Explore RAG, dev, engineer, senior and remote AI jobs.",
+    "company": {
+      "name": "Sanctuary Computer",
+      "slug": "sanctuary-computer",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 140000,
+    "salary_max": 250000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "dev",
+      "engineer",
+      "senior",
+      "full stack",
+      "front end"
+    ],
+    "category": "Data Science",
+    "description_summary": "We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About garden3d We are worker owned creative collective, innovating...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-head-of-technology-sanctuary-computer-1137537",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137537",
+    "published_at": "2026-10-16",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Head of Technology",
+      "description": "We are hiring a Head of Technology for the garden3d creative collective, to lead engineering at Sanctuary Computer and garden3d in the era of agentic computer code. Original job posting link About garden3d We are worker owned creative collective, innovating...",
+      "datePosted": "2026-10-16",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Sanctuary Computer"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137537",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 140000,
+          "maxValue": 250000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "community-engagement-manager-data-centers-montana-utah-anthropic-usa-greenhouse-anthropic-5454315008",
     "slug": "community-engagement-manager-data-centers-montana-utah-anthropic-usa-greenhouse-anthropic-5454315008",
     "title": "Community Engagement Manager, Data Centers (Montana & Utah)",
@@ -1670,6 +1737,76 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/askable-software-engineer-ai-coding-tasks-contract",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-of-product-management-and-it-operations-self-bill-pro-worldwide-remoteok-1137536",
+    "slug": "director-of-product-management-and-it-operations-self-bill-pro-worldwide-remoteok-1137536",
+    "title": "Director of Product Management and IT Operations",
+    "seo_title": "Remote Director of Product Management and IT Operations Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Director of Product Management and IT Operations job at Self Bill Pro in Worldwide. Explore RAG, product manager, exec, infosec and...",
+    "company": {
+      "name": "Self Bill Pro",
+      "slug": "self-bill-pro",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Worldwide",
+    "remote_type": "unknown",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 130000,
+    "salary_max": 160000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "product manager",
+      "exec",
+      "infosec",
+      "technical",
+      "customer support",
+      "dev",
+      "testing",
+      "ops",
+      "digital nomad"
+    ],
+    "category": "Robotics",
+    "description_summary": "About Self Bill Pro: Self Bill Pro is a rapidly growing startup dedicated to solving one of the most persistent challenges in the employee benefits ecosystem: the complexity of monthly benefits billing. We provide a tech-enabled service where our dedicated...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137536",
+    "published_at": "2026-10-16",
+    "expires_at": null,
+    "quality_score": 80,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director of Product Management and IT Operations",
+      "description": "About Self Bill Pro: Self Bill Pro is a rapidly growing startup dedicated to solving one of the most persistent challenges in the employee benefits ecosystem: the complexity of monthly benefits billing. We provide a tech-enabled service where our dedicated...",
+      "datePosted": "2026-10-16",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Self Bill Pro"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137536",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 130000,
+          "maxValue": 160000,
+          "unitText": "YEAR"
+        }
+      }
     },
     "ai_relevant": true
   },

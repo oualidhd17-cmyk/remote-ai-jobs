@@ -35,6 +35,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Sanctuary Computer",
+    "slug": "sanctuary-computer",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Celonis",
     "slug": "celonis",
     "logo_url": null,
@@ -58,13 +65,6 @@
   {
     "name": "Mixpanel",
     "slug": "mixpanel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Sanctuary Computer",
-    "slug": "sanctuary-computer",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -198,6 +198,13 @@
   {
     "name": "Askable",
     "slug": "askable",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Self Bill Pro",
+    "slug": "self-bill-pro",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
