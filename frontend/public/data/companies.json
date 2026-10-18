@@ -70,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Legion",
     "slug": "legion",
     "logo_url": null,
@@ -205,6 +198,13 @@
   {
     "name": "Atomic Construction, LLC",
     "slug": "atomic-construction-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Collibra",
+    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
