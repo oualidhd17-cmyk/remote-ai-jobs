@@ -1,5 +1,74 @@
 [
   {
+    "id": "software-engineer-ai-coding-tasks-askable-worldwide-remoteok-1137538",
+    "slug": "software-engineer-ai-coding-tasks-askable-worldwide-remoteok-1137538",
+    "title": "Software Engineer AI Coding Tasks",
+    "seo_title": "Remote Software Engineer AI Coding Tasks Job | MLOps Jobs",
+    "seo_description": "Apply for a remote Software Engineer AI Coding Tasks job at Askable in Worldwide. Explore Python, Docker, dev, javascript and remote AI jobs.",
+    "company": {
+      "name": "Askable",
+      "slug": "askable",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": 10000,
+    "salary_max": 10000,
+    "salary_currency": "USD",
+    "skills": [
+      "Python",
+      "Docker",
+      "dev",
+      "javascript",
+      "typescript",
+      "golang",
+      "java",
+      "c plus plus"
+    ],
+    "category": "MLOps",
+    "description_summary": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137538",
+    "published_at": "2026-10-17",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Software Engineer AI Coding Tasks",
+      "description": "We're looking for experienced software engineers to build AI coding tasks from a codebase they know well. US$1,000 per task, and you can do as many tasks as you want. You turn a real change from a repository you know into a task that today's best AI coding...",
+      "datePosted": "2026-10-17",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Askable"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137538",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 10000,
+          "maxValue": 10000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "client-director-financial-services-celonis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-celonis-client-director-financial-services",
     "slug": "client-director-financial-services-celonis-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-celonis-client-director-financial-services",
     "title": "Client Director - Financial Services",
@@ -6375,7 +6444,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137461",
     "published_at": "2026-10-03",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
