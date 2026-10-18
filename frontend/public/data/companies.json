@@ -11,7 +11,14 @@
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
+    "jobs_count": 5
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Customer.io",
@@ -28,13 +35,6 @@
     "jobs_count": 3
   },
   {
-    "name": "Expel",
-    "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Sanctuary Computer",
     "slug": "sanctuary-computer",
     "logo_url": null,
@@ -42,15 +42,29 @@
     "jobs_count": 3
   },
   {
-    "name": "Askable",
-    "slug": "askable",
+    "name": "Lithic",
+    "slug": "lithic",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Celonis",
-    "slug": "celonis",
+    "name": "Tebra",
+    "slug": "tebra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Alloy",
+    "slug": "alloy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -77,22 +91,15 @@
     "jobs_count": 2
   },
   {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "PagerDuty",
     "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Fivetran",
-    "slug": "fivetran",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,13 +126,6 @@
     "jobs_count": 2
   },
   {
-    "name": "iMerit Technology",
-    "slug": "imerit-technology",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Yubico Inc.",
     "slug": "yubico-inc",
     "logo_url": null,
@@ -135,13 +135,6 @@
   {
     "name": "Gong.io",
     "slug": "gong-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Vercel",
-    "slug": "vercel",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -168,6 +161,48 @@
     "jobs_count": 2
   },
   {
+    "name": "Squarespace",
+    "slug": "squarespace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Dremio",
+    "slug": "dremio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Askable",
+    "slug": "askable",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Celonis",
+    "slug": "celonis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Yuno",
+    "slug": "yuno",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Apryse",
+    "slug": "apryse",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Atomic Construction, LLC",
     "slug": "atomic-construction-llc",
     "logo_url": null,
@@ -191,6 +226,13 @@
   {
     "name": "Clover Health",
     "slug": "clover-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Fivetran",
+    "slug": "fivetran",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -245,6 +287,13 @@
     "jobs_count": 1
   },
   {
+    "name": "iMerit Technology",
+    "slug": "imerit-technology",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Mitre Media",
     "slug": "mitre-media",
     "logo_url": null,
@@ -287,22 +336,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Airbnb",
-    "slug": "airbnb",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Engine",
     "slug": "engine",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Paragon Planners",
-    "slug": "paragon-planners",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -387,6 +422,13 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vercel",
+    "slug": "vercel",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
