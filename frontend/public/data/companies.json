@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 35
+    "jobs_count": 36
   },
   {
     "name": "Lemon.io",
@@ -121,13 +121,6 @@
   {
     "name": "Yubico Inc.",
     "slug": "yubico-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Gong.io",
-    "slug": "gong-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -317,6 +310,13 @@
   {
     "name": "Coinbase",
     "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Gong.io",
+    "slug": "gong-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
