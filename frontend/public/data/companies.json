@@ -7,11 +7,39 @@
     "jobs_count": 36
   },
   {
+    "name": "Proxify AB",
+    "slug": "proxify-ab",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 6
+  },
+  {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Alloy",
+    "slug": "alloy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 4
+  },
+  {
+    "name": "Clover Health",
+    "slug": "clover-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Airbnb",
@@ -28,18 +56,25 @@
     "jobs_count": 3
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
+    "name": "Talkspace",
+    "slug": "talkspace",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
-    "name": "Sanctuary Computer",
-    "slug": "sanctuary-computer",
+    "name": "Upstart",
+    "slug": "upstart",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
+  },
+  {
+    "name": "Pendo",
+    "slug": "pendo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Lithic",
@@ -56,36 +91,22 @@
     "jobs_count": 2
   },
   {
-    "name": "Alloy",
-    "slug": "alloy",
+    "name": "Askable",
+    "slug": "askable",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Sezzle",
-    "slug": "sezzle",
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Legion",
-    "slug": "legion",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Mixpanel",
-    "slug": "mixpanel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Expel",
-    "slug": "expel",
+    "name": "Sanctuary Computer",
+    "slug": "sanctuary-computer",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -98,36 +119,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Upgrade",
-    "slug": "upgrade",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Lattice",
-    "slug": "lattice",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Yubico Inc.",
     "slug": "yubico-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "AssemblyAI",
-    "slug": "assemblyai",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -147,6 +140,20 @@
     "jobs_count": 2
   },
   {
+    "name": "BDF EXPERTS",
+    "slug": "bdf-experts",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Flexport",
+    "slug": "flexport",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Squarespace",
     "slug": "squarespace",
     "logo_url": null,
@@ -156,20 +163,6 @@
   {
     "name": "Dremio",
     "slug": "dremio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Askable",
-    "slug": "askable",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Celonis",
-    "slug": "celonis",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -196,6 +189,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Legion",
+    "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Collibra",
     "slug": "collibra",
     "logo_url": null,
@@ -217,22 +217,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Clover Health",
-    "slug": "clover-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Fivetran",
     "slug": "fivetran",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Galileo",
-    "slug": "galileo",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -266,8 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Egear",
-    "slug": "egear",
+    "name": "Upgrade",
+    "slug": "upgrade",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -275,6 +261,13 @@
   {
     "name": "6sense",
     "slug": "6sense",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -294,29 +287,8 @@
     "jobs_count": 1
   },
   {
-    "name": "AITrainers",
-    "slug": "aitrainers",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Apollo",
-    "slug": "apollo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Gong.io",
-    "slug": "gong-io",
+    "name": "Lattice",
+    "slug": "lattice",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -359,13 +331,6 @@
   {
     "name": "SimSpace Corporation",
     "slug": "simspace-corporation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Keeper Security",
-    "slug": "keeper-security",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,20 +408,6 @@
   {
     "name": "Tierarzt Plus Partner",
     "slug": "tierarzt-plus-partner",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Semaphore",
-    "slug": "semaphore",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Webflow",
-    "slug": "webflow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
