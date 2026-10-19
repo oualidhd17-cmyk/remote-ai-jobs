@@ -98,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Yubico Inc.",
     "slug": "yubico-inc",
     "logo_url": null,
@@ -175,6 +168,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Sothebyâs",
+    "slug": "sothebyas",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Rain",
+    "slug": "rain",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Squarespace",
     "slug": "squarespace",
     "logo_url": null,
@@ -238,6 +245,13 @@
     "jobs_count": 1
   },
   {
+    "name": "PagerDuty",
+    "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Fivetran",
     "slug": "fivetran",
     "logo_url": null,
@@ -254,13 +268,6 @@
   {
     "name": "Wrapbook",
     "slug": "wrapbook",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Emerging Travel Group",
-    "slug": "emerging-travel-group",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -415,6 +422,13 @@
   {
     "name": "RedMimicry",
     "slug": "redmimicry",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "AssemblyAI",
+    "slug": "assemblyai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
