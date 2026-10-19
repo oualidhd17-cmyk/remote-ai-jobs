@@ -49,22 +49,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Customer.io",
-    "slug": "customer-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Talkspace",
     "slug": "talkspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Upstart",
-    "slug": "upstart",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -98,15 +84,15 @@
     "jobs_count": 2
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
+    "name": "Customer.io",
+    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Sanctuary Computer",
-    "slug": "sanctuary-computer",
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,6 +126,34 @@
     "jobs_count": 2
   },
   {
+    "name": "Abbott",
+    "slug": "abbott",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Prodware Group",
+    "slug": "prodware-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Evolve Peptides",
+    "slug": "evolve-peptides",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Growth Minded",
+    "slug": "growth-minded",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "BDF EXPERTS",
     "slug": "bdf-experts",
     "logo_url": null,
@@ -154,15 +168,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Squarespace",
-    "slug": "squarespace",
+    "name": "Upstart",
+    "slug": "upstart",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Dremio",
-    "slug": "dremio",
+    "name": "Squarespace",
+    "slug": "squarespace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -198,6 +212,13 @@
   {
     "name": "Collibra",
     "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sanctuary Computer",
+    "slug": "sanctuary-computer",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -245,29 +266,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Jobhire",
-    "slug": "jobhire",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Upgrade",
     "slug": "upgrade",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "6sense",
-    "slug": "6sense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Databricks",
-    "slug": "databricks",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
