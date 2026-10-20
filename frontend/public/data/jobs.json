@@ -1392,6 +1392,62 @@
     "ai_relevant": true
   },
   {
+    "id": "applied-ai-demo-engineer-anthropic-worldwide-greenhouse-anthropic-5455961008",
+    "slug": "applied-ai-demo-engineer-anthropic-worldwide-greenhouse-anthropic-5455961008",
+    "title": "Applied AI Demo Engineer",
+    "seo_title": "Remote Applied AI Demo Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Demo Engineer job at anthropic in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008",
+    "published_at": "2026-10-19",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Demo Engineer",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-19",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455961008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "audit-security-grc-anthropic-worldwide-greenhouse-anthropic-5457137008",
     "slug": "audit-security-grc-anthropic-worldwide-greenhouse-anthropic-5457137008",
     "title": "Audit, Security GRC",
@@ -2356,7 +2412,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTAyLjk1LjQ5 when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTcxLjMuMTMy when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -2368,7 +2424,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTAyLjk1LjQ5 when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTcxLjMuMTMy when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -3537,64 +3593,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "community-engagement-manager-data-centers-louisiana-anthropic-usa-greenhouse-anthropic-5452691008",
-    "slug": "community-engagement-manager-data-centers-louisiana-anthropic-usa-greenhouse-anthropic-5452691008",
-    "title": "Community Engagement Manager, Data Centers (Louisiana)",
-    "seo_title": "Remote Community Engagement Manager, Data Centers (Louisiana) Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Community Engagement Manager, Data Centers (Louisiana) job at anthropic in USA. Explore RAG, AWS, Public Policy and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Remote-Friendly, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Public Policy"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
-    "published_at": "2026-10-15",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Community Engagement Manager, Data Centers (Louisiana)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-15",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   },
@@ -6381,7 +6379,7 @@
     "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385590008",
     "published_at": "2026-10-05",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6440,7 +6438,7 @@
     "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
     "published_at": "2026-10-05",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6496,7 +6494,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137465",
     "published_at": "2026-10-05",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6512,64 +6510,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137465",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-platform-automation-anthropic-worldwide-greenhouse-anthropic-5383714008",
-    "slug": "av-engineer-platform-automation-anthropic-worldwide-greenhouse-anthropic-5383714008",
-    "title": "AV Engineer, Platform & Automation",
-    "seo_title": "Remote AV Engineer, Platform & Automation Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer, Platform & Automation job at anthropic in Worldwide. Explore Python, LLM, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "San Francisco, CA | New York City, NY",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "AWS",
-      "GCP",
-      "Security",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer, Platform & Automation",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-05",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383714008"
     },
     "ai_relevant": true
   },
@@ -7399,132 +7339,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "software-deployment-engineer-kpi-solutions-worldwide-remoteok-1137408",
-    "slug": "software-deployment-engineer-kpi-solutions-worldwide-remoteok-1137408",
-    "title": "Software Deployment Engineer",
-    "seo_title": "Remote Software Deployment Engineer Job | NLP Jobs",
-    "seo_description": "Apply for a remote Software Deployment Engineer job at KPI Solutions in Worldwide. Explore SQL, LLM, dev, design and remote AI jobs.",
-    "company": {
-      "name": "KPI Solutions",
-      "slug": "kpi-solutions",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Cincinnati",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "LLM",
-      "dev",
-      "design",
-      "sys admin",
-      "education",
-      "consulting",
-      "technical",
-      "customer support",
-      "testing",
-      "quality assurance",
-      "c"
-    ],
-    "category": "NLP",
-    "description_summary": "About KPI Solutions KPI Solutions is a national supply chain consulting and warehouse automation systems integrator, helping some of the biggest names in e-commerce, retail, and distribution move product faster and smarter. Formed in 2021 through the...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-software-deployment-engineer-kpi-solutions-1137408",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137408",
-    "published_at": "2026-09-19",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Software Deployment Engineer",
-      "description": "About KPI Solutions KPI Solutions is a national supply chain consulting and warehouse automation systems integrator, helping some of the biggest names in e-commerce, retail, and distribution move product faster and smarter. Formed in 2021 through the...",
-      "datePosted": "2026-09-19",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "KPI Solutions"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137408",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-success-manager-mexico-jumpcloud-worldwide-remoteok-1137406",
-    "slug": "customer-success-manager-mexico-jumpcloud-worldwide-remoteok-1137406",
-    "title": "Customer Success Manager Mexico",
-    "seo_title": "Remote Customer Success Manager Mexico Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Customer Success Manager Mexico job at JumpCloud in Worldwide. Explore RAG, customer support, exec, saas and remote AI jobs.",
-    "company": {
-      "name": "JumpCloud",
-      "slug": "jumpcloud",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Mexico City, Mexico - Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "customer support",
-      "exec",
-      "saas",
-      "sys admin",
-      "swift",
-      "infosec",
-      "technical",
-      "marketing",
-      "travel",
-      "speech",
-      "finance"
-    ],
-    "category": "MLOps",
-    "description_summary": "All roles at JumpCloudÂ® are Remote unless otherwise specified in the Job Description. About JumpCloudÂ® JumpCloudÂ® is the AI-powered unified IT management platform designed to secure the modern workforce. By consolidating identity, device, and access...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-mexico-jumpcloud-1137406",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137406",
-    "published_at": "2026-09-19",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Success Manager Mexico",
-      "description": "All roles at JumpCloudÂ® are Remote unless otherwise specified in the Job Description. About JumpCloudÂ® JumpCloudÂ® is the AI-powered unified IT management platform designed to secure the modern workforce. By consolidating identity, device, and access...",
-      "datePosted": "2026-09-19",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "JumpCloud"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137406",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
