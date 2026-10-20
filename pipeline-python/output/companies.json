@@ -11,13 +11,6 @@
     "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
-  },
-  {
-    "name": "Expel",
-    "slug": "expel",
-    "logo_url": null,
-    "website": null,
     "jobs_count": 4
   },
   {
@@ -28,11 +21,18 @@
     "jobs_count": 4
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Collibra",
+    "slug": "collibra",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
+  },
+  {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Clover Health",
@@ -42,15 +42,29 @@
     "jobs_count": 3
   },
   {
-    "name": "Airbnb",
-    "slug": "airbnb",
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Talkspace",
-    "slug": "talkspace",
+    "name": "Celonis",
+    "slug": "celonis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Carrot",
+    "slug": "carrot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -58,13 +72,6 @@
   {
     "name": "Pendo",
     "slug": "pendo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Lithic",
-    "slug": "lithic",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -79,20 +86,6 @@
   {
     "name": "Askable",
     "slug": "askable",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Customer.io",
-    "slug": "customer-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -117,6 +110,34 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Roblox",
+    "slug": "roblox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Datadog",
+    "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Fastly",
+    "slug": "fastly",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Samsara",
+    "slug": "samsara",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Abbott",
@@ -161,8 +182,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Upstart",
-    "slug": "upstart",
+    "name": "Talkspace",
+    "slug": "talkspace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Lithic",
+    "slug": "lithic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -203,13 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Atomic Construction, LLC",
-    "slug": "atomic-construction-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Legion",
     "slug": "legion",
     "logo_url": null,
@@ -217,8 +238,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
+    "name": "Customer.io",
+    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -247,6 +268,13 @@
   {
     "name": "PagerDuty",
     "slug": "pagerduty",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -310,6 +338,13 @@
   {
     "name": "AO Garcia Agency",
     "slug": "ao-garcia-agency",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Airbnb",
+    "slug": "airbnb",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -427,13 +462,6 @@
     "jobs_count": 1
   },
   {
-    "name": "AssemblyAI",
-    "slug": "assemblyai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Leverage Live Local",
     "slug": "leverage-live-local",
     "logo_url": null,
@@ -464,13 +492,6 @@
   {
     "name": "Delinea",
     "slug": "delinea",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Sanctuary Computer Inc",
-    "slug": "sanctuary-computer-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
