@@ -14,13 +14,6 @@
     "jobs_count": 4
   },
   {
-    "name": "Alloy",
-    "slug": "alloy",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Collibra",
     "slug": "collibra",
     "logo_url": null,
@@ -28,8 +21,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Expel",
-    "slug": "expel",
+    "name": "Toptal",
+    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -70,6 +63,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Expel",
+    "slug": "expel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Alloy",
+    "slug": "alloy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Pendo",
     "slug": "pendo",
     "logo_url": null,
@@ -91,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
@@ -107,6 +107,13 @@
   {
     "name": "Roblox",
     "slug": "roblox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Jobs for Humanity",
+    "slug": "jobs-for-humanity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -177,13 +184,6 @@
   {
     "name": "Talkspace",
     "slug": "talkspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Lithic",
-    "slug": "lithic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
