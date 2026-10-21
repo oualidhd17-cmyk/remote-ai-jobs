@@ -3,7 +3,7 @@
   "processed_count": 250,
   "published_count": 127,
   "ai_relevant_count": 183,
-  "remote_count": 100,
+  "remote_count": 99,
   "visa_count": 43,
   "salary_count": 13,
   "status_counts": {
@@ -19,10 +19,10 @@
     "greenhouse": 80
   },
   "category_counts": {
-    "MLOps": 11,
-    "Robotics": 25,
+    "MLOps": 9,
+    "Robotics": 26,
     "AI Engineering": 60,
-    "Data Science": 21,
+    "Data Science": 22,
     "Data Analytics": 3,
     "Cybersecurity AI": 1,
     "NLP": 3,
@@ -30,8 +30,8 @@
     "AI Product": 2
   },
   "country_counts": {
-    "Worldwide": 110,
-    "USA": 10,
+    "Worldwide": 111,
+    "USA": 9,
     "UK": 3,
     "Canada": 1,
     "Australia": 2,

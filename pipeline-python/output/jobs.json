@@ -176,6 +176,115 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-staff-threat-intelligence-analyst-hacks-trm-labs-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-trm-labs-senior-staff-threat-intelligence",
+    "slug": "senior-staff-threat-intelligence-analyst-hacks-trm-labs-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-trm-labs-senior-staff-threat-intelligence",
+    "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+    "seo_title": "Remote Senior / Staff Threat Intelligence Analyst, Hacks Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior / Staff Threat Intelligence Analyst, Hacks job at TRM Labs in Worldwide. Explore RAG, AWS, All Other Remote, Remote and remote...",
+    "company": {
+      "name": "TRM Labs",
+      "slug": "trm-labs",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: United States URL: https://www.trmlabs.com/ About the Role When a protocol is drained, or an exchange is compromised, our customers need to know within minutes or hours which addresses to block and where the funds are going. You will own TRM's...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/trm-labs-senior-staff-threat-intelligence-analyst-hacks",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/trm-labs-senior-staff-threat-intelligence-analyst-hacks",
+    "published_at": "2026-10-21",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior / Staff Threat Intelligence Analyst, Hacks",
+      "description": "Headquarters: United States URL: https://www.trmlabs.com/ About the Role When a protocol is drained, or an exchange is compromised, our customers need to know within minutes or hours which addresses to block and where the funds are going. You will own TRM's...",
+      "datePosted": "2026-10-21",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "TRM Labs"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/trm-labs-senior-staff-threat-intelligence-analyst-hacks",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "lead-counsel-public-company-governance-corporate-programs-hubspot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hubspot-lead-counsel-public-comp",
+    "slug": "lead-counsel-public-company-governance-corporate-programs-hubspot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-hubspot-lead-counsel-public-comp",
+    "title": "Lead Counsel, Public Company Governance & Corporate Programs",
+    "seo_title": "Remote Lead Counsel, Public Company Governance & Corporate Programs Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Lead Counsel, Public Company Governance & Corporate Programs job at HubSpot in Worldwide. Explore RAG, All Other Remote, Remote and...",
+    "company": {
+      "name": "HubSpot",
+      "slug": "hubspot",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "All Other Remote",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: United States URL: https://www.hubspot.com/ Lead Counsel, Public Company Governance & Corporate Programs Legal Remote - USA POS-20140 The Legal Team HubSpot's Legal team is a proactive, business-enabling partner — not a back-office function. We...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/hubspot-lead-counsel-public-company-governance-corporate-programs",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/hubspot-lead-counsel-public-company-governance-corporate-programs",
+    "published_at": "2026-10-21",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Lead Counsel, Public Company Governance & Corporate Programs",
+      "description": "Headquarters: United States URL: https://www.hubspot.com/ Lead Counsel, Public Company Governance & Corporate Programs Legal Remote - USA POS-20140 The Legal Team HubSpot's Legal team is a proactive, business-enabling partner — not a back-office function. We...",
+      "datePosted": "2026-10-21",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "HubSpot"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/hubspot-lead-counsel-public-company-governance-corporate-programs",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-backend-engineer-duckduckgo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-duckduckgo-senior-backend-engineer",
     "slug": "senior-backend-engineer-duckduckgo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-duckduckgo-senior-backend-engineer",
     "title": "Senior Backend Engineer",
@@ -997,6 +1106,61 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/vechter-home-solutions-appointment-setter",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "audit-operations-lead-anthropic-worldwide-greenhouse-anthropic-5459290008",
+    "slug": "audit-operations-lead-anthropic-worldwide-greenhouse-anthropic-5459290008",
+    "title": "Audit Operations Lead",
+    "seo_title": "Remote Audit Operations Lead Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Audit Operations Lead job at anthropic in Worldwide. Explore SQL, RAG, AWS, Finance and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "San Francisco, CA",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "AWS",
+      "Finance",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5459290008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5459290008",
+    "published_at": "2026-10-21",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Audit Operations Lead",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-21",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459290008"
     },
     "ai_relevant": true
   },
@@ -1947,60 +2111,6 @@
     "ai_relevant": true
   },
   {
-    "id": "international-direct-sales-representative-prodware-group-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-prodware-group-international-direct-sales",
-    "slug": "international-direct-sales-representative-prodware-group-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-prodware-group-international-direct-sales",
-    "title": "International Direct Sales Representative",
-    "seo_title": "Remote International Direct Sales Representative Job | MLOps Jobs",
-    "seo_description": "Apply for a remote International Direct Sales Representative job at Prodware Group in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Prodware Group",
-      "slug": "prodware-group",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Tbilisi, Georgia URL: http://prodwaregroup.com Overview At Prodware, our core values - Passion, Audacity, and Trust - guide everything we do. We foster a collaborative and innovative environment where talented people can grow, take on new...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/prodware-group-international-direct-sales-representative",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/prodware-group-international-direct-sales-representative",
-    "published_at": "2026-10-19",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "International Direct Sales Representative",
-      "description": "Headquarters: Tbilisi, Georgia URL: http://prodwaregroup.com Overview At Prodware, our core values - Passion, Audacity, and Trust - guide everything we do. We foster a collaborative and innovative environment where talented people can grow, take on new...",
-      "datePosted": "2026-10-19",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Prodware Group"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/prodware-group-international-direct-sales-representative",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-data-engineer-growth-minded-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-growth-minded-senior-data-engineer",
     "slug": "senior-data-engineer-growth-minded-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-growth-minded-senior-data-engineer",
     "title": "Senior Data Engineer",
@@ -2105,61 +2215,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/bdf-experts-sap-berater-fi-co-m-w-d",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-salesforce-crm-developer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-salesforce-crm-developer-1",
-    "slug": "senior-salesforce-crm-developer-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-salesforce-crm-developer-1",
-    "title": "Senior Salesforce CRM Developer",
-    "seo_title": "Remote Senior Salesforce CRM Developer Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Senior Salesforce CRM Developer job at Proxify AB in Worldwide. Explore RAG, Tableau, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Proxify AB",
-      "slug": "proxify-ab",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Tableau",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Salesforce CRM Developer on behalf of our client to lead the custom development, integration, and optimization of enterprise Salesforce instances. In this role, you will...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-salesforce-crm-developer-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-salesforce-crm-developer-1",
-    "published_at": "2026-10-19",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Salesforce CRM Developer",
-      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Salesforce CRM Developer on behalf of our client to lead the custom development, integration, and optimization of enterprise Salesforce instances. In this role, you will...",
-      "datePosted": "2026-10-19",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Proxify AB"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-salesforce-crm-developer-1",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3129,7 +3184,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4yNDYuNjIuMjI3 when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTI4LjIwMy4xOTkuODg= when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -3141,7 +3196,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4yNDYuNjIuMjI3 when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTI4LjIwMy4xOTkuODg= when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -4087,64 +4142,6 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "community-engagement-manager-data-centers-louisiana-anthropic-usa-greenhouse-anthropic-5452691008",
-    "slug": "community-engagement-manager-data-centers-louisiana-anthropic-usa-greenhouse-anthropic-5452691008",
-    "title": "Community Engagement Manager, Data Centers (Louisiana)",
-    "seo_title": "Remote Community Engagement Manager, Data Centers (Louisiana) Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Community Engagement Manager, Data Centers (Louisiana) job at anthropic in USA. Explore RAG, AWS, Public Policy and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Remote-Friendly, United States",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Public Policy"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
-    "published_at": "2026-10-15",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Community Engagement Manager, Data Centers (Louisiana)",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-15",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   },
