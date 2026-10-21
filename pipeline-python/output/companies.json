@@ -7,13 +7,6 @@
     "jobs_count": 33
   },
   {
-    "name": "Proxify AB",
-    "slug": "proxify-ab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Collibra",
     "slug": "collibra",
     "logo_url": null,
@@ -28,8 +21,8 @@
     "jobs_count": 3
   },
   {
-    "name": "Clover Health",
-    "slug": "clover-health",
+    "name": "Proxify AB",
+    "slug": "proxify-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -40,6 +33,48 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Upsun",
+    "slug": "upsun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Ritual",
+    "slug": "ritual",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Cribl",
+    "slug": "cribl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Asana",
+    "slug": "asana",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Oportun",
+    "slug": "oportun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Celonis",
@@ -63,22 +98,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Expel",
-    "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Alloy",
-    "slug": "alloy",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Pendo",
-    "slug": "pendo",
+    "name": "Clover Health",
+    "slug": "clover-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -103,6 +124,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Ping Identity",
+    "slug": "ping-identity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "OKX",
+    "slug": "okx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Vechter Home Solutions",
@@ -161,13 +196,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Evolve Peptides",
-    "slug": "evolve-peptides",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Growth Minded",
     "slug": "growth-minded",
     "logo_url": null,
@@ -210,6 +238,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Alloy",
+    "slug": "alloy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Squarespace",
     "slug": "squarespace",
     "logo_url": null,
@@ -240,6 +275,13 @@
   {
     "name": "Customer.io",
     "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Expel",
+    "slug": "expel",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -357,20 +399,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Oportun",
-    "slug": "oportun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Huntress",
-    "slug": "huntress",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "SimSpace Corporation",
     "slug": "simspace-corporation",
     "logo_url": null,
@@ -378,8 +406,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Twilio",
-    "slug": "twilio",
+    "name": "Keeper Security",
+    "slug": "keeper-security",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -429,20 +457,6 @@
   {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Vercel",
-    "slug": "vercel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Faire",
-    "slug": "faire",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
