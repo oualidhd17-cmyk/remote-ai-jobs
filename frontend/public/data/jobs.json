@@ -176,6 +176,119 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-backend-engineer-duckduckgo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-duckduckgo-senior-backend-engineer",
+    "slug": "senior-backend-engineer-duckduckgo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-duckduckgo-senior-backend-engineer",
+    "title": "Senior Backend Engineer",
+    "seo_title": "Remote Senior Backend Engineer Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Backend Engineer job at DuckDuckGo in Worldwide. Explore RAG, AWS, Prompt Engineering, Back-End Programming and remote AI jobs.",
+    "company": {
+      "name": "DuckDuckGo",
+      "slug": "duckduckgo",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Prompt Engineering",
+      "Back-End Programming",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Paoli, Pennsylvania URL: https://duckduckgo.com Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer",
+    "published_at": "2026-10-21",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Backend Engineer",
+      "description": "Headquarters: Paoli, Pennsylvania URL: https://duckduckgo.com Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our...",
+      "datePosted": "2026-10-21",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DuckDuckGo"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/duckduckgo-senior-backend-engineer",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-vue-developer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-vue-developer-1",
+    "slug": "senior-vue-developer-lemon-io-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-lemon-io-senior-vue-developer-1",
+    "title": "Senior Vue Developer",
+    "seo_title": "Remote Senior Vue Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Vue Developer job at Lemon.io in Worldwide. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+    "published_at": "2026-10-21",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Vue Developer",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have...",
+      "datePosted": "2026-10-21",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "director-of-ad-sales-west-duolingo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-duolingo-director-of-ad-sales-west",
     "slug": "director-of-ad-sales-west-duolingo-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-duolingo-director-of-ad-sales-west",
     "title": "Director of Ad Sales - West",
@@ -2052,61 +2165,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-fullstack-developer-react-js-node-js-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-fullstack-developer-react",
-    "slug": "senior-fullstack-developer-react-js-node-js-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-fullstack-developer-react",
-    "title": "Senior Fullstack Developer (React.js / Node.js)",
-    "seo_title": "Remote Senior Fullstack Developer (React.js / Node.js) Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Fullstack Developer (React.js / Node.js) job at Proxify AB in Worldwide. Explore SQL, RAG, Full-Stack Programming, Remote and...",
-    "company": {
-      "name": "Proxify AB",
-      "slug": "proxify-ab",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
-    "published_at": "2026-10-19",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Fullstack Developer (React.js / Node.js)",
-      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy...",
-      "datePosted": "2026-10-19",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Proxify AB"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-5",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-backend-developer-python-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-backend-developer-python-11",
     "slug": "senior-backend-developer-python-proxify-ab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-proxify-ab-senior-backend-developer-python-11",
     "title": "Senior Backend Developer (Python)",
@@ -3071,7 +3129,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTM0LjMzLjk5LjIyNg== when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4yNDYuNjIuMjI3 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -3083,7 +3141,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTM0LjMzLjk5LjIyNg== when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4yNDYuNjIuMjI3 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -4029,6 +4087,64 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5445760008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "community-engagement-manager-data-centers-louisiana-anthropic-usa-greenhouse-anthropic-5452691008",
+    "slug": "community-engagement-manager-data-centers-louisiana-anthropic-usa-greenhouse-anthropic-5452691008",
+    "title": "Community Engagement Manager, Data Centers (Louisiana)",
+    "seo_title": "Remote Community Engagement Manager, Data Centers (Louisiana) Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Community Engagement Manager, Data Centers (Louisiana) job at anthropic in USA. Explore RAG, AWS, Public Policy and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "Remote-Friendly, United States",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Public Policy"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
+    "published_at": "2026-10-15",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Community Engagement Manager, Data Centers (Louisiana)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-15",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452691008",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
     },
     "ai_relevant": true
   },
@@ -5513,69 +5629,6 @@
     "ai_relevant": true
   },
   {
-    "id": "machine-learning-engineer-iv-fraud-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-machine-learning-engineer-iv-fraud",
-    "slug": "machine-learning-engineer-iv-fraud-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-machine-learning-engineer-iv-fraud",
-    "title": "Machine Learning Engineer - IV (Fraud)",
-    "seo_title": "Remote Machine Learning Engineer - IV (Fraud) Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Machine Learning Engineer - IV (Fraud) job at Jumio in Worldwide. Explore Python, Machine Learning, Deep Learning, TensorFlow and...",
-    "company": {
-      "name": "Jumio",
-      "slug": "jumio",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "Deep Learning",
-      "TensorFlow",
-      "PyTorch",
-      "Scikit-learn",
-      "LLM",
-      "RAG",
-      "Computer Vision",
-      "AWS",
-      "GCP",
-      "Design"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: India (remote) Role Purpose: The Machine Learning Engineer IV will play a critical role in advancing Jumio's Fraud team's mission to develop and enhance state-of-the-art solutions for fraud detection for ID verification purposes. This role is...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
-    "published_at": "2026-10-10",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Machine Learning Engineer - IV (Fraud)",
-      "description": "Headquarters: India (remote) Role Purpose: The Machine Learning Engineer IV will play a critical role in advancing Jumio's Fraud team's mission to develop and enhance state-of-the-art solutions for fraud detection for ID verification purposes. This role is...",
-      "datePosted": "2026-10-10",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Jumio"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1137475",
     "slug": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1137475",
     "title": "Senior React Full stack Developer",
@@ -5707,64 +5760,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137474",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "analyst-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-analyst",
-    "slug": "analyst-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-analyst",
-    "title": "Analyst",
-    "seo_title": "Remote Analyst Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Analyst job at Affirm in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
-    "company": {
-      "name": "Affirm",
-      "slug": "affirm",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "RAG",
-      "Statistics",
-      "Design",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Remote US At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Risk & Analytics Team The Risk & Analytics...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/affirm-analyst",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/affirm-analyst",
-    "published_at": "2026-10-09",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Analyst",
-      "description": "Headquarters: Remote US At Affirm, we exist for the moments that matter—giving people a clear, predictable way to pay over time, with no hidden fees, no surprises, and no tradeoffs on what matters most. About the Risk & Analytics Team The Risk & Analytics...",
-      "datePosted": "2026-10-09",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Affirm"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/affirm-analyst",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
