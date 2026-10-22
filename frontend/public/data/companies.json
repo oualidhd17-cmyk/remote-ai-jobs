@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 32
+    "jobs_count": 33
   },
   {
     "name": "Lemon.io",
@@ -19,6 +19,41 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Roblox",
+    "slug": "roblox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Affirm",
+    "slug": "affirm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Maven Clinic",
+    "slug": "maven-clinic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Upsun",
@@ -63,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Celonis",
-    "slug": "celonis",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Carrot",
     "slug": "carrot",
     "logo_url": null,
@@ -79,20 +107,6 @@
   {
     "name": "Collibra",
     "slug": "collibra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Clover Health",
-    "slug": "clover-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -117,6 +131,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Mercury",
+    "slug": "mercury",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "OfferUp",
+    "slug": "offerup",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Apollo GraphQL",
@@ -161,20 +189,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Vechter Home Solutions",
-    "slug": "vechter-home-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Roblox",
-    "slug": "roblox",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Jobs for Humanity",
     "slug": "jobs-for-humanity",
     "logo_url": null,
@@ -196,29 +210,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Samsara",
-    "slug": "samsara",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Abbott",
     "slug": "abbott",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Growth Minded",
-    "slug": "growth-minded",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "BDF EXPERTS",
-    "slug": "bdf-experts",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -240,6 +233,13 @@
   {
     "name": "Talkspace",
     "slug": "talkspace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Clover Health",
+    "slug": "clover-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -385,13 +385,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Lattice",
-    "slug": "lattice",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Thyme Care",
     "slug": "thyme-care",
     "logo_url": null,
@@ -408,13 +401,6 @@
   {
     "name": "Airbnb",
     "slug": "airbnb",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Engine",
-    "slug": "engine",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -450,6 +436,13 @@
   {
     "name": "Tether Operations Limited",
     "slug": "tether-operations-limited",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Jumio",
+    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
