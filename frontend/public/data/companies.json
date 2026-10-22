@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 34
+    "jobs_count": 32
   },
   {
     "name": "Lemon.io",
@@ -12,13 +12,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 4
-  },
-  {
-    "name": "Collibra",
-    "slug": "collibra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
   },
   {
     "name": "Toptal",
@@ -84,6 +77,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Reddit",
     "slug": "reddit",
     "logo_url": null,
@@ -117,6 +117,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Apollo GraphQL",
+    "slug": "apollo-graphql",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "TRM Labs",
