@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
+    "jobs_count": 34
   },
   {
     "name": "Lemon.io",
@@ -51,6 +51,13 @@
   {
     "name": "Maven Clinic",
     "slug": "maven-clinic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "DuckDuckGo",
+    "slug": "duckduckgo",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -133,6 +140,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Moonshot",
+    "slug": "moonshot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Mercury",
     "slug": "mercury",
     "logo_url": null,
@@ -163,13 +177,6 @@
   {
     "name": "HubSpot",
     "slug": "hubspot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "DuckDuckGo",
-    "slug": "duckduckgo",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

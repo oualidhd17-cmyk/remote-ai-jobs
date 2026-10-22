@@ -55,6 +55,60 @@
     "ai_relevant": true
   },
   {
+    "id": "solidity-rust-remote-moonshot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-moonshot-solidity-rust-remote",
+    "slug": "solidity-rust-remote-moonshot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-moonshot-solidity-rust-remote",
+    "title": "(Solidity / Rust) – Remote",
+    "seo_title": "Remote (Solidity / Rust) – Remote Job | Robotics Jobs",
+    "seo_description": "Apply for a remote (Solidity / Rust) – Remote job at Moonshot in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Moonshot",
+      "slug": "moonshot",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: Miami URL: https://moonshot.com Smart Contract Engineer — Moonshot Remote · $150K + equity About Moonshot Moonshot makes trading simple. Our mobile-first app gives more than 2 million users access to the latest tokens, tokenized stocks, and...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+    "published_at": "2026-10-22",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "(Solidity / Rust) – Remote",
+      "description": "Headquarters: Miami URL: https://moonshot.com Smart Contract Engineer — Moonshot Remote · $150K + equity About Moonshot Moonshot makes trading simple. Our mobile-first app gives more than 2 million users access to the latest tokens, tokenized stocks, and...",
+      "datePosted": "2026-10-22",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Moonshot"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "analytics-engineer-ii-full-stack-revenue-analytics-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-analytics-engineer-ii-full-stack",
     "slug": "analytics-engineer-ii-full-stack-revenue-analytics-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-analytics-engineer-ii-full-stack",
     "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
@@ -606,6 +660,60 @@
     "ai_relevant": true
   },
   {
+    "id": "ai-outcomes-manager-gsi-anthropic-worldwide-greenhouse-anthropic-4986159008",
+    "slug": "ai-outcomes-manager-gsi-anthropic-worldwide-greenhouse-anthropic-4986159008",
+    "title": "AI Outcomes Manager, GSI",
+    "seo_title": "Remote AI Outcomes Manager, GSI Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AI Outcomes Manager, GSI job at anthropic in Worldwide. Explore RAG, AWS, Sales, New York City, NY and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "location_label": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "New York City, NY"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4986159008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4986159008",
+    "published_at": "2026-10-22",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI Outcomes Manager, GSI",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-22",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4986159008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "ai-outcomes-manager-strategic-tech-anthropic-worldwide-greenhouse-anthropic-5082455008",
     "slug": "ai-outcomes-manager-strategic-tech-anthropic-worldwide-greenhouse-anthropic-5082455008",
     "title": "AI Outcomes Manager, Strategic Tech",
@@ -715,6 +823,75 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5396186008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-backend-engineer-duckduckgo-worldwide-remoteok-1137551",
+    "slug": "senior-backend-engineer-duckduckgo-worldwide-remoteok-1137551",
+    "title": "Senior Backend Engineer",
+    "seo_title": "Remote Senior Backend Engineer Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Senior Backend Engineer job at DuckDuckGo in Worldwide. Explore RAG, AWS, Prompt Engineering, backend and remote AI jobs.",
+    "company": {
+      "name": "DuckDuckGo",
+      "slug": "duckduckgo",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 190000,
+    "salary_max": 190000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "AWS",
+      "Prompt Engineering",
+      "backend",
+      "perl",
+      "golang",
+      "javascript",
+      "node"
+    ],
+    "category": "Data Science",
+    "description_summary": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137551",
+    "published_at": "2026-10-21",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Backend Engineer",
+      "description": "Who We Are Hi, we're DuckDuckGo, the online protection company and remote-first team of 400+ on a mission to raise the standard of trust online. Founded in 2008 and profitable since 2014, our annual revenue is in the hundreds of millions USD and millions use...",
+      "datePosted": "2026-10-21",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "DuckDuckGo"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137551",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 190000,
+          "maxValue": 190000,
+          "unitText": "YEAR"
+        }
+      }
     },
     "ai_relevant": true
   },
@@ -3457,7 +3634,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTE1LjEwMi4xNDQ= when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTcuMTU0LjIzMy4xMQ== when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -3469,7 +3646,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTE1LjEwMi4xNDQ= when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTcuMTU0LjIzMy4xMQ== when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
