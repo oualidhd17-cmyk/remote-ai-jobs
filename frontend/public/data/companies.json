@@ -4,7 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 34
+    "jobs_count": 35
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
   },
   {
     "name": "Storyblok",
@@ -16,13 +23,6 @@
   {
     "name": "Toptal",
     "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -91,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Ritual",
-    "slug": "ritual",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Carrot",
     "slug": "carrot",
     "logo_url": null,
@@ -107,6 +100,13 @@
   {
     "name": "Askable",
     "slug": "askable",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Yubico Inc.",
+    "slug": "yubico-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -198,6 +198,13 @@
   {
     "name": "HubSpot",
     "slug": "hubspot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ritual",
+    "slug": "ritual",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
