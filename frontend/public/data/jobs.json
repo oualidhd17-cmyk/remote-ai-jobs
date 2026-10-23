@@ -1,5 +1,119 @@
 [
   {
+    "id": "applied-ai-architect-public-sector-federal-civilan-anthropic-worldwide-greenhouse-anthropic-5455627008",
+    "slug": "applied-ai-architect-public-sector-federal-civilan-anthropic-worldwide-greenhouse-anthropic-5455627008",
+    "title": "Applied AI Architect, Public Sector (Federal Civilan)",
+    "seo_title": "Remote Applied AI Architect, Public Sector (Federal Civilan) Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Public Sector (Federal Civilan) job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Washington, D.C."
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008",
+    "published_at": "2026-10-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Public Sector (Federal Civilan)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-23",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5455627008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "applied-ai-architect-public-sector-govtech-anthropic-worldwide-greenhouse-anthropic-5460211008",
+    "slug": "applied-ai-architect-public-sector-govtech-anthropic-worldwide-greenhouse-anthropic-5460211008",
+    "title": "Applied AI Architect, Public Sector (GovTech)",
+    "seo_title": "Remote Applied AI Architect, Public Sector (GovTech) Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect, Public Sector (GovTech) job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI...",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Washington, DC",
+    "location_label": "Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Washington, D.C."
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460211008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460211008",
+    "published_at": "2026-10-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect, Public Sector (GovTech)",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-23",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460211008"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "global-developer-engagement-representative-part-time-contractor-roblox-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-roblox-global-developer-eng",
     "slug": "global-developer-engagement-representative-part-time-contractor-roblox-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-roblox-global-developer-eng",
     "title": "Global Developer Engagement Representative, Part-Time, Contractor",
@@ -874,6 +988,78 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/maven-clinic-director-pm-payments-client-success",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "accounting-operations-plaid-worldwide-remoteok-1137554",
+    "slug": "accounting-operations-plaid-worldwide-remoteok-1137554",
+    "title": "Accounting Operations",
+    "seo_title": "Remote Accounting Operations Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Accounting Operations job at Plaid in Worldwide. Explore RAG, AWS, accounting, technical and remote AI jobs.",
+    "company": {
+      "name": "Plaid",
+      "slug": "plaid",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Worldwide",
+    "remote_type": "unknown",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 110000,
+    "salary_max": 170000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "AWS",
+      "accounting",
+      "technical",
+      "customer support",
+      "marketing",
+      "finance",
+      "c",
+      "exec",
+      "ops",
+      "legal",
+      "recruiter"
+    ],
+    "category": "Robotics",
+    "description_summary": "We believe that the way people interact with their finances will drastically improve in the next few years. Weâre dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-accounting-operations-plaid-1137554",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137554",
+    "published_at": "2026-10-22",
+    "expires_at": null,
+    "quality_score": 80,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Accounting Operations",
+      "description": "We believe that the way people interact with their finances will drastically improve in the next few years. Weâre dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own...",
+      "datePosted": "2026-10-22",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Plaid"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137554",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 110000,
+          "maxValue": 170000,
+          "unitText": "YEAR"
+        }
+      }
     },
     "ai_relevant": true
   },
@@ -3682,7 +3868,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTY4Ljk1LjE3 when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTA2LjIxLjY1 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -3694,7 +3880,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTY4Ljk1LjE3 when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTA2LjIxLjY1 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6271,59 +6457,6 @@
     "ai_relevant": true
   },
   {
-    "id": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
-    "slug": "commercial-operations-program-manager-anthropic-worldwide-greenhouse-anthropic-5398328008",
-    "title": "Commercial Operations Program Manager",
-    "seo_title": "Remote Commercial Operations Program Manager Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Operations Program Manager job at anthropic in Worldwide. Explore RAG, AWS, Seattle, WA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "location_label": "New York City, NY; San Francisco, CA; Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Seattle, WA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008",
-    "published_at": "2026-10-09",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Operations Program Manager",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-09",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398328008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
     "slug": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
     "title": "Inside Sales Contractor",
@@ -6362,7 +6495,7 @@
     "source_url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
     "published_at": "2026-10-08",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6378,61 +6511,6 @@
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "commercial-counsel-gtm-anthropic-worldwide-greenhouse-anthropic-5074052008",
-    "slug": "commercial-counsel-gtm-anthropic-worldwide-greenhouse-anthropic-5074052008",
-    "title": "Commercial Counsel, GTM",
-    "seo_title": "Remote Commercial Counsel, GTM Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Commercial Counsel, GTM job at anthropic in Worldwide. Explore RAG, AWS, Legal, New York City, NY and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "location_label": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Legal",
-      "New York City, NY",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008",
-    "published_at": "2026-10-08",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Commercial Counsel, GTM",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-08",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5074052008"
     },
     "ai_relevant": true
   },
