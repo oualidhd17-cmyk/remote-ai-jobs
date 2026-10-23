@@ -1,5 +1,59 @@
 [
   {
+    "id": "senior-product-manager-edtech-innovation-committee-for-children-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-committee-for-children-senior-prod",
+    "slug": "senior-product-manager-edtech-innovation-committee-for-children-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-committee-for-children-senior-prod",
+    "title": "Senior Product Manager - Edtech Innovation",
+    "seo_title": "Remote Senior Product Manager - Edtech Innovation Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Senior Product Manager - Edtech Innovation job at Committee for Children in Worldwide. Explore RAG, Product, Remote and remote AI jobs.",
+    "company": {
+      "name": "Committee for Children",
+      "slug": "committee-for-children",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Product",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: 2815 2nd Ave, Seattle, WA 98121, USA URL: https://www.cfchildren.org/ Are you looking for purpose-driven work where you can make a positive impact on communities around the world? If so, then Committee for Children is an amazing place to grow...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/committee-for-children-senior-product-manager-edtech-innovation",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/committee-for-children-senior-product-manager-edtech-innovation",
+    "published_at": "2026-10-23",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Product Manager - Edtech Innovation",
+      "description": "Headquarters: 2815 2nd Ave, Seattle, WA 98121, USA URL: https://www.cfchildren.org/ Are you looking for purpose-driven work where you can make a positive impact on communities around the world? If so, then Committee for Children is an amazing place to grow...",
+      "datePosted": "2026-10-23",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Committee for Children"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/committee-for-children-senior-product-manager-edtech-innovation",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "salesforce-lead-usa-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-salesforce-lead-usa",
     "slug": "salesforce-lead-usa-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-salesforce-lead-usa",
     "title": "Salesforce Lead - USA",
@@ -658,6 +712,60 @@
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/cadence-health-bilingual-spanish-speaking-health-coach",
       "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "ai-outcomes-manager-financial-services-anthropic-worldwide-greenhouse-anthropic-5391062008",
+    "slug": "ai-outcomes-manager-financial-services-anthropic-worldwide-greenhouse-anthropic-5391062008",
+    "title": "AI Outcomes Manager, Financial Services",
+    "seo_title": "Remote AI Outcomes Manager, Financial Services Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AI Outcomes Manager, Financial Services job at anthropic in Worldwide. Explore RAG, AWS, Sales, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "location_label": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
+    "remote_type": "hybrid",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Sales",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008",
+    "published_at": "2026-10-23",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI Outcomes Manager, Financial Services",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-23",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008"
     },
     "ai_relevant": true
   },
@@ -2870,60 +2978,6 @@
     "ai_relevant": true
   },
   {
-    "id": "ai-outcomes-manager-financial-services-anthropic-worldwide-greenhouse-anthropic-5391062008",
-    "slug": "ai-outcomes-manager-financial-services-anthropic-worldwide-greenhouse-anthropic-5391062008",
-    "title": "AI Outcomes Manager, Financial Services",
-    "seo_title": "Remote AI Outcomes Manager, Financial Services Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AI Outcomes Manager, Financial Services job at anthropic in Worldwide. Explore RAG, AWS, Sales, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
-    "location_label": "San Francisco, CA | Seattle, WA | New York City, NY | Washington, DC",
-    "remote_type": "hybrid",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Sales",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008",
-    "published_at": "2026-10-21",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Outcomes Manager, Financial Services",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-21",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391062008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "audit-operations-lead-anthropic-worldwide-greenhouse-anthropic-5459290008",
     "slug": "audit-operations-lead-anthropic-worldwide-greenhouse-anthropic-5459290008",
     "title": "Audit Operations Lead",
@@ -4279,7 +4333,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNjQuMjM2LjEzMS4yMTA= when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4yMzYuMTUxLjI= when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -4291,7 +4345,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNjQuMjM2LjEzMS4yMTA= when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4yMzYuMTUxLjI= when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -4717,61 +4771,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/pagerduty-senior-solutions-consultant",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "enterprise-sales-director-fivetran-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fivetran-enterprise-sales-director",
-    "slug": "enterprise-sales-director-fivetran-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-fivetran-enterprise-sales-director",
-    "title": "Enterprise Sales Director",
-    "seo_title": "Remote Enterprise Sales Director Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Enterprise Sales Director job at Fivetran in Worldwide. Explore SQL, RAG, Product, Remote and remote AI jobs.",
-    "company": {
-      "name": "Fivetran",
-      "slug": "fivetran",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "Product",
-      "Remote"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: Remote, Massachusetts, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director",
-    "published_at": "2026-10-16",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Enterprise Sales Director",
-      "description": "Headquarters: Remote, Massachusetts, United States, AMER From Fivetran’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical...",
-      "datePosted": "2026-10-16",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Fivetran"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/fivetran-enterprise-sales-director",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true

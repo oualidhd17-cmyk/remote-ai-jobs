@@ -119,6 +119,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Committee for Children",
+    "slug": "committee-for-children",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Checkr",
     "slug": "checkr",
     "logo_url": null,
@@ -366,13 +373,6 @@
   {
     "name": "PagerDuty",
     "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Fivetran",
-    "slug": "fivetran",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
