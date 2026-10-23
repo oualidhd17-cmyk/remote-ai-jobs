@@ -7,6 +7,13 @@
     "jobs_count": 34
   },
   {
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -21,8 +28,29 @@
     "jobs_count": 4
   },
   {
-    "name": "Roblox",
-    "slug": "roblox",
+    "name": "Ping Identity",
+    "slug": "ping-identity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Discord",
+    "slug": "discord",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Cadence Health",
+    "slug": "cadence-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -42,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Maven Clinic",
     "slug": "maven-clinic",
     "logo_url": null,
@@ -58,13 +79,6 @@
   {
     "name": "DuckDuckGo",
     "slug": "duckduckgo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Upsun",
-    "slug": "upsun",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -84,29 +98,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Cribl",
-    "slug": "cribl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Asana",
-    "slug": "asana",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Carrot",
     "slug": "carrot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Collibra",
-    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,18 +112,32 @@
     "jobs_count": 2
   },
   {
-    "name": "Yubico Inc.",
-    "slug": "yubico-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Checkr",
+    "slug": "checkr",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bybit",
+    "slug": "bybit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Roblox",
+    "slug": "roblox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Prospex CRM",
@@ -175,8 +182,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Apollo GraphQL",
-    "slug": "apollo-graphql",
+    "name": "Upsun",
+    "slug": "upsun",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -196,15 +203,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
+    "name": "Asana",
+    "slug": "asana",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "OKX",
-    "slug": "okx",
+    "name": "Cribl",
+    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -231,8 +238,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Fastly",
-    "slug": "fastly",
+    "name": "Collibra",
+    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -357,13 +364,6 @@
     "jobs_count": 1
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Fivetran",
     "slug": "fivetran",
     "logo_url": null,
@@ -420,22 +420,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Airbnb",
-    "slug": "airbnb",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "SimSpace Corporation",
     "slug": "simspace-corporation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Keeper Security",
-    "slug": "keeper-security",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -457,13 +443,6 @@
   {
     "name": "Tether Operations Limited",
     "slug": "tether-operations-limited",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
