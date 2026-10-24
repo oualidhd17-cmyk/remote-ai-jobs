@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 35
+    "jobs_count": 34
   },
   {
     "name": "Lemon.io",
@@ -14,18 +14,18 @@
     "jobs_count": 5
   },
   {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Ping Identity",
@@ -86,6 +86,13 @@
   {
     "name": "Duolingo",
     "slug": "duolingo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Ritual",
+    "slug": "ritual",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -161,13 +168,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Moonshot",
-    "slug": "moonshot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mercury",
     "slug": "mercury",
     "logo_url": null,
@@ -205,13 +205,6 @@
   {
     "name": "HubSpot",
     "slug": "hubspot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ritual",
-    "slug": "ritual",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -450,6 +443,13 @@
   {
     "name": "Tether Operations Limited",
     "slug": "tether-operations-limited",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Jumio",
+    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

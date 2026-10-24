@@ -1341,60 +1341,6 @@
     "ai_relevant": true
   },
   {
-    "id": "solidity-rust-remote-moonshot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-moonshot-solidity-rust-remote",
-    "slug": "solidity-rust-remote-moonshot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-moonshot-solidity-rust-remote",
-    "title": "(Solidity / Rust) – Remote",
-    "seo_title": "Remote (Solidity / Rust) – Remote Job | Robotics Jobs",
-    "seo_description": "Apply for a remote (Solidity / Rust) – Remote job at Moonshot in Worldwide. Explore RAG, Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Moonshot",
-      "slug": "moonshot",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Miami URL: https://moonshot.com Smart Contract Engineer — Moonshot Remote · $150K + equity About Moonshot Moonshot makes trading simple. Our mobile-first app gives more than 2 million users access to the latest tokens, tokenized stocks, and...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
-    "published_at": "2026-10-22",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "(Solidity / Rust) – Remote",
-      "description": "Headquarters: Miami URL: https://moonshot.com Smart Contract Engineer — Moonshot Remote · $150K + equity About Moonshot Moonshot makes trading simple. Our mobile-first app gives more than 2 million users access to the latest tokens, tokenized stocks, and...",
-      "datePosted": "2026-10-22",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Moonshot"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/moonshot-solidity-rust-remote",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "analytics-engineer-ii-full-stack-revenue-analytics-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-analytics-engineer-ii-full-stack",
     "slug": "analytics-engineer-ii-full-stack-revenue-analytics-affirm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-affirm-analytics-engineer-ii-full-stack",
     "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
@@ -1777,60 +1723,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/offerup-software-development-engineer-ii-remote-colombia",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "enterprise-account-executive-california-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-enterprise-account-executive-californi",
-    "slug": "enterprise-account-executive-california-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-enterprise-account-executive-californi",
-    "title": "Enterprise Account Executive - California",
-    "seo_title": "Remote Enterprise Account Executive - California Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Enterprise Account Executive - California job at Storyblok in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Storyblok",
-      "slug": "storyblok",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/storyblok-enterprise-account-executive-california",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/storyblok-enterprise-account-executive-california",
-    "published_at": "2026-10-22",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Enterprise Account Executive - California",
-      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
-      "datePosted": "2026-10-22",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Storyblok"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/storyblok-enterprise-account-executive-california",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2647,6 +2539,59 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/duolingo-director-of-ad-sales-west",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "core-protocol-engineer-ritual-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ritual-core-protocol-engineer",
+    "slug": "core-protocol-engineer-ritual-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ritual-core-protocol-engineer",
+    "title": "Core Protocol Engineer",
+    "seo_title": "Remote Core Protocol Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Core Protocol Engineer job at Ritual in Worldwide. Explore Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Ritual",
+      "slug": "ritual",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
+    "published_at": "2026-10-21",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Core Protocol Engineer",
+      "description": "Headquarters: Remote About Ritual Ritual is building a sovereign, execution layer for AI, with our private testnet already live and running. The Ritual chain is the first blockchain custom-built to support AI-native operations, designed from the ground up to...",
+      "datePosted": "2026-10-21",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Ritual"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/ritual-core-protocol-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -4333,7 +4278,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4yMzYuMTUxLjI= when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTE4LjIyMS4yMDg= when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -4345,7 +4290,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4yMzYuMTUxLjI= when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTE4LjIyMS4yMDg= when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6335,6 +6280,69 @@
     "ai_relevant": true
   },
   {
+    "id": "machine-learning-engineer-iv-fraud-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-machine-learning-engineer-iv-fraud",
+    "slug": "machine-learning-engineer-iv-fraud-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-machine-learning-engineer-iv-fraud",
+    "title": "Machine Learning Engineer - IV (Fraud)",
+    "seo_title": "Remote Machine Learning Engineer - IV (Fraud) Job | Machine Learning Jobs",
+    "seo_description": "Apply for a remote Machine Learning Engineer - IV (Fraud) job at Jumio in Worldwide. Explore Python, Machine Learning, Deep Learning, TensorFlow and...",
+    "company": {
+      "name": "Jumio",
+      "slug": "jumio",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "LLM",
+      "RAG",
+      "Computer Vision",
+      "AWS",
+      "GCP",
+      "Design"
+    ],
+    "category": "Machine Learning",
+    "description_summary": "Headquarters: India (remote) Role Purpose: The Machine Learning Engineer IV will play a critical role in advancing Jumio's Fraud team's mission to develop and enhance state-of-the-art solutions for fraud detection for ID verification purposes. This role is...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
+    "published_at": "2026-10-10",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Machine Learning Engineer - IV (Fraud)",
+      "description": "Headquarters: India (remote) Role Purpose: The Machine Learning Engineer IV will play a critical role in advancing Jumio's Fraud team's mission to develop and enhance state-of-the-art solutions for fraud detection for ID verification purposes. This role is...",
+      "datePosted": "2026-10-10",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Jumio"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/jumio-machine-learning-engineer-iv-fraud",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1137475",
     "slug": "senior-react-full-stack-developer-lemon-io-worldwide-remoteok-1137475",
     "title": "Senior React Full stack Developer",
@@ -6378,7 +6386,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137475",
     "published_at": "2026-10-09",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6451,7 +6459,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137474",
     "published_at": "2026-10-09",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6467,63 +6475,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137474",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5443882008",
-    "slug": "applied-ai-architect-anthropic-worldwide-greenhouse-anthropic-5443882008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Worldwide. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Bangalore, India",
-    "location_label": "Bangalore, India",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Bangalore, India"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008",
-    "published_at": "2026-10-09",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-09",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5443882008"
     },
     "ai_relevant": true
   },
