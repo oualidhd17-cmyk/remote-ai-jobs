@@ -1,17 +1,24 @@
 [
   {
-    "name": "anthropic",
+    "name": "Anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 34
+    "jobs_count": 36
+  },
+  {
+    "name": "Carrot",
+    "slug": "carrot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
   },
   {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 4
   },
   {
     "name": "Toptal",
@@ -19,6 +26,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 4
+  },
+  {
+    "name": "Cribl",
+    "slug": "cribl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Storyblok",
@@ -35,8 +56,8 @@
     "jobs_count": 3
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
+    "name": "Oportun",
+    "slug": "oportun",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -56,22 +77,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Affirm",
-    "slug": "affirm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Netlify",
-    "slug": "netlify",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
+    "name": "iMerit Technology",
+    "slug": "imerit-technology",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -84,36 +91,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Duolingo",
-    "slug": "duolingo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Ritual",
-    "slug": "ritual",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Carrot",
-    "slug": "carrot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Askable",
     "slug": "askable",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Yubico Inc.",
-    "slug": "yubico-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -124,6 +103,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Aprio",
+    "slug": "aprio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Committee for Children",
@@ -168,15 +161,22 @@
     "jobs_count": 1
   },
   {
-    "name": "Mercury",
-    "slug": "mercury",
+    "name": "Affirm",
+    "slug": "affirm",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "OfferUp",
-    "slug": "offerup",
+    "name": "Netlify",
+    "slug": "netlify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Maven Clinic",
+    "slug": "maven-clinic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,22 +210,22 @@
     "jobs_count": 1
   },
   {
+    "name": "Duolingo",
+    "slug": "duolingo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ritual",
+    "slug": "ritual",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Asana",
     "slug": "asana",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cribl",
-    "slug": "cribl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Oportun",
-    "slug": "oportun",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -261,13 +261,6 @@
   {
     "name": "Flexport",
     "slug": "flexport",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Talkspace",
-    "slug": "talkspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -364,13 +357,6 @@
     "jobs_count": 1
   },
   {
-    "name": "PagerDuty",
-    "slug": "pagerduty",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Self Bill Pro",
     "slug": "self-bill-pro",
     "logo_url": null,
@@ -392,15 +378,15 @@
     "jobs_count": 1
   },
   {
-    "name": "iMerit Technology",
-    "slug": "imerit-technology",
+    "name": "Mitre Media",
+    "slug": "mitre-media",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Mitre Media",
-    "slug": "mitre-media",
+    "name": "Yubico Inc.",
+    "slug": "yubico-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -443,13 +429,6 @@
   {
     "name": "Tether Operations Limited",
     "slug": "tether-operations-limited",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
