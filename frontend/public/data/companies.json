@@ -21,29 +21,8 @@
     "jobs_count": 4
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Cribl",
     "slug": "cribl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Storyblok",
-    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -56,8 +35,64 @@
     "jobs_count": 3
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Talkspace",
+    "slug": "talkspace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "PlanetScale",
+    "slug": "planetscale",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "6sense",
+    "slug": "6sense",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Tebra",
+    "slug": "tebra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Oportun",
     "slug": "oportun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -105,6 +140,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Keeper Security",
+    "slug": "keeper-security",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Databricks",
+    "slug": "databricks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Jumio",
     "slug": "jumio",
     "logo_url": null,
@@ -128,13 +177,6 @@
   {
     "name": "Committee for Children",
     "slug": "committee-for-children",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Checkr",
-    "slug": "checkr",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,13 +210,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Affirm",
-    "slug": "affirm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Netlify",
     "slug": "netlify",
     "logo_url": null,
@@ -198,27 +233,6 @@
   {
     "name": "Upsun",
     "slug": "upsun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "TRM Labs",
-    "slug": "trm-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "HubSpot",
-    "slug": "hubspot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Duolingo",
-    "slug": "duolingo",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -336,13 +350,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Expel",
-    "slug": "expel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Sanctuary Computer",
     "slug": "sanctuary-computer",
     "logo_url": null,
@@ -387,13 +394,6 @@
   {
     "name": "Mitre Media",
     "slug": "mitre-media",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Yubico Inc.",
-    "slug": "yubico-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
