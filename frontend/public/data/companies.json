@@ -7,8 +7,8 @@
     "jobs_count": 36
   },
   {
-    "name": "Carrot",
-    "slug": "carrot",
+    "name": "Ping Identity",
+    "slug": "ping-identity",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -21,15 +21,22 @@
     "jobs_count": 4
   },
   {
-    "name": "Cribl",
-    "slug": "cribl",
+    "name": "Datadog",
+    "slug": "datadog",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
+    "name": "Carrot",
+    "slug": "carrot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Cribl",
+    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -42,6 +49,27 @@
     "jobs_count": 3
   },
   {
+    "name": "Reddit",
+    "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Cockroach Labs",
+    "slug": "cockroach-labs",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Upstart",
+    "slug": "upstart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Gemini",
     "slug": "gemini",
     "logo_url": null,
@@ -51,27 +79,6 @@
   {
     "name": "Talkspace",
     "slug": "talkspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "PlanetScale",
-    "slug": "planetscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "6sense",
-    "slug": "6sense",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Tebra",
-    "slug": "tebra",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,6 +147,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Mercury",
+    "slug": "mercury",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Keeper Security",
     "slug": "keeper-security",
     "logo_url": null,
@@ -149,6 +163,27 @@
   {
     "name": "Databricks",
     "slug": "databricks",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "PlanetScale",
+    "slug": "planetscale",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "6sense",
+    "slug": "6sense",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tebra",
+    "slug": "tebra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -191,13 +226,6 @@
   {
     "name": "Bybit",
     "slug": "bybit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Roblox",
-    "slug": "roblox",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -259,20 +287,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Jobs for Humanity",
-    "slug": "jobs-for-humanity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Datadog",
-    "slug": "datadog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Collibra",
     "slug": "collibra",
     "logo_url": null,
@@ -282,13 +296,6 @@
   {
     "name": "Proxify AB",
     "slug": "proxify-ab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Flexport",
-    "slug": "flexport",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -322,13 +329,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Squarespace",
-    "slug": "squarespace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Yuno",
     "slug": "yuno",
     "logo_url": null,
@@ -338,20 +338,6 @@
   {
     "name": "Apryse",
     "slug": "apryse",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Legion",
-    "slug": "legion",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Customer.io",
-    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -387,13 +373,6 @@
   {
     "name": "Wrapbook",
     "slug": "wrapbook",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Upgrade",
-    "slug": "upgrade",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
