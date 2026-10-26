@@ -1,10 +1,10 @@
 [
   {
-    "name": "Anthropic",
+    "name": "anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 36
+    "jobs_count": 37
   },
   {
     "name": "Ping Identity",
@@ -149,6 +149,13 @@
   {
     "name": "Mercury",
     "slug": "mercury",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Klardaten",
+    "slug": "klardaten",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -317,13 +324,6 @@
   {
     "name": "Rain",
     "slug": "rain",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Alloy",
-    "slug": "alloy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

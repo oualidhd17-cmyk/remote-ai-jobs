@@ -605,6 +605,128 @@
     "ai_relevant": true
   },
   {
+    "id": "account-executive-nonprofit-anthropic-worldwide-greenhouse-anthropic-4976314008",
+    "slug": "account-executive-nonprofit-anthropic-worldwide-greenhouse-anthropic-4976314008",
+    "title": "Account Executive, Nonprofit",
+    "seo_title": "Remote Account Executive, Nonprofit Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Account Executive, Nonprofit job at anthropic in Worldwide. Explore LLM, RAG, AWS, Sales and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "San Francisco, CA | New York City, NY",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "AWS",
+      "Sales",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008",
+    "published_at": "2026-10-26",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Account Executive, Nonprofit",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-26",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/4976314008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "senior-software-engineer-klardaten-worldwide-remoteok-1137571",
+    "slug": "senior-software-engineer-klardaten-worldwide-remoteok-1137571",
+    "title": "Senior Software Engineer",
+    "seo_title": "Remote Senior Software Engineer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer job at Klardaten in Worldwide. Explore dev, senior, javascript, typescript and remote AI jobs.",
+    "company": {
+      "name": "Klardaten",
+      "slug": "klardaten",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "salary_currency": "USD",
+    "skills": [
+      "dev",
+      "senior",
+      "javascript",
+      "typescript",
+      "full stack",
+      "api"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Klardaten connects DATEV with other software and AI applications. Weâre hiring 1â2 senior engineers to own product development, DATEV integrations and automation. Based in the EU Â· Remote or Berlin Â· Full time Â· Permanent or contract Â· Start as soon...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-klardaten-1137571",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137571",
+    "published_at": "2026-10-25",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Engineer",
+      "description": "Klardaten connects DATEV with other software and AI applications. Weâre hiring 1â2 senior engineers to own product development, DATEV integrations and automation. Based in the EU Â· Remote or Berlin Â· Full time Â· Permanent or contract Â· Start as soon...",
+      "datePosted": "2026-10-25",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Klardaten"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137571",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 80000,
+          "maxValue": 100000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "communications-intern-keeper-security-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-keeper-security-communications-intern",
     "slug": "communications-intern-keeper-security-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-keeper-security-communications-intern",
     "title": "Communications Intern",
@@ -4584,60 +4706,6 @@
     "ai_relevant": true
   },
   {
-    "id": "client-enablement-lead-alloy-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alloy-client-enablement-lead",
-    "slug": "client-enablement-lead-alloy-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alloy-client-enablement-lead",
-    "title": "Client Enablement Lead",
-    "seo_title": "Remote Client Enablement Lead Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Client Enablement Lead job at Alloy in Worldwide. Explore RAG, Management and Finance, Remote and remote AI jobs.",
-    "company": {
-      "name": "Alloy",
-      "slug": "alloy",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
-    "published_at": "2026-10-18",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Client Enablement Lead",
-      "description": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow...",
-      "datePosted": "2026-10-18",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Alloy"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "software-engineer-ai-coding-tasks-askable-worldwide-remoteok-1137538",
     "slug": "software-engineer-ai-coding-tasks-askable-worldwide-remoteok-1137538",
     "title": "Software Engineer AI Coding Tasks",
@@ -4870,7 +4938,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTY5Ljc0LjIyOQ== when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTAuMTgyLjg3 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -4882,7 +4950,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTY5Ljc0LjIyOQ== when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTAuMTgyLjg3 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
