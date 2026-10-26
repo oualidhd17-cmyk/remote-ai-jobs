@@ -1,5 +1,112 @@
 [
   {
+    "id": "senior-software-engineer-vested-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vested-inc-senior-software-engineer-1",
+    "slug": "senior-software-engineer-vested-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vested-inc-senior-software-engineer-1",
+    "title": "Senior Software Engineer",
+    "seo_title": "Remote Senior Software Engineer Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Senior Software Engineer job at Vested, Inc. in Worldwide. Explore Full-Stack Programming, Remote and remote AI jobs.",
+    "company": {
+      "name": "Vested, Inc.",
+      "slug": "vested-inc",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: United States URL: https://vested.co About the role We're looking for a Senior Software Engineer who can define and deliver products that have a real impact on people's financial futures. You'll be joining a small and early-stage engineering...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
+    "published_at": "2026-10-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior Software Engineer",
+      "description": "Headquarters: United States URL: https://vested.co About the role We're looking for a Senior Software Engineer who can define and deliver products that have a real impact on people's financial futures. You'll be joining a small and early-stage engineering...",
+      "datePosted": "2026-10-26",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Vested, Inc."
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "head-of-communications-tailscale-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-tailscale-head-of-communications",
+    "slug": "head-of-communications-tailscale-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-tailscale-head-of-communications",
+    "title": "Head of Communications",
+    "seo_title": "Remote Head of Communications Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Head of Communications job at Tailscale in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
+    "company": {
+      "name": "Tailscale",
+      "slug": "tailscale",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Sales and Marketing",
+      "Remote"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Headquarters: Canada URL: https://tailscale.com/ About the Role We are seeking a strategic, creative, and highly experienced Head of Communications to lead and scale Tailscale's global communications function. This leader will shape how Tailscale is...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/tailscale-head-of-communications",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/tailscale-head-of-communications",
+    "published_at": "2026-10-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Head of Communications",
+      "description": "Headquarters: Canada URL: https://tailscale.com/ About the Role We are seeking a strategic, creative, and highly experienced Head of Communications to lead and scale Tailscale's global communications function. This leader will shape how Tailscale is...",
+      "datePosted": "2026-10-26",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Tailscale"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/tailscale-head-of-communications",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "frontend-engineer-ads-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-frontend-engineer-ads",
     "slug": "frontend-engineer-ads-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-frontend-engineer-ads",
     "title": "Frontend Engineer, Ads",
@@ -2881,60 +2988,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-senior-deploym",
-    "slug": "senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience-toptal-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-toptal-senior-deploym",
-    "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
-    "seo_title": "Remote Senior Deployment Engineer with LLM and GPU Infrastructure experience Job | NLP Jobs",
-    "seo_description": "Apply for a remote Senior Deployment Engineer with LLM and GPU Infrastructure experience job at Toptal in Worldwide. Explore LLM, Full-Stack Programming,...",
-    "company": {
-      "name": "Toptal",
-      "slug": "toptal",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Summary We are seeking an Infrastructure Engineer for Air-gapped LLM Deployments to support secure, large-scale software deployments in GPU-based environments. The role focuses on deploying LLM workloads in air-gapped settings and establishing...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
-    "published_at": "2026-10-22",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Deployment Engineer with LLM and GPU Infrastructure experience",
-      "description": "Headquarters: Summary We are seeking an Infrastructure Engineer for Air-gapped LLM Deployments to support secure, large-scale software deployments in GPU-based environments. The role focuses on deploying LLM workloads in air-gapped settings and establishing...",
-      "datePosted": "2026-10-22",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Toptal"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/toptal-senior-deployment-engineer-with-llm-and-gpu-infrastructure-experience",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "senior-software-engineer-prospex-crm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-prospex-crm-senior-software-engineer",
     "slug": "senior-software-engineer-prospex-crm-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-prospex-crm-senior-software-engineer",
     "title": "Senior Software Engineer",
@@ -4706,6 +4759,60 @@
     "ai_relevant": true
   },
   {
+    "id": "client-enablement-lead-alloy-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alloy-client-enablement-lead",
+    "slug": "client-enablement-lead-alloy-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-alloy-client-enablement-lead",
+    "title": "Client Enablement Lead",
+    "seo_title": "Remote Client Enablement Lead Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Client Enablement Lead job at Alloy in Worldwide. Explore RAG, Management and Finance, Remote and remote AI jobs.",
+    "company": {
+      "name": "Alloy",
+      "slug": "alloy",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "Management and Finance",
+      "Remote"
+    ],
+    "category": "Robotics",
+    "description_summary": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
+    "published_at": "2026-10-18",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Client Enablement Lead",
+      "description": "Headquarters: New York City, Remote Alloy is where you belong! Alloy is the AI-powered identity and fraud prevention platform that accelerates onboarding, stops fraud, and scales compliance across the customer lifecycle so financial organizations can grow...",
+      "datePosted": "2026-10-18",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Alloy"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/alloy-client-enablement-lead",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "software-engineer-ai-coding-tasks-askable-worldwide-remoteok-1137538",
     "slug": "software-engineer-ai-coding-tasks-askable-worldwide-remoteok-1137538",
     "title": "Software Engineer AI Coding Tasks",
@@ -4938,7 +5045,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTAuMTgyLjg3 when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNzQuMTU5LjIzLjE5OA== when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -4950,7 +5057,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTAuMTgyLjg3 when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNzQuMTU5LjIzLjE5OA== when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6797,6 +6904,61 @@
     "ai_relevant": true
   },
   {
+    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer, Builds and Design",
+    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-10-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer, Builds and Design",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-05",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer, Builds and Design",
@@ -6852,61 +7014,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer, Builds and Design",
-    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer, Builds and Design",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-05",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },

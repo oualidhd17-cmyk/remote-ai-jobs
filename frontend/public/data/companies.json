@@ -42,13 +42,6 @@
     "jobs_count": 3
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Reddit",
     "slug": "reddit",
     "logo_url": null,
@@ -140,11 +133,32 @@
     "jobs_count": 2
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Vested, Inc.",
+    "slug": "vested-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Tailscale",
+    "slug": "tailscale",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Mercury",
@@ -324,6 +338,13 @@
   {
     "name": "Rain",
     "slug": "rain",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Alloy",
+    "slug": "alloy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
