@@ -7,11 +7,11 @@
     "jobs_count": 37
   },
   {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
+    "name": "Cribl",
+    "slug": "cribl",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 5
   },
   {
     "name": "Lemon.io",
@@ -21,8 +21,15 @@
     "jobs_count": 4
   },
   {
-    "name": "Datadog",
-    "slug": "datadog",
+    "name": "Upsun",
+    "slug": "upsun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Ping Identity",
+    "slug": "ping-identity",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -35,18 +42,25 @@
     "jobs_count": 3
   },
   {
-    "name": "Cribl",
-    "slug": "cribl",
+    "name": "PlanetScale",
+    "slug": "planetscale",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
+    "name": "Coinbase",
+    "slug": "coinbase",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 2
+  },
+  {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Reddit",
@@ -56,15 +70,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Cockroach Labs",
-    "slug": "cockroach-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Upstart",
-    "slug": "upstart",
+    "name": "Datadog",
+    "slug": "datadog",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -91,22 +98,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Oportun",
-    "slug": "oportun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Storyblok",
     "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Discord",
-    "slug": "discord",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,11 +133,53 @@
     "jobs_count": 2
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Bjak",
     "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "StockX",
+    "slug": "stockx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Fivetran",
+    "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Veracode",
+    "slug": "veracode",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Ignition, Inc.",
+    "slug": "ignition-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wagmo",
+    "slug": "wagmo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Vested, Inc.",
@@ -168,6 +203,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Upstart",
+    "slug": "upstart",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Klardaten",
     "slug": "klardaten",
     "logo_url": null,
@@ -177,27 +219,6 @@
   {
     "name": "Keeper Security",
     "slug": "keeper-security",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Databricks",
-    "slug": "databricks",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PlanetScale",
-    "slug": "planetscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "6sense",
-    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -287,22 +308,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Upsun",
-    "slug": "upsun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Ritual",
     "slug": "ritual",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Asana",
-    "slug": "asana",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
