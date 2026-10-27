@@ -109,6 +109,61 @@
     "ai_relevant": true
   },
   {
+    "id": "technical-support-specialist-freshly-commerce-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-freshly-commerce-technical-support-specialist-1",
+    "slug": "technical-support-specialist-freshly-commerce-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-freshly-commerce-technical-support-specialist-1",
+    "title": "Technical Support Specialist",
+    "seo_title": "Remote Technical Support Specialist Job | NLP Jobs",
+    "seo_description": "Apply for a remote Technical Support Specialist job at Freshly Commerce in Worldwide. Explore LLM, RAG, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "Freshly Commerce",
+      "slug": "freshly-commerce",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "NLP",
+    "description_summary": "Headquarters: Waterloo, Canada URL: https://careers.freshlycommerce.com/ At Freshly Commerce, we're on a mission to build the logistics brain for commerce. Today, we help 25,000 Shopify brands simplify gnarly workflows like inventory, bundling, and order...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
+    "published_at": "2026-10-27",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Technical Support Specialist",
+      "description": "Headquarters: Waterloo, Canada URL: https://careers.freshlycommerce.com/ At Freshly Commerce, we're on a mission to build the logistics brain for commerce. Today, we help 25,000 Shopify brands simplify gnarly workflows like inventory, bundling, and order...",
+      "datePosted": "2026-10-27",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Freshly Commerce"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "video-editor-planetscale-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-planetscale-video-editor",
     "slug": "video-editor-planetscale-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-planetscale-video-editor",
     "title": "Video Editor",
@@ -2231,62 +2286,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/cribl-customer-success-engineer-sydney",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "associate-data-engineer-beyondtrust-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-beyondtrust-associate-data-engineer",
-    "slug": "associate-data-engineer-beyondtrust-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-beyondtrust-associate-data-engineer",
-    "title": "Associate Data Engineer",
-    "seo_title": "Remote Associate Data Engineer Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Associate Data Engineer job at BeyondTrust in Worldwide. Explore Python, RAG, Spark, Full-Stack Programming and remote AI jobs.",
-    "company": {
-      "name": "BeyondTrust",
-      "slug": "beyondtrust",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "RAG",
-      "Spark",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
-    "published_at": "2026-10-24",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Associate Data Engineer",
-      "description": "Headquarters: Remote United States BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means...",
-      "datePosted": "2026-10-24",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "BeyondTrust"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/beyondtrust-associate-data-engineer",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5102,7 +5101,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTIuMTU1LjYwLjE0Mg== when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTAuMTgxLjc1 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -5114,7 +5113,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTIuMTU1LjYwLjE0Mg== when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTAuMTgxLjc1 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {

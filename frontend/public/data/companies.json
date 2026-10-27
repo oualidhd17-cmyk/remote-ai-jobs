@@ -91,13 +91,6 @@
     "jobs_count": 2
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Storyblok",
     "slug": "storyblok",
     "logo_url": null,
@@ -145,6 +138,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Freshly Commerce",
+    "slug": "freshly-commerce",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "StockX",
@@ -261,6 +261,13 @@
   {
     "name": "Committee for Children",
     "slug": "committee-for-children",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "BeyondTrust",
+    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
