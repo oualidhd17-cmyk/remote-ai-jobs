@@ -42,6 +42,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Reddit",
     "slug": "reddit",
     "logo_url": null,
@@ -128,13 +135,6 @@
   {
     "name": "Askable",
     "slug": "askable",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Toptal",
-    "slug": "toptal",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -338,13 +338,6 @@
   {
     "name": "Rain",
     "slug": "rain",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Alloy",
-    "slug": "alloy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
