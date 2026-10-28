@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 38
+    "jobs_count": 37
   },
   {
     "name": "Cribl",
@@ -128,13 +128,6 @@
   {
     "name": "Toptal",
     "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Bjak",
-    "slug": "bjak",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -336,13 +329,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Clover Health",
-    "slug": "clover-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Sothebyâs",
     "slug": "sothebyas",
     "logo_url": null,
@@ -497,6 +483,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Bjak",
+    "slug": "bjak",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Magic Eden",
     "slug": "magic-eden",
     "logo_url": null,
@@ -513,13 +506,6 @@
   {
     "name": "Delinea",
     "slug": "delinea",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mirantis",
-    "slug": "mirantis",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
