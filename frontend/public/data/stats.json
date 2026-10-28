@@ -1,15 +1,15 @@
 {
   "raw_count": 251,
   "processed_count": 251,
-  "published_count": 139,
-  "ai_relevant_count": 192,
-  "remote_count": 109,
-  "visa_count": 43,
+  "published_count": 142,
+  "ai_relevant_count": 193,
+  "remote_count": 112,
+  "visa_count": 45,
   "salary_count": 18,
   "status_counts": {
-    "rejected": 59,
-    "published": 139,
-    "pending": 30,
+    "rejected": 58,
+    "published": 142,
+    "pending": 28,
     "expired": 23
   },
   "source_counts": {
@@ -20,18 +20,18 @@
   },
   "category_counts": {
     "Data Science": 21,
+    "AI Engineering": 66,
+    "NLP": 7,
     "MLOps": 16,
     "Healthcare AI": 1,
     "Robotics": 25,
-    "NLP": 6,
-    "AI Engineering": 64,
     "Data Analytics": 2,
     "Machine Learning": 3,
     "AI Product": 1
   },
   "country_counts": {
-    "Worldwide": 123,
-    "UK": 4,
+    "Worldwide": 125,
+    "UK": 5,
     "USA": 8,
     "Canada": 1,
     "Australia": 2,
