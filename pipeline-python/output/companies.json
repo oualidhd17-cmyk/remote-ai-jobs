@@ -7,11 +7,18 @@
     "jobs_count": 37
   },
   {
-    "name": "Cribl",
-    "slug": "cribl",
+    "name": "Carrot",
+    "slug": "carrot",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 4
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
   },
   {
     "name": "Lemon.io",
@@ -21,13 +28,6 @@
     "jobs_count": 4
   },
   {
-    "name": "Upsun",
-    "slug": "upsun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Ping Identity",
     "slug": "ping-identity",
     "logo_url": null,
@@ -35,11 +35,46 @@
     "jobs_count": 3
   },
   {
-    "name": "Carrot",
-    "slug": "carrot",
+    "name": "Cribl",
+    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Doximity",
+    "slug": "doximity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Descript",
+    "slug": "descript",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Collibra",
+    "slug": "collibra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Upsun",
+    "slug": "upsun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "PlanetScale",
@@ -51,13 +86,6 @@
   {
     "name": "Coinbase",
     "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -91,20 +119,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Cadence Health",
-    "slug": "cadence-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "iMerit Technology",
     "slug": "imerit-technology",
     "logo_url": null,
@@ -133,6 +147,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Abnormal",
+    "slug": "abnormal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Samsara",
+    "slug": "samsara",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Freshly Commerce",
     "slug": "freshly-commerce",
     "logo_url": null,
@@ -149,6 +177,13 @@
   {
     "name": "Fivetran",
     "slug": "fivetran",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -177,13 +212,6 @@
   {
     "name": "Vested, Inc.",
     "slug": "vested-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tailscale",
-    "slug": "tailscale",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -310,13 +338,6 @@
   {
     "name": "Ritual",
     "slug": "ritual",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Collibra",
-    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
