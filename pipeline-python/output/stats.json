@@ -1,14 +1,14 @@
 {
   "raw_count": 251,
   "processed_count": 251,
-  "published_count": 140,
-  "ai_relevant_count": 193,
-  "remote_count": 110,
+  "published_count": 139,
+  "ai_relevant_count": 192,
+  "remote_count": 109,
   "visa_count": 43,
   "salary_count": 18,
   "status_counts": {
-    "rejected": 58,
-    "published": 140,
+    "rejected": 59,
+    "published": 139,
     "pending": 30,
     "expired": 23
   },
@@ -24,13 +24,13 @@
     "Healthcare AI": 1,
     "Robotics": 25,
     "NLP": 6,
-    "AI Engineering": 65,
+    "AI Engineering": 64,
     "Data Analytics": 2,
     "Machine Learning": 3,
     "AI Product": 1
   },
   "country_counts": {
-    "Worldwide": 124,
+    "Worldwide": 123,
     "UK": 4,
     "USA": 8,
     "Canada": 1,
