@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 33
+    "jobs_count": 34
   },
   {
     "name": "Lemon.io",
@@ -51,6 +51,13 @@
   {
     "name": "Legion",
     "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Edconic",
+    "slug": "edconic",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -163,13 +170,6 @@
   {
     "name": "Calm.com",
     "slug": "calm-com",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Edconic",
-    "slug": "edconic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
