@@ -4,7 +4,14 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 35
+    "jobs_count": 34
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
   },
   {
     "name": "Carrot",
@@ -14,43 +21,43 @@
     "jobs_count": 4
   },
   {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
     "name": "Storyblok",
     "slug": "storyblok",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
-  },
-  {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
-    "logo_url": null,
-    "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Cribl",
-    "slug": "cribl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Doximity",
-    "slug": "doximity",
+    "name": "Salesloft",
+    "slug": "salesloft",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Sezzle",
-    "slug": "sezzle",
+    "name": "Typeform",
+    "slug": "typeform",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Doximity",
+    "slug": "doximity",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -70,20 +77,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Upsun",
-    "slug": "upsun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "PlanetScale",
-    "slug": "planetscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Coinbase",
     "slug": "coinbase",
     "logo_url": null,
@@ -98,8 +91,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Datadog",
-    "slug": "datadog",
+    "name": "Ping Identity",
+    "slug": "ping-identity",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -114,6 +107,13 @@
   {
     "name": "Talkspace",
     "slug": "talkspace",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Cribl",
+    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -147,6 +147,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Roblox",
+    "slug": "roblox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Calm.com",
+    "slug": "calm-com",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Edconic",
     "slug": "edconic",
     "logo_url": null,
@@ -168,6 +182,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Upsun",
+    "slug": "upsun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Freshly Commerce",
     "slug": "freshly-commerce",
     "logo_url": null,
@@ -177,20 +205,6 @@
   {
     "name": "StockX",
     "slug": "stockx",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Fivetran",
-    "slug": "fivetran",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -238,6 +252,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Datadog",
+    "slug": "datadog",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Klardaten",
     "slug": "klardaten",
     "logo_url": null,
@@ -252,8 +273,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Tebra",
-    "slug": "tebra",
+    "name": "PlanetScale",
+    "slug": "planetscale",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -261,13 +282,6 @@
   {
     "name": "Getlabs",
     "slug": "getlabs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Jumio",
-    "slug": "jumio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -294,13 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Bybit",
     "slug": "bybit",
     "logo_url": null,
@@ -310,13 +317,6 @@
   {
     "name": "Netlify",
     "slug": "netlify",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
