@@ -55,6 +55,61 @@
     "ai_relevant": true
   },
   {
+    "id": "crm-manager-bondora-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bondora-crm-manager",
+    "slug": "crm-manager-bondora-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-bondora-crm-manager",
+    "title": "CRM Manager",
+    "seo_title": "Remote CRM Manager Job | Data Science Jobs",
+    "seo_description": "Apply for a remote CRM Manager job at Bondora in Worldwide. Explore SQL, RAG, Customer Support, Remote and remote AI jobs.",
+    "company": {
+      "name": "Bondora",
+      "slug": "bondora",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "SQL",
+      "RAG",
+      "Customer Support",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Denmark; Finland; Latvia; Lithuania; Netherlands; Remote; Spain; Tallinn, Harju, Estonia URL: http://bondora.group At Bondora, our mission is simple: to make finance easy, transparent, and accessible for everyone. Founded in 2008, we’ve helped...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/bondora-crm-manager",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/bondora-crm-manager",
+    "published_at": "2026-10-29",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "CRM Manager",
+      "description": "Headquarters: Denmark; Finland; Latvia; Lithuania; Netherlands; Remote; Spain; Tallinn, Harju, Estonia URL: http://bondora.group At Bondora, our mission is simple: to make finance easy, transparent, and accessible for everyone. Founded in 2008, we’ve helped...",
+      "datePosted": "2026-10-29",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Bondora"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/bondora-crm-manager",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "hr-enablement-lead-salesloft-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-salesloft-hr-enablement-lead",
     "slug": "hr-enablement-lead-salesloft-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-salesloft-hr-enablement-lead",
     "title": "HR Enablement Lead",
@@ -748,66 +803,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "UK"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-stem-fellow-anthropic-usa-greenhouse-anthropic-5452403008",
-    "slug": "anthropic-stem-fellow-anthropic-usa-greenhouse-anthropic-5452403008",
-    "title": "Anthropic STEM Fellow",
-    "seo_title": "Remote Anthropic STEM Fellow Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic STEM Fellow job at anthropic in USA. Explore Machine Learning, RAG, AWS, AI Research & Engineering and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Remote-Friendly, United States; San Francisco, CA",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "AI Research & Engineering",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452403008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5452403008",
-    "published_at": "2026-10-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic STEM Fellow",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452403008",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
       }
     },
     "ai_relevant": true
@@ -1713,61 +1708,6 @@
     "ai_relevant": true
   },
   {
-    "id": "technical-support-specialist-freshly-commerce-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-freshly-commerce-technical-support-specialist-1",
-    "slug": "technical-support-specialist-freshly-commerce-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-freshly-commerce-technical-support-specialist-1",
-    "title": "Technical Support Specialist",
-    "seo_title": "Remote Technical Support Specialist Job | NLP Jobs",
-    "seo_description": "Apply for a remote Technical Support Specialist job at Freshly Commerce in Worldwide. Explore LLM, RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Freshly Commerce",
-      "slug": "freshly-commerce",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Waterloo, Canada URL: https://careers.freshlycommerce.com/ At Freshly Commerce, we're on a mission to build the logistics brain for commerce. Today, we help 25,000 Shopify brands simplify gnarly workflows like inventory, bundling, and order...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
-    "published_at": "2026-10-27",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Technical Support Specialist",
-      "description": "Headquarters: Waterloo, Canada URL: https://careers.freshlycommerce.com/ At Freshly Commerce, we're on a mission to build the logistics brain for commerce. Today, we help 25,000 Shopify brands simplify gnarly workflows like inventory, bundling, and order...",
-      "datePosted": "2026-10-27",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Freshly Commerce"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/freshly-commerce-technical-support-specialist-1",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "director-category-growth-general-manager-stockx-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stockx-director-category-growth-general-manager",
     "slug": "director-category-growth-general-manager-stockx-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-stockx-director-category-growth-general-manager",
     "title": "Director, Category Growth (General Manager)",
@@ -1984,60 +1924,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/zoominfo-technologies-llc-director-corporate-tax",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "manager-customer-onboarding-success-veracode-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-veracode-manager-customer-onboarding-success",
-    "slug": "manager-customer-onboarding-success-veracode-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-veracode-manager-customer-onboarding-success",
-    "title": "Manager, Customer Onboarding & Success",
-    "seo_title": "Remote Manager, Customer Onboarding & Success Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Manager, Customer Onboarding & Success job at Veracode in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Veracode",
-      "slug": "veracode",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Burlington, MA; Burlington, MA OR US Remote Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/veracode-manager-customer-onboarding-success",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/veracode-manager-customer-onboarding-success",
-    "published_at": "2026-10-27",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Manager, Customer Onboarding & Success",
-      "description": "Headquarters: Burlington, MA; Burlington, MA OR US Remote Looking for an innovative, high-growth, multi-award-winning company in one of the hottest segments of the security market? Look no further than Veracode! Veracode is a global leader in Application Risk...",
-      "datePosted": "2026-10-27",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Veracode"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/veracode-manager-customer-onboarding-success",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2274,60 +2160,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "customer-support-manager-risk-mercury-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mercury-customer-support-manager-risk",
-    "slug": "customer-support-manager-risk-mercury-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-mercury-customer-support-manager-risk",
-    "title": "Customer Support Manager - Risk",
-    "seo_title": "Remote Customer Support Manager - Risk Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Customer Support Manager - Risk job at Mercury in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
-    "company": {
-      "name": "Mercury",
-      "slug": "mercury",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Customer Support",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Mercury is building a complete finance stack for startups. Since we launched Mercury in 2019, our customer base has grown to over 300,000 startups and small...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-manager-risk",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-manager-risk",
-    "published_at": "2026-10-26",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Customer Support Manager - Risk",
-      "description": "Headquarters: San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States Mercury is building a complete finance stack for startups. Since we launched Mercury in 2019, our customer base has grown to over 300,000 startups and small...",
-      "datePosted": "2026-10-26",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Mercury"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/mercury-customer-support-manager-risk",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5385,7 +5217,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjE2OS4yNTUuMTE1 when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjE4Mi4xOTUuMTM5 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -5397,7 +5229,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjE2OS4yNTUuMTE1 when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjE4Mi4xOTUuMTM5 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6965,61 +6797,6 @@
     "ai_relevant": true
   },
   {
-    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer, Builds and Design",
-    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer, Builds and Design",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-05",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer, Builds and Design",
@@ -7075,6 +6852,61 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer, Builds and Design",
+    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-10-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer, Builds and Design",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-05",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },

@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 34
+    "jobs_count": 33
   },
   {
     "name": "Lemon.io",
@@ -154,6 +154,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Bondora",
+    "slug": "bondora",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Calm.com",
     "slug": "calm-com",
     "logo_url": null,
@@ -196,22 +203,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Freshly Commerce",
-    "slug": "freshly-commerce",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "StockX",
     "slug": "stockx",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Veracode",
-    "slug": "veracode",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -233,13 +226,6 @@
   {
     "name": "Vested, Inc.",
     "slug": "vested-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mercury",
-    "slug": "mercury",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
