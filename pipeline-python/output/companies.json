@@ -28,13 +28,6 @@
     "jobs_count": 3
   },
   {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Jumio",
     "slug": "jumio",
     "logo_url": null,
@@ -84,8 +77,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
+    "name": "Storyblok",
+    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,6 +133,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Welocalize",
+    "slug": "welocalize",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Wolt - English",
     "slug": "wolt-english",
     "logo_url": null,
@@ -163,6 +163,13 @@
   {
     "name": "Roblox",
     "slug": "roblox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Smile Digital Health",
+    "slug": "smile-digital-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -203,15 +210,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Sezzle",
-    "slug": "sezzle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Descript",
-    "slug": "descript",
+    "name": "Collibra",
+    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -240,13 +240,6 @@
   {
     "name": "Wagmo",
     "slug": "wagmo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Vested, Inc.",
-    "slug": "vested-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

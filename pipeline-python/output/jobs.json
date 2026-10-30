@@ -110,6 +110,61 @@
     "ai_relevant": true
   },
   {
+    "id": "automation-specialist-welocalize-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-welocalize-automation-specialist",
+    "slug": "automation-specialist-welocalize-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-welocalize-automation-specialist",
+    "title": "Automation Specialist",
+    "seo_title": "Remote Automation Specialist Job | Prompt Engineering Jobs",
+    "seo_description": "Apply for a remote Automation Specialist job at Welocalize in Worldwide. Explore Python, Prompt Engineering, Full-Stack Programming, Remote and remote AI...",
+    "company": {
+      "name": "Welocalize",
+      "slug": "welocalize",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Prompt Engineering",
+      "Full-Stack Programming",
+      "Remote"
+    ],
+    "category": "Prompt Engineering",
+    "description_summary": "Headquarters: Ciudad de México, Mexico URL: https://t.mtrbio.com/WeloData About the Role We're looking for an Automation Specialist to join our Movie and TV Metadata team — a unique, blended role for someone who wants to combine hands-on content work with the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/welocalize-automation-specialist",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/welocalize-automation-specialist",
+    "published_at": "2026-10-30",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Automation Specialist",
+      "description": "Headquarters: Ciudad de México, Mexico URL: https://t.mtrbio.com/WeloData About the Role We're looking for an Automation Specialist to join our Movie and TV Metadata team — a unique, blended role for someone who wants to combine hands-on content work with the...",
+      "datePosted": "2026-10-30",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Welocalize"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/welocalize-automation-specialist",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "principal-enterprise-architect-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-principal-enterprise-architect",
     "slug": "principal-enterprise-architect-jumio-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-jumio-principal-enterprise-architect",
     "title": "Principal Enterprise Architect",
@@ -674,6 +729,69 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/roblox-marketing-manager-menat",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "cloud-engineer-automation-smile-digital-health-worldwide-remoteok-1137600",
+    "slug": "cloud-engineer-automation-smile-digital-health-worldwide-remoteok-1137600",
+    "title": "Cloud Engineer Automation",
+    "seo_title": "Remote Cloud Engineer Automation Job | Data Analytics Jobs",
+    "seo_description": "Apply for a remote Cloud Engineer Automation job at Smile Digital Health in Worldwide. Explore Python, SQL, RAG, Kubernetes and remote AI jobs.",
+    "company": {
+      "name": "Smile Digital Health",
+      "slug": "smile-digital-health",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Toronto, Ontario",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "SQL",
+      "RAG",
+      "Kubernetes",
+      "Azure",
+      "design",
+      "grafana",
+      "infosec",
+      "customer support",
+      "marketing",
+      "dev",
+      "quality assurance"
+    ],
+    "category": "Data Analytics",
+    "description_summary": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-cloud-engineer-automation-smile-digital-health-1137600",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137600",
+    "published_at": "2026-10-29",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Cloud Engineer Automation",
+      "description": "Working for a company like Smile Digital Health means supporting our mandate for #BetterGlobalHealth . We strive towards this goal every day, and the results can be seen in the impact of our innovative health data platform and data management solutions, which...",
+      "datePosted": "2026-10-29",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Smile Digital Health"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137600",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -1305,61 +1423,6 @@
     "ai_relevant": true
   },
   {
-    "id": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
-    "slug": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
-    "title": "Business Recruiter",
-    "seo_title": "Remote Business Recruiter Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Business Recruiter job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, People and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "People",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
-    "published_at": "2026-10-29",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Business Recruiter",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-29",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
     "slug": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
     "title": "Business Recruiter",
@@ -1411,6 +1474,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
+    "slug": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
+    "title": "Business Recruiter",
+    "seo_title": "Remote Business Recruiter Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Business Recruiter job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, People and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "People",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
+    "published_at": "2026-10-29",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Recruiter",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-29",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
     },
     "ai_relevant": true
   },
@@ -1540,6 +1658,64 @@
     "ai_relevant": true
   },
   {
+    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "title": "Anthropic Research Resident",
+    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "NLP",
+      "Kubernetes",
+      "AWS",
+      "AI Research & Engineering"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "published_at": "2026-10-28",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Research Resident",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "slug": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "title": "Anthropic Research Resident",
@@ -1599,64 +1775,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "title": "Anthropic Research Resident",
-    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "NLP",
-      "Kubernetes",
-      "AWS",
-      "AI Research & Engineering"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "published_at": "2026-10-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Research Resident",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -2042,230 +2160,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/samsara-account-development-representative-france",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "compliance-intern-sezzle-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sezzle-compliance-intern",
-    "slug": "compliance-intern-sezzle-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-sezzle-compliance-intern",
-    "title": "Compliance Intern",
-    "seo_title": "Remote Compliance Intern Job | NLP Jobs",
-    "seo_description": "Apply for a remote Compliance Intern job at Sezzle in Worldwide. Explore LLM, AWS, All Other Remote, Remote and remote AI jobs.",
-    "company": {
-      "name": "Sezzle",
-      "slug": "sezzle",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "AWS",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "NLP",
-    "description_summary": "Headquarters: Mexico, Remote About Sezzle With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/sezzle-compliance-intern",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/sezzle-compliance-intern",
-    "published_at": "2026-10-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Compliance Intern",
-      "description": "Headquarters: Mexico, Remote About Sezzle With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make...",
-      "datePosted": "2026-10-28",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Sezzle"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/sezzle-compliance-intern",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "lead-data-scientist-product-descript-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-descript-lead-data-scientist-product",
-    "slug": "lead-data-scientist-product-descript-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-descript-lead-data-scientist-product",
-    "title": "Lead Data Scientist, Product",
-    "seo_title": "Remote Lead Data Scientist, Product Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Lead Data Scientist, Product job at Descript in Worldwide. Explore Python, SQL, OpenAI, RAG and remote AI jobs.",
-    "company": {
-      "name": "Descript",
-      "slug": "descript",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "OpenAI",
-      "RAG",
-      "Spark",
-      "Statistics",
-      "All Other Remote",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: San Francisco, CA or Remote, US Our vision is to build the next generation platform to enable easy and fast creation of audio and video content powered by cutting-edge AI. Building a revolutionary way to record, transcribe, edit, and mix spoken...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/descript-lead-data-scientist-product",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/descript-lead-data-scientist-product",
-    "published_at": "2026-10-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Lead Data Scientist, Product",
-      "description": "Headquarters: San Francisco, CA or Remote, US Our vision is to build the next generation platform to enable easy and fast creation of audio and video content powered by cutting-edge AI. Building a revolutionary way to record, transcribe, edit, and mix spoken...",
-      "datePosted": "2026-10-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Descript"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/descript-lead-data-scientist-product",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-content-marketing-specialist-uk-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-senior-content-marketing-specialist-uk",
-    "slug": "senior-content-marketing-specialist-uk-storyblok-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-storyblok-senior-content-marketing-specialist-uk",
-    "title": "Senior Content Marketing Specialist - UK",
-    "seo_title": "Remote Senior Content Marketing Specialist - UK Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Content Marketing Specialist - UK job at Storyblok in Worldwide. Explore RAG, Sales and Marketing, Remote and remote AI jobs.",
-    "company": {
-      "name": "Storyblok",
-      "slug": "storyblok",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/storyblok-senior-content-marketing-specialist-uk",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/storyblok-senior-content-marketing-specialist-uk",
-    "published_at": "2026-10-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Content Marketing Specialist - UK",
-      "description": "Headquarters: Remote Storyblok is a headless CMS that enables marketers and developers to create with joy and publish with confidence. It empowers you to deliver structured and consistent content everywhere: websites, apps, AI search, and beyond. Legendary...",
-      "datePosted": "2026-10-28",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Storyblok"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/storyblok-senior-content-marketing-specialist-uk",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-account-executive-ii-federal-dow-army-navy-air-force-pentagon-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-senior-acco",
-    "slug": "senior-account-executive-ii-federal-dow-army-navy-air-force-pentagon-collibra-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-collibra-senior-acco",
-    "title": "Senior Account Executive II, Federal DOW/Army/Navy/Air Force/Pentagon",
-    "seo_title": "Remote Senior Account Executive II, Federal DOW/Army/Navy/Air Force/Pentagon Job | MLOps Jobs",
-    "seo_description": "Apply for a remote Senior Account Executive II, Federal DOW/Army/Navy/Air Force/Pentagon job at Collibra in Worldwide. Explore SQL, RAG, Kubernetes, Sales...",
-    "company": {
-      "name": "Collibra",
-      "slug": "collibra",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "Kubernetes",
-      "Sales and Marketing",
-      "Remote"
-    ],
-    "category": "MLOps",
-    "description_summary": "Headquarters: Remote, USA Joining Collibra’s Public Sector team Make an impact at Collibra Public Sector by driving growth in US federal DOW agencies. This role will be responsible for selling Collibra's value and vision to prospects and existing customers,...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/collibra-senior-account-executive-ii-federal-dow-army-navy-air-force-pentagon",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/collibra-senior-account-executive-ii-federal-dow-army-navy-air-force-pentagon",
-    "published_at": "2026-10-28",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Account Executive II, Federal DOW/Army/Navy/Air Force/Pentagon",
-      "description": "Headquarters: Remote, USA Joining Collibra’s Public Sector team Make an impact at Collibra Public Sector by driving growth in US federal DOW agencies. This role will be responsible for selling Collibra's value and vision to prospects and existing customers,...",
-      "datePosted": "2026-10-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Collibra"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/collibra-senior-account-executive-ii-federal-dow-army-navy-air-force-pentagon",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2849,59 +2743,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-software-engineer-vested-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vested-inc-senior-software-engineer-1",
-    "slug": "senior-software-engineer-vested-inc-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-vested-inc-senior-software-engineer-1",
-    "title": "Senior Software Engineer",
-    "seo_title": "Remote Senior Software Engineer Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Senior Software Engineer job at Vested, Inc. in Worldwide. Explore Full-Stack Programming, Remote and remote AI jobs.",
-    "company": {
-      "name": "Vested, Inc.",
-      "slug": "vested-inc",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Robotics",
-    "description_summary": "Headquarters: United States URL: https://vested.co About the role We're looking for a Senior Software Engineer who can define and deliver products that have a real impact on people's financial futures. You'll be joining a small and early-stage engineering...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
-    "published_at": "2026-10-26",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior Software Engineer",
-      "description": "Headquarters: United States URL: https://vested.co About the role We're looking for a Senior Software Engineer who can define and deliver products that have a real impact on people's financial futures. You'll be joining a small and early-stage engineering...",
-      "datePosted": "2026-10-26",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Vested, Inc."
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/vested-inc-senior-software-engineer-1",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5447,7 +5288,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTIuMTc2LjEyNC4xMDU= when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjIxMi4xNDIuMjQ4 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -5459,7 +5300,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTIuMTc2LjEyNC4xMDU= when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjIxMi4xNDIuMjQ4 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
