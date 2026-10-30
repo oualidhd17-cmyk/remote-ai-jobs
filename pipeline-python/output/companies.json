@@ -1,10 +1,17 @@
 [
   {
-    "name": "anthropic",
+    "name": "Anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 32
+  },
+  {
+    "name": "Carrot",
+    "slug": "carrot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
   },
   {
     "name": "Lemon.io",
@@ -12,13 +19,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 5
-  },
-  {
-    "name": "Carrot",
-    "slug": "carrot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
   },
   {
     "name": "ZoomInfo Technologies LLC",
@@ -33,6 +33,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Jumio",
+    "slug": "jumio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Wrike",
+    "slug": "wrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Salesloft",
@@ -98,20 +112,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Gemini",
-    "slug": "gemini",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Talkspace",
-    "slug": "talkspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Cribl",
     "slug": "cribl",
     "logo_url": null,
@@ -138,6 +138,20 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Wolt - English",
+    "slug": "wolt-english",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Bitovi",
@@ -170,13 +184,6 @@
   {
     "name": "Bondora",
     "slug": "bondora",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Calm.com",
-    "slug": "calm-com",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -245,20 +252,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Upstart",
-    "slug": "upstart",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Datadog",
-    "slug": "datadog",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Klardaten",
     "slug": "klardaten",
     "logo_url": null,
@@ -266,15 +259,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Keeper Security",
-    "slug": "keeper-security",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PlanetScale",
-    "slug": "planetscale",
+    "name": "Talkspace",
+    "slug": "talkspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
