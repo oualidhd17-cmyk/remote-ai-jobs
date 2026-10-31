@@ -28,6 +28,34 @@
     "jobs_count": 3
   },
   {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Ritual",
+    "slug": "ritual",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Abnormal",
+    "slug": "abnormal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Jumio",
     "slug": "jumio",
     "logo_url": null,
@@ -56,13 +84,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Legion",
-    "slug": "legion",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Edconic",
     "slug": "edconic",
     "logo_url": null,
@@ -70,22 +91,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Doximity",
-    "slug": "doximity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Storyblok",
     "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Coinbase",
-    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -100,13 +107,6 @@
   {
     "name": "Ping Identity",
     "slug": "ping-identity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Cribl",
-    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -131,6 +131,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Rubrik Job Board",
+    "slug": "rubrik-job-board",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Alloy",
+    "slug": "alloy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Welocalize",
@@ -196,15 +217,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Abnormal",
-    "slug": "abnormal",
+    "name": "Legion",
+    "slug": "legion",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Samsara",
-    "slug": "samsara",
+    "name": "Doximity",
+    "slug": "doximity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,13 +240,6 @@
   {
     "name": "Upsun",
     "slug": "upsun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "StockX",
-    "slug": "stockx",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -266,6 +280,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Cribl",
+    "slug": "cribl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "B2spin",
     "slug": "b2spin",
     "logo_url": null,
@@ -294,22 +315,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Netlify",
-    "slug": "netlify",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Plaid",
     "slug": "plaid",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ritual",
-    "slug": "ritual",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
