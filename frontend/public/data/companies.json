@@ -133,6 +133,20 @@
     "jobs_count": 2
   },
   {
+    "name": "Anduril Industries",
+    "slug": "anduril-industries",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Axon",
+    "slug": "axon",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Rubrik Job Board",
     "slug": "rubrik-job-board",
     "logo_url": null,
@@ -149,6 +163,13 @@
   {
     "name": "Alloy",
     "slug": "alloy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cloudary SAS",
+    "slug": "cloudary-sas",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,13 +240,6 @@
   {
     "name": "Legion",
     "slug": "legion",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Doximity",
-    "slug": "doximity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
