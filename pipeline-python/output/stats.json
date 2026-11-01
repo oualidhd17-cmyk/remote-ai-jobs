@@ -2,15 +2,15 @@
   "raw_count": 253,
   "processed_count": 253,
   "published_count": 126,
-  "ai_relevant_count": 190,
+  "ai_relevant_count": 189,
   "remote_count": 106,
   "visa_count": 32,
   "salary_count": 17,
   "status_counts": {
+    "rejected": 64,
     "pending": 38,
     "published": 126,
-    "rejected": 63,
-    "expired": 25,
+    "expired": 24,
     "duplicate": 1
   },
   "source_counts": {
@@ -33,8 +33,8 @@
   },
   "country_counts": {
     "Worldwide": 111,
-    "Ireland": 1,
     "UK": 3,
+    "Ireland": 1,
     "USA": 8,
     "Canada": 1,
     "Germany": 1,
