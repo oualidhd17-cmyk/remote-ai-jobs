@@ -70,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Ritual",
-    "slug": "ritual",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Abnormal",
     "slug": "abnormal",
     "logo_url": null,
@@ -140,6 +133,48 @@
     "jobs_count": 2
   },
   {
+    "name": "General Dynamics Information Technology",
+    "slug": "general-dynamics-information-technology",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Figure Lending",
+    "slug": "figure-lending",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CPG Beyond",
+    "slug": "cpg-beyond",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Agent Alliance Inc.",
+    "slug": "agent-alliance-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Chemtrade",
+    "slug": "chemtrade",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Teleperformance",
+    "slug": "teleperformance",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Knock",
     "slug": "knock",
     "logo_url": null,
@@ -182,6 +217,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Ritual",
+    "slug": "ritual",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "GitLab",
     "slug": "gitlab",
     "logo_url": null,
@@ -198,13 +240,6 @@
   {
     "name": "Cloudary SAS",
     "slug": "cloudary-sas",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Welocalize",
-    "slug": "welocalize",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -233,13 +268,6 @@
   {
     "name": "Thatch",
     "slug": "thatch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Bondora",
-    "slug": "bondora",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
