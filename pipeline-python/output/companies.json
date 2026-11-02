@@ -1,10 +1,17 @@
 [
   {
-    "name": "Anthropic",
+    "name": "anthropic",
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 27
+    "jobs_count": 29
+  },
+  {
+    "name": "Carrot",
+    "slug": "carrot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 5
   },
   {
     "name": "ZoomInfo Technologies LLC",
@@ -14,18 +21,46 @@
     "jobs_count": 5
   },
   {
-    "name": "Carrot",
-    "slug": "carrot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Upgrade",
+    "slug": "upgrade",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "AssemblyAI",
+    "slug": "assemblyai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Descript",
+    "slug": "descript",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Doximity",
@@ -63,20 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Abnormal",
-    "slug": "abnormal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Wrike",
     "slug": "wrike",
     "logo_url": null,
@@ -98,27 +119,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "iMerit Technology",
     "slug": "imerit-technology",
     "logo_url": null,
@@ -131,6 +131,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Feedzai",
+    "slug": "feedzai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Otter.ai",
+    "slug": "otter-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Glossier",
+    "slug": "glossier",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "General Dynamics Information Technology",
@@ -231,8 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "GitLab",
-    "slug": "gitlab",
+    "name": "Abnormal",
+    "slug": "abnormal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -247,13 +268,6 @@
   {
     "name": "Cloudary SAS",
     "slug": "cloudary-sas",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,6 +296,13 @@
   {
     "name": "Legion",
     "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -322,22 +343,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Talkspace",
-    "slug": "talkspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Getlabs",
     "slug": "getlabs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Cribl",
-    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -457,13 +464,6 @@
   {
     "name": "SimSpace Corporation",
     "slug": "simspace-corporation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EDETEK",
-    "slug": "edetek",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
