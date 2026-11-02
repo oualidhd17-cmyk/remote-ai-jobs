@@ -1061,6 +1061,78 @@
     "ai_relevant": true
   },
   {
+    "id": "partner-operations-manager-mecka-worldwide-remoteok-1137609",
+    "slug": "partner-operations-manager-mecka-worldwide-remoteok-1137609",
+    "title": "Partner Operations Manager",
+    "seo_title": "Remote Partner Operations Manager Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Partner Operations Manager job at Mecka in Worldwide. Explore RAG, exec, design, education and remote AI jobs.",
+    "company": {
+      "name": "Mecka",
+      "slug": "mecka",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Worldwide",
+    "remote_type": "unknown",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": 80000,
+    "salary_max": 100000,
+    "salary_currency": "USD",
+    "skills": [
+      "RAG",
+      "exec",
+      "design",
+      "education",
+      "customer support",
+      "marketing",
+      "quality assurance",
+      "finance",
+      "robotics",
+      "ops",
+      "recruiter",
+      "engineer"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Mecka AI Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-partner-operations-manager-mecka-1137609",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137609",
+    "published_at": "2026-11-01",
+    "expires_at": null,
+    "quality_score": 80,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Partner Operations Manager",
+      "description": "About Mecka AI Mecka AI is building the data infrastructure layer for robotics and embodied AI. We design and operate global systems for data capture, data labeling, and hardware-enabled workflows used by leading AI labs and robotics companies to train and...",
+      "datePosted": "2026-11-01",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Mecka"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137609",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 80000,
+          "maxValue": 100000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "senior-ta-operations-specialist-anduril-industries-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-anduril-industries-senior-ta-operations-special",
     "slug": "senior-ta-operations-specialist-anduril-industries-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-anduril-industries-senior-ta-operations-special",
     "title": "Senior TA Operations Specialist",
@@ -2596,61 +2668,6 @@
     "ai_relevant": true
   },
   {
-    "id": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
-    "slug": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
-    "title": "Business Recruiter",
-    "seo_title": "Remote Business Recruiter Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Business Recruiter job at anthropic in UK. Explore Machine Learning, RAG, AWS, People and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "People",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
-    "published_at": "2026-10-29",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Business Recruiter",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-29",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
     "slug": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
     "title": "Business Recruiter",
@@ -2702,6 +2719,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
+    "slug": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
+    "title": "Business Recruiter",
+    "seo_title": "Remote Business Recruiter Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Business Recruiter job at anthropic in UK. Explore Machine Learning, RAG, AWS, People and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "People",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
+    "published_at": "2026-10-29",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Recruiter",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-29",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
     },
     "ai_relevant": true
   },
@@ -2771,6 +2843,64 @@
     "ai_relevant": true
   },
   {
+    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "title": "Anthropic Research Resident",
+    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "NLP",
+      "Kubernetes",
+      "AWS",
+      "AI Research & Engineering"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "published_at": "2026-10-28",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Research Resident",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "slug": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "title": "Anthropic Research Resident",
@@ -2830,64 +2960,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "title": "Anthropic Research Resident",
-    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "NLP",
-      "Kubernetes",
-      "AWS",
-      "AI Research & Engineering"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "published_at": "2026-10-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Research Resident",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -5376,7 +5448,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137545",
     "published_at": "2026-10-18",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5434,7 +5506,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137544",
     "published_at": "2026-10-18",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5686,7 +5758,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTM1LjIzMi4xNzYuMTYx when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjE4NC4yMTAuMjE0 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -5698,7 +5770,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTM1LjIzMi4xNzYuMTYx when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjE4NC4yMTAuMjE0 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6977,71 +7049,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137465",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "head-of-operations-leverage-live-local-worldwide-remoteok-1137461",
-    "slug": "head-of-operations-leverage-live-local-worldwide-remoteok-1137461",
-    "title": "Head of Operations",
-    "seo_title": "Remote Head of Operations Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Head of Operations job at Leverage Live Local in Worldwide. Explore RAG, non tech, ops, exec and remote AI jobs.",
-    "company": {
-      "name": "Leverage Live Local",
-      "slug": "leverage-live-local",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": 170000,
-    "salary_max": 350000,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "non tech",
-      "ops",
-      "exec"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is. This seat owns the operating system that...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-head-of-operations-leverage-live-local-1137461",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137461",
-    "published_at": "2026-10-03",
-    "expires_at": null,
-    "quality_score": 90,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Head of Operations",
-      "description": "Leverage Live Local prepares and manages Florida Live Local Act property tax exemptions for multifamily owners. We represent more than 90 properties and about 30,000 units. Demand is not our constraint. Operations is. This seat owns the operating system that...",
-      "datePosted": "2026-10-03",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Leverage Live Local"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137461",
-      "jobLocationType": "TELECOMMUTE",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 170000,
-          "maxValue": 350000,
-          "unitText": "YEAR"
-        }
-      }
     },
     "ai_relevant": true
   },
