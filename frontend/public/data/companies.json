@@ -4,18 +4,18 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 25
+    "jobs_count": 27
   },
   {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
+    "name": "Carrot",
+    "slug": "carrot",
     "logo_url": null,
     "website": null,
     "jobs_count": 5
   },
   {
-    "name": "Carrot",
-    "slug": "carrot",
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -58,13 +58,6 @@
   {
     "name": "Descript",
     "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Doximity",
-    "slug": "doximity",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -124,6 +117,34 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "M-Kopa",
+    "slug": "m-kopa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ELITEBRAIN",
+    "slug": "elitebrain",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "MANTECH",
+    "slug": "mantech",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Remote Talent Cloud",
+    "slug": "remote-talent-cloud",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Docusketch",
@@ -203,13 +224,6 @@
     "jobs_count": 1
   },
   {
-    "name": "CPG Beyond",
-    "slug": "cpg-beyond",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Agent Alliance Inc.",
     "slug": "agent-alliance-inc",
     "logo_url": null,
@@ -238,22 +252,15 @@
     "jobs_count": 1
   },
   {
+    "name": "Doximity",
+    "slug": "doximity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Tailscale",
     "slug": "tailscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Gong.io",
-    "slug": "gong-io",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Oportun",
-    "slug": "oportun",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -268,13 +275,6 @@
   {
     "name": "Axon",
     "slug": "axon",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Alloy",
-    "slug": "alloy",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -371,15 +371,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Getlabs",
-    "slug": "getlabs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "B2spin",
-    "slug": "b2spin",
+    "name": "Talkspace",
+    "slug": "talkspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -562,6 +555,13 @@
   {
     "name": "Ashby",
     "slug": "ashby",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Delinea",
+    "slug": "delinea",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
