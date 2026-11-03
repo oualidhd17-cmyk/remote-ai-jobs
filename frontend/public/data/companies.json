@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
+    "jobs_count": 25
   },
   {
     "name": "Carrot",
@@ -98,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Wrike",
-    "slug": "wrike",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Typeform",
     "slug": "typeform",
     "logo_url": null,
@@ -131,6 +124,41 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Sodalis, Inc.",
+    "slug": "sodalis-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Capmo",
+    "slug": "capmo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Socure",
+    "slug": "socure",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CrowdStrike",
+    "slug": "crowdstrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "WelcomeHome Software",
+    "slug": "welcomehome-software",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Feedzai",
@@ -224,36 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Anduril Industries",
-    "slug": "anduril-industries",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Axon",
     "slug": "axon",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Rubrik Job Board",
-    "slug": "rubrik-job-board",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ritual",
-    "slug": "ritual",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Abnormal",
-    "slug": "abnormal",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -268,6 +268,13 @@
   {
     "name": "Cloudary SAS",
     "slug": "cloudary-sas",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wrike",
+    "slug": "wrike",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -331,6 +338,13 @@
   {
     "name": "Wagmo",
     "slug": "wagmo",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
