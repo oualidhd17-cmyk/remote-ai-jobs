@@ -1,5 +1,135 @@
 [
   {
+    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5450798008",
+    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5450798008",
+    "title": "Applied AI Architect",
+    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Australia",
+    "city": null,
+    "location": "Sydney, Australia",
+    "location_label": "Sydney, Australia",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "AWS",
+      "Applied AI",
+      "Sydney, Australia"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008",
+    "published_at": "2026-11-03",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Applied AI Architect",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-11-03",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "ai-ml-engineer-docusketch-worldwide-remoteok-1137619",
+    "slug": "ai-ml-engineer-docusketch-worldwide-remoteok-1137619",
+    "title": "AI ML Engineer",
+    "seo_title": "Remote AI ML Engineer Job | Machine Learning Jobs",
+    "seo_description": "Apply for a remote AI ML Engineer job at Docusketch in Worldwide. Explore Python, Machine Learning, Deep Learning, PyTorch and remote AI jobs.",
+    "company": {
+      "name": "Docusketch",
+      "slug": "docusketch",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": 10000,
+    "salary_max": 120000,
+    "salary_currency": "USD",
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Deep Learning",
+      "PyTorch",
+      "Computer Vision",
+      "dev",
+      "ai",
+      "artificial intelligence",
+      "neural networks",
+      "3D",
+      "exec",
+      "product"
+    ],
+    "category": "Machine Learning",
+    "description_summary": "The fastest-growing European SaaS company is searching for anÂ AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-ml-engineer-docusketch-1137619",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137619",
+    "published_at": "2026-11-02",
+    "expires_at": null,
+    "quality_score": 100,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI ML Engineer",
+      "description": "The fastest-growing European SaaS company is searching for anÂ AI/ML Engineer ! You can be our perfect match! About DocuSketch: DocuSketch, with its European Headquarters in Potsdam, Germany, is a leading European software technology provider for the digital...",
+      "datePosted": "2026-11-02",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Docusketch"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137619",
+      "jobLocationType": "TELECOMMUTE",
+      "baseSalary": {
+        "@type": "MonetaryAmount",
+        "currency": "USD",
+        "value": {
+          "@type": "QuantitativeValue",
+          "minValue": 10000,
+          "maxValue": 120000,
+          "unitText": "YEAR"
+        }
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "software-engineer-infrastructure-sodalis-inc-worldwide-remoteok-1137614",
     "slug": "software-engineer-infrastructure-sodalis-inc-worldwide-remoteok-1137614",
     "title": "Software Engineer Infrastructure",
@@ -1180,63 +1310,6 @@
     "ai_relevant": true
   },
   {
-    "id": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5450798008",
-    "slug": "applied-ai-architect-anthropic-australia-greenhouse-anthropic-5450798008",
-    "title": "Applied AI Architect",
-    "seo_title": "Remote Applied AI Architect Job in Australia | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Applied AI Architect job at anthropic in Australia. Explore Python, Machine Learning, LLM, RAG and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Australia",
-    "city": null,
-    "location": "Sydney, Australia",
-    "location_label": "Sydney, Australia",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "AWS",
-      "Applied AI",
-      "Sydney, Australia"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008",
-    "published_at": "2026-11-02",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Applied AI Architect",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-11-02",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5450798008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "healthcare-fraud-sme-general-dynamics-information-technology-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-general-dynamics-information-technolo",
     "slug": "healthcare-fraud-sme-general-dynamics-information-technology-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-general-dynamics-information-technolo",
     "title": "Healthcare Fraud SME",
@@ -2235,69 +2308,6 @@
     "ai_relevant": true
   },
   {
-    "id": "senior-ml-engineer-r14284-oportun-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-oportun-senior-ml-engineer-r14284",
-    "slug": "senior-ml-engineer-r14284-oportun-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-oportun-senior-ml-engineer-r14284",
-    "title": "Senior ML Engineer (R14284)",
-    "seo_title": "Remote Senior ML Engineer (R14284) Job | Machine Learning Jobs",
-    "seo_description": "Apply for a remote Senior ML Engineer (R14284) job at Oportun in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
-    "company": {
-      "name": "Oportun",
-      "slug": "oportun",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "RAG",
-      "MLOps",
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "Spark",
-      "MLflow",
-      "Full-Stack Programming",
-      "Remote"
-    ],
-    "category": "Machine Learning",
-    "description_summary": "Headquarters: Remote - India Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-    "published_at": "2026-11-01",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior ML Engineer (R14284)",
-      "description": "Headquarters: Remote - India Who We Are Oportun (Nasdaq: OPRT) is a mission-driven financial services company that puts its members' financial goals within reach. With intelligent borrowing, savings, and budgeting capabilities, Oportun empowers members with...",
-      "datePosted": "2026-11-01",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Oportun"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/oportun-senior-ml-engineer-r14284",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "partner-operations-manager-mecka-worldwide-remoteok-1137609",
     "slug": "partner-operations-manager-mecka-worldwide-remoteok-1137609",
     "title": "Partner Operations Manager",
@@ -2818,64 +2828,6 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/carrot-sr-it-systems-engineer",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "sr-manager-data-engineering-carrot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-carrot-sr-manager-data-engineering",
-    "slug": "sr-manager-data-engineering-carrot-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-carrot-sr-manager-data-engineering",
-    "title": "Sr. Manager, Data Engineering",
-    "seo_title": "Remote Sr. Manager, Data Engineering Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Sr. Manager, Data Engineering job at Carrot in Worldwide. Explore Python, SQL, RAG, AWS and remote AI jobs.",
-    "company": {
-      "name": "Carrot",
-      "slug": "carrot",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Remote",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "RAG",
-      "AWS",
-      "Airflow",
-      "Management and Finance",
-      "Remote"
-    ],
-    "category": "Data Science",
-    "description_summary": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand...",
-    "apply_url": "https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
-    "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
-    "published_at": "2026-10-30",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Sr. Manager, Data Engineering",
-      "description": "Headquarters: Remote About Carrot: Carrot is the leading global fertility and family care platform, built on intelligent care orchestration: the right clinical guidance, at the right moment, in the context of each member’s life. More than a thousand...",
-      "datePosted": "2026-10-30",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Carrot"
-      },
-      "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/carrot-sr-manager-data-engineering",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -3413,61 +3365,6 @@
     "ai_relevant": true
   },
   {
-    "id": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
-    "slug": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
-    "title": "Business Recruiter",
-    "seo_title": "Remote Business Recruiter Job in UK | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Business Recruiter job at anthropic in UK. Explore Machine Learning, RAG, AWS, People and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "UK",
-    "city": null,
-    "location": "London, UK",
-    "location_label": "London, UK",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "People",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
-    "published_at": "2026-10-29",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Business Recruiter",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-29",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
     "slug": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
     "title": "Business Recruiter",
@@ -3519,6 +3416,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
+    "slug": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
+    "title": "Business Recruiter",
+    "seo_title": "Remote Business Recruiter Job in UK | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Business Recruiter job at anthropic in UK. Explore Machine Learning, RAG, AWS, People and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "UK",
+    "city": null,
+    "location": "London, UK",
+    "location_label": "London, UK",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "People",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008",
+    "published_at": "2026-10-29",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Recruiter",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-29",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
     },
     "ai_relevant": true
   },
@@ -3588,6 +3540,64 @@
     "ai_relevant": true
   },
   {
+    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "title": "Anthropic Research Resident",
+    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "NLP",
+      "Kubernetes",
+      "AWS",
+      "AI Research & Engineering"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "published_at": "2026-10-28",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Research Resident",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-28",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "slug": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "title": "Anthropic Research Resident",
@@ -3647,64 +3657,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "title": "Anthropic Research Resident",
-    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "NLP",
-      "Kubernetes",
-      "AWS",
-      "AI Research & Engineering"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "published_at": "2026-10-28",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Research Resident",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-28",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -4342,6 +4294,117 @@
       },
       "directApply": false,
       "url": "https://weworkremotely.com/remote-jobs/reddit-frontend-engineer-ads",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "director-partner-operations-ping-identity-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ping-identity-director-partner-operations",
+    "slug": "director-partner-operations-ping-identity-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-ping-identity-director-partner-operations",
+    "title": "Director, Partner Operations",
+    "seo_title": "Remote Director, Partner Operations Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Director, Partner Operations job at Ping Identity in Worldwide. Explore RAG, AWS, Azure, DevOps and Sysadmin and remote AI jobs.",
+    "company": {
+      "name": "Ping Identity",
+      "slug": "ping-identity",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "senior",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Azure",
+      "DevOps and Sysadmin",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: USA - Remote About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/ping-identity-director-partner-operations",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/ping-identity-director-partner-operations",
+    "published_at": "2026-10-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Director, Partner Operations",
+      "description": "Headquarters: USA - Remote About Ping Identity: At Ping Identity, we believe in making digital experiences both secure and seamless for all users, without compromise. We call this digital freedom. And it's not just something we provide our customers. It's...",
+      "datePosted": "2026-10-26",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Ping Identity"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/ping-identity-director-partner-operations",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "engineering-manager-knowledge-graph-platform-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-engineering-manager-knowledge-graph-pla",
+    "slug": "engineering-manager-knowledge-graph-platform-reddit-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-reddit-engineering-manager-knowledge-graph-pla",
+    "title": "Engineering Manager, Knowledge Graph Platform",
+    "seo_title": "Remote Engineering Manager, Knowledge Graph Platform Job | Data Science Jobs",
+    "seo_description": "Apply for a remote Engineering Manager, Knowledge Graph Platform job at Reddit in Worldwide. Explore LLM, RAG, Product, Remote and remote AI jobs.",
+    "company": {
+      "name": "Reddit",
+      "slug": "reddit",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "Remote",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "LLM",
+      "RAG",
+      "Product",
+      "Remote"
+    ],
+    "category": "Data Science",
+    "description_summary": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-knowledge-graph-platform",
+    "source": "weworkremotely",
+    "source_url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-knowledge-graph-platform",
+    "published_at": "2026-10-26",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Engineering Manager, Knowledge Graph Platform",
+      "description": "Headquarters: Remote - United States Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the...",
+      "datePosted": "2026-10-26",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Reddit"
+      },
+      "directApply": false,
+      "url": "https://weworkremotely.com/remote-jobs/reddit-engineering-manager-knowledge-graph-platform",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5898,7 +5961,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTIuMTczLjE3OC4yMTQ= when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTQ1LjEzMi4xMDIuMjI5 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -5910,7 +5973,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTIuMTczLjE3OC4yMTQ= when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTQ1LjEzMi4xMDIuMjI5 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6960,61 +7023,6 @@
     "ai_relevant": true
   },
   {
-    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
-    "title": "AV Engineer, Builds and Design",
-    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "contract",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "Security",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-    "published_at": "2026-10-05",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AV Engineer, Builds and Design",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-05",
-      "employmentType": "CONTRACTOR",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "slug": "av-engineer-builds-and-design-anthropic-uk-greenhouse-anthropic-5385590008",
     "title": "AV Engineer, Builds and Design",
@@ -7074,6 +7082,61 @@
     "ai_relevant": true
   },
   {
+    "id": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "slug": "av-engineer-builds-and-design-anthropic-worldwide-greenhouse-anthropic-5385588008",
+    "title": "AV Engineer, Builds and Design",
+    "seo_title": "Remote AV Engineer, Builds and Design Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AV Engineer, Builds and Design job at anthropic in Worldwide. Explore RAG, AWS, Security, San Francisco, CA and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "RAG",
+      "AWS",
+      "Security",
+      "San Francisco, CA"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+    "published_at": "2026-10-05",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AV Engineer, Builds and Design",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-05",
+      "employmentType": "CONTRACTOR",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385588008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "platform-and-integration-engineer-security-telemetry-redmimicry-worldwide-remoteok-1137465",
     "slug": "platform-and-integration-engineer-security-telemetry-redmimicry-worldwide-remoteok-1137465",
     "title": "Platform and Integration Engineer Security Telemetry",
@@ -7126,73 +7189,6 @@
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137465",
       "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "senior-react-full-stack-developer-lemon-io-usa-remotive-2091133",
-    "slug": "senior-react-full-stack-developer-lemon-io-usa-remotive-2091133",
-    "title": "Senior React Full-stack Developer",
-    "seo_title": "Remote Senior React Full-stack Developer Job in USA | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Senior React Full-stack Developer job at Lemon.io in USA. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
-    "company": {
-      "name": "Lemon.io",
-      "slug": "lemon-io",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "USA",
-    "city": null,
-    "location": "Europe, USA, Canada, APAC",
-    "location_label": "Remote - USA",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "Machine Learning",
-      "LLM",
-      "MLOps",
-      "AWS",
-      "GCP",
-      "Azure",
-      ".Net",
-      "android",
-      "C",
-      "C#",
-      "C++"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
-    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-    "source": "remotive",
-    "source_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-    "published_at": "2026-10-02",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Senior React Full-stack Developer",
-      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate...",
-      "datePosted": "2026-10-02",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Lemon.io"
-      },
-      "directApply": false,
-      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091133",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "USA"
-      }
     },
     "ai_relevant": true
   },
@@ -7636,78 +7632,6 @@
           "@type": "QuantitativeValue",
           "minValue": 55000,
           "maxValue": 80000,
-          "unitText": "YEAR"
-        }
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "vp-pricing-packaging-delinea-worldwide-remoteok-1137407",
-    "slug": "vp-pricing-packaging-delinea-worldwide-remoteok-1137407",
-    "title": "VP Pricing & Packaging",
-    "seo_title": "Remote VP Pricing & Packaging Job | Robotics Jobs",
-    "seo_description": "Apply for a remote VP Pricing & Packaging job at Delinea in Worldwide. Explore RAG, AWS, design, saas and remote AI jobs.",
-    "company": {
-      "name": "Delinea",
-      "slug": "delinea",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Redwood City",
-    "location_label": "Redwood City",
-    "remote_type": "unknown",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": 300000,
-    "salary_max": 340000,
-    "salary_currency": "USD",
-    "skills": [
-      "RAG",
-      "AWS",
-      "design",
-      "saas",
-      "salesforce",
-      "infosec",
-      "vfx",
-      "dev",
-      "finance",
-      "education",
-      "cloud",
-      "admin"
-    ],
-    "category": "Robotics",
-    "description_summary": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence,...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-vp-pricing-packaging-delinea-1137407",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137407",
-    "published_at": "2026-09-19",
-    "expires_at": null,
-    "quality_score": 70,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "VP Pricing & Packaging",
-      "description": "About Delinea: Delinea is a pioneer in securing human and machine identities through intelligent, centralized authorization, empowering organizations to seamlessly govern their interactions across the modern enterprise. Leveraging AI-powered intelligence,...",
-      "datePosted": "2026-09-19",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Delinea"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137407",
-      "baseSalary": {
-        "@type": "MonetaryAmount",
-        "currency": "USD",
-        "value": {
-          "@type": "QuantitativeValue",
-          "minValue": 300000,
-          "maxValue": 340000,
           "unitText": "YEAR"
         }
       }

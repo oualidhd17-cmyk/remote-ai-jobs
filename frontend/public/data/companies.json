@@ -7,13 +7,6 @@
     "jobs_count": 25
   },
   {
-    "name": "Carrot",
-    "slug": "carrot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 5
-  },
-  {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
     "logo_url": null,
@@ -21,8 +14,8 @@
     "jobs_count": 5
   },
   {
-    "name": "Lemon.io",
-    "slug": "lemon-io",
+    "name": "Carrot",
+    "slug": "carrot",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
@@ -30,6 +23,13 @@
   {
     "name": "Smartsheet",
     "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Lemon.io",
+    "slug": "lemon-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -84,13 +84,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Oportun",
-    "slug": "oportun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Dropbox",
     "slug": "dropbox",
     "logo_url": null,
@@ -112,6 +105,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Reddit",
+    "slug": "reddit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "iMerit Technology",
     "slug": "imerit-technology",
     "logo_url": null,
@@ -124,6 +124,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Docusketch",
+    "slug": "docusketch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Sodalis, Inc.",
@@ -245,6 +252,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Oportun",
+    "slug": "oportun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Mecka",
     "slug": "mecka",
     "logo_url": null,
@@ -343,8 +357,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
+    "name": "Ping Identity",
+    "slug": "ping-identity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -548,13 +562,6 @@
   {
     "name": "Ashby",
     "slug": "ashby",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Delinea",
-    "slug": "delinea",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
