@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 27
+    "jobs_count": 25
   },
   {
     "name": "Carrot",
@@ -33,6 +33,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Aprio",
+    "slug": "aprio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "Upgrade",
@@ -117,6 +124,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Burkland Associates",
+    "slug": "burkland-associates",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "M-Kopa",
@@ -378,13 +392,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Aprio",
-    "slug": "aprio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Plaid",
     "slug": "plaid",
     "logo_url": null,
@@ -476,20 +483,6 @@
     "jobs_count": 1
   },
   {
-    "name": "AO Garcia Agency",
-    "slug": "ao-garcia-agency",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "SimSpace Corporation",
-    "slug": "simspace-corporation",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Miaplaza",
     "slug": "miaplaza",
     "logo_url": null,
@@ -555,13 +548,6 @@
   {
     "name": "Ashby",
     "slug": "ashby",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Delinea",
-    "slug": "delinea",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
