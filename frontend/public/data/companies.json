@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 28
+    "jobs_count": 30
   },
   {
     "name": "Carrot",
@@ -63,13 +63,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Descript",
-    "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Samsara",
     "slug": "samsara",
     "logo_url": null,
@@ -105,13 +98,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "iMerit Technology",
     "slug": "imerit-technology",
     "logo_url": null,
@@ -126,6 +112,34 @@
     "jobs_count": 2
   },
   {
+    "name": "Toptal",
+    "slug": "toptal",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Super Speciosa",
+    "slug": "super-speciosa",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "VXI Global Solutions",
+    "slug": "vxi-global-solutions",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Crazy Maple Studio",
+    "slug": "crazy-maple-studio",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Zanda Health",
     "slug": "zanda-health",
     "logo_url": null,
@@ -133,8 +147,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Reframe Space Inc.",
-    "slug": "reframe-space-inc",
+    "name": "Vogel",
+    "slug": "vogel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Kyra",
+    "slug": "kyra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -210,13 +231,6 @@
     "jobs_count": 1
   },
   {
-    "name": "WelcomeHome Software",
-    "slug": "welcomehome-software",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Feedzai",
     "slug": "feedzai",
     "logo_url": null,
@@ -238,8 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "General Dynamics Information Technology",
-    "slug": "general-dynamics-information-technology",
+    "name": "Descript",
+    "slug": "descript",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -280,22 +294,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Tailscale",
-    "slug": "tailscale",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Mecka",
     "slug": "mecka",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Axon",
-    "slug": "axon",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -338,6 +338,13 @@
   {
     "name": "Legion",
     "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
