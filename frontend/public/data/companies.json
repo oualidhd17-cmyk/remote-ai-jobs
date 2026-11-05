@@ -4,21 +4,28 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 29
+    "jobs_count": 30
+  },
+  {
+    "name": "Spreetail",
+    "slug": "spreetail",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "Carrot",
     "slug": "carrot",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "ZoomInfo Technologies LLC",
     "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "Lemon.io",
@@ -26,6 +33,27 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
+  },
+  {
+    "name": "Zscaler",
+    "slug": "zscaler",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "CapsLock",
+    "slug": "capslock",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Zanda Health",
+    "slug": "zanda-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "HighLevel",
@@ -58,20 +86,6 @@
   {
     "name": "Salesloft",
     "slug": "salesloft",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Samsara",
-    "slug": "samsara",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Discord",
-    "slug": "discord",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -110,6 +124,48 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Breakthrough Design Group",
+    "slug": "breakthrough-design-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Paid Ads Academy",
+    "slug": "paid-ads-academy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Jobgether",
+    "slug": "jobgether",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "WeVote",
+    "slug": "wevote",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Horizon3",
+    "slug": "horizon3",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vertican",
+    "slug": "vertican",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Kiavi",
@@ -154,13 +210,6 @@
     "jobs_count": 1
   },
   {
-    "name": "CapsLock",
-    "slug": "capslock",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Omnidian",
     "slug": "omnidian",
     "logo_url": null,
@@ -182,6 +231,20 @@
     "jobs_count": 1
   },
   {
+    "name": "iMerit",
+    "slug": "imerit",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Claims",
+    "slug": "claims",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Destination Careers",
     "slug": "destination-careers",
     "logo_url": null,
@@ -189,36 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Toptal",
-    "slug": "toptal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Super Speciosa",
     "slug": "super-speciosa",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "VXI Global Solutions",
-    "slug": "vxi-global-solutions",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Crazy Maple Studio",
-    "slug": "crazy-maple-studio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Zanda Health",
-    "slug": "zanda-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,6 +343,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Samsara",
+    "slug": "samsara",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Knock",
     "slug": "knock",
     "logo_url": null,
@@ -371,20 +413,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Upsun",
-    "slug": "upsun",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ignition, Inc.",
-    "slug": "ignition-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Wagmo",
     "slug": "wagmo",
     "logo_url": null,
@@ -392,29 +420,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Klardaten",
     "slug": "klardaten",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Talkspace",
-    "slug": "talkspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
