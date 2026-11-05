@@ -11,7 +11,7 @@
     "slug": "carrot",
     "logo_url": null,
     "website": null,
-    "jobs_count": 5
+    "jobs_count": 4
   },
   {
     "name": "ZoomInfo Technologies LLC",
@@ -21,13 +21,6 @@
     "jobs_count": 4
   },
   {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
     "name": "Lemon.io",
     "slug": "lemon-io",
     "logo_url": null,
@@ -35,8 +28,22 @@
     "jobs_count": 3
   },
   {
+    "name": "HighLevel",
+    "slug": "highlevel",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Upgrade",
     "slug": "upgrade",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -103,6 +110,76 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Kiavi",
+    "slug": "kiavi",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "EXL",
+    "slug": "exl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "DRFIRST COM INC",
+    "slug": "drfirst-com-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mozaiq",
+    "slug": "mozaiq",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "BillionToOne",
+    "slug": "billiontoone",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Welltech",
+    "slug": "welltech",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CapsLock",
+    "slug": "capslock",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Omnidian",
+    "slug": "omnidian",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Appsierra Group",
+    "slug": "appsierra-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Close",
+    "slug": "close",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Destination Careers",
@@ -175,22 +252,8 @@
     "jobs_count": 1
   },
   {
-    "name": "M-Kopa",
-    "slug": "m-kopa",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "ELITEBRAIN",
     "slug": "elitebrain",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "MANTECH",
-    "slug": "mantech",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -224,27 +287,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Socure",
-    "slug": "socure",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "CrowdStrike",
-    "slug": "crowdstrike",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Feedzai",
-    "slug": "feedzai",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Otter.ai",
     "slug": "otter-ai",
     "logo_url": null,
@@ -261,34 +303,6 @@
   {
     "name": "Descript",
     "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Figure Lending",
-    "slug": "figure-lending",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Agent Alliance Inc.",
-    "slug": "agent-alliance-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Chemtrade",
-    "slug": "chemtrade",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Teleperformance",
-    "slug": "teleperformance",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -352,13 +366,6 @@
   {
     "name": "Storyblok",
     "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Collibra",
-    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
