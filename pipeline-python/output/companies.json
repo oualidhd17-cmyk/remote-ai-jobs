@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
+    "jobs_count": 29
   },
   {
     "name": "Carrot",
@@ -33,13 +33,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
-  },
-  {
-    "name": "Aprio",
-    "slug": "aprio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
   },
   {
     "name": "Upgrade",
@@ -112,6 +105,13 @@
     "jobs_count": 2
   },
   {
+    "name": "Destination Careers",
+    "slug": "destination-careers",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Toptal",
     "slug": "toptal",
     "logo_url": null,
@@ -156,6 +156,13 @@
   {
     "name": "Kyra",
     "slug": "kyra",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Aprio",
+    "slug": "aprio",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -455,13 +462,6 @@
     "jobs_count": 1
   },
   {
-    "name": "AlgaeCal",
-    "slug": "algaecal",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Hippocratic AI",
     "slug": "hippocratic-ai",
     "logo_url": null,
@@ -511,22 +511,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Fuel50",
-    "slug": "fuel50",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Credit Wellness, LLC",
     "slug": "credit-wellness-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Tierarzt Plus Partner",
-    "slug": "tierarzt-plus-partner",
     "logo_url": null,
     "website": null,
     "jobs_count": 1

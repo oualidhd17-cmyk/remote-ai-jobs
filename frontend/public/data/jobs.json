@@ -65,6 +65,64 @@
     "ai_relevant": true
   },
   {
+    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "title": "Anthropic Research Resident",
+    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "NLP",
+      "Kubernetes",
+      "AWS",
+      "AI Research & Engineering"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "published_at": "2026-11-04",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Research Resident",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-11-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "slug": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "title": "Anthropic Research Resident",
@@ -128,59 +186,58 @@
     "ai_relevant": true
   },
   {
-    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "title": "Anthropic Research Resident",
-    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
+    "id": "entry-level-scheduling-coordinating-reservations-online-destination-careers-worldwide-remoteok-1137680",
+    "slug": "entry-level-scheduling-coordinating-reservations-online-destination-careers-worldwide-remoteok-1137680",
+    "title": "Entry Level Scheduling & Coordinating Reservations Online",
+    "seo_title": "Remote Entry Level Scheduling & Coordinating Reservations Online Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Entry Level Scheduling & Coordinating Reservations Online job at Destination Careers in Worldwide. Explore RAG, education, coordinator,...",
     "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
+      "name": "Destination Careers",
+      "slug": "destination-careers",
       "logo_url": null,
       "website": null
     },
     "country": "Worldwide",
     "city": null,
-    "location": "San Francisco, CA | New York City, NY",
+    "location": "South Carolina",
     "location_label": "Remote - Worldwide",
     "remote_type": "remote",
-    "employment_type": "full-time",
+    "employment_type": "internship",
     "experience_level": "intern",
-    "visa_sponsorship": true,
+    "visa_sponsorship": false,
     "salary_min": null,
     "salary_max": null,
     "salary_currency": null,
     "skills": [
-      "Machine Learning",
-      "LLM",
       "RAG",
-      "NLP",
-      "Kubernetes",
-      "AWS",
-      "AI Research & Engineering"
+      "education",
+      "coordinator",
+      "customer support",
+      "exec",
+      "ops"
     ],
     "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "description_summary": "About Us: We are a client coordination and services company that supports individuals and organizations with scheduling, reservations, and service-related logistics. We focus on clear communication, organized workflows, and delivering a consistent,...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-entry-level-scheduling-amp-coordinating-reservations-online-destination-careers-1137680",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137680",
     "published_at": "2026-11-04",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Anthropic Research Resident",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "title": "Entry Level Scheduling & Coordinating Reservations Online",
+      "description": "About Us: We are a client coordination and services company that supports individuals and organizations with scheduling, reservations, and service-related logistics. We focus on clear communication, organized workflows, and delivering a consistent,...",
       "datePosted": "2026-11-04",
-      "employmentType": "FULL_TIME",
+      "employmentType": "INTERN",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "anthropic"
+        "name": "Destination Careers"
       },
       "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "url": "https://remoteok.com/remote-jobs/1137680",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -4081,61 +4138,6 @@
     "ai_relevant": true
   },
   {
-    "id": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
-    "slug": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
-    "title": "Business Recruiter",
-    "seo_title": "Remote Business Recruiter Job in Ireland | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Business Recruiter job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, People and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Ireland",
-    "city": null,
-    "location": "Dublin, IE",
-    "location_label": "Dublin, IE",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "RAG",
-      "AWS",
-      "People",
-      "London, UK"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
-    "published_at": "2026-10-29",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Business Recruiter",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-29",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
     "slug": "business-recruiter-anthropic-uk-greenhouse-anthropic-5460956008",
     "title": "Business Recruiter",
@@ -4187,6 +4189,61 @@
       },
       "directApply": false,
       "url": "https://job-boards.greenhouse.io/anthropic/jobs/5460956008"
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
+    "slug": "business-recruiter-anthropic-ireland-greenhouse-anthropic-5467425008",
+    "title": "Business Recruiter",
+    "seo_title": "Remote Business Recruiter Job in Ireland | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Business Recruiter job at anthropic in Ireland. Explore Machine Learning, RAG, AWS, People and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Ireland",
+    "city": null,
+    "location": "Dublin, IE",
+    "location_label": "Dublin, IE",
+    "remote_type": "hybrid",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "RAG",
+      "AWS",
+      "People",
+      "London, UK"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008",
+    "published_at": "2026-10-29",
+    "expires_at": null,
+    "quality_score": 75,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Business Recruiter",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-10-29",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5467425008"
     },
     "ai_relevant": true
   },
@@ -5180,69 +5237,6 @@
     "ai_relevant": true
   },
   {
-    "id": "accounting-and-implementation-manager-aprio-worldwide-remoteok-1137560",
-    "slug": "accounting-and-implementation-manager-aprio-worldwide-remoteok-1137560",
-    "title": "Accounting and Implementation Manager",
-    "seo_title": "Remote Accounting and Implementation Manager Job | Data Science Jobs",
-    "seo_description": "Apply for a remote Accounting and Implementation Manager job at Aprio in Worldwide. Explore RAG, exec, accounting, design and remote AI jobs.",
-    "company": {
-      "name": "Aprio",
-      "slug": "aprio",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "exec",
-      "accounting",
-      "design",
-      "sys admin",
-      "education",
-      "consulting",
-      "customer support",
-      "testing",
-      "marketing",
-      "payroll",
-      "finance"
-    ],
-    "category": "Data Science",
-    "description_summary": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing together proven...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137560",
-    "published_at": "2026-10-23",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Accounting and Implementation Manager",
-      "description": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing together proven...",
-      "datePosted": "2026-10-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aprio"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137560",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "ai-outcomes-manager-financial-services-anthropic-worldwide-greenhouse-anthropic-5391062008",
     "slug": "ai-outcomes-manager-financial-services-anthropic-worldwide-greenhouse-anthropic-5391062008",
     "title": "AI Outcomes Manager, Financial Services",
@@ -5874,7 +5868,7 @@
     "source_url": "https://remoteok.com/remote-jobs/1137551",
     "published_at": "2026-10-21",
     "expires_at": null,
-    "quality_score": 100,
+    "quality_score": 90,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5900,61 +5894,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "audit-operations-lead-anthropic-worldwide-greenhouse-anthropic-5459290008",
-    "slug": "audit-operations-lead-anthropic-worldwide-greenhouse-anthropic-5459290008",
-    "title": "Audit Operations Lead",
-    "seo_title": "Remote Audit Operations Lead Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Audit Operations Lead job at anthropic in Worldwide. Explore SQL, RAG, AWS, Finance and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA",
-    "location_label": "San Francisco, CA",
-    "remote_type": "hybrid",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "SQL",
-      "RAG",
-      "AWS",
-      "Finance",
-      "San Francisco, CA"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5459290008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5459290008",
-    "published_at": "2026-10-21",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Audit Operations Lead",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-10-21",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5459290008"
     },
     "ai_relevant": true
   },
@@ -6306,7 +6245,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTUuMTc1LjUy when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTcuMTU0LjE2Ny4xMTM= when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -6318,7 +6257,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTUuMTc1LjUy when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTcuMTU0LjE2Ny4xMTM= when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -6395,69 +6334,6 @@
           "unitText": "YEAR"
         }
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "associate-data-scientist-algaecal-worldwide-remoteok-1137531",
-    "slug": "associate-data-scientist-algaecal-worldwide-remoteok-1137531",
-    "title": "Associate Data Scientist",
-    "seo_title": "Remote Associate Data Scientist Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Associate Data Scientist job at AlgaeCal in Worldwide. Explore Python, SQL, Machine Learning, RAG and remote AI jobs.",
-    "company": {
-      "name": "AlgaeCal",
-      "slug": "algaecal",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Vancouver",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "SQL",
-      "Machine Learning",
-      "RAG",
-      "Statistics",
-      "design",
-      "customer support",
-      "marketing",
-      "dev",
-      "flutter",
-      "exec",
-      "data science"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Description Machine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize efficiency, and fuel company growth. You thrive...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-associate-data-scientist-algaecal-1137531",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137531",
-    "published_at": "2026-10-16",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Associate Data Scientist",
-      "description": "Description Machine Learning Maestro: You donât just work with data - you decode it, predict the future with it, and turn it into action. Your models donât just sit on a shelf - they shape strategy, optimize efficiency, and fuel company growth. You thrive...",
-      "datePosted": "2026-10-16",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "AlgaeCal"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137531",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -7064,69 +6940,6 @@
     "ai_relevant": true
   },
   {
-    "id": "product-design-lead-fuel50-worldwide-remoteok-1137474",
-    "slug": "product-design-lead-fuel50-worldwide-remoteok-1137474",
-    "title": "Product Design Lead",
-    "seo_title": "Remote Product Design Lead Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Product Design Lead job at Fuel50 in Worldwide. Explore RAG, design, saas, sys admin and remote AI jobs.",
-    "company": {
-      "name": "Fuel50",
-      "slug": "fuel50",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "design",
-      "saas",
-      "sys admin",
-      "front end",
-      "technical",
-      "marketing",
-      "dev",
-      "virtual assistant",
-      "javascript",
-      "css",
-      "html"
-    ],
-    "category": "Robotics",
-    "description_summary": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-product-design-lead-fuel50-1137474",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137474",
-    "published_at": "2026-10-09",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Product Design Lead",
-      "description": "Fuel50 is a workforce transformation platform helping organisations understand workforce capability, build skills and enable internal mobility in an AI-driven world. Our products combine skills intelligence, talent marketplace experiences and responsible AI...",
-      "datePosted": "2026-10-09",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Fuel50"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137474",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
     "slug": "inside-sales-contractor-credit-wellness-llc-worldwide-remotive-2086540",
     "title": "Inside Sales Contractor",
@@ -7180,59 +6993,6 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "telefondienst-fa14r-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-worldwide-remoteok-1137469",
-    "slug": "telefondienst-fa14r-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-worldwide-remoteok-1137469",
-    "title": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
-    "seo_title": "Remote Telefondienst fÃ¼r Tierarztpraxis Neuruppin o Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Telefondienst fÃ¼r Tierarztpraxis Neuruppin o job at Tierarzt Plus Partner in Worldwide. Explore RAG, medical and remote AI jobs.",
-    "company": {
-      "name": "Tierarzt Plus Partner",
-      "slug": "tierarzt-plus-partner",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Neuruppin",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "senior",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "medical"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Einleitung Wir suchen ab sofort tatkrÃ¤ftige UnterstÃ¼tzung fÃ¼r unser Team in Vollzeit ! FÃ¼r unsere âTierhalterbesitzer:innen bist du der erste Anlaufpunkt und das beruhigende LÃ¤cheln am Telefon. Du hÃ¤ltst unserem Team den RÃ¼cken frei, damit wir uns...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-telefondienst-fur-tierarztpraxis-neuruppin-o-tierarzt-plus-partner-1137469",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137469",
-    "published_at": "2026-10-07",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Telefondienst fÃ¼r Tierarztpraxis Neuruppin o",
-      "description": "Einleitung Wir suchen ab sofort tatkrÃ¤ftige UnterstÃ¼tzung fÃ¼r unser Team in Vollzeit ! FÃ¼r unsere âTierhalterbesitzer:innen bist du der erste Anlaufpunkt und das beruhigende LÃ¤cheln am Telefon. Du hÃ¤ltst unserem Team den RÃ¼cken frei, damit wir uns...",
-      "datePosted": "2026-10-07",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Tierarzt Plus Partner"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137469",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
