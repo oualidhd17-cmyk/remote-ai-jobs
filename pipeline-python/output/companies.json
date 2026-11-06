@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 25
+    "jobs_count": 27
   },
   {
     "name": "Lemon.io",
@@ -19,20 +19,6 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 3
-  },
-  {
-    "name": "Lighthouse",
-    "slug": "lighthouse",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Zanda Health",
-    "slug": "zanda-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
   },
   {
     "name": "HighLevel",
@@ -84,13 +70,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Edconic",
-    "slug": "edconic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "iMerit Technology",
     "slug": "imerit-technology",
     "logo_url": null,
@@ -103,6 +82,34 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Karat",
+    "slug": "karat",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Standard Metrics",
+    "slug": "standard-metrics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Siemens",
+    "slug": "siemens",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Elavate",
+    "slug": "elavate",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Bask Health",
@@ -182,13 +189,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Jobgether",
-    "slug": "jobgether",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "WeVote",
     "slug": "wevote",
     "logo_url": null,
@@ -205,27 +205,6 @@
   {
     "name": "Vertican",
     "slug": "vertican",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Kiavi",
-    "slug": "kiavi",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EXL",
-    "slug": "exl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mozaiq",
-    "slug": "mozaiq",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -252,6 +231,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Silver.dev",
+    "slug": "silver-dev",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "iMerit",
     "slug": "imerit",
     "logo_url": null,
@@ -268,6 +254,13 @@
   {
     "name": "Destination Careers",
     "slug": "destination-careers",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Zanda Health",
+    "slug": "zanda-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -408,6 +401,20 @@
   {
     "name": "Legion",
     "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cambridge Information Group",
+    "slug": "cambridge-information-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cambridge Information Group Inc",
+    "slug": "cambridge-information-group-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
