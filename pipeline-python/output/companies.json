@@ -4,18 +4,18 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 30
-  },
-  {
-    "name": "Spreetail",
-    "slug": "spreetail",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
+    "jobs_count": 27
   },
   {
     "name": "Carrot",
     "slug": "carrot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Spreetail",
+    "slug": "spreetail",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -37,13 +37,6 @@
   {
     "name": "Zscaler",
     "slug": "zscaler",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "CapsLock",
-    "slug": "capslock",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -135,6 +128,13 @@
   {
     "name": "Paid Ads Academy",
     "slug": "paid-ads-academy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CapsLock",
+    "slug": "capslock",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -338,13 +338,6 @@
   {
     "name": "Descript",
     "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Samsara",
-    "slug": "samsara",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -555,13 +548,6 @@
   {
     "name": "Magic Eden",
     "slug": "magic-eden",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ashby",
-    "slug": "ashby",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
