@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 22
+    "jobs_count": 23
   },
   {
     "name": "Lemon.io",
@@ -12,6 +12,55 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 4
+  },
+  {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Upgrade",
+    "slug": "upgrade",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Carrot",
+    "slug": "carrot",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Typeform",
+    "slug": "typeform",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
   },
   {
     "name": "iMerit Technology",
@@ -28,6 +77,69 @@
     "jobs_count": 2
   },
   {
+    "name": "GitLab",
+    "slug": "gitlab",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Netlify",
+    "slug": "netlify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ComPsych Corporation",
+    "slug": "compsych-corporation",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "MedAmerica",
+    "slug": "medamerica",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "OneImaging",
+    "slug": "oneimaging",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Aveanna Healthcare",
+    "slug": "aveanna-healthcare",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "UnitedHealth Group",
+    "slug": "unitedhealth-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "VITAS Healthcare",
+    "slug": "vitas-healthcare",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "American Hospital Services Group",
+    "slug": "american-hospital-services-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Caringhand Home Health Solutions, Inc.",
     "slug": "caringhand-home-health-solutions-inc",
     "logo_url": null,
@@ -42,8 +154,113 @@
     "jobs_count": 1
   },
   {
+    "name": "Karat",
+    "slug": "karat",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Standard Metrics",
+    "slug": "standard-metrics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Siemens",
+    "slug": "siemens",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Elavate",
+    "slug": "elavate",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bask Health",
+    "slug": "bask-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Chainguard",
+    "slug": "chainguard",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Grüns",
+    "slug": "gruns",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Microsoft",
+    "slug": "microsoft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Drop Zero Digital",
+    "slug": "drop-zero-digital",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Serve Robotics",
     "slug": "serve-robotics",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Breakthrough Design Group",
+    "slug": "breakthrough-design-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Paid Ads Academy",
+    "slug": "paid-ads-academy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "CapsLock",
+    "slug": "capslock",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "WeVote",
+    "slug": "wevote",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Horizon3",
+    "slug": "horizon3",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Vertican",
+    "slug": "vertican",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -77,6 +294,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Zanda Health",
+    "slug": "zanda-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Vogel",
     "slug": "vogel",
     "logo_url": null,
@@ -105,6 +329,20 @@
     "jobs_count": 1
   },
   {
+    "name": "ELITEBRAIN",
+    "slug": "elitebrain",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Remote Talent Cloud",
+    "slug": "remote-talent-cloud",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Docusketch",
     "slug": "docusketch",
     "logo_url": null,
@@ -126,6 +364,34 @@
     "jobs_count": 1
   },
   {
+    "name": "Otter.ai",
+    "slug": "otter-ai",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Glossier",
+    "slug": "glossier",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Descript",
+    "slug": "descript",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Knock",
+    "slug": "knock",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Mecka",
     "slug": "mecka",
     "logo_url": null,
@@ -140,6 +406,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Wrike",
+    "slug": "wrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bitovi",
+    "slug": "bitovi",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Smile Digital Health",
     "slug": "smile-digital-health",
     "logo_url": null,
@@ -147,8 +427,36 @@
     "jobs_count": 1
   },
   {
+    "name": "Thatch",
+    "slug": "thatch",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Cambridge Information Group",
     "slug": "cambridge-information-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cambridge Information Group Inc",
+    "slug": "cambridge-information-group-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Storyblok",
+    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
