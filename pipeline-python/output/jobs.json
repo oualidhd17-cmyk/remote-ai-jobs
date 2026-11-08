@@ -1,5 +1,68 @@
 [
   {
+    "id": "ai-developer-salvo-software-worldwide-remoteok-1137701",
+    "slug": "ai-developer-salvo-software-worldwide-remoteok-1137701",
+    "title": "AI Developer",
+    "seo_title": "Remote AI Developer Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote AI Developer job at Salvo Software in Worldwide. Explore Python, LLM, RAG, Docker and remote AI jobs.",
+    "company": {
+      "name": "Salvo Software",
+      "slug": "salvo-software",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "internship",
+    "experience_level": "intern",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "LLM",
+      "RAG",
+      "Docker",
+      "Kubernetes",
+      "AWS",
+      "Azure",
+      "dev",
+      "grafana",
+      "infosec",
+      "technical",
+      "customer support"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that...",
+    "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/remote-jobs/1137701",
+    "published_at": "2026-11-07",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "AI Developer",
+      "description": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that...",
+      "datePosted": "2026-11-07",
+      "employmentType": "INTERN",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Salvo Software"
+      },
+      "directApply": false,
+      "url": "https://remoteok.com/remote-jobs/1137701",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "executive-assistant-office-of-the-cfo-gitlab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gitlab-executive-assistant-office-of-the-cfo",
     "slug": "executive-assistant-office-of-the-cfo-gitlab-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-gitlab-executive-assistant-office-of-the-cfo",
     "title": "Executive Assistant, Office of the CFO",
@@ -2146,6 +2209,64 @@
     "ai_relevant": true
   },
   {
+    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "title": "Anthropic Research Resident",
+    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "NLP",
+      "Kubernetes",
+      "AWS",
+      "AI Research & Engineering"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "published_at": "2026-11-04",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Research Resident",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-11-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "jobLocationType": "TELECOMMUTE"
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "slug": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "title": "Anthropic Research Resident",
@@ -2205,64 +2326,6 @@
         "@type": "Country",
         "name": "UK"
       }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "title": "Anthropic Research Resident",
-    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "NLP",
-      "Kubernetes",
-      "AWS",
-      "AI Research & Engineering"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "published_at": "2026-11-04",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Research Resident",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-11-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6058,7 +6121,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTMuNzEuMjI4LjE5Mw== when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTcxLjMuMzQ= when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -6070,7 +6133,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTMuNzEuMjI4LjE5Mw== when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTcxLjMuMzQ= when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
@@ -7103,128 +7166,6 @@
       "applicantLocationRequirements": {
         "@type": "Country",
         "name": "USA"
-      }
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "software-engineer-prenosis-worldwide-remoteok-1137427",
-    "slug": "software-engineer-prenosis-worldwide-remoteok-1137427",
-    "title": "Software Engineer",
-    "seo_title": "Remote Software Engineer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Software Engineer job at Prenosis in Worldwide. Explore golang, dev, engineer, digital nomad and remote AI jobs.",
-    "company": {
-      "name": "Prenosis",
-      "slug": "prenosis",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "mid",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "golang",
-      "dev",
-      "engineer",
-      "digital nomad"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137427",
-    "published_at": "2026-09-23",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Software Engineer",
-      "description": "Remote - Prenosis Inc. is an artificial intelligence company pioneering precision medicine in acute care. Our Immunixâ¢ precision medicine platform drives the development of precision products and enables real-time delivery of optimal therapy. We've created...",
-      "datePosted": "2026-09-23",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Prenosis"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137427",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "technical-product-manager-ai-stockbroking-app-bjak-germany-remoteok-1137421",
-    "slug": "technical-product-manager-ai-stockbroking-app-bjak-germany-remoteok-1137421",
-    "title": "Technical Product Manager AI Stockbroking App",
-    "seo_title": "Remote Technical Product Manager AI Stockbroking App Job in Germany | AI Product Jobs",
-    "seo_description": "Apply for a remote Technical Product Manager AI Stockbroking App job at Bjak in Germany. Explore LLM, product manager, exec, design and remote AI jobs.",
-    "company": {
-      "name": "Bjak",
-      "slug": "bjak",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Germany",
-    "city": null,
-    "location": "Germany",
-    "location_label": "Remote - Germany",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "LLM",
-      "product manager",
-      "exec",
-      "design",
-      "sys admin",
-      "infosec",
-      "technical",
-      "finance",
-      "ruby",
-      "mobile",
-      "ops",
-      "engineer"
-    ],
-    "category": "AI Product",
-    "description_summary": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137421",
-    "published_at": "2026-09-23",
-    "expires_at": null,
-    "quality_score": 75,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Technical Product Manager AI Stockbroking App",
-      "description": "About KIRA Our mission is to make money smart, reliable and within reach for everyone. Â In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance...",
-      "datePosted": "2026-09-23",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Bjak"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137421",
-      "jobLocationType": "TELECOMMUTE",
-      "applicantLocationRequirements": {
-        "@type": "Country",
-        "name": "Germany"
       }
     },
     "ai_relevant": true
