@@ -3117,64 +3117,6 @@
     "ai_relevant": true
   },
   {
-    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "title": "Anthropic Research Resident",
-    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "NLP",
-      "Kubernetes",
-      "AWS",
-      "AI Research & Engineering"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "published_at": "2026-11-04",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Research Resident",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-11-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "slug": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "title": "Anthropic Research Resident",
@@ -3234,6 +3176,64 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "title": "Anthropic Research Resident",
+    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "NLP",
+      "Kubernetes",
+      "AWS",
+      "AI Research & Engineering"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "published_at": "2026-11-04",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Research Resident",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-11-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -3704,69 +3704,6 @@
       },
       "directApply": false,
       "url": "https://remoteok.com/remote-jobs/1137675",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "tax-manager-private-client-aprio-worldwide-remoteok-1137622",
-    "slug": "tax-manager-private-client-aprio-worldwide-remoteok-1137622",
-    "title": "Tax Manager Private Client",
-    "seo_title": "Remote Tax Manager Private Client Job | Robotics Jobs",
-    "seo_description": "Apply for a remote Tax Manager Private Client job at Aprio in Worldwide. Explore RAG, AWS, exec, education and remote AI jobs.",
-    "company": {
-      "name": "Aprio",
-      "slug": "aprio",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "Scotch Plains, NJ",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "RAG",
-      "AWS",
-      "exec",
-      "education",
-      "consulting",
-      "technical",
-      "customer support",
-      "dev",
-      "marketing",
-      "accounting",
-      "finance",
-      "junior"
-    ],
-    "category": "Robotics",
-    "description_summary": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing together proven...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-tax-manager-private-client-aprio-1137622",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137622",
-    "published_at": "2026-11-03",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Tax Manager Private Client",
-      "description": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing together proven...",
-      "datePosted": "2026-11-03",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Aprio"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137622",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5273,7 +5210,7 @@
     "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5462972008",
     "published_at": "2026-10-27",
     "expires_at": null,
-    "quality_score": 95,
+    "quality_score": 85,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5336,7 +5273,7 @@
     "source_url": "https://remotive.com/remote-jobs/software-development/senior-back-end-developer-2091135",
     "published_at": "2026-10-27",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6048,7 +5985,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTIuMTYwLjE2NS4yMjA= when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTMyLjE5Ni4zMi43NA== when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -6060,7 +5997,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNTIuMTYwLjE2NS4yMjA= when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTMyLjE5Ni4zMi43NA== when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
