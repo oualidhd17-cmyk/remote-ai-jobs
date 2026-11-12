@@ -1420,6 +1420,73 @@
     "ai_relevant": true
   },
   {
+    "id": "senior-react-full-stack-developer-lemon-io-usa-remotive-2091136",
+    "slug": "senior-react-full-stack-developer-lemon-io-usa-remotive-2091136",
+    "title": "Senior React Full-stack Developer",
+    "seo_title": "Remote Senior React Full-stack Developer Job in USA | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Senior React Full-stack Developer job at Lemon.io in USA. Explore Python, Machine Learning, LLM, MLOps and remote AI jobs.",
+    "company": {
+      "name": "Lemon.io",
+      "slug": "lemon-io",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "USA",
+    "city": null,
+    "location": "LATAM, Europe, USA, Canada, APAC",
+    "location_label": "Remote - USA",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "mid",
+    "visa_sponsorship": false,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "LLM",
+      "MLOps",
+      "AWS",
+      "GCP",
+      "Azure",
+      ".Net",
+      "android",
+      "C",
+      "C#",
+      "C++"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior...",
+    "apply_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+    "source": "remotive",
+    "source_url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+    "published_at": "2026-11-10",
+    "expires_at": null,
+    "quality_score": 85,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Senior React Full-stack Developer",
+      "description": "Lemon.io helps companies in the US and Europe hire experienced engineers, from funded startups to teams like Klarna, Retool, and Pinterest. We’ve been doing this since 2015, and more than 1,500 companies have hired engineers through us. New roles for Senior...",
+      "datePosted": "2026-11-10",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "Lemon.io"
+      },
+      "directApply": false,
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136",
+      "jobLocationType": "TELECOMMUTE",
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "USA"
+      }
+    },
+    "ai_relevant": true
+  },
+  {
     "id": "cloud-engineer-knack-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-knack-cloud-engineer-1",
     "slug": "cloud-engineer-knack-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-knack-cloud-engineer-1",
     "title": "Cloud Engineer",
@@ -3535,64 +3602,6 @@
     "ai_relevant": true
   },
   {
-    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
-    "title": "Anthropic Research Resident",
-    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
-    "company": {
-      "name": "anthropic",
-      "slug": "anthropic",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "San Francisco, CA | New York City, NY",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "experience_level": "intern",
-    "visa_sponsorship": true,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Machine Learning",
-      "LLM",
-      "RAG",
-      "NLP",
-      "Kubernetes",
-      "AWS",
-      "AI Research & Engineering"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "source": "greenhouse",
-    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-    "published_at": "2026-11-04",
-    "expires_at": null,
-    "quality_score": 95,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "Anthropic Research Resident",
-      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
-      "datePosted": "2026-11-04",
-      "employmentType": "FULL_TIME",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "anthropic"
-      },
-      "directApply": false,
-      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
     "id": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "slug": "anthropic-research-resident-anthropic-uk-greenhouse-anthropic-5439169008",
     "title": "Anthropic Research Resident",
@@ -3652,6 +3661,64 @@
         "@type": "Country",
         "name": "UK"
       }
+    },
+    "ai_relevant": true
+  },
+  {
+    "id": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "slug": "anthropic-research-resident-anthropic-worldwide-greenhouse-anthropic-5438311008",
+    "title": "Anthropic Research Resident",
+    "seo_title": "Remote Anthropic Research Resident Job | AI Engineering Jobs",
+    "seo_description": "Apply for a remote Anthropic Research Resident job at anthropic in Worldwide. Explore Machine Learning, LLM, RAG, NLP and remote AI jobs.",
+    "company": {
+      "name": "anthropic",
+      "slug": "anthropic",
+      "logo_url": null,
+      "website": null
+    },
+    "country": "Worldwide",
+    "city": null,
+    "location": "San Francisco, CA | New York City, NY",
+    "location_label": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "experience_level": "intern",
+    "visa_sponsorship": true,
+    "salary_min": null,
+    "salary_max": null,
+    "salary_currency": null,
+    "skills": [
+      "Machine Learning",
+      "LLM",
+      "RAG",
+      "NLP",
+      "Kubernetes",
+      "AWS",
+      "AI Research & Engineering"
+    ],
+    "category": "AI Engineering",
+    "description_summary": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+    "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "source": "greenhouse",
+    "source_url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "published_at": "2026-11-04",
+    "expires_at": null,
+    "quality_score": 95,
+    "status": "published",
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Anthropic Research Resident",
+      "description": "About Anthropic Anthropic’s mission is to create reliable, interpretable, and steerable AI systems. We want AI to be safe and beneficial for our users and for society as a whole. Our team is a quickly growing group of committed researchers, engineers, policy...",
+      "datePosted": "2026-11-04",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "anthropic"
+      },
+      "directApply": false,
+      "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+      "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
   },
@@ -6222,7 +6289,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTUuMjU1LjUy when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTYzLjYuMTc2 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -6234,7 +6301,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RNC4xNTUuMjU1LjUy when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTYzLjYuMTc2 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
