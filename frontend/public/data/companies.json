@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 23
+    "jobs_count": 24
   },
   {
     "name": "Lemon.io",
@@ -21,6 +21,27 @@
     "jobs_count": 3
   },
   {
+    "name": "MedAmerica",
+    "slug": "medamerica",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "D2B",
+    "slug": "d2b",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Agent Integration Inc.",
+    "slug": "agent-integration-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Northwell",
     "slug": "northwell",
     "logo_url": null,
@@ -30,20 +51,6 @@
   {
     "name": "Sezzle",
     "slug": "sezzle",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Huntress Labs",
-    "slug": "huntress-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "WiseTech Global",
-    "slug": "wisetech-global",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -77,6 +84,62 @@
     "jobs_count": 2
   },
   {
+    "name": "Praxis Precision Medicines, Inc.",
+    "slug": "praxis-precision-medicines-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stayd Collective",
+    "slug": "stayd-collective",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Blueprint Technologies",
+    "slug": "blueprint-technologies",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Thrive Market",
+    "slug": "thrive-market",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Northpoint Recovery Holdings, LLC",
+    "slug": "northpoint-recovery-holdings-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "AudienceView",
+    "slug": "audienceview",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Paleovalley & Wild Pastures",
+    "slug": "paleovalley-wild-pastures",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Henry Meds",
+    "slug": "henry-meds",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Mento",
     "slug": "mento",
     "logo_url": null,
@@ -93,55 +156,6 @@
   {
     "name": "Changing Lives Productions LLC",
     "slug": "changing-lives-productions-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ProArch",
-    "slug": "proarch",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ShowMojo",
-    "slug": "showmojo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Yalent",
-    "slug": "yalent",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Leap Tools",
-    "slug": "leap-tools",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Intellipet",
-    "slug": "intellipet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "D2B",
-    "slug": "d2b",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Resolv.Global",
-    "slug": "resolv-global",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -168,13 +182,6 @@
     "jobs_count": 1
   },
   {
-    "name": "DataVisor",
-    "slug": "datavisor",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "True Talent Solutions Partners",
     "slug": "true-talent-solutions-partners",
     "logo_url": null,
@@ -182,36 +189,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Ethena",
-    "slug": "ethena",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Allara",
     "slug": "allara",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Dimont & Associates, LLC",
-    "slug": "dimont-associates-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Kyndryl",
-    "slug": "kyndryl",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Form Health",
-    "slug": "form-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -261,13 +240,6 @@
   {
     "name": "Salvo Software",
     "slug": "salvo-software",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "MedAmerica",
-    "slug": "medamerica",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
