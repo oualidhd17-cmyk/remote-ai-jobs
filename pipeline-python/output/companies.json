@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 24
+    "jobs_count": 25
   },
   {
     "name": "Lemon.io",
@@ -12,6 +12,13 @@
     "logo_url": null,
     "website": null,
     "jobs_count": 5
+  },
+  {
+    "name": "D2B",
+    "slug": "d2b",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
   },
   {
     "name": "EdgeQ Technologies Private Limited",
@@ -23,20 +30,6 @@
   {
     "name": "MedAmerica",
     "slug": "medamerica",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "D2B",
-    "slug": "d2b",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Agent Integration Inc.",
-    "slug": "agent-integration-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,8 +112,8 @@
     "jobs_count": 1
   },
   {
-    "name": "AudienceView",
-    "slug": "audienceview",
+    "name": "Agent Integration Inc.",
+    "slug": "agent-integration-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
