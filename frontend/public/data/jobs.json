@@ -1545,14 +1545,14 @@
     "ai_relevant": true
   },
   {
-    "id": "customer-service-agent-us-remote-paleovalley-wild-pastures-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-paleovalley-wild-pastures-customer-serv",
-    "slug": "customer-service-agent-us-remote-paleovalley-wild-pastures-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-paleovalley-wild-pastures-customer-serv",
-    "title": "Customer Service Agent (US, Remote)",
-    "seo_title": "Remote Customer Service Agent (US, Remote) Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote Customer Service Agent (US, Remote) job at Paleovalley & Wild Pastures in Worldwide. Explore RAG, Customer Support, Remote and remote...",
+    "id": "patient-advocate-i-henry-meds-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-henry-meds-patient-advocate-i",
+    "slug": "patient-advocate-i-henry-meds-worldwide-weworkremotely-https-weworkremotely-com-remote-jobs-henry-meds-patient-advocate-i",
+    "title": "Patient Advocate I",
+    "seo_title": "Remote Patient Advocate I Job | Robotics Jobs",
+    "seo_description": "Apply for a remote Patient Advocate I job at Henry Meds in Worldwide. Explore RAG, Customer Support, Remote and remote AI jobs.",
     "company": {
-      "name": "Paleovalley & Wild Pastures",
-      "slug": "paleovalley-wild-pastures",
+      "name": "Henry Meds",
+      "slug": "henry-meds",
       "logo_url": null,
       "website": null
     },
@@ -1572,11 +1572,11 @@
       "Customer Support",
       "Remote"
     ],
-    "category": "AI Engineering",
-    "description_summary": "Headquarters: United States URL: https://jobs.workable.com/company/v4p85bFUauGzY3y7Pyo6Go/jobs-at-paleovalley-%26-wild-pastures Reports to: Customer Service Supervisor Department: Customer Service Location: This is a fully remote U.S.-based position....",
-    "apply_url": "https://weworkremotely.com/remote-jobs/paleovalley-wild-pastures-customer-service-agent-us-remote",
+    "category": "Robotics",
+    "description_summary": "Headquarters: United States URL: http://www.henrymeds.com About Henry Meds: Henry Meds is a direct-to-consumer telehealth company on a mission to create a world where everyone has the health to live fully– regardless of insurance status or plan. As a...",
+    "apply_url": "https://weworkremotely.com/remote-jobs/henry-meds-patient-advocate-i",
     "source": "weworkremotely",
-    "source_url": "https://weworkremotely.com/remote-jobs/paleovalley-wild-pastures-customer-service-agent-us-remote",
+    "source_url": "https://weworkremotely.com/remote-jobs/henry-meds-patient-advocate-i",
     "published_at": "2026-11-12",
     "expires_at": null,
     "quality_score": 85,
@@ -1584,16 +1584,16 @@
     "schema": {
       "@context": "https://schema.org",
       "@type": "JobPosting",
-      "title": "Customer Service Agent (US, Remote)",
-      "description": "Headquarters: United States URL: https://jobs.workable.com/company/v4p85bFUauGzY3y7Pyo6Go/jobs-at-paleovalley-%26-wild-pastures Reports to: Customer Service Supervisor Department: Customer Service Location: This is a fully remote U.S.-based position....",
+      "title": "Patient Advocate I",
+      "description": "Headquarters: United States URL: http://www.henrymeds.com About Henry Meds: Henry Meds is a direct-to-consumer telehealth company on a mission to create a world where everyone has the health to live fully– regardless of insurance status or plan. As a...",
       "datePosted": "2026-11-12",
       "employmentType": "INTERN",
       "hiringOrganization": {
         "@type": "Organization",
-        "name": "Paleovalley & Wild Pastures"
+        "name": "Henry Meds"
       },
       "directApply": false,
-      "url": "https://weworkremotely.com/remote-jobs/paleovalley-wild-pastures-customer-service-agent-us-remote",
+      "url": "https://weworkremotely.com/remote-jobs/henry-meds-patient-advocate-i",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -2648,69 +2648,6 @@
       },
       "directApply": false,
       "url": "https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540",
-      "jobLocationType": "TELECOMMUTE"
-    },
-    "ai_relevant": true
-  },
-  {
-    "id": "ai-developer-salvo-software-worldwide-remoteok-1137701",
-    "slug": "ai-developer-salvo-software-worldwide-remoteok-1137701",
-    "title": "AI Developer",
-    "seo_title": "Remote AI Developer Job | AI Engineering Jobs",
-    "seo_description": "Apply for a remote AI Developer job at Salvo Software in Worldwide. Explore Python, LLM, RAG, Docker and remote AI jobs.",
-    "company": {
-      "name": "Salvo Software",
-      "slug": "salvo-software",
-      "logo_url": null,
-      "website": null
-    },
-    "country": "Worldwide",
-    "city": null,
-    "location": "",
-    "location_label": "Remote - Worldwide",
-    "remote_type": "remote",
-    "employment_type": "internship",
-    "experience_level": "intern",
-    "visa_sponsorship": false,
-    "salary_min": null,
-    "salary_max": null,
-    "salary_currency": null,
-    "skills": [
-      "Python",
-      "LLM",
-      "RAG",
-      "Docker",
-      "Kubernetes",
-      "AWS",
-      "Azure",
-      "dev",
-      "grafana",
-      "infosec",
-      "technical",
-      "customer support"
-    ],
-    "category": "AI Engineering",
-    "description_summary": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that...",
-    "apply_url": "https://remoteOK.com/remote-jobs/remote-ai-developer-salvo-software-1137701",
-    "source": "remoteok",
-    "source_url": "https://remoteok.com/remote-jobs/1137701",
-    "published_at": "2026-11-07",
-    "expires_at": null,
-    "quality_score": 85,
-    "status": "published",
-    "schema": {
-      "@context": "https://schema.org",
-      "@type": "JobPosting",
-      "title": "AI Developer",
-      "description": "Salvo Software is a global technology company specializing in custom software development and advanced engineering solutions. With distributed teams across the US, LATAM, and India, we partner with clients to build high-performance, scalable systems that...",
-      "datePosted": "2026-11-07",
-      "employmentType": "INTERN",
-      "hiringOrganization": {
-        "@type": "Organization",
-        "name": "Salvo Software"
-      },
-      "directApply": false,
-      "url": "https://remoteok.com/remote-jobs/1137701",
       "jobLocationType": "TELECOMMUTE"
     },
     "ai_relevant": true
@@ -5137,7 +5074,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer-1",
     "published_at": "2026-10-31",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -5192,7 +5129,7 @@
     "source_url": "https://weworkremotely.com/remote-jobs/dropbox-backend-product-software-engineer",
     "published_at": "2026-10-31",
     "expires_at": null,
-    "quality_score": 85,
+    "quality_score": 75,
     "status": "published",
     "schema": {
       "@context": "https://schema.org",
@@ -6429,7 +6366,7 @@
       "exec"
     ],
     "category": "AI Engineering",
-    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjE4NC4yMTEuMzI= when...",
+    "description_summary": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTY5LjcyLjM1 when...",
     "apply_url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
     "source": "remoteok",
     "source_url": "https://remoteok.com/remote-jobs/1137539",
@@ -6441,7 +6378,7 @@
       "@context": "https://schema.org",
       "@type": "JobPosting",
       "title": "Commercial Account Manager LATAM",
-      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMTcyLjE4NC4yMTEuMzI= when...",
+      "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMTY5LjcyLjM1 when...",
       "datePosted": "2026-10-17",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
