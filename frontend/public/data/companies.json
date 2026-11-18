@@ -4,7 +4,7 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 25
+    "jobs_count": 26
   },
   {
     "name": "Lemon.io",
@@ -14,11 +14,32 @@
     "jobs_count": 6
   },
   {
+    "name": "Siemens",
+    "slug": "siemens",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Metics Media",
+    "slug": "metics-media",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Dropbox",
     "slug": "dropbox",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
+  },
+  {
+    "name": "Expensify",
+    "slug": "expensify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
   },
   {
     "name": "Luminize",
@@ -30,20 +51,6 @@
   {
     "name": "Terac",
     "slug": "terac",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "PRO-spectus",
-    "slug": "pro-spectus",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "California Virtual Academies",
-    "slug": "california-virtual-academies",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -63,13 +70,6 @@
     "jobs_count": 1
   },
   {
-    "name": "WorkMotion",
-    "slug": "workmotion",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Nacre Capital",
     "slug": "nacre-capital",
     "logo_url": null,
@@ -84,22 +84,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Siemens",
-    "slug": "siemens",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Pipe17",
     "slug": "pipe17",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Eco Plus Solutions AB",
-    "slug": "eco-plus-solutions-ab",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -114,6 +100,20 @@
   {
     "name": "Sezzle",
     "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "G-P",
+    "slug": "g-p",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "WorkMotion",
+    "slug": "workmotion",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -135,13 +135,6 @@
   {
     "name": "Buildkite",
     "slug": "buildkite",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Mantra Health",
-    "slug": "mantra-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -189,36 +182,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Oscar Health",
-    "slug": "oscar-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Wall Residences, Inc.",
-    "slug": "wall-residences-inc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Alveole",
-    "slug": "alveole",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "GrowthLoop",
     "slug": "growthloop",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "HealthMark Group",
-    "slug": "healthmark-group",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -245,15 +210,22 @@
     "jobs_count": 1
   },
   {
-    "name": "GoMining",
-    "slug": "gomining",
+    "name": "Bloomreach",
+    "slug": "bloomreach",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Bloomreach",
-    "slug": "bloomreach",
+    "name": "Roofr",
+    "slug": "roofr",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ServiceNow",
+    "slug": "servicenow",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -266,8 +238,15 @@
     "jobs_count": 1
   },
   {
-    "name": "Metics Media",
-    "slug": "metics-media",
+    "name": "Blackstone Consulting, Inc.",
+    "slug": "blackstone-consulting-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "COLLETTE TRAVEL SERVICE INC",
+    "slug": "collette-travel-service-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,13 +261,6 @@
   {
     "name": "Supabase",
     "slug": "supabase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "EdgeQ Technologies Private Limited",
-    "slug": "edgeq-technologies-private-limited",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -406,6 +378,13 @@
     "jobs_count": 1
   },
   {
+    "name": "Paid Ads Academy",
+    "slug": "paid-ads-academy",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Vertican",
     "slug": "vertican",
     "logo_url": null,
@@ -462,6 +441,13 @@
     "jobs_count": 1
   },
   {
+    "name": "ELITEBRAIN",
+    "slug": "elitebrain",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Docusketch",
     "slug": "docusketch",
     "logo_url": null,
@@ -478,13 +464,6 @@
   {
     "name": "Capmo",
     "slug": "capmo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Otter.ai",
-    "slug": "otter-ai",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -518,6 +497,20 @@
     "jobs_count": 1
   },
   {
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Bitovi",
+    "slug": "bitovi",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Smile Digital Health",
     "slug": "smile-digital-health",
     "logo_url": null,
@@ -525,8 +518,29 @@
     "jobs_count": 1
   },
   {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Legion",
+    "slug": "legion",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Cambridge Information Group",
     "slug": "cambridge-information-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Cambridge Information Group Inc",
+    "slug": "cambridge-information-group-inc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
