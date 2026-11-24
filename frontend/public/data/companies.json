@@ -4,53 +4,60 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 18
+    "jobs_count": 19
   },
   {
     "name": "GitLab",
     "slug": "gitlab",
     "logo_url": null,
     "website": null,
-    "jobs_count": 8
+    "jobs_count": 9
   },
   {
     "name": "Clover Health",
     "slug": "clover-health",
     "logo_url": null,
     "website": null,
-    "jobs_count": 8
+    "jobs_count": 7
   },
   {
     "name": "Natera",
     "slug": "natera",
     "logo_url": null,
     "website": null,
-    "jobs_count": 7
+    "jobs_count": 6
   },
   {
     "name": "Reddit",
     "slug": "reddit",
     "logo_url": null,
     "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "Gemini",
+    "slug": "gemini",
+    "logo_url": null,
+    "website": null,
     "jobs_count": 4
   },
   {
-    "name": "Upstart",
-    "slug": "upstart",
+    "name": "Airbnb",
+    "slug": "airbnb",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Everpure",
+    "slug": "everpure",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Coinbase",
-    "slug": "coinbase",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Cribl",
-    "slug": "cribl",
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -70,6 +77,13 @@
     "jobs_count": 3
   },
   {
+    "name": "Affirm",
+    "slug": "affirm",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
     "name": "Justworks",
     "slug": "justworks",
     "logo_url": null,
@@ -77,8 +91,22 @@
     "jobs_count": 2
   },
   {
-    "name": "Customer.io",
-    "slug": "customer-io",
+    "name": "Storyblok",
+    "slug": "storyblok",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Glean",
+    "slug": "glean",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -86,13 +114,6 @@
   {
     "name": "Mixpanel",
     "slug": "mixpanel",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Oportun",
-    "slug": "oportun",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -112,22 +133,8 @@
     "jobs_count": 2
   },
   {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Glean",
-    "slug": "glean",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Okta",
-    "slug": "okta",
+    "name": "Coinbase",
+    "slug": "coinbase",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -147,20 +154,6 @@
     "jobs_count": 2
   },
   {
-    "name": "Talkspace",
-    "slug": "talkspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Wrike",
-    "slug": "wrike",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Pinterest",
     "slug": "pinterest",
     "logo_url": null,
@@ -168,22 +161,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Affirm",
-    "slug": "affirm",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Airbnb",
-    "slug": "airbnb",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Everpure",
-    "slug": "everpure",
+    "name": "Cribl",
+    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -196,15 +175,57 @@
     "jobs_count": 2
   },
   {
-    "name": "C4Media Inc.",
-    "slug": "c4media-inc",
+    "name": "Upsun",
+    "slug": "upsun",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Mercury",
-    "slug": "mercury",
+    "name": "Salesloft",
+    "slug": "salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Customer.io",
+    "slug": "customer-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Oportun",
+    "slug": "oportun",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Okta",
+    "slug": "okta",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Wrike",
+    "slug": "wrike",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Talkspace",
+    "slug": "talkspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -219,13 +240,6 @@
   {
     "name": "DLN Consulting Group",
     "slug": "dln-consulting-group",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Oddball",
-    "slug": "oddball",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -252,15 +266,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
+    "name": "Upstart",
+    "slug": "upstart",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -282,13 +289,6 @@
   {
     "name": "Bitwarden",
     "slug": "bitwarden",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "BeyondTrust",
-    "slug": "beyondtrust",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -329,13 +329,6 @@
     "jobs_count": 1
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Wemolo",
     "slug": "wemolo",
     "logo_url": null,
@@ -352,13 +345,6 @@
   {
     "name": "Salsify",
     "slug": "salsify",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Storyblok",
-    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
