@@ -4,11 +4,11 @@
     "slug": "anthropic",
     "logo_url": null,
     "website": null,
-    "jobs_count": 17
+    "jobs_count": 18
   },
   {
-    "name": "Natera",
-    "slug": "natera",
+    "name": "GitLab",
+    "slug": "gitlab",
     "logo_url": null,
     "website": null,
     "jobs_count": 8
@@ -18,21 +18,28 @@
     "slug": "clover-health",
     "logo_url": null,
     "website": null,
-    "jobs_count": 6
+    "jobs_count": 8
   },
   {
-    "name": "Cribl",
-    "slug": "cribl",
+    "name": "Natera",
+    "slug": "natera",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 7
+  },
+  {
+    "name": "Reddit",
+    "slug": "reddit",
     "logo_url": null,
     "website": null,
     "jobs_count": 4
   },
   {
-    "name": "6sense",
-    "slug": "6sense",
+    "name": "Upstart",
+    "slug": "upstart",
     "logo_url": null,
     "website": null,
-    "jobs_count": 4
+    "jobs_count": 3
   },
   {
     "name": "Coinbase",
@@ -42,29 +49,15 @@
     "jobs_count": 3
   },
   {
-    "name": "Datadog",
-    "slug": "datadog",
+    "name": "Cribl",
+    "slug": "cribl",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
   },
   {
-    "name": "Reddit",
-    "slug": "reddit",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "GitLab",
-    "slug": "gitlab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 3
-  },
-  {
-    "name": "Stripe",
-    "slug": "stripe",
+    "name": "6sense",
+    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -77,22 +70,22 @@
     "jobs_count": 3
   },
   {
-    "name": "Celonis",
-    "slug": "celonis",
+    "name": "Justworks",
+    "slug": "justworks",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Collibra",
-    "slug": "collibra",
+    "name": "Customer.io",
+    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Affirm",
-    "slug": "affirm",
+    "name": "Mixpanel",
+    "slug": "mixpanel",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -105,29 +98,15 @@
     "jobs_count": 2
   },
   {
-    "name": "Glean",
-    "slug": "glean",
+    "name": "MetaMask",
+    "slug": "metamask",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Talkspace",
-    "slug": "talkspace",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Descript",
-    "slug": "descript",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Tailscale",
-    "slug": "tailscale",
+    "name": "Grafana Labs",
+    "slug": "grafana-labs",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -140,22 +119,36 @@
     "jobs_count": 2
   },
   {
-    "name": "Zscaler",
-    "slug": "zscaler",
+    "name": "Glean",
+    "slug": "glean",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
+    "name": "Okta",
+    "slug": "okta",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Upstart",
-    "slug": "upstart",
+    "name": "Maven Clinic",
+    "slug": "maven-clinic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Dropbox",
+    "slug": "dropbox",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Talkspace",
+    "slug": "talkspace",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -175,43 +168,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Discord",
-    "slug": "discord",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Smartsheet",
-    "slug": "smartsheet",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Gemini",
-    "slug": "gemini",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Mixpanel",
-    "slug": "mixpanel",
+    "name": "Affirm",
+    "slug": "affirm",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -238,6 +196,48 @@
     "jobs_count": 2
   },
   {
+    "name": "C4Media Inc.",
+    "slug": "c4media-inc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Mercury",
+    "slug": "mercury",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Elation Health",
+    "slug": "elation-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "DLN Consulting Group",
+    "slug": "dln-consulting-group",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Oddball",
+    "slug": "oddball",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "UMAEZ LLC",
+    "slug": "umaez-llc",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
     "name": "Omni Interactions",
     "slug": "omni-interactions",
     "logo_url": null,
@@ -252,57 +252,29 @@
     "jobs_count": 1
   },
   {
-    "name": "Upgrade",
-    "slug": "upgrade",
+    "name": "Collibra",
+    "slug": "collibra",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Alloy",
-    "slug": "alloy",
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "MetaMask",
-    "slug": "metamask",
+    "name": "Discord",
+    "slug": "discord",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Carrot",
-    "slug": "carrot",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Doximity",
-    "slug": "doximity",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Samsara",
-    "slug": "samsara",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Ritual",
-    "slug": "ritual",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Premier Global Links LLC",
-    "slug": "premier-global-links-llc",
+    "name": "Smartsheet",
+    "slug": "smartsheet",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -352,6 +324,13 @@
   {
     "name": "Honeycomb.io",
     "slug": "honeycomb-io",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
