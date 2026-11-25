@@ -7,15 +7,15 @@
     "jobs_count": 19
   },
   {
-    "name": "GitLab",
-    "slug": "gitlab",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 11
-  },
-  {
     "name": "Clover Health",
     "slug": "clover-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 8
+  },
+  {
+    "name": "GitLab",
+    "slug": "gitlab",
     "logo_url": null,
     "website": null,
     "jobs_count": 8
@@ -28,36 +28,57 @@
     "jobs_count": 6
   },
   {
-    "name": "Stripe",
-    "slug": "stripe",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 4
-  },
-  {
     "name": "Airbnb",
     "slug": "airbnb",
     "logo_url": null,
     "website": null,
+    "jobs_count": 5
+  },
+  {
+    "name": "LaunchDarkly",
+    "slug": "launchdarkly",
+    "logo_url": null,
+    "website": null,
     "jobs_count": 4
   },
   {
-    "name": "Pinterest",
-    "slug": "pinterest",
+    "name": "Everpure",
+    "slug": "everpure",
     "logo_url": null,
     "website": null,
-    "jobs_count": 3
+    "jobs_count": 4
   },
   {
     "name": "Reddit",
     "slug": "reddit",
     "logo_url": null,
     "website": null,
+    "jobs_count": 4
+  },
+  {
+    "name": "Ping Identity",
+    "slug": "ping-identity",
+    "logo_url": null,
+    "website": null,
     "jobs_count": 3
   },
   {
-    "name": "6sense",
-    "slug": "6sense",
+    "name": "Doximity",
+    "slug": "doximity",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Cribl",
+    "slug": "cribl",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 3
+  },
+  {
+    "name": "Stripe",
+    "slug": "stripe",
     "logo_url": null,
     "website": null,
     "jobs_count": 3
@@ -77,29 +98,64 @@
     "jobs_count": 2
   },
   {
-    "name": "Ping Identity",
-    "slug": "ping-identity",
+    "name": "Wrike",
+    "slug": "wrike",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Maven Clinic",
-    "slug": "maven-clinic",
+    "name": "Customer.io",
+    "slug": "customer-io",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Ritual",
-    "slug": "ritual",
+    "name": "Datadog",
+    "slug": "datadog",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Abnormal",
-    "slug": "abnormal",
+    "name": "Smartsheet",
+    "slug": "smartsheet",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Celonis",
+    "slug": "celonis",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Coinbase",
+    "slug": "coinbase",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Sezzle",
+    "slug": "sezzle",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "Oscar Health",
+    "slug": "oscar-health",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 2
+  },
+  {
+    "name": "LastPass",
+    "slug": "lastpass",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -119,22 +175,8 @@
     "jobs_count": 2
   },
   {
-    "name": "Twilio",
-    "slug": "twilio",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Grafana Labs",
     "slug": "grafana-labs",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Cadence Health",
-    "slug": "cadence-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
@@ -147,34 +189,6 @@
     "jobs_count": 2
   },
   {
-    "name": "ZoomInfo Technologies LLC",
-    "slug": "zoominfo-technologies-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "LaunchDarkly",
-    "slug": "launchdarkly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Storyblok",
-    "slug": "storyblok",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Gemini",
-    "slug": "gemini",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
     "name": "Mixpanel",
     "slug": "mixpanel",
     "logo_url": null,
@@ -182,57 +196,92 @@
     "jobs_count": 2
   },
   {
-    "name": "Cribl",
-    "slug": "cribl",
+    "name": "6sense",
+    "slug": "6sense",
     "logo_url": null,
     "website": null,
     "jobs_count": 2
   },
   {
-    "name": "Everpure",
-    "slug": "everpure",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Ensono",
-    "slug": "ensono",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 2
-  },
-  {
-    "name": "Collibra",
-    "slug": "collibra",
+    "name": "Infinity",
+    "slug": "infinity",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Upsun",
-    "slug": "upsun",
+    "name": "Appleseed",
+    "slug": "appleseed",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Glossier",
-    "slug": "glossier",
+    "name": "Brex",
+    "slug": "brex",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Datadog",
-    "slug": "datadog",
+    "name": "Modern Health",
+    "slug": "modern-health",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
   },
   {
-    "name": "Databricks",
-    "slug": "databricks",
+    "name": "CircleCI",
+    "slug": "circleci",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "OKX",
+    "slug": "okx",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Keeper Security",
+    "slug": "keeper-security",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Rubrik Job Board",
+    "slug": "rubrik-job-board",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Salesloft",
+    "slug": "salesloft",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Salsify",
+    "slug": "salsify",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "Maven Clinic",
+    "slug": "maven-clinic",
+    "logo_url": null,
+    "website": null,
+    "jobs_count": 1
+  },
+  {
+    "name": "ZoomInfo Technologies LLC",
+    "slug": "zoominfo-technologies-llc",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -240,13 +289,6 @@
   {
     "name": "Fastly",
     "slug": "fastly",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Dropbox",
-    "slug": "dropbox",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -266,20 +308,6 @@
     "jobs_count": 1
   },
   {
-    "name": "D2B",
-    "slug": "d2b",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Partners Behavioral Health Management",
-    "slug": "partners-behavioral-health-management",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "COLLETTE TRAVEL SERVICE INC",
     "slug": "collette-travel-service-inc",
     "logo_url": null,
@@ -287,15 +315,8 @@
     "jobs_count": 1
   },
   {
-    "name": "Salesloft",
-    "slug": "salesloft",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Customer.io",
-    "slug": "customer-io",
+    "name": "Storyblok",
+    "slug": "storyblok",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -308,29 +329,8 @@
     "jobs_count": 1
   },
   {
-    "name": "MetaMask",
-    "slug": "metamask",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Elation Health",
     "slug": "elation-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "UMAEZ LLC",
-    "slug": "umaez-llc",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Upstart",
-    "slug": "upstart",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
@@ -357,20 +357,6 @@
     "jobs_count": 1
   },
   {
-    "name": "LastPass",
-    "slug": "lastpass",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Oscar Health",
-    "slug": "oscar-health",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
     "name": "Honeycomb.io",
     "slug": "honeycomb-io",
     "logo_url": null,
@@ -380,20 +366,6 @@
   {
     "name": "Wemolo",
     "slug": "wemolo",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Princeton10",
-    "slug": "princeton10",
-    "logo_url": null,
-    "website": null,
-    "jobs_count": 1
-  },
-  {
-    "name": "Salsify",
-    "slug": "salsify",
     "logo_url": null,
     "website": null,
     "jobs_count": 1
