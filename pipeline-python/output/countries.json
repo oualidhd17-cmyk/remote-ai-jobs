@@ -2,7 +2,7 @@
   {
     "name": "Worldwide",
     "slug": "worldwide",
-    "jobs_count": 78
+    "jobs_count": 87
   },
   {
     "name": "USA",
@@ -10,14 +10,14 @@
     "jobs_count": 45
   },
   {
-    "name": "UK",
-    "slug": "uk",
-    "jobs_count": 6
-  },
-  {
     "name": "Canada",
     "slug": "canada",
-    "jobs_count": 2
+    "jobs_count": 3
+  },
+  {
+    "name": "UK",
+    "slug": "uk",
+    "jobs_count": 1
   },
   {
     "name": "Australia",
